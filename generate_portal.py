@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Generate the unified library portal index.html for 18 Luc Hao books."""
+"""Generate the unified scholarly library portal index.html for 18 Luc Hao works.
+
+Design aesthetic: Classical East Asian Scholarly Manuscript / Academic Exhibition Cockpit.
+Complies with taste-skill light/paper mode, poteto-mode, and ASD-STE100 prose.
+Zero external CDN dependencies. Zero emojis. Pure inline SVGs.
+"""
 
 import os
 import json
@@ -12,7 +17,7 @@ BOOK_META = {
         'title': 'Giải Đáp Nghi Vấn Trong Tăng San Bốc Dịch',
         'subtitle': 'Khảo biện nan đề và tháo gỡ điểm mù thực chiến',
         'author': 'Vương Hổ Ứng',
-        'category': 'Cổ điển Toàn thư',
+        'category': 'Cổ Điển Toàn Thư',
         'category_id': 'classic',
         'desc': 'Giải mã tường tận các tình huống khúc triết, mâu thuẫn biểu kiến và nan đề thực chiến trong tuyệt tác Tăng San Bốc Dịch.',
         'pages': 46,
@@ -22,7 +27,7 @@ BOOK_META = {
         'title': 'Không Vong & Nguyệt Phá Bí Giải',
         'subtitle': 'Nguyên lý động tĩnh và chân cơ biến hóa tuần triệt',
         'author': 'Vương Hổ Ứng',
-        'category': 'Chuyên đề Ứng dụng',
+        'category': 'Chuyên Đề Ứng Dụng',
         'category_id': 'applied',
         'desc': 'Chuyên khảo thấu đáo về hai trạng thái biến hóa mang tính quyết định nhất trong Lục Hào: Tuần Không và Nguyệt Phá.',
         'pages': 76,
@@ -32,7 +37,7 @@ BOOK_META = {
         'title': 'Lục Hào Bảo Điển',
         'subtitle': 'Bách khoa toàn thư phương pháp luận dự trắc học',
         'author': 'Vương Hổ Ứng',
-        'category': 'Cổ điển Toàn thư',
+        'category': 'Cổ Điển Toàn Thư',
         'category_id': 'classic',
         'desc': 'Bách khoa toàn thư hệ thống hóa toàn bộ phương pháp luận Lục Hào cổ kim, mở rộng ứng dụng vào đa diện đời sống hiện đại.',
         'pages': 430,
@@ -40,11 +45,11 @@ BOOK_META = {
     },
     'luc_hao_chiem_nghiem_bi_phap_ver1': {
         'title': 'Lục Hào Chiêm Nghiệm Bí Pháp',
-        'subtitle': '100+ Quẻ thực nghiệm tinh tuyển và ứng kỳ thần diệu',
+        'subtitle': 'Hơn 100 quẻ thực nghiệm chọn lọc và quy luật định ứng kỳ',
         'author': 'Vương Hổ Ứng',
-        'category': 'Cao cấp & Bí pháp',
+        'category': 'Cao Cấp & Bí Pháp',
         'category_id': 'advanced',
-        'desc': 'Tuyển tập 100+ quẻ nghiệm tinh hoa với các đòn điểm huyệt dụng thần, tượng quẻ tương giao và xác định ứng kỳ chuẩn xác.',
+        'desc': 'Tuyển tập hơn 100 quẻ nghiệm chọn lọc với phương pháp phân tích dụng thần, đối chiếu tượng quẻ và xác định thời điểm ứng kỳ.',
         'pages': 239,
         'year': '2015'
     },
@@ -52,7 +57,7 @@ BOOK_META = {
         'title': 'Lục Hào Dự Trắc Ngộ Trung Ngộ',
         'subtitle': 'Phân tích sai lầm kinh điển và tháo gỡ tư duy ngộ nhận',
         'author': 'Vương Hổ Ứng',
-        'category': 'Cổ điển Toàn thư',
+        'category': 'Cổ Điển Toàn Thư',
         'category_id': 'classic',
         'desc': 'Phân tích thấu đáo các sai lầm tư duy thường gặp, tháo gỡ điểm mù trong luận đoán hào vị, nhật nguyệt xung hợp khắc sinh.',
         'pages': 214,
@@ -60,11 +65,11 @@ BOOK_META = {
     },
     'luc_hao_kinh_te_du_trac_hoc': {
         'title': 'Lục Hào Kinh Tế Dự Trắc Học',
-        'subtitle': 'Chuyên khảo tài chính, chứng khoán, đầu tư & đối tác',
+        'subtitle': 'Chuyên khảo tài chính, chứng khoán, đầu tư và đối tác',
         'author': 'Vương Hổ Ứng',
-        'category': 'Chuyên đề Ứng dụng',
+        'category': 'Chuyên Đề Ứng Dụng',
         'category_id': 'applied',
-        'desc': 'Cẩm nang toàn diện dự trắc tài chính, đầu tư, chứng khoán, giao dịch bất động sản, lựa chọn đối tác và thời điểm buôn bán.',
+        'desc': 'Cẩm nang toàn diện dự trắc tài chính, đầu tư, chứng khoán, giao dịch bất động sản, lựa chọn đối tác và thời điểm thương mại.',
         'pages': 293,
         'year': '2011'
     },
@@ -72,7 +77,7 @@ BOOK_META = {
         'title': 'Lục Hào Kỹ Pháp Và Ứng Dụng',
         'subtitle': 'Kỹ pháp nâng cao ngũ hành động tĩnh và ứng kỳ',
         'author': 'Vương Hổ Ứng',
-        'category': 'Cao cấp & Bí pháp',
+        'category': 'Cao Cấp & Bí Pháp',
         'category_id': 'advanced',
         'desc': 'Kỹ pháp nâng cao về động tĩnh hào quẻ, quy luật chuyển hóa lục thân, vượng suy tử tuyệt và ứng kỳ năm tháng ngày giờ.',
         'pages': 148,
@@ -82,7 +87,7 @@ BOOK_META = {
         'title': 'Lục Hào Nghi Hoặc Chi Mê',
         'subtitle': 'Khai mở khúc mắc thế ứng, phục thần và tiến thoái',
         'author': 'Vương Hổ Ứng',
-        'category': 'Cao cấp & Bí pháp',
+        'category': 'Cao Cấp & Bí Pháp',
         'category_id': 'advanced',
         'desc': 'Khảo sát và khai thông những gút mắc cốt tử: Thế Ứng xung hợp, Phục thần thấu xuất, Tiến thoái thoái thần và ám động.',
         'pages': 219,
@@ -92,7 +97,7 @@ BOOK_META = {
         'title': 'Lục Hào Nhân Duyên Dự Trắc Học',
         'subtitle': 'Hôn nhân, tình cảm, gia đạo và tương hợp mệnh lý',
         'author': 'Vương Hổ Ứng',
-        'category': 'Chuyên đề Ứng dụng',
+        'category': 'Chuyên Đề Ứng Dụng',
         'category_id': 'applied',
         'desc': 'Chuyên khảo tình cảm, hôn nhân, quan hệ gia đạo, xác định thời điểm kết hợp và giải mã tương quan Dụng thần Thế Ứng.',
         'pages': 275,
@@ -102,7 +107,7 @@ BOOK_META = {
         'title': 'Lục Hào Nhập Môn',
         'subtitle': 'Cơ sở nền tảng 64 quẻ, nạp giáp và lục thân lục thần',
         'author': 'Vương Hổ Ứng',
-        'category': 'Căn bản & Khởi nhập',
+        'category': 'Căn Bản',
         'category_id': 'foundation',
         'desc': 'Giáo trình chuẩn cho người bắt đầu: cấu trúc 64 quẻ, nguyên lý nạp giáp, lục thân, lục thần, thế ứng và tương quan nhật nguyệt.',
         'pages': 136,
@@ -112,9 +117,9 @@ BOOK_META = {
         'title': 'Lục Hào Phong Thủy Dự Trắc Học',
         'subtitle': 'Dương trạch, âm trạch, khí trường và phương vị địa lý',
         'author': 'Vương Hổ Ứng',
-        'category': 'Chuyên đề Ứng dụng',
+        'category': 'Chuyên Đề Ứng Dụng',
         'category_id': 'applied',
-        'desc': 'Phương pháp xem dương trạch, âm trạch, long mạch khí trường, phát hiện và hóa giải lỗi phong thủy qua hệ thống hào vị.',
+        'desc': 'Phương pháp xem dương trạch, âm trạch, long mạch khí trường, phát hiện và hóa giải khiếm khuyết phong thủy qua hệ thống hào vị.',
         'pages': 365,
         'year': '2010'
     },
@@ -122,7 +127,7 @@ BOOK_META = {
         'title': 'Lục Hào Quái Lệ Thuyết Chân',
         'subtitle': 'Thực chứng nghiệm quẻ đối chiếu kết quả thực tiễn',
         'author': 'Vương Hổ Ứng',
-        'category': 'Cao cấp & Bí pháp',
+        'category': 'Cao Cấp & Bí Pháp',
         'category_id': 'advanced',
         'desc': 'Phân tích thực chiến các quẻ chiêm thực tế, đối chiếu kết quả thực tế để chứng minh sự chuẩn xác của dịch lý Lục Hào.',
         'pages': 222,
@@ -132,7 +137,7 @@ BOOK_META = {
         'title': 'Lục Hào Quái Tượng Giải Mật',
         'subtitle': 'Khai thị tầng tượng đa chiều, hỗ quái và phản ngâm',
         'author': 'Vương Hổ Ứng',
-        'category': 'Cao cấp & Bí pháp',
+        'category': 'Cao Cấp & Bí Pháp',
         'category_id': 'advanced',
         'desc': 'Khai mở tầng nghĩa thâm sâu của tượng quẻ, quẻ biến, hỗ quái, phản ngâm phục ngâm trong không gian biểu thị đa chiều.',
         'pages': 239,
@@ -140,9 +145,9 @@ BOOK_META = {
     },
     'luc_hao_tat_benh_du_trac_hoc': {
         'title': 'Lục Hào Tật Bệnh Dự Trắc Học',
-        'subtitle': 'Khảo sát tạng phủ, nguyên nhân bệnh lý và ứng kỳ lành bệnh',
+        'subtitle': 'Khảo sát tạng phủ, nguyên nhân bệnh lý và ứng kỳ phục hồi',
         'author': 'Vương Hổ Ứng',
-        'category': 'Chuyên đề Ứng dụng',
+        'category': 'Chuyên Đề Ứng Dụng',
         'category_id': 'applied',
         'desc': 'Hệ thống luận đoán sức khỏe, phân loại ngũ tạng lục phủ ứng với hào vị, xác định nguồn gốc bệnh lý và thời điểm bình phục.',
         'pages': 358,
@@ -150,21 +155,21 @@ BOOK_META = {
     },
     'luc_hao_xu_cat_ti_hung': {
         'title': 'Lục Hào Xử Cát Tị Hung',
-        'subtitle': 'Nghệ thuật chuyển hóa nguy cơ và kích hoạt cát khí',
+        'subtitle': 'Phương pháp hóa giải xung sát và kích hoạt cát khí',
         'author': 'Vương Hổ Ứng',
-        'category': 'Chuyên đề Ứng dụng',
+        'category': 'Chuyên Đề Ứng Dụng',
         'category_id': 'applied',
-        'desc': 'Nghệ thuật hóa giải hung họa, điều chỉnh thời không và năng lượng ngũ hành nhằm đón lành tránh dữ theo dịch lý chuẩn mực.',
+        'desc': 'Phương pháp điều chỉnh thời không và năng lượng ngũ hành nhằm đón lành tránh dữ theo nguyên tắc dịch lý chuẩn mực.',
         'pages': 190,
         'year': '2015'
     },
     'tang_san_boc_dich_binh_thich': {
         'title': 'Tăng San Bốc Dịch Bình Thích',
-        'subtitle': 'Cổ thư đỉnh cao Dã Hạc lão nhân - Vương Hổ Ứng bình chú',
+        'subtitle': 'Cổ thư kinh điển Dã Hạc lão nhân, Vương Hổ Ứng bình chú',
         'author': 'Dã Hạc Dã Nhân & Vương Hổ Ứng bình chú',
-        'category': 'Cổ điển Toàn thư',
+        'category': 'Cổ Điển Toàn Thư',
         'category_id': 'classic',
-        'desc': 'Tuyệt tác nền tảng Lục Hào cổ điển của Dã Hạc tiên sinh, được Vương Hổ Ứng chú giải tỉ mỉ với 500+ quẻ mẫu đối chiếu.',
+        'desc': 'Tuyệt tác nền tảng Lục Hào cổ điển của Dã Hạc tiên sinh, được Vương Hổ Ứng chú giải tỉ mỉ với hơn 500 quẻ mẫu đối chiếu.',
         'pages': 477,
         'year': '2009'
     },
@@ -172,9 +177,9 @@ BOOK_META = {
         'title': 'Tế Thuyết Lục Hào Dự Trắc Học',
         'subtitle': 'Phân tích chi li quy luật cấu trúc và suy biến hào vị',
         'author': 'Vương Hổ Ứng',
-        'category': 'Cao cấp & Bí pháp',
+        'category': 'Cao Cấp & Bí Pháp',
         'category_id': 'advanced',
-        'desc': 'Giáo trình giải trình cặn kẽ mọi góc cạnh lý thuyết dự trắc, từ khởi quẻ định tượng tới biến hào và ứng kỳ vi tế.',
+        'desc': 'Giáo trình giải trình cặn kẽ mọi khía cạnh lý thuyết dự trắc, từ khởi quẻ định tượng đến biến hào và ứng kỳ vi tế.',
         'pages': 282,
         'year': '2016'
     },
@@ -182,9 +187,9 @@ BOOK_META = {
         'title': 'Thế Giới Nhân Quả',
         'subtitle': 'Giao thoa giữa nhân duyên nghiệp báo và cấu trúc dịch quẻ',
         'author': 'Vương Hổ Ứng',
-        'category': 'Chuyên đề Ứng dụng',
+        'category': 'Chuyên Đề Ứng Dụng',
         'category_id': 'applied',
-        'desc': 'Khám phá sự tương đồng sâu sắc giữa quy luật Nhân Quả nhà Phật và cấu trúc vận hành của quẻ dịch qua hàng trăm minh chứng thực tế.',
+        'desc': 'Khám phá sự tương đồng sâu sắc giữa quy luật Nhân Quả và cấu trúc vận hành của quẻ dịch qua hàng trăm trường hợp thực tế.',
         'pages': 252,
         'year': '2018'
     }
@@ -227,6 +232,15 @@ for slug in sorted(BOOK_META.keys()):
         "full_url": f"{slug}/{slug}_full.md"
     })
 
+# Compute category counts
+cat_counts = {
+    'all': len(books_list),
+    'classic': sum(1 for b in books_list if b['category_id'] == 'classic'),
+    'applied': sum(1 for b in books_list if b['category_id'] == 'applied'),
+    'advanced': sum(1 for b in books_list if b['category_id'] == 'advanced'),
+    'foundation': sum(1 for b in books_list if b['category_id'] == 'foundation')
+}
+
 # Save JSON catalog
 catalog_path = os.path.join(base_dir, "books_catalog.json")
 with open(catalog_path, "w", encoding="utf-8") as f:
@@ -248,53 +262,76 @@ print(f"Catalog created: {len(books_list)} books, {total_figures} figures, {tota
 books_json_str = json.dumps(books_list, ensure_ascii=False)
 
 html_template = f"""<!DOCTYPE html>
-<html lang="vi" class="dark">
+<html lang="vi">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Đại Toàn Thư Lục Hào - Dã Hạc & Vương Hổ Ứng | Tàng Kinh Các Dịch Học</title>
-  <meta name="description" content="Thư viện mindmap tương tác 18 bộ kinh điển Lục Hào của Dã Hạc Dã Nhân và Vương Hổ Ứng. Hệ thống hóa 3.400+ quẻ dịch, đồ hình minh họa chuẩn xác và cây tri thức đa chiều.">
+  <title>ĐẠI TOÀN THƯ LỤC HÀO &bull; DÃ HẠC &amp; VƯƠNG HỔ ỨNG</title>
+  <meta name="description" content="Tàng Kinh Các Dịch Học. 18 Danh Tác Kinh Điển. Bản Đồ Tri Thức Đa Chiều. Hệ thống hóa 3.619 đồ hình quẻ, 4.461 trang nguyên bản và 104.141 nút tri thức Markmap.">
   <style>
-    /* Reset & Base Variables */
+    /* Reset and Base Styles */
     *, *::before, *::after {{
       box-sizing: border-box;
       margin: 0;
       padding: 0;
     }}
+
     :root {{
-      --bg-base: #080c14;
-      --bg-surface: #0f172a;
-      --bg-surface-elevated: #162036;
-      --bg-surface-hover: #1e2c4a;
-      --border-subtle: rgba(255, 255, 255, 0.08);
-      --border-hover: rgba(255, 255, 255, 0.16);
-      --border-accent: rgba(16, 185, 129, 0.35);
+      /* Classical East Asian Scholarly Manuscript / Academic Exhibition Cockpit */
+      --bg-canvas: #f8f7f4;
+      --bg-canvas-subtle: #f2efe9;
+      --bg-card: #ffffff;
+      --bg-card-hover: #faf9f6;
       
-      --accent-emerald: #10b981;
-      --accent-emerald-dark: #059669;
-      --accent-emerald-glow: rgba(16, 185, 129, 0.15);
-      --accent-amber: #f59e0b;
-      --accent-amber-subtle: rgba(245, 158, 11, 0.15);
+      --border-hairline: #e7e4dc;
+      --border-subtle: #ded9cd;
+      --border-hover: #c4bdae;
       
-      --text-primary: #f8fafc;
-      --text-secondary: #94a3b8;
-      --text-muted: #64748b;
+      --text-primary: #1c1917;
+      --text-secondary: #57534e;
+      --text-muted: #78716c;
       
+      /* Singular scholarly vermilion seal red accent */
+      --accent-red: #b91c1c;
+      --accent-red-hover: #991b1b;
+      --accent-red-subtle: #fef2f2;
+      --accent-red-border: #fecaca;
+      
+      /* Scholarly Category Accents */
+      --cat-classic-bg: #fffbeb;
+      --cat-classic-text: #92400e;
+      --cat-classic-border: #fef08a;
+
+      --cat-applied-bg: #f0fdf4;
+      --cat-applied-text: #166534;
+      --cat-applied-border: #bbf7d0;
+
+      --cat-advanced-bg: #fef2f2;
+      --cat-advanced-text: #991b1b;
+      --cat-advanced-border: #fecaca;
+
+      --cat-foundation-bg: #eff6ff;
+      --cat-foundation-text: #1e40af;
+      --cat-foundation-border: #bfdbfe;
+
       --font-sans: 'Geist', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-      --font-mono: 'JetBrains Mono', SFMono-Regular, Menlo, Monaco, Consolas, monospace;
-      
-      --radius-sm: 6px;
-      --radius-md: 10px;
-      --radius-lg: 16px;
-      --radius-xl: 24px;
-      
-      --shadow-diffusion: 0 20px 40px -15px rgba(0, 0, 0, 0.6);
+      --font-mono: 'JetBrains Mono', 'SF Mono', Menlo, Monaco, Consolas, monospace;
+
+      --radius-sm: 4px;
+      --radius-md: 8px;
+      --radius-lg: 12px;
+      --radius-xl: 16px;
+
+      --shadow-diffusion: 0 10px 25px -5px rgba(28, 25, 23, 0.05), 0 8px 10px -6px rgba(28, 25, 23, 0.03);
+      --shadow-elevated: 0 20px 40px -15px rgba(28, 25, 23, 0.08);
+      --shadow-modal: 0 25px 60px -15px rgba(28, 25, 23, 0.25);
+
       --transition-fast: 0.15s cubic-bezier(0.16, 1, 0.3, 1);
       --transition-smooth: 0.25s cubic-bezier(0.16, 1, 0.3, 1);
     }}
-    
+
     html, body {{
-      background-color: var(--bg-base);
+      background-color: var(--bg-canvas);
       color: var(--text-primary);
       font-family: var(--font-sans);
       min-height: 100dvh;
@@ -303,215 +340,245 @@ html_template = f"""<!DOCTYPE html>
       overflow-x: hidden;
     }}
 
-    /* Subtle background grid pattern */
+    /* Subtle scholarly deckle / laid paper texture simulation */
     body::before {{
       content: '';
       position: fixed;
       inset: 0;
-      background-image: radial-gradient(circle at 50% 0%, rgba(16, 185, 129, 0.04) 0%, transparent 60%),
-                        linear-gradient(to right, rgba(255, 255, 255, 0.015) 1px, transparent 1px),
-                        linear-gradient(to bottom, rgba(255, 255, 255, 0.015) 1px, transparent 1px);
-      background-size: 100% 100%, 48px 48px, 48px 48px;
+      background-image: 
+        radial-gradient(circle at 10% 20%, rgba(185, 28, 28, 0.015) 0%, transparent 40%),
+        radial-gradient(circle at 90% 80%, rgba(180, 83, 9, 0.015) 0%, transparent 40%),
+        linear-gradient(to right, rgba(28, 25, 23, 0.015) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(28, 25, 23, 0.015) 1px, transparent 1px);
+      background-size: 100% 100%, 100% 100%, 64px 64px, 64px 64px;
       pointer-events: none;
       z-index: 0;
     }}
-    
+
     .container {{
-      max-width: 1440px;
+      max-width: 1400px;
       margin: 0 auto;
-      padding: 0 24px 80px 24px;
+      padding: 0 24px 64px 24px;
       position: relative;
       z-index: 1;
     }}
 
-    /* Top Navigation Bar */
+    /* Header */
     header.site-header {{
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 24px 0 32px 0;
-      border-bottom: 1px solid var(--border-subtle);
-      margin-bottom: 40px;
+      padding: 24px 0 28px 0;
+      border-bottom: 1px solid var(--border-hairline);
+      margin-bottom: 36px;
     }}
-    
+
     .brand-mark {{
       display: flex;
       align-items: center;
-      gap: 14px;
+      gap: 16px;
     }}
-    
-    .brand-logo-icon {{
-      width: 44px;
-      height: 44px;
-      border-radius: var(--radius-md);
-      background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+
+    .seal-emblem {{
+      width: 48px;
+      height: 48px;
+      border-radius: var(--radius-sm);
+      background: var(--accent-red-subtle);
+      border: 1.5px solid var(--accent-red);
       display: flex;
       align-items: center;
       justify-content: center;
-      box-shadow: 0 4px 12px rgba(16, 185, 129, 0.25);
+      color: var(--accent-red);
+      flex-shrink: 0;
+      box-shadow: 0 2px 6px rgba(185, 28, 28, 0.12);
     }}
-    
+
     .brand-titles h1 {{
-      font-size: 1.25rem;
+      font-size: 1.125rem;
       font-weight: 700;
-      letter-spacing: -0.02em;
+      letter-spacing: -0.01em;
       color: var(--text-primary);
+      line-height: 1.3;
     }}
-    
+
     .brand-titles p {{
-      font-size: 0.8125rem;
+      font-size: 0.775rem;
       color: var(--text-muted);
       font-family: var(--font-mono);
-      letter-spacing: 0.02em;
-      text-transform: uppercase;
+      letter-spacing: 0.01em;
+      margin-top: 2px;
     }}
-    
+
     .header-links {{
       display: flex;
       align-items: center;
       gap: 12px;
     }}
-    
+
     .btn-github {{
       display: inline-flex;
       align-items: center;
       gap: 8px;
-      padding: 8px 16px;
-      border-radius: var(--radius-sm);
-      background: var(--bg-surface);
-      border: 1px solid var(--border-subtle);
+      padding: 9px 16px;
+      border-radius: var(--radius-md);
+      background: var(--bg-card);
+      border: 1px solid var(--border-hairline);
       color: var(--text-secondary);
-      font-size: 0.875rem;
+      font-size: 0.8125rem;
       font-weight: 500;
       text-decoration: none;
       transition: all var(--transition-fast);
+      box-shadow: 0 1px 2px rgba(28, 25, 23, 0.03);
     }}
+
     .btn-github:hover {{
-      background: var(--bg-surface-elevated);
+      background: var(--bg-card-hover);
       color: var(--text-primary);
       border-color: var(--border-hover);
+      box-shadow: 0 2px 4px rgba(28, 25, 23, 0.05);
     }}
 
-    /* Executive Hero / Library Cockpit */
+    /* Hero Section */
     .hero-section {{
+      margin-bottom: 40px;
+    }}
+
+    .hero-banner {{
+      background: var(--bg-card);
+      border: 1px solid var(--border-hairline);
+      border-radius: var(--radius-xl);
+      padding: 36px 40px;
+      box-shadow: var(--shadow-diffusion);
       display: grid;
-      grid-template-columns: 1.4fr 1fr;
+      grid-template-columns: 1.25fr 1fr;
       gap: 40px;
       align-items: center;
-      margin-bottom: 48px;
-    }}
-    @media (max-width: 960px) {{
-      .hero-section {{
-        grid-template-columns: 1fr;
-        gap: 24px;
-      }}
-    }}
-    
-    .hero-text h2 {{
-      font-size: clamp(2rem, 3.8vw, 3rem);
-      font-weight: 800;
-      line-height: 1.15;
-      letter-spacing: -0.03em;
-      color: var(--text-primary);
-      margin-bottom: 16px;
-    }}
-    
-    .hero-text h2 span.accent {{
-      color: var(--accent-emerald);
-      position: relative;
-    }}
-    
-    .hero-text p.lead {{
-      font-size: 1.0625rem;
-      color: var(--text-secondary);
-      line-height: 1.65;
-      max-width: 58ch;
-      margin-bottom: 24px;
-    }}
-    
-    .audit-seal {{
-      display: inline-flex;
-      align-items: center;
-      gap: 10px;
-      padding: 6px 14px;
-      background: rgba(16, 185, 129, 0.08);
-      border: 1px solid rgba(16, 185, 129, 0.25);
-      border-radius: 9999px;
-      font-size: 0.8125rem;
-      font-weight: 600;
-      color: var(--accent-emerald);
-      font-family: var(--font-mono);
-    }}
-    
-    .pulse-dot {{
-      width: 8px;
-      height: 8px;
-      background: var(--accent-emerald);
-      border-radius: 50%;
-      box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7);
-      animation: pulse-ring 2s infinite cubic-bezier(0.66, 0, 0, 1);
-    }}
-    @keyframes pulse-ring {{
-      0% {{ box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7); }}
-      70% {{ box-shadow: 0 0 0 6px rgba(16, 185, 129, 0); }}
-      100% {{ box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }}
     }}
 
-    /* Metrics Cockpit Matrix */
+    @media (max-width: 992px) {{
+      .hero-banner {{
+        grid-template-columns: 1fr;
+        padding: 28px 24px;
+        gap: 28px;
+      }}
+    }}
+
+    .seal-pill {{
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 5px 12px;
+      background: var(--accent-red-subtle);
+      border: 1px solid var(--accent-red-border);
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--accent-red);
+      font-family: var(--font-mono);
+      margin-bottom: 16px;
+    }}
+
+    .pulse-seal-dot {{
+      width: 7px;
+      height: 7px;
+      background: var(--accent-red);
+      border-radius: 50%;
+    }}
+
+    .hero-text h2 {{
+      font-size: clamp(1.75rem, 2.8vw, 2.35rem);
+      font-weight: 800;
+      line-height: 1.2;
+      letter-spacing: -0.02em;
+      color: var(--text-primary);
+      margin-bottom: 14px;
+    }}
+
+    .hero-text h2 span.accent {{
+      color: var(--accent-red);
+    }}
+
+    .hero-text p.lead {{
+      font-size: 0.95rem;
+      color: var(--text-secondary);
+      line-height: 1.65;
+      max-width: 60ch;
+    }}
+
+    /* Cockpit Matrix */
     .cockpit-matrix {{
       display: grid;
       grid-template-columns: repeat(2, 1fr);
-      gap: 16px;
+      gap: 14px;
     }}
-    
+
+    @media (max-width: 540px) {{
+      .cockpit-matrix {{
+        grid-template-columns: 1fr;
+      }}
+    }}
+
     .metric-card {{
-      background: var(--bg-surface);
-      border: 1px solid var(--border-subtle);
-      border-radius: var(--radius-md);
-      padding: 20px;
+      background: var(--bg-canvas-subtle);
+      border: 1px solid var(--border-hairline);
+      border-radius: var(--radius-lg);
+      padding: 16px 20px;
       position: relative;
-      transition: border-color var(--transition-fast);
+      transition: all var(--transition-fast);
     }}
+
+    .metric-card.wide {{
+      grid-column: span 2;
+      background: #fafaf8;
+      border-left: 3px solid var(--accent-red);
+    }}
+
+    @media (max-width: 540px) {{
+      .metric-card.wide {{
+        grid-column: span 1;
+      }}
+    }}
+
     .metric-card:hover {{
-      border-color: var(--border-accent);
+      border-color: var(--border-hover);
+      background: var(--bg-card);
     }}
-    
+
     .metric-value {{
       font-family: var(--font-mono);
-      font-size: 2.125rem;
+      font-size: 1.75rem;
       font-weight: 700;
-      letter-spacing: -0.03em;
+      letter-spacing: -0.02em;
       color: var(--text-primary);
-      line-height: 1;
-      margin-bottom: 6px;
+      line-height: 1.1;
+      margin-bottom: 4px;
     }}
-    .metric-value.accent {{
-      color: var(--accent-emerald);
+
+    .metric-value.seal {{
+      color: var(--accent-red);
     }}
-    .metric-value.amber {{
-      color: var(--accent-amber);
-    }}
-    
+
     .metric-label {{
-      font-size: 0.8125rem;
+      font-size: 0.75rem;
       font-weight: 600;
       color: var(--text-secondary);
       text-transform: uppercase;
       letter-spacing: 0.03em;
     }}
+
     .metric-desc {{
-      font-size: 0.75rem;
+      font-size: 0.725rem;
       color: var(--text-muted);
-      margin-top: 4px;
+      margin-top: 3px;
     }}
 
-    /* Filter & Search Bar */
+    /* Controls: Live Search & Category Tabs */
     .controls-panel {{
-      background: var(--bg-surface);
-      border: 1px solid var(--border-subtle);
-      border-radius: var(--radius-lg);
-      padding: 16px 20px;
-      margin-bottom: 32px;
+      background: var(--bg-card);
+      border: 1px solid var(--border-hairline);
+      border-radius: var(--radius-xl);
+      padding: 14px 18px;
+      margin-bottom: 28px;
       display: flex;
       flex-wrap: wrap;
       justify-content: space-between;
@@ -520,16 +587,15 @@ html_template = f"""<!DOCTYPE html>
       position: sticky;
       top: 16px;
       z-index: 10;
-      backdrop-filter: blur(12px);
-      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+      box-shadow: 0 4px 16px -2px rgba(28, 25, 23, 0.05);
     }}
-    
+
     .search-wrapper {{
       position: relative;
-      flex: 1 1 300px;
-      max-width: 440px;
+      flex: 1 1 280px;
+      max-width: 420px;
     }}
-    
+
     .search-icon {{
       position: absolute;
       left: 14px;
@@ -537,70 +603,97 @@ html_template = f"""<!DOCTYPE html>
       transform: translateY(-50%);
       color: var(--text-muted);
       pointer-events: none;
+      display: flex;
+      align-items: center;
     }}
-    
+
     .search-input {{
       width: 100%;
-      background: var(--bg-base);
-      border: 1px solid var(--border-subtle);
-      border-radius: var(--radius-sm);
-      padding: 10px 14px 10px 42px;
+      background: var(--bg-canvas);
+      border: 1px solid var(--border-hairline);
+      border-radius: var(--radius-md);
+      padding: 9px 36px 9px 40px;
       color: var(--text-primary);
-      font-size: 0.875rem;
+      font-size: 0.84rem;
       font-family: inherit;
       outline: none;
       transition: all var(--transition-fast);
     }}
+
     .search-input:focus {{
-      border-color: var(--accent-emerald);
-      box-shadow: 0 0 0 3px var(--accent-emerald-glow);
+      background: var(--bg-card);
+      border-color: var(--accent-red);
+      box-shadow: 0 0 0 3px rgba(185, 28, 28, 0.08);
     }}
+
     .search-input::placeholder {{
       color: var(--text-muted);
     }}
-    
+
+    .clear-search-btn {{
+      position: absolute;
+      right: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: transparent;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      display: none;
+      padding: 4px;
+    }}
+
+    .clear-search-btn:hover {{
+      color: var(--text-primary);
+    }}
+
     .filter-tabs {{
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 6px;
       flex-wrap: wrap;
     }}
-    
+
     .filter-tab {{
-      background: transparent;
-      border: 1px solid var(--border-subtle);
-      border-radius: var(--radius-sm);
-      padding: 8px 14px;
+      background: var(--bg-card);
+      border: 1px solid var(--border-hairline);
+      border-radius: var(--radius-md);
+      padding: 7px 13px;
       color: var(--text-secondary);
-      font-size: 0.8125rem;
+      font-size: 0.785rem;
       font-weight: 500;
       cursor: pointer;
       transition: all var(--transition-fast);
     }}
+
     .filter-tab:hover {{
       color: var(--text-primary);
       border-color: var(--border-hover);
+      background: var(--bg-canvas);
     }}
+
     .filter-tab.active {{
-      background: rgba(16, 185, 129, 0.1);
-      border-color: var(--accent-emerald);
-      color: var(--accent-emerald);
+      background: var(--accent-red);
+      border-color: var(--accent-red);
+      color: #ffffff;
       font-weight: 600;
+      box-shadow: 0 2px 4px rgba(185, 28, 28, 0.2);
     }}
-    
+
     .view-toggle {{
       display: flex;
       align-items: center;
-      background: var(--bg-base);
-      border: 1px solid var(--border-subtle);
-      border-radius: var(--radius-sm);
-      padding: 2px;
+      background: var(--bg-canvas);
+      border: 1px solid var(--border-hairline);
+      border-radius: var(--radius-md);
+      padding: 3px;
     }}
+
     .toggle-btn {{
       background: transparent;
       border: none;
       color: var(--text-muted);
-      padding: 6px 10px;
+      padding: 5px 8px;
       border-radius: 4px;
       cursor: pointer;
       display: flex;
@@ -608,29 +701,33 @@ html_template = f"""<!DOCTYPE html>
       justify-content: center;
       transition: all var(--transition-fast);
     }}
+
     .toggle-btn:hover {{
       color: var(--text-primary);
     }}
+
     .toggle-btn.active {{
-      background: var(--bg-surface-elevated);
-      color: var(--accent-emerald);
+      background: var(--bg-card);
+      color: var(--accent-red);
+      box-shadow: 0 1px 3px rgba(28, 25, 23, 0.08);
     }}
 
     /* Bento Grid Books Showcase */
     .books-grid {{
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(410px, 1fr));
       gap: 20px;
     }}
-    @media (max-width: 640px) {{
+
+    @media (max-width: 680px) {{
       .books-grid {{
         grid-template-columns: 1fr;
       }}
     }}
-    
+
     .book-card {{
-      background: var(--bg-surface);
-      border: 1px solid var(--border-subtle);
+      background: var(--bg-card);
+      border: 1px solid var(--border-hairline);
       border-radius: var(--radius-lg);
       padding: 24px;
       display: flex;
@@ -638,17 +735,19 @@ html_template = f"""<!DOCTYPE html>
       justify-content: space-between;
       position: relative;
       transition: transform var(--transition-fast), border-color var(--transition-fast), box-shadow var(--transition-fast);
+      box-shadow: var(--shadow-diffusion);
     }}
+
     .book-card:hover {{
       transform: translateY(-2px);
       border-color: var(--border-hover);
-      box-shadow: var(--shadow-diffusion);
+      box-shadow: var(--shadow-elevated);
     }}
-    
+
     .book-header {{
       margin-bottom: 14px;
     }}
-    
+
     .book-badges {{
       display: flex;
       justify-content: space-between;
@@ -656,58 +755,77 @@ html_template = f"""<!DOCTYPE html>
       margin-bottom: 12px;
       gap: 8px;
     }}
-    
+
     .category-badge {{
       font-size: 0.6875rem;
       font-weight: 600;
-      letter-spacing: 0.04em;
+      letter-spacing: 0.03em;
       text-transform: uppercase;
       padding: 3px 8px;
-      border-radius: 4px;
-      background: rgba(255, 255, 255, 0.05);
-      color: var(--text-secondary);
-      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-sm);
     }}
+
     .category-badge.classic {{
-      background: rgba(245, 158, 11, 0.1);
-      border-color: rgba(245, 158, 11, 0.25);
-      color: var(--accent-amber);
+      background: var(--cat-classic-bg);
+      border: 1px solid var(--cat-classic-border);
+      color: var(--cat-classic-text);
     }}
+
     .category-badge.applied {{
-      background: rgba(16, 185, 129, 0.1);
-      border-color: rgba(16, 185, 129, 0.25);
-      color: var(--accent-emerald);
+      background: var(--cat-applied-bg);
+      border: 1px solid var(--cat-applied-border);
+      color: var(--cat-applied-text);
     }}
+
     .category-badge.advanced {{
-      background: rgba(59, 130, 246, 0.1);
-      border-color: rgba(59, 130, 246, 0.25);
-      color: #60a5fa;
+      background: var(--cat-advanced-bg);
+      border: 1px solid var(--cat-advanced-border);
+      color: var(--cat-advanced-text);
     }}
-    
-    .book-slug {{
+
+    .category-badge.foundation {{
+      background: var(--cat-foundation-bg);
+      border: 1px solid var(--cat-foundation-border);
+      color: var(--cat-foundation-text);
+    }}
+
+    .book-year-slug {{
+      display: flex;
+      align-items: center;
+      gap: 6px;
       font-family: var(--font-mono);
       font-size: 0.6875rem;
       color: var(--text-muted);
     }}
-    
+
     .book-title {{
-      font-size: 1.25rem;
+      font-size: 1.15rem;
       font-weight: 700;
       color: var(--text-primary);
-      line-height: 1.3;
+      line-height: 1.35;
       margin-bottom: 6px;
       letter-spacing: -0.01em;
     }}
-    
+
     .book-subtitle {{
       font-size: 0.8125rem;
-      color: var(--accent-emerald);
-      margin-bottom: 12px;
+      color: var(--accent-red);
+      margin-bottom: 10px;
       font-weight: 500;
+      line-height: 1.4;
     }}
-    
+
+    .book-author {{
+      font-size: 0.775rem;
+      color: var(--text-muted);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }}
+
     .book-desc {{
-      font-size: 0.875rem;
+      font-size: 0.835rem;
       color: var(--text-secondary);
       line-height: 1.55;
       margin-bottom: 18px;
@@ -716,126 +834,188 @@ html_template = f"""<!DOCTYPE html>
       -webkit-box-orient: vertical;
       overflow: hidden;
     }}
-    
+
     .book-meta-pills {{
       display: flex;
       align-items: center;
-      gap: 12px;
-      padding: 10px 14px;
-      background: var(--bg-base);
-      border-radius: var(--radius-sm);
-      border: 1px solid var(--border-subtle);
+      gap: 10px;
+      padding: 9px 12px;
+      background: var(--bg-canvas);
+      border-radius: var(--radius-md);
+      border: 1px solid var(--border-hairline);
       margin-bottom: 18px;
     }}
-    
+
     .pill-item {{
       display: flex;
       align-items: baseline;
-      gap: 5px;
+      gap: 4px;
       font-family: var(--font-mono);
       font-size: 0.75rem;
     }}
+
     .pill-value {{
       font-weight: 700;
       color: var(--text-primary);
     }}
+
     .pill-label {{
       color: var(--text-muted);
+      font-size: 0.7rem;
     }}
+
     .pill-separator {{
-      color: var(--border-hover);
+      color: var(--border-subtle);
+      font-size: 0.8rem;
     }}
-    
+
     .book-actions {{
       display: grid;
-      grid-template-columns: 1.3fr 1fr;
-      gap: 10px;
+      grid-template-columns: 1.4fr 1fr;
+      gap: 8px;
       margin-top: auto;
     }}
-    
+
     .btn-action-primary {{
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      gap: 8px;
-      background: var(--accent-emerald-dark);
+      gap: 7px;
+      background: var(--accent-red);
       color: #ffffff;
-      padding: 10px 14px;
-      border-radius: var(--radius-sm);
-      font-size: 0.875rem;
+      padding: 9px 12px;
+      border-radius: var(--radius-md);
+      font-size: 0.8125rem;
       font-weight: 600;
       text-decoration: none;
       cursor: pointer;
-      border: 1px solid transparent;
+      border: 1px solid var(--accent-red);
       transition: all var(--transition-fast);
+      box-shadow: 0 1px 2px rgba(185, 28, 28, 0.15);
     }}
+
     .btn-action-primary:hover {{
-      background: var(--accent-emerald);
+      background: var(--accent-red-hover);
+      border-color: var(--accent-red-hover);
       transform: translateY(-1px);
     }}
-    
+
     .btn-action-secondary {{
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      gap: 6px;
-      background: var(--bg-surface-elevated);
+      gap: 5px;
+      background: var(--bg-card);
       color: var(--text-secondary);
-      padding: 10px 14px;
-      border-radius: var(--radius-sm);
-      font-size: 0.8125rem;
+      padding: 9px 10px;
+      border-radius: var(--radius-md);
+      font-size: 0.785rem;
       font-weight: 500;
       text-decoration: none;
       cursor: pointer;
-      border: 1px solid var(--border-subtle);
+      border: 1px solid var(--border-hairline);
       transition: all var(--transition-fast);
     }}
+
     .btn-action-secondary:hover {{
-      background: var(--bg-surface-hover);
+      background: var(--bg-canvas);
       color: var(--text-primary);
       border-color: var(--border-hover);
     }}
 
-    /* Table View */
+    /* Table Matrix View */
     .books-table-wrapper {{
       display: none;
-      background: var(--bg-surface);
-      border: 1px solid var(--border-subtle);
-      border-radius: var(--radius-lg);
+      background: var(--bg-card);
+      border: 1px solid var(--border-hairline);
+      border-radius: var(--radius-xl);
       overflow-x: auto;
+      box-shadow: var(--shadow-diffusion);
     }}
+
     .books-table {{
       width: 100%;
       border-collapse: collapse;
-      font-size: 0.875rem;
+      font-size: 0.85rem;
       text-align: left;
     }}
+
     .books-table th {{
-      padding: 14px 18px;
-      background: var(--bg-base);
+      padding: 13px 16px;
+      background: var(--bg-canvas);
       color: var(--text-muted);
-      font-size: 0.75rem;
+      font-size: 0.725rem;
+      font-weight: 600;
       text-transform: uppercase;
       letter-spacing: 0.04em;
-      border-bottom: 1px solid var(--border-subtle);
+      border-bottom: 1px solid var(--border-hairline);
     }}
+
     .books-table td {{
-      padding: 16px 18px;
-      border-bottom: 1px solid var(--border-subtle);
+      padding: 15px 16px;
+      border-bottom: 1px solid var(--border-hairline);
       color: var(--text-secondary);
+      vertical-align: middle;
     }}
+
     .books-table tr:hover td {{
-      background: var(--bg-surface-elevated);
+      background: var(--bg-canvas-subtle);
       color: var(--text-primary);
     }}
+
     .table-title {{
       font-weight: 600;
       color: var(--text-primary);
+      line-height: 1.3;
     }}
+
+    .table-slug {{
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      font-family: var(--font-mono);
+      margin-top: 2px;
+    }}
+
     .table-actions {{
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 6px;
+    }}
+
+    .btn-table-primary {{
+      background: var(--accent-red);
+      color: #ffffff;
+      border: 1px solid var(--accent-red);
+      padding: 6px 10px;
+      border-radius: var(--radius-sm);
+      font-size: 0.75rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all var(--transition-fast);
+    }}
+
+    .btn-table-primary:hover {{
+      background: var(--accent-red-hover);
+    }}
+
+    .btn-icon {{
+      background: var(--bg-card);
+      border: 1px solid var(--border-hairline);
+      border-radius: var(--radius-sm);
+      color: var(--text-secondary);
+      padding: 6px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      transition: all var(--transition-fast);
+    }}
+
+    .btn-icon:hover {{
+      background: var(--bg-canvas);
+      color: var(--text-primary);
+      border-color: var(--border-hover);
     }}
 
     /* Interactive Fullscreen Drawer / Modal Preview */
@@ -843,129 +1023,211 @@ html_template = f"""<!DOCTYPE html>
       display: none;
       position: fixed;
       inset: 0;
-      background: rgba(0, 0, 0, 0.85);
-      backdrop-filter: blur(8px);
+      background: rgba(28, 25, 23, 0.75);
+      backdrop-filter: blur(4px);
       z-index: 100;
       align-items: center;
       justify-content: center;
-      padding: 24px;
+      padding: 20px;
       opacity: 0;
       transition: opacity var(--transition-smooth);
     }}
+
     .modal-overlay.active {{
       display: flex;
       opacity: 1;
     }}
-    
+
     .modal-window {{
-      background: var(--bg-surface);
-      border: 1px solid var(--border-hover);
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
       border-radius: var(--radius-xl);
       width: 100%;
       height: 94vh;
       max-width: 1560px;
       display: flex;
       flex-direction: column;
-      box-shadow: 0 25px 60px -15px rgba(0, 0, 0, 0.9);
+      box-shadow: var(--shadow-modal);
       overflow: hidden;
     }}
-    
+
     .modal-header {{
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 16px 24px;
-      background: var(--bg-base);
-      border-bottom: 1px solid var(--border-subtle);
+      padding: 14px 20px;
+      background: var(--bg-canvas);
+      border-bottom: 1px solid var(--border-hairline);
+      gap: 16px;
     }}
-    
+
     .modal-titles {{
       display: flex;
       align-items: center;
-      gap: 16px;
+      gap: 12px;
+      overflow: hidden;
     }}
+
     .modal-titles h3 {{
-      font-size: 1.125rem;
+      font-size: 1.05rem;
       font-weight: 700;
       color: var(--text-primary);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }}
+
     .modal-titles span.category {{
-      font-size: 0.75rem;
+      font-size: 0.7rem;
       padding: 3px 8px;
-      border-radius: 4px;
-      background: rgba(16, 185, 129, 0.1);
-      color: var(--accent-emerald);
+      border-radius: var(--radius-sm);
       font-family: var(--font-mono);
+      font-weight: 600;
+      white-space: nowrap;
     }}
-    
+
+    .modal-meta-chip {{
+      font-size: 0.75rem;
+      font-family: var(--font-mono);
+      color: var(--text-muted);
+      white-space: nowrap;
+    }}
+
+    @media (max-width: 768px) {{
+      .modal-meta-chip {{
+        display: none;
+      }}
+    }}
+
     .modal-header-actions {{
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
+      flex-shrink: 0;
     }}
-    
-    .btn-icon {{
-      background: var(--bg-surface);
-      border: 1px solid var(--border-subtle);
-      border-radius: var(--radius-sm);
+
+    .btn-modal-action {{
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 12px;
+      background: var(--bg-card);
+      border: 1px solid var(--border-hairline);
+      border-radius: var(--radius-md);
       color: var(--text-secondary);
-      padding: 8px;
+      font-size: 0.775rem;
+      font-weight: 500;
+      text-decoration: none;
+      cursor: pointer;
+      transition: all var(--transition-fast);
+    }}
+
+    .btn-modal-action:hover {{
+      background: var(--bg-card-hover);
+      color: var(--text-primary);
+      border-color: var(--border-hover);
+    }}
+
+    .btn-modal-close {{
+      background: var(--bg-card);
+      border: 1px solid var(--border-hairline);
+      border-radius: var(--radius-md);
+      color: var(--text-secondary);
+      padding: 6px;
       cursor: pointer;
       display: flex;
       align-items: center;
       justify-content: center;
       transition: all var(--transition-fast);
     }}
-    .btn-icon:hover {{
-      background: var(--bg-surface-elevated);
-      color: var(--text-primary);
-      border-color: var(--border-hover);
+
+    .btn-modal-close:hover {{
+      background: var(--accent-red-subtle);
+      color: var(--accent-red);
+      border-color: var(--accent-red-border);
     }}
-    
+
     .modal-body {{
       flex: 1;
       width: 100%;
-      background: #0b0f19;
+      background: #ffffff;
       position: relative;
     }}
-    
+
     .modal-iframe {{
       width: 100%;
       height: 100%;
       border: none;
+      display: block;
     }}
 
-    /* Empty state */
+    /* Empty search state */
     .empty-state {{
       display: none;
       text-align: center;
-      padding: 60px 20px;
-      background: var(--bg-surface);
+      padding: 56px 20px;
+      background: var(--bg-card);
       border: 1px dashed var(--border-subtle);
-      border-radius: var(--radius-lg);
+      border-radius: var(--radius-xl);
     }}
+
     .empty-state h4 {{
-      font-size: 1.125rem;
+      font-size: 1.05rem;
+      font-weight: 700;
       color: var(--text-primary);
-      margin-bottom: 8px;
+      margin-bottom: 6px;
     }}
+
     .empty-state p {{
       color: var(--text-muted);
-      font-size: 0.875rem;
+      font-size: 0.835rem;
+      margin-bottom: 16px;
+    }}
+
+    .btn-reset-filter {{
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 16px;
+      background: var(--bg-canvas);
+      border: 1px solid var(--border-hairline);
+      border-radius: var(--radius-md);
+      color: var(--text-secondary);
+      font-size: 0.8125rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all var(--transition-fast);
+    }}
+
+    .btn-reset-filter:hover {{
+      background: var(--bg-card);
+      color: var(--accent-red);
+      border-color: var(--accent-red);
     }}
 
     /* Footer */
     footer.site-footer {{
-      margin-top: 80px;
-      padding-top: 32px;
-      border-top: 1px solid var(--border-subtle);
+      margin-top: 64px;
+      padding-top: 24px;
+      border-top: 1px solid var(--border-hairline);
       display: flex;
       justify-content: space-between;
       align-items: center;
       flex-wrap: wrap;
-      gap: 16px;
+      gap: 14px;
       color: var(--text-muted);
-      font-size: 0.8125rem;
+      font-size: 0.775rem;
+    }}
+
+    footer.site-footer a {{
+      color: var(--text-secondary);
+      text-decoration: none;
+      border-bottom: 1px dotted var(--border-subtle);
+    }}
+
+    footer.site-footer a:hover {{
+      color: var(--accent-red);
+      border-color: var(--accent-red);
     }}
   </style>
 </head>
@@ -975,26 +1237,28 @@ html_template = f"""<!DOCTYPE html>
     <!-- Site Header -->
     <header class="site-header">
       <div class="brand-mark">
-        <div class="brand-logo-icon">
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <line x1="4" y1="5" x2="20" y2="5"></line>
-            <line x1="4" y1="9" x2="20" y2="9"></line>
-            <line x1="4" y1="13" x2="10" y2="13"></line>
-            <line x1="14" y1="13" x2="20" y2="13"></line>
-            <line x1="4" y1="17" x2="20" y2="17"></line>
-            <line x1="4" y1="21" x2="10" y2="21"></line>
-            <line x1="14" y1="21" x2="20" y2="21"></line>
+        <div class="seal-emblem" title="Dã Hạc &amp; Vương Hổ Ứng">
+          <!-- Hexagram Seal SVG (6 lines) -->
+          <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="3" y1="4" x2="21" y2="4"></line>
+            <line x1="3" y1="7.5" x2="10" y2="7.5"></line>
+            <line x1="14" y1="7.5" x2="21" y2="7.5"></line>
+            <line x1="3" y1="11" x2="21" y2="11"></line>
+            <line x1="3" y1="14.5" x2="21" y2="14.5"></line>
+            <line x1="3" y1="18" x2="10" y2="18"></line>
+            <line x1="14" y1="18" x2="21" y2="18"></line>
           </svg>
         </div>
         <div class="brand-titles">
-          <h1>ĐẠI TOÀN THƯ LỤC HÀO</h1>
-          <p>DÃ HẠC DÃ NHÂN &amp; VƯƠNG HỔ ỨNG &bull; TÀNG KINH CÁC</p>
+          <h1>ĐẠI TOÀN THƯ LỤC HÀO &bull; DÃ HẠC &amp; VƯƠNG HỔ ỨNG</h1>
+          <p>Tàng Kinh Các Dịch Học &bull; 18 Danh Tác Kinh Điển &bull; Bản Đồ Tri Thức Đa Chiều</p>
         </div>
       </div>
-      
+
       <div class="header-links">
         <a href="https://github.com/nguyendoanhcmut/luc-hao-portfolio-mindmaps" target="_blank" rel="noopener" class="btn-github">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <!-- GitHub SVG Icon -->
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
           </svg>
           <span>Mã Nguồn GitHub</span>
@@ -1002,64 +1266,79 @@ html_template = f"""<!DOCTYPE html>
       </div>
     </header>
 
-    <!-- Executive Cockpit / Hero -->
+    <!-- Hero Banner with Metrics Cockpit -->
     <section class="hero-section">
-      <div class="hero-text">
-        <div class="audit-seal">
-          <span class="pulse-dot"></span>
-          <span>100% QUẺ DỊCH ĐỐI CHIẾU NGUYÊN BẢN &bull; AUDIT 90/100</span>
+      <div class="hero-banner">
+        <div class="hero-text">
+          <div class="seal-pill">
+            <span class="pulse-seal-dot"></span>
+            <span>100% QUẺ DỊCH ĐỐI CHIẾU NGUYÊN BẢN &bull; AUDIT 90/100</span>
+          </div>
+          <h2>Hệ Thống Trí Tuệ <span class="accent">Lục Hào Dự Trắc</span> Tương Tác Đa Chiều</h2>
+          <p class="lead">
+            Số hóa toàn diện 18 bộ sách Lục Hào Dự Trắc Học của Dã Hạc lão nhân và Vương Hổ Ứng. Dữ liệu bao gồm 4.461 trang tài liệu OCR đối chiếu, 3.619 đồ hình quẻ dịch thực chiến và 104.141 nút phân nhánh tri thức Markmap tương tác trực tiếp.
+          </p>
         </div>
-        <h2>Hệ Thống Trí Tuệ <span class="accent">Lục Hào Dự Trắc</span> Tương Tác Đa Chiều</h2>
-        <p class="lead">
-          Số hóa toàn vẹn 18 danh tác Lục Hào cổ kim của Dã Hạc lão nhân và Vương Hổ Ứng. Từng quẻ dịch, hào từ, lục thân, nhật nguyệt vượng suy được tái cấu trúc thành cây tri thức Markmap kèm đồ hình giải nghĩa nguyên bản.
-        </p>
-      </div>
 
-      <div class="cockpit-matrix">
-        <div class="metric-card">
-          <div class="metric-value accent">{len(books_list)}</div>
-          <div class="metric-label">Tác Phẩm Kinh Điển</div>
-          <div class="metric-desc">Hoàn tất 100% cấu trúc mindmap</div>
-        </div>
-        <div class="metric-card">
-          <div class="metric-value amber">{total_figures:,}</div>
-          <div class="metric-label">Đồ Hình Quẻ Trích Xuất</div>
-          <div class="metric-desc">Ảnh quẻ nhúng trực tiếp trong cây</div>
-        </div>
-        <div class="metric-card">
-          <div class="metric-value">{total_pages:,}</div>
-          <div class="metric-label">Trang Nguyên Bản OCR</div>
-          <div class="metric-desc">Bản quét phân giải cao hiệu đính</div>
-        </div>
-        <div class="metric-card">
-          <div class="metric-value">{total_nodes:,}</div>
-          <div class="metric-label">Nút Tri Thức Phân Nhánh</div>
-          <div class="metric-desc">Truy vấn nhanh theo chuyên đề</div>
+        <div class="cockpit-matrix">
+          <div class="metric-card">
+            <div class="metric-value seal">{len(books_list)}</div>
+            <div class="metric-label">Tác Phẩm Kinh Điển</div>
+            <div class="metric-desc">Hoàn tất cấu trúc phân nhánh</div>
+          </div>
+          <div class="metric-card">
+            <div class="metric-value">{total_figures:,}</div>
+            <div class="metric-label">Đồ Hình Quẻ Thực Chiến</div>
+            <div class="metric-desc">Trích xuất từ tài liệu nguyên bản</div>
+          </div>
+          <div class="metric-card">
+            <div class="metric-value">{total_pages:,}</div>
+            <div class="metric-label">Trang Quét Nguyên Bản</div>
+            <div class="metric-desc">Tài liệu đối chiếu phân giải cao</div>
+          </div>
+          <div class="metric-card">
+            <div class="metric-value">{total_nodes:,}</div>
+            <div class="metric-label">Nút Tri Thức Phân Cấp</div>
+            <div class="metric-desc">Cây nhánh Markmap tương tác</div>
+          </div>
+          <div class="metric-card wide">
+            <div class="metric-value seal">100%</div>
+            <div class="metric-label">Lineage Đối Chiếu Nguyên Bản</div>
+            <div class="metric-desc">Điểm kiểm định chất lượng nội dung 90/100</div>
+          </div>
         </div>
       </div>
     </section>
 
-    <!-- Controls: Live Search & Category Tabs -->
+    <!-- Controls Panel: Live Search & Filter Pills -->
     <section class="controls-panel">
       <div class="search-wrapper">
-        <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <circle cx="11" cy="11" r="8"></circle>
-          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-        </svg>
-        <input type="text" id="searchInput" class="search-input" placeholder="Tìm tác phẩm, chủ đề, quẻ bệnh tật, tài vận, phong thủy...">
+        <span class="search-icon">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+        </span>
+        <input type="text" id="searchInput" class="search-input" placeholder="Tìm kiếm tác phẩm, chủ đề, quẻ bệnh tật, tài vận, phong thủy...">
+        <button id="clearSearchBtn" class="clear-search-btn" title="Xóa tìm kiếm">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
       </div>
 
       <div class="filter-tabs">
-        <button class="filter-tab active" data-category="all">Tất Cả ({len(books_list)})</button>
-        <button class="filter-tab" data-category="classic">Cổ Điển Toàn Thư (4)</button>
-        <button class="filter-tab" data-category="applied">Chuyên Đề Ứng Dụng (8)</button>
-        <button class="filter-tab" data-category="advanced">Cao Cấp &amp; Bí Pháp (5)</button>
-        <button class="filter-tab" data-category="foundation">Căn Bản (1)</button>
+        <button class="filter-tab active" data-category="all">Tất Cả ({cat_counts['all']})</button>
+        <button class="filter-tab" data-category="classic">Cổ Điển Toàn Thư ({cat_counts['classic']})</button>
+        <button class="filter-tab" data-category="applied">Chuyên Đề Ứng Dụng ({cat_counts['applied']})</button>
+        <button class="filter-tab" data-category="advanced">Cao Cấp &amp; Bí Pháp ({cat_counts['advanced']})</button>
+        <button class="filter-tab" data-category="foundation">Căn Bản ({cat_counts['foundation']})</button>
       </div>
 
       <div class="view-toggle">
-        <button id="btnGridView" class="toggle-btn active" title="Dạng lưới Bento">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <button id="btnGridView" class="toggle-btn active" title="Dạng lưới thẻ">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <rect x="3" y="3" width="7" height="7"></rect>
             <rect x="14" y="3" width="7" height="7"></rect>
             <rect x="14" y="14" width="7" height="7"></rect>
@@ -1067,7 +1346,7 @@ html_template = f"""<!DOCTYPE html>
           </svg>
         </button>
         <button id="btnTableView" class="toggle-btn" title="Dạng bảng ma trận">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <line x1="8" y1="6" x2="21" y2="6"></line>
             <line x1="8" y1="12" x2="21" y2="12"></line>
             <line x1="8" y1="18" x2="21" y2="18"></line>
@@ -1082,14 +1361,15 @@ html_template = f"""<!DOCTYPE html>
     <!-- Books Bento Grid -->
     <div id="booksGrid" class="books-grid"></div>
 
-    <!-- Books Table View -->
+    <!-- Books Table Matrix View -->
     <div id="booksTableWrapper" class="books-table-wrapper">
       <table class="books-table">
         <thead>
           <tr>
-            <th>Tác Phẩm</th>
+            <th>Tác Phẩm &amp; Định Danh</th>
             <th>Tác Giả</th>
             <th>Phân Loại</th>
+            <th>Năm</th>
             <th>Trang</th>
             <th>Đồ Hình</th>
             <th>Nút Cây</th>
@@ -1103,16 +1383,17 @@ html_template = f"""<!DOCTYPE html>
     <!-- Empty Search State -->
     <div id="emptyState" class="empty-state">
       <h4>Không tìm thấy tác phẩm phù hợp</h4>
-      <p>Thử tìm kiếm với từ khóa khác như "phong thủy", "tật bệnh", "nguyệt phá", "kinh tế" hoặc đổi bộ lọc.</p>
+      <p>Thử tìm kiếm với từ khóa khác như "phong thủy", "tật bệnh", "nguyệt phá", "kinh tế" hoặc đặt lại bộ lọc.</p>
+      <button id="resetFilterBtn" class="btn-reset-filter">Đặt Lại Bộ Lọc</button>
     </div>
 
     <!-- Footer -->
     <footer class="site-footer">
       <div>
-        <strong>Đại Toàn Thư Lục Hào</strong> &bull; Xây dựng bằng hệ sinh thái OCR + Branches Markmap AI
+        <strong>Đại Toàn Thư Lục Hào</strong> &bull; Dã Hạc Dã Nhân &amp; Vương Hổ Ứng &bull; Dự án bảo tồn văn hóa cổ dịch học
       </div>
       <div>
-        Tác giả: Dã Hạc Dã Nhân &amp; Vương Hổ Ứng &bull; Dự án bảo tồn văn hóa cổ dịch học
+        Hệ thống hóa bằng OCR phân giải cao kết hợp Branches Markmap đa chiều
       </div>
     </footer>
   </div>
@@ -1123,18 +1404,27 @@ html_template = f"""<!DOCTYPE html>
       <div class="modal-header">
         <div class="modal-titles">
           <h3 id="modalTitle">Xem Trước Mindmap</h3>
-          <span id="modalCategory" class="category">Cổ Điển</span>
+          <span id="modalCategory" class="category classic">Cổ Điển</span>
+          <span id="modalMetaChip" class="modal-meta-chip"></span>
         </div>
         <div class="modal-header-actions">
-          <a id="modalExternalLink" href="#" target="_blank" rel="noopener" class="btn-icon" title="Mở trong tab riêng biệt">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <a id="modalExternalLink" href="#" target="_blank" rel="noopener" class="btn-modal-action" title="Mở trong tab riêng biệt">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
               <polyline points="15 3 21 3 21 9"></polyline>
               <line x1="10" y1="14" x2="21" y2="3"></line>
             </svg>
+            <span>Mở Tab Mới</span>
           </a>
-          <button id="modalCloseBtn" class="btn-icon" title="Đóng cửa sổ">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <a id="modalMdLink" href="#" target="_blank" rel="noopener" class="btn-modal-action" title="Xem cây Markdown">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+              <polyline points="14 2 14 8 20 8"></polyline>
+            </svg>
+            <span>Cây Markdown</span>
+          </a>
+          <button id="modalCloseBtn" class="btn-modal-close" title="Đóng cửa sổ (ESC)">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <line x1="18" y1="6" x2="6" y2="18"></line>
               <line x1="6" y1="6" x2="18" y2="18"></line>
             </svg>
@@ -1160,6 +1450,8 @@ html_template = f"""<!DOCTYPE html>
     const booksTableBody = document.getElementById('booksTableBody');
     const emptyState = document.getElementById('emptyState');
     const searchInput = document.getElementById('searchInput');
+    const clearSearchBtn = document.getElementById('clearSearchBtn');
+    const resetFilterBtn = document.getElementById('resetFilterBtn');
     const filterTabs = document.querySelectorAll('.filter-tab');
     const btnGridView = document.getElementById('btnGridView');
     const btnTableView = document.getElementById('btnTableView');
@@ -1167,14 +1459,16 @@ html_template = f"""<!DOCTYPE html>
     const previewModal = document.getElementById('previewModal');
     const modalTitle = document.getElementById('modalTitle');
     const modalCategory = document.getElementById('modalCategory');
+    const modalMetaChip = document.getElementById('modalMetaChip');
     const modalIframe = document.getElementById('modalIframe');
     const modalExternalLink = document.getElementById('modalExternalLink');
+    const modalMdLink = document.getElementById('modalMdLink');
     const modalCloseBtn = document.getElementById('modalCloseBtn');
 
     function renderBooks() {{
+      const q = searchQuery.toLowerCase().trim();
       const filtered = BOOKS_DATA.filter(book => {{
         const matchCategory = (currentCategory === 'all' || book.category_id === currentCategory);
-        const q = searchQuery.toLowerCase().trim();
         const matchQuery = !q || (
           book.title.toLowerCase().includes(q) ||
           book.subtitle.toLowerCase().includes(q) ||
@@ -1203,10 +1497,17 @@ html_template = f"""<!DOCTYPE html>
             <div class="book-header">
               <div class="book-badges">
                 <span class="category-badge ${{book.category_id}}">${{book.category}}</span>
-                <span class="book-slug">${{book.slug}}</span>
+                <span class="book-year-slug">${{book.year}} &bull; ${{book.slug}}</span>
               </div>
               <h3 class="book-title">${{book.title}}</h3>
               <div class="book-subtitle">${{book.subtitle}}</div>
+              <div class="book-author">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                  <circle cx="12" cy="7" r="4"></circle>
+                </svg>
+                <span>${{book.author}}</span>
+              </div>
               <p class="book-desc">${{book.desc}}</p>
             </div>
 
@@ -1230,18 +1531,19 @@ html_template = f"""<!DOCTYPE html>
 
               <div class="book-actions">
                 <button class="btn-action-primary" onclick="openPreview('${{book.slug}}')">
-                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                     <circle cx="12" cy="12" r="10"></circle>
                     <polygon points="10 8 16 12 10 16 10 8"></polygon>
                   </svg>
                   <span>Xem Mindmap</span>
                 </button>
-                <a href="${{book.md_url}}" target="_blank" class="btn-action-secondary">
-                  <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
-                    <polyline points="14 2 14 8 20 8"></polyline>
+                <a href="${{book.html_url}}" target="_blank" rel="noopener" class="btn-action-secondary">
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                    <polyline points="15 3 21 3 21 9"></polyline>
+                    <line x1="10" y1="14" x2="21" y2="3"></line>
                   </svg>
-                  <span>Markdown</span>
+                  <span>Mở Tab Mới</span>
                 </a>
               </div>
             </div>
@@ -1255,25 +1557,26 @@ html_template = f"""<!DOCTYPE html>
           <tr>
             <td>
               <div class="table-title">${{book.title}}</div>
-              <div style="font-size:0.75rem;color:var(--text-muted);font-family:var(--font-mono);">${{book.slug}}</div>
+              <div class="table-slug">${{book.slug}}</div>
             </td>
             <td>${{book.author}}</td>
             <td><span class="category-badge ${{book.category_id}}">${{book.category}}</span></td>
+            <td style="font-family:var(--font-mono);">${{book.year}}</td>
             <td style="font-family:var(--font-mono);">${{book.pages}}</td>
-            <td style="font-family:var(--font-mono);color:var(--accent-amber);font-weight:600;">${{book.figures}}</td>
-            <td style="font-family:var(--font-mono);color:var(--accent-emerald);">${{book.nodes.toLocaleString()}}</td>
+            <td style="font-family:var(--font-mono);font-weight:600;">${{book.figures}}</td>
+            <td style="font-family:var(--font-mono);color:var(--accent-red);font-weight:600;">${{book.nodes.toLocaleString()}}</td>
             <td>
               <div class="table-actions">
-                <button class="btn-action-primary" style="padding:6px 12px;font-size:0.8125rem;" onclick="openPreview('${{book.slug}}')">Xem</button>
-                <a href="${{book.html_url}}" target="_blank" class="btn-icon" title="Mở tab mới">
-                  <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <button class="btn-table-primary" onclick="openPreview('${{book.slug}}')">Xem</button>
+                <a href="${{book.html_url}}" target="_blank" rel="noopener" class="btn-icon" title="Mở trong tab mới">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                     <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
                     <polyline points="15 3 21 3 21 9"></polyline>
                     <line x1="10" y1="14" x2="21" y2="3"></line>
                   </svg>
                 </a>
-                <a href="${{book.md_url}}" target="_blank" class="btn-icon" title="Cây Markdown">
-                  <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <a href="${{book.md_url}}" target="_blank" rel="noopener" class="btn-icon" title="Cây Markdown">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                     <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
                     <polyline points="14 2 14 8 20 8"></polyline>
                   </svg>
@@ -1291,8 +1594,11 @@ html_template = f"""<!DOCTYPE html>
 
       modalTitle.textContent = book.title;
       modalCategory.textContent = book.category;
+      modalCategory.className = 'category ' + book.category_id;
+      modalMetaChip.textContent = `${{book.figures}} đồ hình • ${{book.nodes.toLocaleString()}} nút • ${{book.pages}} trang`;
       modalIframe.src = book.html_url;
       modalExternalLink.href = book.html_url;
+      modalMdLink.href = book.md_url;
       
       previewModal.classList.add('active');
       document.body.style.overflow = 'hidden';
@@ -1317,6 +1623,24 @@ html_template = f"""<!DOCTYPE html>
     // Search filter event
     searchInput.addEventListener('input', (e) => {{
       searchQuery = e.target.value;
+      clearSearchBtn.style.display = searchQuery ? 'block' : 'none';
+      renderBooks();
+    }});
+
+    clearSearchBtn.addEventListener('click', () => {{
+      searchInput.value = '';
+      searchQuery = '';
+      clearSearchBtn.style.display = 'none';
+      searchInput.focus();
+      renderBooks();
+    }});
+
+    resetFilterBtn.addEventListener('click', () => {{
+      searchInput.value = '';
+      searchQuery = '';
+      clearSearchBtn.style.display = 'none';
+      currentCategory = 'all';
+      filterTabs.forEach(t => t.classList.toggle('active', t.dataset.category === 'all'));
       renderBooks();
     }});
 
