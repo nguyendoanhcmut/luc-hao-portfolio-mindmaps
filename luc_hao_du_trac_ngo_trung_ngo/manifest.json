@@ -1,0 +1,398 @@
+{
+  "summary": {
+    "total_books": 1,
+    "total_pages": 214,
+    "total_worker_pairs": 107,
+    "total_chapters": 39,
+    "total_batches": 2,
+    "total_waves": 2,
+    "est_time_sec_min": 24,
+    "est_time_sec_max": 30,
+    "est_time_str": "24-30s (0.4-0.5 min)"
+  },
+  "books": [
+    {
+      "file": "VƯƠNG HỔ ỨNG - LỤC HÀO DỰ TRẮC NGỘ TRUNG NGỘ.pdf",
+      "path": "C:\\Users\\Admin\\Downloads\\drive-download-20260908T061604Z-1-001\\VƯƠNG HỔ ỨNG - LỤC HÀO DỰ TRẮC NGỘ TRUNG NGỘ.pdf",
+      "total_pages": 214,
+      "worker_pairs": 107,
+      "has_native_text": false,
+      "detection_tier": "Tier 1 (TOC Bookmarks)",
+      "chapters_count": 39,
+      "batches_count": 2,
+      "total_waves": 2,
+      "est_time_sec_min": 24,
+      "est_time_sec_max": 30,
+      "est_time_str": "24-30s",
+      "chapters": [
+        {
+          "title": "BÌA",
+          "start_page": 1,
+          "end_page": 2,
+          "id": 1,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "MỤC LỤC",
+          "start_page": 3,
+          "end_page": 4,
+          "id": 2,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "LỜI TỰA",
+          "start_page": 5,
+          "end_page": 6,
+          "id": 3,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "1. PHỤ MẪU LÂM NHẬT ĐỊNH HÔN KỲ",
+          "start_page": 7,
+          "end_page": 10,
+          "id": 4,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "2. TƯ DUY DỰ ĐOÁN VỀ LÀM VISA XUẤT NGOẠI",
+          "start_page": 11,
+          "end_page": 17,
+          "id": 5,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "3. DỤNG THẦN TRỊ NGUYỆT, THÁNG ĐÓ CHẾT",
+          "start_page": 18,
+          "end_page": 21,
+          "id": 6,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "4. SAI LẦM VỀ CHIÊM VIỆC NÀY ỨNG VIỆC KHÁC",
+          "start_page": 22,
+          "end_page": 25,
+          "id": 7,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "5. SAI LẦM VỀ ĐỊA ĐIỂM TỬ VONG",
+          "start_page": 26,
+          "end_page": 31,
+          "id": 8,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "6. TAM GIÁO CỬU LƯU VÀ HÀO TỬ TÔN",
+          "start_page": 32,
+          "end_page": 36,
+          "id": 9,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "7. TẠI SAO KHÔNG ỨNG NGÀY SỬU ĐẦU TIÊN",
+          "start_page": 37,
+          "end_page": 42,
+          "id": 10,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "8. ĐỪNG ĐỂ NGƯỜI XEM CHI PHỐI TƯ DUY CỦA BẠN",
+          "start_page": 43,
+          "end_page": 47,
+          "id": 11,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "9. LÝ LUẬN TRONG SÁCH CHƯA HẲN LÀ CHÂN LÝ",
+          "start_page": 48,
+          "end_page": 54,
+          "id": 12,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "10. CHẲNG LẼ THỜI GIAN CHẾT ĐÃ ĐẾN SỚM",
+          "start_page": 55,
+          "end_page": 57,
+          "id": 13,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "11. NẮM BẮT TÂM THÁI CỦA NGƯỜI ĐẾN LIÊN QUAN ĐẾN THÀNH BẠI CỦA DỰ ĐOÁN",
+          "start_page": 58,
+          "end_page": 63,
+          "id": 14,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "12. LẼ NÀO ĐÃ ỨNG NGUYÊN THẦN QUÁ NHƯỢC",
+          "start_page": 64,
+          "end_page": 65,
+          "id": 15,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "13. CHO ĐẾN BÂY GIỜ CŨNG CHƯA GIẢI ĐƯỢC CÂU ĐỐ",
+          "start_page": 66,
+          "end_page": 67,
+          "id": 16,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "14. NHẦM LẪN VỀ TỦ SÁCH VÀ TỦ ÁO",
+          "start_page": 68,
+          "end_page": 69,
+          "id": 17,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "15. LẼ NÀO LÀ QUỶ ĐÃ BẮT SAI NGƯỜI",
+          "start_page": 70,
+          "end_page": 71,
+          "id": 18,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "16. XEM SAI THAI SONG SINH",
+          "start_page": 72,
+          "end_page": 75,
+          "id": 19,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "17. CHÍN QUÁ HÓA NẪU",
+          "start_page": 76,
+          "end_page": 79,
+          "id": 20,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "18. KẾT LUẬN SAU CÙNG TẠI SAO KHÔNG ỨNG NGHIỆM",
+          "start_page": 80,
+          "end_page": 84,
+          "id": 21,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "19. DỤNG THẦN CŨNG CÓ THUYẾT QUÁ SUY",
+          "start_page": 85,
+          "end_page": 92,
+          "id": 22,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "20. TẠI SAO KHÔNG ĐƯỢC TÀI TRỢ",
+          "start_page": 93,
+          "end_page": 97,
+          "id": 23,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "21. XÉT LẠI ỨNG KỲ",
+          "start_page": 98,
+          "end_page": 102,
+          "id": 24,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "22. QUẺ CÓ THẮC MẮC CẦN PHẢI GIEO LẠI MỘT QUẺ THAM KHẢO",
+          "start_page": 103,
+          "end_page": 109,
+          "id": 25,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "23. HÀO BIẾN VÀ ỨNG KỲ",
+          "start_page": 110,
+          "end_page": 114,
+          "id": 26,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "24. NGƯỜI CHẾT VÀ NGƯỜI SỐNG",
+          "start_page": 115,
+          "end_page": 121,
+          "id": 27,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "25. RỐT CUỘC DỤNG THẦN LÀ GÌ",
+          "start_page": 122,
+          "end_page": 126,
+          "id": 28,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "26. THÔNG TIN LAO NGỤC LÀ GÌ",
+          "start_page": 127,
+          "end_page": 138,
+          "id": 29,
+          "pages": 12,
+          "pairs": 6
+        },
+        {
+          "title": "27. NHỜ NGƯỜI LO VIỆC KHÔNG THỂ KHÔNG XEM HÀO ỨNG",
+          "start_page": 139,
+          "end_page": 145,
+          "id": 30,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "28. TẠI SAO NGÀY CHẾT ĐÃ SỚM MỘT NGÀY",
+          "start_page": 146,
+          "end_page": 150,
+          "id": 31,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "29. KẾT HÔN, LY HÔN ĐẢO LỘN",
+          "start_page": 151,
+          "end_page": 159,
+          "id": 32,
+          "pages": 9,
+          "pairs": 5
+        },
+        {
+          "title": "30. ỨNG KỲ ĐỘNG VẬT SINH ĐẺ",
+          "start_page": 160,
+          "end_page": 166,
+          "id": 33,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "31. QUẺ CẦN DỰA VÀO CẢM NGỘ ĐỂ HIỂU RÕ",
+          "start_page": 167,
+          "end_page": 174,
+          "id": 34,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "32. XEM QUẺ KHÔNG LƯU TÌNH, LƯU TÌNH KHÔNG XEM QUẺ",
+          "start_page": 175,
+          "end_page": 181,
+          "id": 35,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "33. TẠI SAO KHÔNG THI ĐẬU NGHIÊN CỨU SINH",
+          "start_page": 182,
+          "end_page": 193,
+          "id": 36,
+          "pages": 12,
+          "pairs": 6
+        },
+        {
+          "title": "34. THAI CHẾT VÀ THAI SỐNG",
+          "start_page": 194,
+          "end_page": 197,
+          "id": 37,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "35. HÀO ỨNG HÓA THOÁI TÀNG HUYỀN CƠ",
+          "start_page": 198,
+          "end_page": 205,
+          "id": 38,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "36. SỰ KỲ DIỆU CỦA ĐỘC PHÁT",
+          "start_page": 206,
+          "end_page": 214,
+          "id": 39,
+          "pages": 9,
+          "pairs": 5
+        }
+      ],
+      "batches": [
+        {
+          "batch_id": 1,
+          "chapter_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "total_pairs": 79,
+          "waves": 1
+        },
+        {
+          "batch_id": 2,
+          "chapter_ids": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ],
+          "total_pairs": 37,
+          "waves": 1
+        }
+      ]
+    }
+  ]
+}

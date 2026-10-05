@@ -1,0 +1,115 @@
+fig_01: page 1, num=1, file=page_0001_img_01.png, caption=Sơ đồ Thái Cực Bát Quái
+fig_02: page 9, num=2, file=page_0009_img_01.png, caption=Sơ đồ quẻ Địa Trạch Lâm
+fig_03: page 10, num=3, file=page_0010_img_01.png, caption=Sơ đồ quẻ Thiên Sơn Độn biến Thiên Phong Cấu
+fig_04: page 15, num=4, file=page_0015_img_01.png, caption=Sơ đồ quẻ Địa Thủy Sư biến Lôi Trạch Quy Muội
+fig_05: page 16, num=5, file=page_0016_img_01.png, caption=Sơ đồ quẻ Thiên Hỏa Đồng Nhân biến Càn Vi Thiên
+fig_06: page 17, num=6, file=page_0017_img_01.png, caption=Quẻ Hỏa Sơn Lữ biến Hỏa Lôi Phệ Hạp
+fig_07: page 19, num=7, file=page_0019_img_01.png, caption=Sơ đồ quẻ Ly Vi Hỏa
+fig_08: page 21, num=8, file=page_0021_img_01.png, caption=Sơ đồ quẻ Thủy Lôi Truân
+fig_09: page 22, num=9, file=page_0022_img_01.png, caption=Sơ đồ quẻ Cấn Vi Sơn biến Sơn Địa Bác
+fig_10: page 27, num=10, file=page_0027_img_01.png, caption=Sơ đồ quẻ Thiên Sơn Độn biến Trạch Sơn Hàm
+fig_11: page 29, num=11, file=page_0029_img_01.png, caption=Sơ đồ quẻ Hỏa Lôi Phệ Hạp biến Hỏa Địa Tấn
+fig_12: page 30, num=12, file=page_0030_img_01.png, caption=Sơ đồ quẻ Phong Lôi Ích biến Phong Trạch Trung Phu
+fig_13: page 31, num=13, file=page_0031_img_01.png, caption=Sơ đồ quẻ Hỏa Phong Đỉnh biến Lôi Phong Hằng
+fig_14: page 32, num=14, file=page_0032_img_01.png, caption=Sơ đồ quẻ Phong Trạch Trung Phu biến Thiên Thủy Tụng
+fig_15: page 37, num=15, file=page_0037_img_01.png, caption=Sơ đồ quẻ Thiên Địa Bĩ biến Thiên Thủy Tụng
+fig_16: page 38, num=16, file=page_0038_img_01.png, caption=Sơ đồ quẻ Lôi Thủy Giải biến Địa Trạch Lâm
+fig_17: page 38, num=17, file=page_0038_img_02.png, caption=Sơ đồ quẻ Phong Thiên Tiểu Súc biến Phong Lôi Ích
+fig_18: page 40, num=18, file=page_0040_img_01.png, caption=Sơ đồ quẻ Địa Thiên Thái biến Thủy Lôi Truân
+fig_19: page 42, num=19, file=page_0042_img_01.png, caption=Quẻ Địa Thiên Thái biến Địa Phong Thăng
+fig_20: page 43, num=20, file=page_0043_img_01.png, caption=Quẻ Lôi Địa Dự biến Khảm Vi Thủy
+fig_21: page 45, num=21, file=page_0045_img_01.png, caption=Quẻ Thủy Trạch Tiết biến Sơn Trạch Tổn
+fig_22: page 46, num=22, file=page_0046_img_01.png, caption=Quẻ Cấn Vi Sơn biến Sơn Phong Cổ
+fig_23: page 47, num=23, file=page_0047_img_01.png, caption=Quẻ Thiên Trạch Lý biến Trạch Thủy Khốn
+fig_24: page 51, num=24, file=page_0051_img_01.png, caption=Sơ đồ quẻ Lôi Thủy Giải biến Sơn Thiên Đại Súc
+fig_25: page 52, num=25, file=page_0052_img_01.png, caption=Sơ đồ quẻ Địa Thiên Thái biến Sơn Thiên Đại Súc
+fig_26: page 53, num=26, file=page_0053_img_01.png, caption=Sơ đồ quẻ Thủy Lôi Truân biến Địa Lôi Phục
+fig_27: page 54, num=27, file=page_0054_img_01.png, caption=Sơ đồ quẻ Thủy Thiên Nhu biến Địa Thiên Thái
+fig_28: page 57, num=28, file=page_0057_img_01.png, caption=Quẻ Lôi Thủy Giải biến Chấn Vi Lôi
+fig_29: page 58, num=29, file=page_0058_img_01.png, caption=Quẻ Càn Vi Thiên biến Hỏa Thiên Đại Hữu
+fig_30: page 60, num=30, file=page_0060_img_01.png, caption=Sơ đồ quẻ Lôi Hỏa Phong biến Thủy Hỏa Ký Tế
+fig_31: page 61, num=31, file=page_0061_img_01.png, caption=Sơ đồ quẻ Địa Trạch Lâm biến Địa Thủy Sư
+fig_32: page 62, num=32, file=page_0062_img_01.png, caption=Sơ đồ quẻ Trạch Lôi Tùy biến Thủy Hỏa Ký Tế
+fig_33: page 63, num=33, file=page_0063_img_01.png, caption=Sơ đồ quẻ Địa Thủy Sư biến Thiên Phong Cấu
+fig_34: page 65, num=34, file=page_0065_img_01.png, caption=Sơ đồ quẻ Phong Thủy Hoán biến Sơn Thủy Mông
+fig_35: page 65, num=35, file=page_0065_img_02.png, caption=Sơ đồ quẻ Hỏa Trạch Khuê
+fig_36: page 66, num=36, file=page_0066_img_01.png, caption=Sơ đồ quẻ Phong Lôi Ích biến Phong Trạch Trung Phu
+fig_37: page 67, num=37, file=page_0067_img_01.png, caption=Sơ đồ quẻ Cấn Vi Sơn
+fig_38: page 69, num=38, file=page_0069_img_01.png, caption=Sơ đồ quẻ Thiên Sơn Độn biến Thiên Phong Cấu
+fig_39: page 71, num=39, file=page_0071_img_01.png, caption=Quẻ Địa Trạch Lâm biến Địa Thủy Sư
+fig_40: page 72, num=40, file=page_0072_img_01.png, caption=Quẻ Địa Lôi Phục
+fig_41: page 73, num=41, file=page_0073_img_01.png, caption=Quẻ Trạch Lôi Tùy biến Thiên Hỏa Đồng Nhân
+fig_42: page 74, num=42, file=page_0074_img_01.png, caption=Quẻ Ly Vi Hỏa biến Địa Lôi Phục
+fig_43: page 78, num=43, file=page_0078_img_01.png, caption=Sơ đồ quẻ Trạch Lôi Tùy biến Trạch Thiên Quải
+fig_44: page 80, num=44, file=page_0080_img_01.png, caption=Quẻ Địa Phong Thăng biến Thủy Phong Tỉnh
+fig_45: page 82, num=45, file=page_0082_img_01.png, caption=Sơ đồ quẻ Thiên Trạch Lý biến Thiên Thủy Tụng
+fig_46: page 83, num=46, file=page_0083_img_01.png, caption=Quẻ Thủy Lôi Truân biến Trạch Hỏa Cách
+fig_47: page 84, num=47, file=page_0084_img_01.png, caption=Quẻ Hỏa Phong Đỉnh biến Trạch Phong Đại Quá
+fig_48: page 86, num=48, file=page_0086_img_01.png, caption=Sơ đồ quẻ Thiên Hỏa Đồng Nhân biến Hỏa Trạch Khuê
+fig_49: page 87, num=49, file=page_0087_img_01.png, caption=Sơ đồ quẻ Lôi Trạch Quy Muội
+fig_50: page 90, num=50, file=page_0090_img_01.png, caption=Sơ đồ quẻ Địa Thủy Sư biến Địa Phong Thăng
+fig_51: page 91, num=51, file=page_0091_img_01.png, caption=Sơ đồ quẻ Lôi Phong Hằng biến Thủy Phong Tỉnh
+fig_52: page 92, num=52, file=page_0092_img_01.png, caption=Sơ đồ quẻ Khôn Vi Địa biến Sơn Lôi Di
+fig_53: page 93, num=53, file=page_0093_img_01.png, caption=Quẻ Khảm Vi Thủy biến Thủy Hỏa Ký Tế
+fig_54: page 94, num=54, file=page_0094_img_01.png, caption=Quẻ Trạch Thiên Quải biến Lôi Thiên Đại Tráng
+fig_55: page 96, num=55, file=page_0096_img_01.png, caption=Sơ đồ quẻ Sơn Hỏa Bí biến Phong Lôi Ích
+fig_56: page 97, num=56, file=page_0097_img_01.png, caption=Sơ đồ quẻ Lôi Hỏa Phong biến Ly Vi Hỏa
+fig_57: page 98, num=57, file=page_0098_img_01.png, caption=Sơ đồ quẻ Phong Sơn Tiệm biến Phong Hỏa Gia Nhân
+fig_58: page 99, num=58, file=page_0099_img_01.png, caption=Sơ đồ quẻ Chấn Vi Lôi biến Lôi Địa Dự
+fig_59: page 100, num=59, file=page_0100_img_01.png, caption=Sơ đồ quẻ Thiên Lôi Vô Vọng biến Trạch Địa Tụy
+fig_60: page 101, num=60, file=page_0101_img_01.png, caption=Sơ đồ quẻ Trạch Phong Đại Quá biến Lôi Phong Hằng
+fig_61: page 102, num=61, file=page_0102_img_01.png, caption=Sơ đồ quẻ Địa Trạch Lâm biến Địa Phong Thăng
+fig_62: page 102, num=62, file=page_0102_img_02.png, caption=Sơ đồ quẻ Càn Vi Thiên
+fig_63: page 107, num=63, file=page_0107_img_01.png, caption=Quẻ Địa Thủy Sư biến Địa Trạch Lâm
+fig_64: page 107, num=64, file=page_0107_img_02.png, caption=Quẻ Thiên Hỏa Đồng Nhân
+fig_65: page 108, num=65, file=page_0108_img_01.png, caption=Quẻ Lôi Sơn Tiểu Quá biến Cấn Vi Sơn
+fig_66: page 108, num=66, file=page_0108_img_02.png, caption=Quẻ Hỏa Thiên Đại Hữu biến Càn Vi Thiên
+fig_67: page 109, num=67, file=page_0109_img_01.png, caption=Sơ đồ quẻ Lôi Trạch Quy Muội biến Lôi Địa Dự
+fig_68: page 109, num=68, file=page_0109_img_02.png, caption=Sơ đồ quẻ Thủy Hỏa Ký Tế biến Thủy Sơn Kiển
+fig_69: page 111, num=69, file=page_0111_img_01.png, caption=Quẻ Sơn Hỏa Bí biến Hỏa Sơn Lữ
+fig_70: page 112, num=70, file=page_0112_img_01.png, caption=Quẻ Tốn Vi Phong biến Thiên Phong Cấu
+fig_71: page 113, num=71, file=page_0113_img_01.png, caption=Quẻ Tốn Vi Phong biến Thiên Phong Cấu
+fig_72: page 114, num=72, file=page_0114_img_01.png, caption=Quẻ Sơn Hỏa Bí biến Sơn Trạch Tổn
+fig_73: page 115, num=73, file=page_0115_img_01.png, caption=Quẻ Khảm Vi Thủy biến Địa Thủy Sư
+fig_74: page 116, num=74, file=page_0116_img_01.png, caption=Quẻ Lôi Địa Dự biến Lôi Phong Hằng
+fig_75: page 118, num=75, file=page_0118_img_01.png, caption=Quẻ Lôi Trạch Quy Muội biến Hỏa Trạch Khuê
+fig_76: page 118, num=76, file=page_0118_img_02.png, caption=Quẻ Trạch Hỏa Cách biến Trạch Thiên Quải
+fig_77: page 119, num=77, file=page_0119_img_01.png, caption=Quẻ Thủy Sơn Kiển biến Cấn Vi Sơn
+fig_78: page 120, num=78, file=page_0120_img_01.png, caption=Quẻ Hỏa Sơn Lữ biến Hỏa Địa Tấn
+fig_79: page 121, num=79, file=page_0121_img_01.png, caption=Quẻ Phong Thiên Tiểu Súc
+fig_80: page 122, num=80, file=page_0122_img_01.png, caption=Quẻ Trạch Địa Tụy biến Phong Thủy Hoán
+fig_81: page 123, num=81, file=page_0123_img_01.png, caption=Sơ đồ quẻ Địa Phong Thăng
+fig_82: page 123, num=82, file=page_0123_img_02.png, caption=Sơ đồ quẻ Hỏa Thiên Đại Hữu biến Hỏa Phong Đỉnh
+fig_83: page 124, num=83, file=page_0124_img_01.png, caption=Sơ đồ quẻ Tốn Vi Phong biến Phong Thiên Tiểu Súc
+fig_84: page 125, num=84, file=page_0125_img_01.png, caption=Quẻ Sơn Phong Cổ biến Sơn Thiên Đại Súc
+fig_85: page 127, num=85, file=page_0127_img_01.png, caption=Sơ đồ quẻ Sơn Trạch Tổn biến Sơn Địa Bác
+fig_86: page 128, num=86, file=page_0128_img_01.png, caption=Sơ đồ quẻ Thiên Thủy Tụng
+fig_87: page 129, num=87, file=page_0129_img_01.png, caption=Quẻ Thiên Lôi Vô Vọng biến Thiên Trạch Lý
+fig_88: page 130, num=88, file=page_0130_img_01.png, caption=Quẻ Hỏa Sơn Lữ biến Hỏa Phong Đỉnh
+fig_89: page 131, num=89, file=page_0131_img_01.png, caption=Sơ đồ quẻ Hỏa Địa Tấn biến Hỏa Phong Đỉnh
+fig_90: page 131, num=90, file=page_0131_img_02.png, caption=Sơ đồ quẻ Trạch Địa Tụy biến Trạch Thiên Quải
+fig_91: page 133, num=91, file=page_0133_img_01.png, caption=Quẻ Thủy Sơn Kiển biến Thiên Hỏa Đồng Nhân
+fig_92: page 134, num=92, file=page_0134_img_01.png, caption=Quẻ Thủy Lôi Truân
+fig_93: page 135, num=93, file=page_0135_img_01.png, caption=Quẻ Thiên Địa Bĩ biến Hỏa Địa Tấn
+fig_94: page 136, num=94, file=page_0136_img_01.png, caption=Quẻ Địa Thiên Thái biến Lôi Sơn Tiểu Quá
+fig_95: page 138, num=95, file=page_0138_img_01.png, caption=Quẻ Lôi Thủy Giải biến Địa Phong Thăng
+fig_96: page 139, num=96, file=page_0139_img_01.png, caption=Sơ đồ quẻ Thiên Thủy Tụng biến Thiên Phong Cấu
+fig_97: page 140, num=97, file=page_0140_img_01.png, caption=Sơ đồ quẻ Cấn Vi Sơn biến Sơn Địa Bác
+fig_98: page 141, num=98, file=page_0141_img_01.png, caption=Sơ đồ quẻ Thiên Địa Bĩ biến Sơn Thủy Mông
+fig_99: page 142, num=99, file=page_0142_img_01.png, caption=Sơ đồ quẻ Thủy Sơn Kiển biến Địa Sơn Khiêm
+fig_100: page 143, num=100, file=page_0143_img_01.png, caption=Sơ đồ quẻ Hỏa Thủy Vị Tế biến Hỏa Sơn Lữ
+fig_101: page 144, num=101, file=page_0144_img_01.png, caption=Sơ đồ quẻ Phong Sơn Tiệm biến Hỏa Địa Tấn
+fig_102: page 145, num=102, file=page_0145_img_01.png, caption=Sơ đồ quẻ Địa Lôi Phục biến Chấn Vi Lôi
+fig_103: page 146, num=103, file=page_0146_img_01.png, caption=Sơ đồ quẻ Trạch Phong Đại Quá biến Thủy Thiên Nhu
+fig_104: page 147, num=104, file=page_0147_img_01.png, caption=Quẻ Tốn Vi Phong biến Phong Thủy Hoán
+fig_105: page 148, num=105, file=page_0148_img_01.png, caption=Quẻ Trạch Địa Tụy biến Thiên Địa Bĩ
+fig_106: page 149, num=106, file=page_0149_img_01.png, caption=Sơ đồ quẻ Thiên Lôi Vô Vọng
+fig_107: page 150, num=107, file=page_0150_img_01.png, caption=Sơ đồ quẻ Thiên Địa Bĩ
+fig_108: page 151, num=108, file=page_0151_img_01.png, caption=Quẻ Trạch Thủy Khốn biến Đoài Vi Trạch
+fig_109: page 151, num=109, file=page_0151_img_02.png, caption=Quẻ Trạch Thủy Khốn biến Trạch Hỏa Cách
+fig_110: page 152, num=110, file=page_0152_img_01.png, caption=Quẻ Lôi Trạch Quy Muội
+fig_111: page 153, num=111, file=page_0153_img_01.png, caption=Sơ đồ quẻ Địa Lôi Phục biến Chấn Vi Lôi
+fig_112: page 154, num=112, file=page_0154_img_01.png, caption=Sơ đồ quẻ Hỏa Phong Đỉnh biến Hỏa Sơn Lữ
+fig_113: page 155, num=113, file=page_0155_img_01.png, caption=Quẻ Lôi Thủy Giải biến Lôi Địa Dự
+fig_114: page 156, num=114, file=page_0156_img_01.png, caption=Quẻ Trạch Hỏa Cách biến Phong Hỏa Gia Nhân
+fig_115: page 157, num=115, file=page_0157_img_01.png, caption=Sơ đồ quẻ Cấn Vi Sơn biến Thủy Phong Tỉnh

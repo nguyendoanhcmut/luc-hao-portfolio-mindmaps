@@ -1,0 +1,28 @@
+{
+  "doc_slug": "luc_hao_xu_cat_ti_hung",
+  "doc_title": "Lục Hào Xu Cát Tị Hung Bí Truyền",
+  "completeness_score": 1.0,
+  "audit_gates": {
+    "section_coverage": {
+      "score": 1.0,
+      "found": 45,
+      "total": 45
+    },
+    "depth": {
+      "score": 1.0,
+      "deep_bullets": 886
+    },
+    "grounding": {
+      "score": 1.0,
+      "figures_embedded": 115,
+      "expected_figures": 115
+    },
+    "lexicon": {
+      "score": 1.0,
+      "matched_terms": 9,
+      "total_terms": 9
+    }
+  },
+  "lineage_status": "PASSED",
+  "remediation_directives": []
+}

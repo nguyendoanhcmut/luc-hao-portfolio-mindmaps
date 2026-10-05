@@ -1,0 +1,145 @@
+{
+  "doc_slug": "luc_hao_phong_thuy_du_trac_hoc",
+  "doc_title": "Lục Hào Phong Thủy Dự Trắc Học",
+  "audit_timestamp": "2026-10-04T08:27:19.409767+00:00",
+  "completeness_score": 1.0,
+  "pass": true,
+  "status": "PASSED",
+  "gate_scores": {
+    "section_coverage": {
+      "score": 1.0,
+      "observed": 219,
+      "expected": 219,
+      "missing": []
+    },
+    "depth": {
+      "score": 1.0,
+      "compliant": 227,
+      "total": 227,
+      "shallow": []
+    },
+    "grounding": {
+      "score": 1.0,
+      "grounded": 184,
+      "total": 184,
+      "vague": [],
+      "misplaced_figures": []
+    },
+    "lexicon": {
+      "score": 1.0,
+      "resolved": 16,
+      "declared": 16,
+      "unresolved": []
+    }
+  },
+  "gates": {
+    "section_coverage": {
+      "weight": 0.4,
+      "score": 1.0,
+      "weighted_score": 0.4,
+      "total_skeleton_titles": 219,
+      "matched_titles": 219,
+      "unmatched_titles": [],
+      "status": "PASS"
+    },
+    "depth": {
+      "weight": 0.3,
+      "score": 1.0,
+      "weighted_score": 0.3,
+      "heading_distribution": {
+        "H1": 1,
+        "H2": 8,
+        "H3": 60,
+        "H4": 171,
+        "H5": 6,
+        "H6": 0
+      },
+      "bullet_hierarchy": {
+        "depth_0": 892,
+        "depth_1": 4037,
+        "depth_2": 815,
+        "depth_3": 419
+      },
+      "total_headings": 246,
+      "total_bullets": 6163,
+      "total_exercises_manifest": 181,
+      "matched_exercises": 181,
+      "shallow_leaf_sections": 0,
+      "invalid_heading_transitions": 0,
+      "status": "PASS"
+    },
+    "grounding": {
+      "weight": 0.2,
+      "score": 1.0,
+      "weighted_score": 0.2,
+      "manifest_figures_count": 183,
+      "matched_figures_count": 183,
+      "embedded_figures_branches": 184,
+      "figure_coverage_rate": 1.0,
+      "missing_figures_on_disk": 0,
+      "proof_blocks_count": 184,
+      "deduction_blocks_count": 184,
+      "rules_grounded_count": 58,
+      "rules_total_count": 58,
+      "status": "PASS"
+    },
+    "lexicon": {
+      "weight": 0.1,
+      "score": 1.0,
+      "weighted_score": 0.1,
+      "key_terms_count": 13,
+      "resolved_terms_count": 13,
+      "key_entities_count": 3,
+      "resolved_entities_count": 3,
+      "total_lexicon_declared": 16,
+      "total_lexicon_resolved": 16,
+      "term_occurrences": {
+        "Dụng thần": 212,
+        "Hào vị": 106,
+        "Trạch hào": 1,
+        "Lục thần": 33,
+        "Lục hợp": 12,
+        "Lục xung": 30,
+        "Nguyệt phá": 164,
+        "Không Vong": 528,
+        "Phản ngâm / Phục ngâm": 35,
+        "12 Cung Trường Sinh": 1,
+        "Dương Trạch": 2,
+        "Âm Trạch": 7,
+        "Phong Thủy Thương Nghiệp": 2,
+        "Vương Hổ Ứng": 2,
+        "Lưu Thiết Khanh": 46,
+        "Trần Phương": 369
+      },
+      "unresolved": [],
+      "status": "PASS"
+    }
+  },
+  "audit_metadata": {
+    "doc_slug": "luc_hao_phong_thuy_du_trac_hoc",
+    "doc_title": "Lục Hào Phong Thủy Dự Trắc Học",
+    "total_headings": 246,
+    "total_lines": 6909,
+    "total_bullets": 6163,
+    "figures_audit": {
+      "total_figures_manifest": 183,
+      "embedded_figures": 184,
+      "proof_blocks": 184,
+      "deduction_blocks": 184,
+      "missing_figures": []
+    },
+    "lexicon_audit": {
+      "key_terms_count": 13,
+      "key_entities_count": 3,
+      "resolved_terms_count": 13,
+      "resolved_entities_count": 3
+    }
+  },
+  "summary": {
+    "total_gates": 4,
+    "passed_gates": 4,
+    "threshold": 0.95,
+    "final_decision": "PASSED"
+  },
+  "remediation_directives": []
+}

@@ -1,0 +1,276 @@
+{
+  "worker_id": "worker_12",
+  "total_chunks": 18,
+  "chunks": [
+    {
+      "chunk_id": "ch17_1",
+      "title": "Con trai đã biết cười",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_1.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_1_con_trai_a_biet_cuoi_branches.md",
+      "figures": [
+        {
+          "id": "fig_150",
+          "figure_number": "150",
+          "caption": "Sơ đồ quẻ Thiên Phong Cấu biến Càn Vi Thiên",
+          "rel_path": "assets/page_0208_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch17_2",
+      "title": "Tại sao da phát ban?",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_2.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_2_tai_sao_da_phat_ban_branches.md",
+      "figures": [
+        {
+          "id": "fig_151",
+          "figure_number": "151",
+          "caption": "Sơ đồ quẻ Trạch Hỏa Cách biến Trạch Sơn Hàm",
+          "rel_path": "assets/page_0209_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch17_3",
+      "title": "Thì ra đã không còn vật hóa giải",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_3.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_3_thi_ra_a_khong_con_vat_hoa_giai_branches.md",
+      "figures": [
+        {
+          "id": "fig_152",
+          "figure_number": "152",
+          "caption": "Sơ đồ quẻ Phong Lôi Ích biến Phong Trạch Trung Phu",
+          "rel_path": "assets/page_0210_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch17_4",
+      "title": "Táng lễ dẫn tới ác mộng",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_4.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_4_tang_le_dan_toi_ac_mong_branches.md",
+      "figures": [
+        {
+          "id": "fig_153",
+          "figure_number": "153",
+          "caption": "Sơ đồ quẻ Phong Thủy Hoán biến Thiên Thủy Tụng",
+          "rel_path": "assets/page_0211_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch17_5",
+      "title": "Chuyện gì đã xảy ra với mèo con?",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_5.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_5_chuyen_gi_a_xay_ra_voi_meo_con_branches.md",
+      "figures": [
+        {
+          "id": "fig_154",
+          "figure_number": "154",
+          "caption": "Sơ đồ quẻ Đoài Vi Trạch biến Địa Thiên Thái",
+          "rel_path": "assets/page_0212_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch17_6",
+      "title": "Tắm rửa đã bị cảm lạnh",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_6.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_6_tam_rua_a_bi_cam_lanh_branches.md",
+      "figures": [
+        {
+          "id": "fig_155",
+          "figure_number": "155",
+          "caption": "Sơ đồ quẻ Thủy Thiên Nhu biến Địa Trạch Lâm",
+          "rel_path": "assets/page_0213_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch17_7",
+      "title": "Do tai vào nước gây ra",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_7.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_7_do_tai_vao_nuoc_gay_ra_branches.md",
+      "figures": [
+        {
+          "id": "fig_156",
+          "figure_number": "156",
+          "caption": "Sơ đồ quẻ Trạch Hỏa Cách biến Lôi Hỏa Phong",
+          "rel_path": "assets/page_0214_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch17_8",
+      "title": "Ngón tay bị nứt xử lý thế nào",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_8.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_8_ngon_tay_bi_nut_xu_ly_the_nao_branches.md",
+      "figures": [
+        {
+          "id": "fig_157",
+          "figure_number": "157",
+          "caption": "Sơ đồ quẻ Địa Phong Thăng biến Địa Thiên Thái",
+          "rel_path": "assets/page_0215_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch17_9",
+      "title": "Cổ họng không thể phát ra tiếng do nguyên nhân gì?",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_9.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_9_co_hong_khong_the_phat_ra_tieng_do_nguye_branches.md",
+      "figures": [
+        {
+          "id": "fig_158",
+          "figure_number": "158",
+          "caption": "Sơ đồ quẻ Trạch Lôi Tùy biến Thủy Lôi Truân",
+          "rel_path": "assets/page_0216_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch17_10",
+      "title": "Đã chặt cây rồi trồng lại",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_10.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_10_a_chat_cay_roi_trong_lai_branches.md",
+      "figures": [
+        {
+          "id": "fig_159",
+          "figure_number": "159",
+          "caption": "Sơ đồ quẻ Địa Thủy Sư biến Địa Hỏa Minh Di",
+          "rel_path": "assets/page_0217_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch17_11",
+      "title": "Đau đầu bởi vì một cành hoa",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_11.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_11_au_au_boi_vi_mot_canh_hoa_branches.md",
+      "figures": [
+        {
+          "id": "fig_160",
+          "figure_number": "160",
+          "caption": "Sơ đồ quẻ Thủy Hỏa Ký Tế biến Thủy Thiên Nhu",
+          "rel_path": "assets/page_0218_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch17_12",
+      "title": "Trên kính có tượng thần Phật",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_12.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_12_tren_kinh_co_tuong_than_phat_branches.md",
+      "figures": [
+        {
+          "id": "fig_161",
+          "figure_number": "161",
+          "caption": "Sơ đồ quẻ Phong Sơn Tiệm biến Trạch Sơn Hàm",
+          "rel_path": "assets/page_0219_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch17_13",
+      "title": "Động cửa sổ, họa tới thân",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_13.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_13_ong_cua_so_hoa_toi_than_branches.md",
+      "figures": [
+        {
+          "id": "fig_162",
+          "figure_number": "162",
+          "caption": "Sơ đồ quẻ Khôn Vi Địa biến Lôi Địa Dự",
+          "rel_path": "assets/page_0220_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch17_14",
+      "title": "Tiểu nhân tố giác",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_14.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_14_tieu_nhan_to_giac_branches.md",
+      "figures": [
+        {
+          "id": "fig_163",
+          "figure_number": "163",
+          "caption": "Sơ đồ quẻ Hỏa Thủy Vị Tế biến Lôi Thủy Giải",
+          "rel_path": "assets/page_0221_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch17_15",
+      "title": "Đã từng đánh chết một con rắn",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_15.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_15_a_tung_anh_chet_mot_con_ran_branches.md",
+      "figures": [
+        {
+          "id": "fig_164",
+          "figure_number": "164",
+          "caption": "Quẻ Khảm Vi Thủy biến Thủy Trạch Tiết",
+          "rel_path": "assets/page_0222_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch17_16",
+      "title": "Thì ra thứ có thể phát ra âm thanh là con gà",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_16.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_16_thi_ra_thu_co_the_phat_ra_am_thanh_la_co_branches.md",
+      "figures": [
+        {
+          "id": "fig_165",
+          "figure_number": "165",
+          "caption": "Quẻ Thiên Hỏa Đồng Nhân biến Ly Vi Hỏa",
+          "rel_path": "assets/page_0223_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch17_17",
+      "title": "Đã đến lăng viên liệt sĩ",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_17.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_17_a_en_lang_vien_liet_si_branches.md",
+      "figures": [
+        {
+          "id": "fig_166",
+          "figure_number": "166",
+          "caption": "Sơ đồ quẻ Sơn Hỏa Bí biến Địa Hỏa Minh Di",
+          "rel_path": "assets/page_0225_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch17_18",
+      "title": "Đã đổ bã thuốc ở Tây Bắc",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch17_18.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch17_18_a_o_ba_thuoc_o_tay_bac_branches.md",
+      "figures": [
+        {
+          "id": "fig_167",
+          "figure_number": "167",
+          "caption": "Sơ đồ quẻ Thủy Trạch Tiết biến Phong Lôi Ích",
+          "rel_path": "assets/page_0228_img_01.png"
+        }
+      ]
+    }
+  ]
+}

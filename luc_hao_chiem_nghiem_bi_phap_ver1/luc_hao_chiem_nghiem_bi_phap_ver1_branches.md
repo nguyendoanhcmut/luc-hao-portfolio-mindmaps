@@ -1,0 +1,5652 @@
+# Lục Hào Chiêm Nghiệm Bí Pháp
+
+## Lời Tựa
+
+- Dự đoán Lục hào chính là đại tông chi pháp, rất nhiều người học, nhưng có thể đạt tới cao tầng thì lại không nhiều.
+- Truy tìm nguyên nhân, chủ yếu là cổ thư sai lầm quá nhiều và không hợp với xã hội hiện đại, khiến rất nhiều người yêu thích nhưng mãi cũng không nắm được bí mật.
+- Cổ đại có nhiều thuật dự đoán và mỗi thuật dự đoán đều sâu không có tận cùng, cho nên muốn toàn bộ tinh thông thì căn bản là không thể.
+- Từ cảm giác ham hố nhưng tinh lực không đủ, ta liền từ bỏ các loại thuật dự đoán khác mà chuyên tâm nghiên cứu lục hào, khiến cho ta ở phương diện này trình độ dự đoán đột nhiên tăng mạnh và có những bước tiến trọng đại.
+- Dự đoán Lục hào có rất nhiều tên, mỗi thời đại và địa phương khác biệt đều có cách gọi riêng.
+- Thời Hán gọi là "Nạp giáp thệ pháp", thời Tống gọi là "Hỏa châu rừng pháp", Hồng Kông lại gọi là "Tiền tài khóa", "Văn vương khóa" các loại, tại Nhật Bản lại gọi là "Đoán dịch", Trung Quốc đại lục dân gian gọi là "Lục hào pháp".
+- Chân chính cách gọi phải là "Lục hào dự đoán pháp".
+- Thời Hán gọi là "Nạp giáp thệ pháp" bởi vì đưa can chi vào trong quẻ để dự đoán, nhưng giáp chỉ đại biểu Thiên can, mà loại thuật dự đoán này chủ yếu dùng địa chi để dự đoán nên gọi là nạp giáp có chút không thích hợp. "Hỏa châu rừng pháp" chính là do giới thiệu sách dự đoán mà gọi cũng không phải mười phần ổn thỏa."Tiền tài khóa" chính là dùng đồng tiền gieo quẻ mà gọi tên cũng không thể phản ánh chính xác bản chất của thuật dự đoán này, cách gọi này cũng không thích hợp."Văn vương khóa" chính vì Văn vương đã từng diễn quẻ mà gọi thành tên, nhưng thuật dự đoán này sinh ra từ thời Hán, cũng không phải là Văn vương sáng lập, cho nên gọi Văn vương khóa thì càng không đúng.
+- Người Nhật Bản xưng là "Đoán dịch", chính là do đời Minh có « Đoán Dịch Thiên cơ », « Đoán dịch toàn thư », « Đoán dịch Thần Thư » các loại, từ những sách này mà gọi tên, nhưng dịch học dự đoán thuật rất nhiều, Lục hào dự đoán chẳng qua chỉ là một lưu phái trong đó mà thôi, cho nên gọi là đoán dịch cũng có chút không ổn.
+- Nếu như tinh thông loại thuật dự đoán này liền sẽ biết, vị trí hào trong dự đoán có tác dụng vô cùng trọng yếu, sáu hào đều có hàm nghĩa đặc định, càng đi lên cao tầng, hào vị càng phát ra tác dụng mấu chốt, rất nhiều chi tiết đều từ sáu hào vị mà suy đoán ra, mà ta qua ứng dụng hào vị còn phát hiện "Di thần biện hào dự đoán pháp", đây cũng chính là thuật dự đoán khác biệt với những thuật dự đoán khác.
+- Cho nên gọi là "Lục hào dự đoán pháp" là chuẩn nhất.
+- Những năm này ta chủ yếu sáng tác thư tịch tiếng Nhật và mở rộng Lục hào tại Nhật Bản cho nên viết không nhiều sách Lục hào tiếng Trung.
+- Trước mắt tại Nhật Bản xuất bản có « Lục hào chiêm thuật thần kỳ ứng nghiệm », « Lục hào chiêm thuật áo nghĩa », « Lục hào chiêm thuật trong sinh hoạt », « Lục hào chiêm thuật đổi vận pháp », tại Hồng Kông xuất bản « Lục hào dự đoán bệnh tật », « Lục hào quẻ lệ nói thật ».
+- Nay kết duyên với Trần Hậu Lực, Hoàng Diệu Tông hai vị tiên sinh, tại Singapore xuất bản cuốn sách này, đây cũng là đại hạnh truyền thống văn hóa Trung Quốc.
+- Sau này ta đem toàn bộ tinh lực để nghiên cứu Lục hào, lần lượt xuất bản sách trên phương diện này, đem thành quả nghiên cứu nhiều năm qua viết ra, giúp mọi người sớm ngày đề cao trình độ dự đoán.
+- Khi viết cuốn sách này, bạn thân Đoán Kiến Nghiệp tiên sinh đã trợ giúp rất lớn, xin biểu thị cảm tạ.
+- Tác giả:
+- Vương Hổ ứng
+- Địa chỉ:
+- Sơn Tây tỉnh, Thái Nguyên thị, hẻm 22 Sở nghiên cứu khảo cổ tỉnh Sơn Tây.
+- Mã bưu cục:
+- 030001
+- Điện thoại liên lạc:
+- 0351 ——4429233
+
+## Chương 1: Dự Đoán Thời Tiết Bí Pháp
+
+### DỰ ĐOÁN THỜI TIẾT BÍ PHÁP
+
+- Dự đoán Lục hào khác biệt khoa học kỹ thuật hiện đại, không thể như hoá học, vật lý dùng phương pháp thí nghiệm khoa học để chứng minh.
+- Nếu như không tự mình nghiên cứu Lục hào cùng ứng dụng thực tế thì không thể bình luận gì đối với Lục hào và cũng không thể có khả năng thăm dò Lục hào một cách sâu sắc.
+- Lục hào dự đoán thời tiết mặc dù không thể dự đoán kết quả được trăm phần trăm, nhưng lại có xác suất trúng khá cao, dự đoán chuẩn xác hay không, phán đoán là một phương diện, gieo quẻ cũng là mấu chốt, chỉ có bắt giữ chuẩn xác quẻ tượng mới có thể phán đoán chính xác.
+- Tại Nhật Bản, có một cô gái nhỏ mười ba tuổi dùng sách Lục hào tiếng Nhật của ta dự đoán thời tiết có thể đạt tới trăm phần trăm.
+- Bây giờ dự báo thời tiết dùng ứng dụng khoa học kỹ thuật hiện nhưng cũng có lúc sai.
+- Tỉ như thượng tuần tháng 12 năm 2001, vì khí tượng cục không dự đoán được ngày hôm sau Bắc Kinh có tuyết lớn, nên dân chúng không có chút chuẩn bị nào với bão tuyết và lãnh đạo cục khí tượng Bắc Kinh đã phải xin lỗi dân chúng.
+- Dự báo thời tiết hiện đại không phải một người có thể làm, muốn dự báo chuẩn xác thời tiết, phải dùng vệ tinh khí tượng, thông qua khí lưu biến hóa cùng độ chênh lệch nhiệt độ trong ngày, lại tham khảo số liệu năm trước mới có thể đưa ra kết luận chính xác.
+- Nhưng Lục hào dự đoán chỉ cần một người liền có thể tiến hành, dùng ba đồng tiền gieo quẻ, chân không bước ra khỏi nhà, chỉ mấy phút có thể đoán xem thời tiết vài trăm dặm thậm chí mấy ngàn dặm, chẳng những có thể xem thời tiết ngày hôm đó mà còn có thể xem vài ngày sau, thậm chí mấy tháng sau, hoặc một ngày bất kỳ.
+- Đây chính là chỗ thần kỳ của Lục hào dự đoán.
+#### Tại sao Lục hào có thể xem chuẩn thời tiết?
+
+- Lục hào có thể dự đoán chuẩn thời tiết tuyệt không phải trùng hợp tình cờ, mà vì trong lục thân có rất nhiều tin tức phong phú, bao hàm nhiều dạng ý tứ, nó có thể ăn khớp đối ứng với rất nhiều chuyện trong vũ trụ, việc này có thể chứng thực thông qua vô số lần nghiệm chứng.
+- Như vậy, dùng Lục hào dự đoán thời tiết, lục thân đối ứng với cái gì, cơ chế ở đâu?
+- Phía dưới ta sẽ giảng thuật một chút.
+- Từ dịch học tư duy, vũ trụ hình thành là từ Vô cực (hỗn độn) biến Thái Cực (vũ trụ đến cực hạn sinh âm dương), sau đó từ Thái Cực sinh Lưỡng Nghi, dương tạo thành trời, âm tạo thành đất.
+- Người hơi hiểu về dịch học đều biết, Càn Vi Thiên là Cha (Phụ), Khôn Vi Địa là Mẹ (Mẫu), bởi vậy Lục hào liền dùng Phụ mẫu để biểu thị thiên địa.
+- Vì sao trong Lục hào Hào Phụ mẫu biểu thị mưa, điều này với việc hình thành mưa có quan hệ rất lớn.
+- Dùng khoa học để giải thích việc hình thành mưa, là do hơi nước bốc lên từ mặt đất tới không trung biến thành mây, gặp khí lạnh ngưng kết thành giọt nước, rơi xuống đất chính là mưa.
+- Mà dùng Lục hào để giải thích, mưa là do âm dương trao đổi mà hình thành.
+- Tức là mặt đất âm khí hướng lên trời, cùng dương khí tương hợp, tiến hành trao đổi liền tạo thành mưa, Phụ mẫu chính là biểu tượng thiên địa âm dương, bởi vậy Hào Phụ mẫu có ý tứ là mưa.
+- Những lục thân khác đại biểu hàm nghĩa lại từ đâu mà đến?
+- Là từ lục thân sinh khắc quan hệ diễn nghĩa mà tới.
+- Phân tích suy luận: Thê tài khắc Phụ mẫu, Phụ mẫu đại biểu mưa, bị khắc mưa sẽ ngừng, Thê tài sẽ có ý là trời nắng.
+- Nhưng Thê tài sinh Quan quỷ, cho nên Thê tài mặc dù chủ nắng, cũng vẫn có mây.
+- Phân tích suy luận: Quan quỷ sinh Phụ mẫu, có sấm sét sẽ hình thành mưa, bởi vậy Quan quỷ ý là sấm sét.
+- Lại vì sương mù, hơi nước lên đến bầu trời liền là mây, từ trên bản chất mà nói, sương mù, hơi nước cùng mây là một, bởi vậy Quan quỷ cũng nghĩa là hơi nước, sương mù.
+- Phân tích suy luận: Huynh đệ khắc Thê tài, Thê tài bị khắc trời sẽ không còn nắng, trời không có nắng vì có mây che mặt trời, bởi vậy Huynh đệ nghĩa là mây.
+- Phân tích suy luận: Tử tôn có hàm nghĩa mặt trời, nắng, mặt trăng, vì nó có thể khắc Quan quỷ, Quan quỷ bị khắc, mây mù sẽ tan biến, ban ngày có thể trông thấy mặt trời, ban đêm có thể trông thấy mặt trăng, cho nên Tử tôn liền chủ trời nắng.
+- Phân tích suy luận: Huynh đệ sinh Tử tôn, nó có thể khiến trời nắng, gió có thể đem mây mù thổi tan, cho nên Huynh đệ lại có hàm nghĩa là gió.
+- Cổ đại dự đoán sư thông qua quan hệ sinh khắc giữa lục thân mà diễn nghĩa ra rất nhiều hàm nghĩa, cực đại phong phú tin tức, dùng Lục hào dự đoán thời tiết để thực hiện nguyện vọng tiên tri.
+##### Dự đoán thời tiết thực ra là thăm dò Lục hào chân lý
+
+- Dù là khai trương cửa hàng hay tổ chức hôn lễ đều sẽ có nhiều khách khứa đến chúc mừng, nếu tự nhiên mưa to thì quá phiền toái, bởi vậy chọn lựa ngày tốt phải xem thời tiết.
+- Bình thường công việc thường lên kế hoạch cả mười ngày nửa tháng, nhưng để chọn được ngày trời trong gió mát thì dựa vào dự báo thời tiết hiện đại là không thực tế, dự báo thời tiết là cho cả một khu vực lớn chứ xem thời tiết cho một khu vực nhỏ thì rất khó.
+- Huống chi thời gian càng lâu, dự báo thời tiết càng khó chính xác.
+- Bởi vậy, chọn ngày tốt đồng thời muốn chọn ngày có thời tiết tốt, chỉ có thể dùng cách truyền thống để dự đoán, đây cũng chính là mặt đặc biệt của Lục hào.
+- Lục hào chẳng những có thể dự đoán thời tiết, mà còn có thể thông qua dự đoán thời tiết thăm dò đến Lục hào chân lý, cũng là cách giúp chúng ta luyện tập đề cao kỹ năng xem quẻ.
+- Bởi vậy gieo quẻ dự đoán thời tiết sẽ giúp chúng ta đề cao trình độ đoán quẻ.
+- Mời xem mấy ví dụ phía dưới liền có thể biết được.
+##### Ví dụ 1: ** Hôm trước TV dự báo thời tiết thông báo hôm sau nhiệt độ không khí sẽ giảm mạnh, nếu dùng Lục hào dự đoán, lục thân nào biểu hiện nhiệt độ không khí hạ xuống? Từ góc độ ngũ hành đến xem, Thủy chủ rét lạnh, nhiệt độ thấp, Hoả nóng bức, ấm áp, mà thực tế dự đoán ứng nghiệm như thế nào? Nếu như ứng nghiệm, đây chính là một ví dụ rất tốt, thế là buổi sáng ngày 1 tháng 11 năm 2001 ta dậy thật sớm gieo quẻ xem nhiệt độ không khí trong ngày, ngày Mậu Thìn, tháng Tuất gieo được quẻ Sơn Thiên Đại Súc.
+
+- Bối cảnh chiêm đoán và thời gian: Thời gian lập quẻ:
+- 18:41:1 - 1/11/2001 (giờ Dậu, ngày 25/9/2001 Lịch tiết khí)
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Tân Dậu, ngày Mậu Thìn, tháng Mậu Tuất, năm Tân Tỵ
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Sương giáng           Lệnh tháng:
+- Tuất-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Phân tích suy luận: Phụ mẫu Ngọ hỏa không hiện lên quẻ, nằm ở hào hai, Nhật Nguyệt đều không sinh phù nên là hưu tù.
+- Phân tích suy luận: Huynh đệ Tuất thổ lâm Nguyệt kiến, Nhật thần xung là ám động, xem từ Ngũ Hành mười hai cung tràng sinh, Tuất là mộ khố của Hỏa, mộ khố là cất giữ, quản lý, khống chế, Tuất thổ ám động, Ngọ hỏa nhập mộ, lực của Hỏa càng yếu, Hỏa đại biểu ấm áp, Hỏa yếu, đây chính là biểu hiện nhiệt độ không khí giảm xuống.
+- Xem ra dùng thủy hỏa đại biểu nhiệt độ có đạo lí riêng của nó.
+- Nhưng cũng không thể một mực dùng thủy hỏa biểu thị nhiệt độ không khí biến hóa.
+- Đây chỉ là một nhân tố tham khảo mà thôi.
+- Cổ nhân đem nhiệt độ không khí phán đoán định vị tại Quan quỷ, mùa hè Quan quỷ vượng động là khốc nhiệt, mùa đông Quan quỷ vượng động là giá lạnh.
+- Nay trong quẻ Quan quỷ Dần mộc hưu tù lưỡng hiện, xem hào Quan quỷ trì thế, hưu tù lâm Xà, Xà chủ biến dị, cũng có ý nhiệt độ không khí giảm xuống.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 1.** Chính quái Sơn Thiên Đại Súc
+    - <img src="assets/page_0009_img_01.png" alt="Hình 1" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 2.** Biến quái Sơn Thiên Đại Súc
+    - <img src="assets/page_0009_img_02.png" alt="Hình 2" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lục hào dự đoán dựa trên toàn bộ tin tức trong quẻ, giữa mỗi sự vật đều có mối tương hỗ, đây mặc dù chỉ là quẻ dự đoán nhiệt độ không khí biến hóa nhưng cũng có thể dùng để đoán thời tiết.
+- Hào Phụ mẫu chủ mưa, nay trong quẻ hào Phụ mẫu hưu tù phục lâm mộ tại Nguyệt, hôm nay chắc chắn không có mưa, nhìn qua cửa sổ, liền thấy bầu trời trong xanh, nhưng đại biểu cho trời nắng là Tử tôn lại phục giống Phụ mẫu, Huynh đệ chủ mây vượng tướng ám động cho thấy trời trong xanh sẽ bị mây che khuất.
+- Phân tích suy luận: Tử tôn mặc dù phục nhưng được Nhật Nguyệt sinh phù là vượng tướng, phi thần Huynh đệ Thìn thổ bị Nguyệt kiến xung phá, Tử tôn hiện, chính là tượng không phải cả ngày đầy mây.
+- **Ứng nghiệm:** Mặc xong quần áo đi ra ngoài, trời rét buốt, rõ ràng cảm giác được nhiệt độ không khí giảm xuống rất nhiều.
+- Giờ Thìn mây dần dần nhiều lên, tầng mây thêm dày, giờ Thân mây biến mất, lại chuyển thành trời nắng.
+- Tại sao giờ Thìn sẽ xuất hiện mây, giờ Thân lại chuyển thành trời nắng, xem quẻ, chúng ta sẽ biết được ảo diệu bên trong, kỳ thật quẻ tượng đã nói rõ.
+- Phân tích suy luận: Tử tôn Thân kim Phi thần Nguyệt phá, giờ Thìn Phi thần thực phá, Tử tôn bị ép, mây sẽ xuất hiện, giờ Thân chính là lúc Tử tôn phục xuất hiện, cho nên lại chuyển trời nắng.
+- Nên ví dụ mặc dù là dự đoán nhiệt độ không khí biến hóa, nhưng muốn đánh giá quẻ này, lại dính đến rất nhiều tri thức của Lục hào.
+- Nhất định phải nắm giữ mộ khố, Nguyệt phá, ám động, phi phục, ứng kỳ, xem một quẻ vô cùng đơn giản, chỉ cần cẩn thận nghiền ngẫm, liền sẽ từ đó cảm nhận được chỗ ảo diệu của Lục hào.
+##### Ví dụ 2: ngày Tân Dậu tháng Tuất xem thời tiết ngày hôm sau được quẻ Thủy Địa Tỷ biến Trạch Địa Tụy.
+
+- Phân tích suy luận: Tử tôn độc phát, rất dễ dàng đơn giản nói là trời nắng.
+- Nhưng nhìn kỹ một chút, Quan quỷ Mão mộc được Nguyệt kiến hợp vượng, Nhật xung là ám động.
+- Phân tích suy luận: Tử tôn phát động là trời nắng, nhưng biểu thị trời đầy mây, mây mù Quan quỷ ám động, vậy là có mâu thuẫn.
+- Người mới học dưới loại tình huống này sẽ rất khó lựa chọn phán đoán chính xác.
+- Thời tiết biến hóa như một ma pháp sư thần thông quảng đại, âm tình biến đổi thất thường, sẽ không dừng lại tại một điểm.
+- Lấy quẻ là từ sơ hào lấy lên, đây chính là thể hiện quy luật phát triển của sự vật từ sơ cấp hướng lên cao cấp.
+- Sơ hào là sơ kỳ của sự vật, giai đoạn sơ cấp, hào sáu là chung cực của sự vật cũng là giai đoạn cao cấp.
+- Bên trong hàm nghĩa mỗi hào vị chính là căn cứ vào nguyên lý này để tiến hành phán đoán.
+- Căn cứ chiêm đoán: Căn cứ vào thứ tự hào vị trước sau, quẻ tượng kể trên cho thấy ngày hôm sau thời tiết sẽ là từ âm u chuyển sang nắng.
+- **Ứng nghiệm:** Trên thực tế thời tiết ngày hôm sau buổi sáng âm u, giờ Mùi mặt trời bắt đầu ló ra, giờ Thân nắng to.
+- Tại sao giờ Mùi sẽ bắt đầu chuyển nắng?
+- Bởi vì giờ Mùi là mộ khố của Quan quỷ, mộ khố có hàm nghĩa cất giữ, đồng thời lại sinh Tử tôn, cho nên giờ Mùi thời tiết sẽ từ âm u chuyển thành nắng.
+- Giờ Thân nắng to, chính là ứng Tử tôn Thân kim động gặp trị thành ứng kỳ.
+- Thông qua ví dụ này, chúng ta cần hiểu rõ những kiến thức dạng này.
+- Nguyệt hợp hào là hợp vượng, đồng thời nếu có Nhật thần đến xung liền thành ám động.
+- Một cái khác cần nắm giữ là cách dùng mộ khố.
+- Trọng yếu nhất chính là nhận biết hào vị, trình tự hào vị chính là giai đoạn phát triển của sự vật.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 3.** Hình quẻ Thủy Địa Tỷ (Chính quái)
+    - <img src="assets/page_0011_img_01.png" alt="Hình 3" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 4.** Hình quẻ Trạch Địa Tụy (Biến quái)
+    - <img src="assets/page_0011_img_02.png" alt="Hình 4" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### Phụ mẫu cũng có hàm nghĩa sương mù
+
+- Trong cổ thư nói: "Phụ mẫu là mưa, tuyết, sương mù, phát thì bát phương trơn bóng" Phụ mẫu mùa hè là mưa, mùa đông là tuyết, đây là nghiệm chứng chân lý trải qua hơn trăm năm, nhưng Phụ mẫu là sương mù, kết luận này có chính xác không?
+- Hãy xem tính chất của mưa và sương mù, cả hai đều là vật chất đồng loại, mưa là nước thể lỏng, sương mù là nước trạng thái khí, hẳn không có khác nhau.
+- Bất quá cho dù kết luận này chính xác, lúc dự đoán làm thế nào tách biệt mưa và sương mù thì cổ nhân không luận kỹ càng.
+- Mời xem quẻ dưới đây.
+##### Ví dụ 1: ** ngày Canh Tuất tháng Dậu, xem hôm sau thời tiết thế nào được quẻ Thiên Sơn Độn biến Bát Thuần Ly.
+
+- Trong quẻ nếu có hào động thì xem hào động trước.
+- Trong quẻ này Huynh đệ cùng Phụ mẫu phát động.
+- Phân tích suy luận: Huynh đệ chủ phong vân, Huynh đệ Thân kim được Nguyệt kiến tỷ hòa, Nhật thần tương sinh, động hóa hồi đầu sinh là vượng tướng, ngày hôm sau nhất định sẽ có gió mạnh.
+- Trong quẻ Phụ mẫu Thìn thổ phát động, bình thường sẽ phán đoán là có mưa.
+- Nhưng là Phụ mẫu không được Nguyệt kiến sinh phù, động hóa hồi đầu khắc, phi thường hưu tù, bị Nhật xung là tách ra, Phụ mẫu bị tách ra, liền không hình thành nên giọt nước, cũng không thể đoán ngày hôm sau có mưa.
+- Nhưng thần cơ ở hào động, Hào Phụ mẫu phát động ở đây không thể đoán trời mưa, đã nói lên hào Phụ mẫu nói đến tin tức khác.
+- Lấy hào vị để xem, sơ hào, hào bốn là mặt đất, hào ba, hào sáu là trời, hào hai, hào năm là người.
+- Sơ hào động mà tương hợp Nguyệt kiến, hợp
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 5.** Hình quẻ Thiên Sơn Độn (Chính quái)
+    - <img src="assets/page_0012_img_01.png" alt="Hình 5" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- là níu kéo, chính là hơi nước vờn ở mặt đất, không thể bay lên trời.
+- Đây chính là hiện tượng sương mù, bởi vậy ngày hôm sau khả năng có sương mù.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 6.** Hình quẻ Bát Thuần Ly (Biến quái)
+    - <img src="assets/page_0012_img_02.png" alt="Hình 6" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **Ứng nghiệm:** Hôm sau, bên ngoài khắp nơi là sương mù, đến khoảng 10h20 sương mù mới dần dần tán đi.
+- Gió Tây Bắc bắt đầu thổi mãnh liệt, quẻ suy đoán ứng nghiệm, không thể không khiến người cảm thán Lục hào thần nghiệm.
+- Tại sao hơn 10 giờ lại sương mù tán đi, bắt đầu có gió lớn, chúng ta trở lại quẻ để nhìn một chút lý do.
+- Hơn 10 giờ là giờ Tỵ, là Phụ mẫu Thìn thổ tuyệt địa, cho nên sương mù vào lúc này tán đi.
+- Đại biểu cho gió Huynh đệ Thân kim động, động cần gặp trị, gặp hợp, giờ Tỵ là hào động ứng kỳ, bởi vậy giờ Tỵ gió bắt đầu thổi.
+- Từ ví dụ trên có thể thấy được hào vị lúc dự đoán thời tiết cũng có chỗ hữu dụng, dự đoán thời tiết để nắm chắc ứng kỳ, có thể xem là một loại đường tắt.
+##### Ví dụ 2: Ngày Giáp Tuất tháng Tuất xem ngày hôm sau thời tiết thế nào được quẻ Sơn Phong Cổ biến Sơn Thiên Đại Súc.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 7.** Sơn Phong Cổ
+    - <img src="assets/page_0013_img_01.png" alt="Hình 7" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+  - **Hình 8.** Sơn Thiên Đại Súc
+    - <img src="assets/page_0013_img_02.png" alt="Hình 8" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Trong quẻ có hào động thì nhìn hào động trước.
+- Phân tích suy luận: Thê tài Sửu thổ độc phát, được Nhật Nguyệt so đỡ là vượng tướng, Thê tài chủ nắng, ngày kế tiếp hẳn là trời nắng.
+- Nhưng Thê tài động mà hóa ra Phụ mẫu Tý thủy, Phụ mẫu chủ mưa, cũng có thể hiểu thành trời đang nắng chuyển thành đầy mây và có mưa.
+- Nhưng nhìn kỹ một chút, Phụ mẫu Tý Thủy bị Nhật Nguyệt khắc chế, hưu tù vô khí, hẳn là đoán thành trời đang nắng có chút mây.
+- Ví dụ này hào Phụ mẫu từ sơ hào hóa ra, cùng hào động tương hợp, cùng ví dụ trên có quy luật giống nhau, rất có thể ngày hôm sau có sương mù.
+- Ngày Thứ Hai, bầu trời sáng sủa không mây, mặt đất có sương mù.
+- Gần hết giờ Mùi xuất hiện mây mỏng nhưng không nhiều, trời vẫn nắng là chủ yếu
+##### Kim không tắc minh
+
+- Trong sách xưa nói: "Kim không thì vang, Điện Mẫu ra oai." đối ứng với "Kim không thì minh, thủy không thì lưu, lửa không thì phát, mộc không thì hủ, thổ không thì vỡ".
+- Ta liền đem vấn đề này hỏi qua mấy vị dự đoán sư dân gian, đừng nói là ứng dụng, liền ngay cả mấy câu nói đó là có ý gì cũng không hiểu.
+- Cái này trên thực tế là giảng cách dùng không vong.
+- Ta từng dùng "Kim không tắc minh" đoán nghiệm tiếng vang, rắm, mắng chửi, ở đây thì dùng để dự đoán thời tiết, đoán là lôi điện, cũng là một loại tác dụng của không vong.
+- Bình thường mọi người chỉ biết dùng không vong để đoán cát hung, ứng kỳ, mà không biết không vong còn có tượng, đây cũng chính là đánh giá trình độ của dự đoán sư.
+##### Ví dụ 1: ** ngày Kỷ Mão tháng Thìn, xem thời tiết hôm sau được quẻ Trạch Phong Đại Quá biến Thủy Địa Tỷ.
+
+- Căn cứ chiêm đoán: Căn cứ vào hào động để phán đoán.
+- Trong quẻ có hai hào Phụ mẫu cùng một hào Quan quỷ phát động.
+- Thoạt nhìn quẻ này Phụ mẫu là Thủy, cùng ngũ hành với mưa, Phụ mẫu Hợi thủy trì thế phát động hóa hồi đầu sinh, mà Quan quỷ phát động lại sinh phụ mẫu, thông tin trời mưa hết sức rõ ràng.
+- Nhưng khi dự đoán mà bỏ qua suy vượng của hào động thì sẽ sai nhiều đúng ít.
+- Phân tích suy luận: Phụ mẫu Hợi thủy bị Nguyệt kiến khắc chế, lâm tử ở Nhật, hào hai Phụ mẫu động mà hóa tuyệt.
+- Chính là như cây không rễ, tuy được Quan quỷ động mà tương sinh nhưng không gượng nổi.
+- Huống chi Quan quỷ không vong nên lực đã yếu đi
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 9.** Chính Quái: Trạch Phong Đại Quá
+    - <img src="assets/page_0015_img_01.png" alt="Hình 9" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- nhiều, bởi vậy ngày hôm sau sẽ không mưa.
+- Nhưng thần cơ tại hào động, động tất có nguyên nhân.
+- Cổ nhân nói: "Kim không thì minh", dự đoán chính là sẽ có sấm sét, quẻ nội lại phản ngâm, cũng là tượng có âm thanh rên rỉ, bởi vậy có thể phán đoán là ngày kế tiếp sẽ có sấm sét mà không có mưa.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 10.** Biến Quái: Thủy Địa Tỷ
+    - <img src="assets/page_0015_img_02.png" alt="Hình 10" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **Ứng nghiệm:** Ban đêm TV dự báo thời tiết ngày hôm sau trời nắng.
+- Bởi vậy đối với phán đoán của bản thân cũng không có mười phần nắm chắc.
+- Sáng ngày hôm sau trời nắng, ngay cả một áng mây cũng không có, ta còn tưởng rằng ta đoán sai.
+- Nhưng vừa đến giờ Thân, bầu trời đột nhiên tụ rất nhiều mây đen, từ trong mây sấm sét ầm ầm, trời như muốn mưa.
+- Nhưng cuối cùng vẫn không có một giọt mưa, đến giờ Dậu, mây đen tán đi, trời lại trong xanh, có thể thấy Lục hào dự đoán kỳ diệu.
+##### Ví dụ 2: ** ngày Ất Hợi tháng Thìn, xem thời tiết hôm sau được quẻ Lôi Phong Hằng biến Bát Thuần Chấn.
+
+- Trong quẻ có hào động thì đầu tiên xem hào động trước.
+- Quẻ này có ba hào động thành thế liên tục tương sinh.
+- Sơ hào Thê tài chủ nắng nhưng động hóa phụ mẫu, là trời nắng chuyển nhiều mây có mưa, Phụ mẫu Hợi thủy lâm Nhật lại được Quan quỷ phát động tương sinh là vượng tướng, tất có mưa lớn.
+- Phân tích suy luận: Quan quỷ là Kim lâm không vong, phù hợp "Kim không thì minh", tượng sấm sét, tổng hợp mọi tin tức phán đoán ngày hôm sau trời nắng chuyển âm u, có mưa rào sấm chớp.
+- **Ứng nghiệm:** Buổi sáng nắng, buổi chiều giờ Thân chuyển âm u, sấm sét vang dội, mưa to, mưa càng ngày càng lớn đến tận hôm sau.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 11.** Chính Quái: Trạch Phong Đại Quá
+    - <img src="assets/page_0016_img_01.png" alt="Hình 11" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 12.** Biến Quái: Thủy Địa Tỷ
+    - <img src="assets/page_0016_img_02.png" alt="Hình 12" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### Thuận gió cùng ngược gió
+
+- Mới học dự đoán thời tiết, vừa nhắc tới gió liền sẽ liên hệ đến Huynh đệ.
+- Nhưng là muốn xem thuận gió hay ngược gió, chỉ bằng Huynh đệ là không cách nào phân rõ.
+- Gió có phương hướng, dựa vào phương hướng gió mà nói có thể nói là thuận gió cũng có thể nói là ngược gió, gió thuận nghịch là do người đi trên đường nói.
+- Bình thường dự đoán thời tiết không cần phân rõ gió thuận nghịch, chỉ có ra lúc ra ngoài, mới cần dự đoán gió thuận hay nghịch.
+- Nhất là đối người ở trên biển, dự đoán hướng gió càng trọng yếu.
+- Cổ nhân đem Quan quỷ định nghĩa là ngược gió, Tử tôn định nghĩa là thuận gió, hoàn toàn chính xác và có đạo lí riêng của nó.
+- Chuyên môn dự đoán gió, Quan quỷ phát động trong quẻ, trì thế, hẳn là ngược gió, Tử tôn động trong quẻ, sinh thế, tất là thuận gió.
+- Phân tích suy luận: Tử tôn chính là giải ưu chi thần, có ý là khoái hoạt, hữu ích cho, hoặc động trong quẻ chính là đi chơi nên không có tượng trở ngại, đương nhiên thuận gió mới có thể có ý như vậy.
+- Phân tích suy luận: Quan quỷ là sầu lo, tai họa chi thần, động trong quẻ, xuất hành tất không thuận lợi, chuyên môn dùng để xem gió, tất là ngược gió.
+- Bất quá chỉ nhận biết này là không đủ.
+- Theo thực tiễn của bản thân, mình dự đoán xuất hành, Huynh đệ động mà khắc thế cũng là ngược gió, Huynh đệ sinh thế là thuận gió.
+- Trong quẻ có Kị thần động mà khắc thế, Huynh đệ là tử địa của hào thế là ngược gió, Huynh đệ khắc chế Kị thần là thuận gió.
+- Quỷ huynh hóa lẫn nhau hóa bất lợi cho Dụng thần là ngược gió, sinh dụng là thuận gió.
+##### Ví dụ 1: ** một người đến xem đi thuyền qua sông cát hay hung? Ngày Kỷ Dậu tháng Thân được quẻ Phong Hỏa Gia Nhân biến Thủy Hỏa Ký Tế.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 13.** Chính quái Phong Hỏa Gia Nhân
+    - <img src="assets/page_0017_img_01.png" alt="Hình 13" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 14.** Biến quái Thủy Hỏa Ký Tế
+    - <img src="assets/page_0017_img_02.png" alt="Hình 14" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy hào thế làm Dụng thần.
+- Kị thần độc phát khắc thế, không tốt.
+- May mắn là Nhật Nguyệt khắc chế Kị thần, lại lâm không vong, chính là hữu kinh vô hiểm.
+- Quẻ tại Tốn cung, tốn là gió, Huynh đệ lâm mộc phát động, chính là tượng nửa đường gặp gió, Huynh đệ khắc thế, đi thuyền qua sông tất gặp ngược gió.
+- **Ứng nghiệm:** Thuyền giữa đường quả gặp ngược gió, nhưng gió không lớn, chỉ là thuyền nhỏ có chút lay động, bình an đến sông bờ bên kia.
+##### Ví dụ 2: ** ngày Quý Mùi tháng Mão, một người Nhật Bản đến xem hôm nay ra ngoài xử lý công việc cát hung thế nào? Được quẻ Phong Lôi Ích biến Trạch Thủy Tiết.
+
+- Phân tích suy luận: Hào thế Thìn thổ là đập chứa nước, công việc tại ao nước hoặc bên hồ nước.
+- Phân tích suy luận: Hào thế tỷ hòa với Nhật thần nên vượng tướng, trong quẻ Huynh đệ mão mộc, Dần mộc lưỡng động khắc thế, lại tại Tốn cung, chính là ngược gió, ra ngoài lao động chắc chắn bị gió rất khó chịu.
+- **Ứng nghiệm:** Làm việc tại ven hồ từ sáng sớm đến tối mịt, gió vừa lớn vừa lạnh.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 15.** Chính quái Phong Lôi Ích
+    - <img src="assets/page_0018_img_01.png" alt="Hình 15" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 16.** Biến quái Thủy Trạch Tiết
+    - <img src="assets/page_0018_img_02.png" alt="Hình 16" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### Ngũ Hành cũng là tin tức để xem thời tiết
+
+- Bình thường, Lục hào dự đoán là lấy lục thân động tĩnh sinh khắc cùng suy vượng để phán đoán biến hóa thời tiết.
+- Bất quá tất cả lục thân đều từ Ngũ Hành sinh khắc biến hóa mà đến, cho nên lúc dùng lục thân để xem, chúng ta không thể không xem bản chất Ngũ Hành.
+- Ngũ Hành là yếu tố cơ bản nhất cấu thành vũ trụ, xuyên thấu qua Ngũ Hành cũng có thể nhìn thấy cái bóng sự vật.
+- Nếu như đem lục thân cùng Ngũ Hành kết hợp lại, tương hỗ tham khảo tiến hành phán đoán, xác suất dự đoán chính xác sẽ cao hơn nhiều.
+- Từ Ngũ Hành góc độ đến xem biến hóa thời tiết, thổ là trời đầy mây, mây đen, kim là lôi, mưa đá, mộc là gió, nước là trời đầy mây, mưa tuyết, lửa là trời nắng, thiểm điện.
+- Bất quá ngàn vạn không thể lẫn lộn đầu đuôi, lấy Ngũ Hành làm chủ mà không cần lục thân.
+- Nếu như như thế là mười phần sai, sai lầm tận gốc rễ dự đoán Lục hào.
+##### Ví dụ 1: ** Ngày Mậu Dần tháng Ngọ, xem ngày thời tiết ngày hôm sau được quẻ Thiên Phong Cấu biến Phong Thiên Tiểu Súc.
+
+- Trong quẻ có hào động xuất hiện, lấy hào động để xem.
+- Phân tích suy luận: Phụ mẫu Sửu thổ được Nguyệt kiến sinh phù là vượng tướng, phát động chủ mưa, Quan quỷ Ngọ hỏa lâm Nguyệt, Nhật sinh phù vượng động hóa Phụ mẫu Mùi thổ, chính là tượng dông tố đan xen.
+- Phân tích suy luận: Phụ mẫu là thổ, thổ là mây đen, càng gia tăng thông tin mưa dầm.
+- Phân tích suy luận: Quan quỷ bình thường là mây đen, sương mù, lôi điện, nhưng cũng không phải hễ Quan quỷ phát động liền có lôi điện sinh ra.
+- Quẻ này hào Tài không gặp không, không phát động, cũng không phải quan quỷ, cho nên lấy Kim hào để phán đoán lôi điện
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 17.** Chính quái Thiên Phong Cấu
+    - <img src="assets/page_0019_img_01.png" alt="Hình 17" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- có chút miễn cưỡng.
+- Trong quẻ Quan quỷ là Hỏa phát động, từ góc độ Ngũ Hành thì Hỏa là sét, sét xuất hiện tất có sấm, thời tiết ngày hôm sau chính là dông tố.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 18.** Biến quái Phong Thiên Tiểu Súc
+    - <img src="assets/page_0019_img_02.png" alt="Hình 18" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **Ứng nghiệm:** Ngày hôm sau giờ Sửu trời bắt đầu mưa, giờ Dần tạnh, một mực âm u đến giờ Thìn.
+- Giờ Tỵ lại bắt đầu mưa, giờ Ngọ trời u ám, sấm ầm ầm, mưa càng lúc càng lớn.
+- Gió mạnh.
+- Giờ Mùi mưa dần dần ngớt và tạnh hẳn, giờ Dậu dông tố lại nổi lên đến giờ Tuất mới dừng.
+##### Ví dụ 2: ** Ngày Mậu Dần tháng Ngọ, xem thời tiết hôm đó được quẻ Lôi Phong Hằng biến Lôi Thiên Đại Tráng.
+
+- Trong quẻ có hào động liền dùng hào động để phán đoán.
+- Sơ hào Thê tài Sửu thổ phát động, Thê tài chủ nắng, thoạt xem thì chắc là trời nắng, nhưng động mà hóa Phụ mẫu Tý thủy, lại có Quan quỷ Thân kim ám động, nên nắng sẽ chuyển âm u, mưa nhỏ mới đúng.
+- Đầu tiên nhìn Thê tài Sửu thổ, từ góc độ Ngũ Hành, Thổ là trời đầy mây, mây mù, động mà hóa Phụ mẫu, ý càng mạnh.
+- Phân tích suy luận: Phụ mẫu là mưa, lâm Thủy, Thủy cũng chủ mưa, thông tin mưa càng mạnh hơn.
+- Nhưng hào Phụ mẫu chính là từ sơ hào biến ra, lại cùng hào động tương hợp, nên đoán sương mù mới đúng, trong quẻ còn có Quan quỷ Thân kim ám động, cũng là nhân tố để tham khảo.
+- Phân tích suy luận: Quan quỷ là Kim, lâm không vong ám động, là thông tin sét đánh, bởi vậy tổng hợp toàn bộ thông tin trong quẻ, thời tiết hôm nay chính là nắng chuyển âm u có tượng sương mù và mưa bụi mịt mờ, trời còn có sấm.
+- **Ứng nghiệm:** Buổi sáng nắng, cuối giờ Mùi trời bắt đầu chuyển âm u và mưa, giờ Thân mưa phùn mịt mờ, nơi xa có tiếng sấm truyền đến, chỗ gần lại không có sấm, giờ Dậu mưa rào.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 19.** Chính quái Lôi Phong Hằng
+    - <img src="assets/page_0020_img_01.png" alt="Hình 19" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 20.** Biến quái Lôi Thiên Đại Tráng
+    - <img src="assets/page_0020_img_02.png" alt="Hình 20" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### Nhật thần cũng có thể tham khảo
+
+- Trong lúc dự đoán can chi của Nhật thần ảnh hưởng đến tất cả các hào trong quẻ, đây là điều dự đoán sư nào cũng biết.
+- Trong dự đoán thời tiết chỉ nhìn tác dụng của Nhật Nguyệt ảnh hưởng các hào trong quẻ cũng đã đủ nhưng muốn thật chắc chắn và cẩn thận cũng có thể xem can chi của Nhật thần tham khảo cũng sẽ có thêm tham khảo.
+##### Ví dụ 1: ** ngày Bính Tuất tháng Thìn, xem thời tiết ngày hôm sau được quẻ Thủy Phong Tỉnh biến Bát Thuần Tốn.
+
+- Trong quẻ có hào động liền nhìn hào động mà dự đoán.
+- Trong quẻ Phụ mẫu Tý Thủy phát động, Phụ mẫu chủ mưa, nhưng Phụ mẫu bị Nhật Nguyệt khắc chế nên hưu tù, thông thường sẽ đoán trời đầy mây, nhưng ngày hôm sau là ngày Hợi, cùng ngũ hành với Phụ mẫu, trợ vượng cho Phụ mẫu, bởi vậy đoán là trời mưa, nhưng vì Phụ mẫu không vượng nên mưa sẽ nhỏ.
+- Phân tích suy luận: Phụ mẫu động mà hóa ra huynh đệ, chính là có gió có mưa.
+- **Ứng nghiệm:** Dự báo thời tiết trên TV là trời nắng chuyển âm u.
+- Thực tế, sáng hôm sau trời âm u, khoảng chín giờ mưa nhỏ không lâu lại tạnh, buổi chiều âm u còn có gió thổi.
+##### Ví dụ 2: ** ngày Kỷ Sửu tháng Thìn, xem thời tiết hôm sau được quẻ Lôi Hỏa Phong biến Lôi Sơn Tiểu Quá.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 21.** Bảng quẻ Thủy Phong Tỉnh biến Bát Thuần Tốn
+    - <img src="assets/page_0021_img_01.png" alt="Hình 21" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Trong quẻ có hào động liền nhìn hào động mà dự đoán.
+- Phân tích suy luận: Tử tôn phát động hóa Quan quỷ, Tử tôn chủ nắng, Quan quỷ chủ âm u, chính là tượng nắng chuyển âm u.
+- Nhưng Tử tôn không được Nhật Nguyệt sinh phù, không vượng.
+- Mà Quan quỷ được Nhật Nguyệt trợ giúp, lực lượng mạnh hơn nhiều so với Tử tôn, có thể trời nắng gặp nhiều mây?
+- Xem can chi ngày hôm sau là Canh Dần, Quan quỷ bị khắc Tử tôn được trợ giúp, ứng là trời nắng, có mây bay.
+- **Ứng nghiệm:** Trên TV dự báo thời tiết là trời đầy mây.
+- Mà trên thực tế sáng hôm sau nắng, buổi chiều cũng nắng, nhưng nắng không lớn, trời có một ít mây.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 22.** Bảng quẻ Lôi Hỏa Phong biến Lôi Sơn Tiểu Quá
+    - <img src="assets/page_0022_img_01.png" alt="Hình 22" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+## Chương 2: Dự Đoán Động Đất Bí Pháp
+
+- Động đất là một trong những thiên tai khủng khiếp nhất đối với con người.
+- Từ cổ đại đã có nghiên cứu thăm dò với động đất và các phương pháp dự đoán động đất.
+- Thời kì Đông Hán hai ngàn năm trước, đã có người tên là Trương Hành phát minh ra máy dự báo động đất có thể giám sát động đất từ xa.
+- Nhưng cuối cùng cũng không thể có những dự đoán sớm, chuẩn xác và bước tiến đối với động đất.
+- Hiện nay, các nhà khoa học đang không ngừng nghiên cứu các phương pháp dự đoán động đất sớm, có khi cũng có đôi chút thành công nhưng đa phần là thất bại.
+- Dự đoán Lục hào có độ chuẩn xác đã được nghiệm chứng sinh hoạt hàng ngày nhưng dùng để đoán động đất thì sẽ như thế nào?
+- Ta tự thân nghiên cứu thì thấy Lục hào có thể dùng để dự đoán địa chấn.
+### Sách cổ cũng có dự đoán động đất
+
+- Dùng Lục hào để dự đoán động đất chỉ có Lưu Bá Ôn trong « Hoàng Kim Sách » có chỗ luận thuật.
+- Nhưng cũng không phải chuyên nói tới việc này mà chỉ miêu tả đôi chút. trong sách chỉ nói một câu: "Khôn Vi Địa chấn, mang hình, thì nghi ngờ có hai chỗ sụp đổ".
+- Tác giả « Bốc phệ chính tông » có chú thích câu nói này: "Đằng Xà quỷ tại Khôn cung động, chủ có động đất.
+- Gặp kim thì có âm thanh, mang hình thì sụp đổ." Không có ví dụ để làm bằng chứng lý luận chính xác.
+- Từ tự thân ta nghiên cứu cùng thực tiễn thì các luận giải trên có đạo lí riêng của nó, nhưng để làm căn cứ dự đoán động đất còn có chút chưa tổng thể, không đầy đủ. « Hoàng Kim Sách » kết luận không phải đặc biệt nhằm vào dự đoán động đất mà là tổng hợp dự đoán các loại tai họa.
+- Vì Khôn là đất, Quan quỷ là tiêu chí tai hại, Đằng Xà là kinh hãi, biến dị, cho nên là thông tin động đất.
+- Nếu như đặc biệt dự đoán động đất, không chỉ ở cung Khôn, mà trong sáu mươi bốn quẻ, bất kỳ quẻ nào đều có thể chứa đựng thông tin động đất.
+#### Dự đoán động đất mới bước tiến
+
+- Mọi người đều biết, Trái đất là một thế giới cực nóng ở thể lỏng.
+- Vì dung nham bên trong Trái đất luôn hoạt động cùng với sự tự quay của nó tạo nên sự vận động mặt ngoài của Trái đất và từ đó dẫn phát núi lửa bộc phát cùng với động đất.
+- Trong dự đoán Lục hào, Đằng Xà có thuộc tính thổ đồng thời còn có hàm nghĩa kinh khủng, kinh dị, biến dị, động đất khiến mọi người khủng hoảng, trong quẻ nếu như hào lâm Đằng Xà phát động thì đây không thể nghi ngờ chính là thông tin động đất.
+- Phân tích suy luận: Quan quỷ là tai hoạ, tai hại, Quan quỷ phát động cũng là tiêu chí động đất.
+- Bởi vậy, cổ nhân đem thông tin động đất định vị tại Quan quỷ cùng Đằng Xà là chính xác.
+- Ngoài ra, ta còn phát hiện Câu Trần cùng hào Phụ mẫu cũng là một tiêu chí động đất.
+- Vì Câu Trần là thổ địa, kiến trúc.
+- Lúc động đất, các công trình kiến trúc rung lắc, bởi vậy nếu hào lâm Câu Trần phát động, tất nhiên cũng sẽ chứa thông tin động đất.
+- Phân tích suy luận: Phụ mẫu là kiến trúc, đại địa, động hóa hồi đầu khắc, hoặc lâm Câu Trần bị khắc, cũng là báo hiệu động đất.
+- Ta vì nghiên cứu bí mật dự đoán động đất bằng Lục hào đã đọc rất nhiều sách cổ, mặc dù không có ví dụ chuyên về dự đoán động đất nhưng ngoài ý muốn phát hiện một ví dụ xem niên vận gặp động đất và một ví dụ xem chuyển nhà gặp động đất.
+- Từ đó có bằng chứng lấy Câu Trần là tiêu chí động đất là chính xác.
+- Dự đoán động đất, trong quẻ hào lâm Đằng Xà, Câu Trần phát động, Quan quỷ phát động, hoặc hào nào đó động hóa Quan quỷ, Thê tài lâm mộc phát động, đều là thông tin động đất.
+- Bởi là Tài động sinh Quan quỷ, khắc Phụ mẫu, hào Phụ mẫu là thổ, đại địa, kiến trúc bị khắc cũng là thông tin động đất.
+- Bạch Hổ Quan quỷ cùng động, động đất mãnh liệt, thế tới hung mãnh, số người chết nhiều; xem động đất, Quan quỷ, Chu Tước cùng động, động đất sẽ kèm thêm hoả hoạn;
+- Phân tích suy luận: Quan quỷ, Huyền Vũ cùng động, động đất phát sinh ở nơi có nước hoặc kèm thêm sóng thần;
+- Phân tích suy luận: Quan quỷ, Thanh Long cùng động, động đất phát sinh ở vùng nhân khẩu dày đặc hoặc phố xá sầm uất.
+- Quẻ Du hồn quẻ thì tâm động đất rộng, tác động đến phạm vi lớn; quẻ Quy hồn quẻ, có dư chấn.
+- Phản ngâm phục ngâm, một địa khu đông đúc có động đất, ám động đa số có cảm giác động đất.
+- Lục xung, động đất mãnh liệt, quẻ Lục hợp, động đất còn tiếp tục thời gian dài.
+##### Phán đoán phương hướng động đất
+
+- Phán đoán phương hướng động đất, lấy gieo quẻ địa vực làm trung tâm tiến hành phán đoán phương vị.
+- Thông tin phương vị rút ra từ hào vị hoặc địa chi hoặc hóa ra địa chi, cũng có thể dùng hào chứa thông tin động đất lâm quẻ cung để phán đoán.
+- Gặp tám quẻ bát thuần hoặc hào chứa thông tin động đất gặp hợp, có thể đảo ngược để xem.
+- Lục hào dự đoán động đất, có thể lấy nơi dự đoán là trung tâm phán đoán xem chung quanh có động đất hay không, cũng có thể chỉ định nơi nào đó để xem.
+- Nếu chỉ định nơi xem, có thể lấy nơi đó làm trung tâm triển khai phương hướng phán đoán.
+- Hào vị chứa thông tin động đất lâm hào thế là tại đó hoặc phụ cận có thông tin động đất, lâm hào ứng là địa phương khác hoặc nước ngoài có thông tin động đất.
+- Hào chứa thông tin động đất ở quẻ nội, tâm động đất gần, ở quẻ ngoại là cách nơi dự đoán xa, bất quá đây cũng không phải là luận chết mà nên sâu chuỗi theo tình huống cụ thể linh động.
+##### Phán đoán cấp độ động đất
+
+- Cấp độ động đất lớn nhỏ căn cứ sự suy vượng của hào chứa thông tin động đất cùng lục thân để phán đoán.
+- Câu Trần hoặc Đằng Xà cùng Quan quỷ phát động, cấp độ động đất lớn, cùng Phụ mẫu Thê tài Huynh đệ phát động, cấp độ động đất tương đối nhỏ.
+- Cùng Tử tôn phát thì cấp độ càng nhỏ hơn.
+- Đồng thời còn tham khảo sự suy vượng của hào, hào chứa thông tin động đất vượng tướng cấp độ động đất lớn, hưu tù cấp độ động đất nhỏ.
+- Định số cấp độ động đất cụ thể là áp dụng số tiên thiên, số quẻ cùng số ngũ hành mà định ra.
+- Số Tiên thiên Bát quái chính là phản ánh trạng thái lúc vũ trụ hình thành, theo thứ tự Càn là một, Đoài là hai, Ly là ba, Chấn là bốn, Tốn là năm, Khảm là sáu, Cấn là bảy, Khôn là tám.
+- Số Tiên thiên thì phân theo thiên can tiên thiên số cùng địa chi tiên thiên số.
+- Cụ thể là:
+- Giáp Kỷ Tý Ngọ là chín, Ất Canh Sửu Mùi là tám, Bính Tân Dần Thân là bảy, Đinh Nhâm Mão Dậu là sáu, Mậu Quý Thìn Tuất là năm, Tị Hợi thuộc về bốn.
+- Số thứ tự Ngũ hành phân số sinh cùng số tròn, hợp xưng tạo ra số. quyết là:
+- Hợi Tý một sáu thủy, Dần Mão ba tám mộc, Tị Ngọ hai bảy hỏa, Thân Dậu bốn chín kim, Thìn Tuất Sửu Mùi thổ năm mười.
+##### Phương pháp tính toán cấp độ động đất
+
+- Một, có thể trực tiếp dùng số Ngũ hành, cũng có thể dùng số tiên thiên của hào chứa thông tin động đất và phương vị động đất.
+- Hoặc trực tiếp xem số tiên thiên của can chi.
+- Tỉ như Bát Thuần Càn biến Hỏa Thiên Đại Hữu.
+- Nếu xem được động đất ở hướng Đông Nam, muốn phán đoán cấp độ động đất, hào ba Phụ mẫu Thìn thổ đối ứng tại Đông Nam, liền dùng Phụ mẫu Thìn thổ để phán đoán cấp độ động đất.
+- Phối can chi là Giáp Thìn, Giáp là số chín, Thìn là số năm, cộng hai số là mười bốn, vì mười bốn không hợp với thường quy cấp độ động đất nên chia cho hai được bảy, thành số cấp độ động đất.
+- Nếu hào chứa đựng thông tin động đất hưu tù, cấp độ động đất sẽ không quá lớn, lại chia cắt số hào để phán đoán.
+- Quẻ này Phụ mẫu Thìn thổ tại hào ba, lấy số tiên thiên can chi bên trên cộng ba là mười bảy, đem mười bảy chia ba là 5.7, cấp độ động đất liền thành 5.7, hoặc là cũng có thể trực tiếp đọc số Ngũ hành, thổ là số năm, đoán cấp độ động đất là cấp năm.
+- Nếu như trong quẻ biểu hiện phương hướng tây bắc có địa chấn, liền có thể dùng hào sáu Phụ mẫu Tuất thổ để phán đoán.
+- Phương pháp tính toán cùng hào ba Phụ mẫu Thìn thổ giống nhau.
+- Số tiên thiên can chi nhỏ nên có thể trực tiếp dùng số tiên thiên.
+- Hào phối can chi là Nhâm Tuất, Nhâm là sáu, Tuất là năm, bởi vậy đoán cấp độ động đất là 6.5.
+- Hai, số Quẻ cung cộng cấp độ phương vị động đất ra số cấp độ động đất.
+- Tỉ như Thiên Hỏa Đồng Nhân biến Thủy Địa Tỷ.
+- Nếu xem được phương Đông bắc có động đất, muốn tính toán cấp độ động đất, đầu tiên xem quẻ cung của Thiên Hỏa Đồng Nhân, Thiên Hỏa Đồng Nhân là Ly cung, Ly số ba, Đông Bắc cùng Cấn tương đối, Cấn là bảy, hai số tương hợp là mười, vì mười không hợp thường quy cấp độ động đất, chia cho hai là năm, có thể xác định cấp độ động đất là năm cấp, nếu hào chứa đựng thông tin động đất rất vượng, cấp động đất không có thể quá nhỏ, phải đưa số hào chứa đựng thông tin động đất vào, ví dụ quẻ này, đối ứng Đông Bắc hào Sửu thổ tại hào hai, thêm số hai, được số mười hai, lại chia cho hai, được sáu, liền có thể phán đoán cấp độ động đất là cấp sáu.
+##### Động đất ứng kỳ
+
+- Phán đoán thời điểm phát sinh động đất giống với ứng kỳ thông thường giống nhau.
+- Khi dự đoán động đất trong khoảng thời gian dài, lấy năm tháng làm ứng kỳ, ngắn hạn lấy ngày làm ứng kỳ.
+- Không vong ứng xung không thực không, Nguyệt phá ứng thực phá hợp phá, hợp chờ xung, xung chờ hợp, nhập mộ ứng xung mộ.
+- Để mọi người có nhận biết tổng thể đối với Lục hào dự đoán động đất xin đưa ra mấy ví dụ sau:
+- Ta có mấy người bạn tu luyện khí công có năng lực linh cảm khá mạnh, Tiểu Lý làm đầu bếp tại một nhà hàng là một trong số đó.
+- Anh ta nói nếu có động đất phát sinh thì Thiên mục của anh ta sẽ xuất hiện chấn động, có thể cảm giác được.
+- Năm ngày 4 tháng 5 năm 1996 (Ngày Tân Dậu, tháng Quý Tị, năm Bính Tý), Tiểu Lý gọi điện thoại tới nói Thiên Mục của anh ta phát sinh chấn động, cảm giác được địa phương xung quanh có thể có động đất.
+- Anh ta chỉ có thể cảm giác được động đất sẽ xảy ra nhưng lúc nào, hướng nào thì anh ta không biết.
+- Bởi vậy để cho ta dùng Lục hào dự đoán cụ thể.
+- Ta gieo quẻ dự đoán Trung Quốc cùng với các quốc gia xung quanh trong một tháng có động đất hay không được quẻ Địa Thiên Thái biến Địa Lôi Phục. (Nơi dự đoán là Sơn Tây)
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Đinh Dậu, ngày Tân Sửu, tháng Nhâm Thìn, năm Bính Tý
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Cốc vũ Lệnh tháng:
+- Thìn-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 23.** Địa Thiên Thái
+    - <img src="assets/page_0027_img_01.png" alt="Hình 23" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+  - **Hình 24.** Địa Lôi Phục
+    - <img src="assets/page_0027_img_02.png" alt="Hình 24" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Trong quẻ hào Quan quỷ phát động, tất có địa chấn.
+- Quẻ nội phục ngâm chính là tượng động đất.
+- **Phương vị động đất:** Địa Thiên Thái thuộc Khôn cung, khôn là Tây Nam, hướng Tây Nam sẽ có động đất.
+- Quẻ ngoại là Khôn, Khôn chủ đại địa, quẻ nội là Càn, Càn là trời, là cao lớn, thông qua những tin tức này, người ta liên tưởng đến
+- vùng cao nguyên Thanh Tàng hướng Tây nam, cao nguyên Thanh Tàng sẽ có động đất.
+- Phân tích suy luận: Quan quỷ ở quẻ nội phát động, quẻ nội là càn, càn là Tây Bắc, phương hướng tây bắc cũng có động đất.
+- Phân tích suy luận: Quan quỷ Dần mộc động mà hợp Thê tài Hợi thủy, Thê tài Hợi thủy, đối ứng tại Tây Bắc, lại lâm Câu Trần, Thê tài Hợi thủy chính là tâm địa chấn.
+- Lấy hào thế là Trung Quốc, hào thế là mộ khố của Hợi thủy, mộ khố có ý là quản lý, quản hạt, khu vực có phát sinh động đất hướng tây bắc chắc là địa phương do Trung Quốc quản lý.
+- Quẻ nội phục ngâm, hào thế Huynh đệ Thìn thổ bị hào Quan quỷ Dần mộc liền cạnh khắc thương, Thìn là đập chứa nước, có thể nghĩa rộng là hồ nước, thuỷ vực, Quan quỷ lâm Huyền Vũ, chính là tượng tại địa phương có nước phát sinh động đất, Thìn thổ đối ứng tại Đông Nam, Đông nam Trung Quốc là Đài Loan, lân cận là Philippines, Indonesia đều thuộc hướng đông nam Sơn Tây.
+- Những địa phương này cũng có khả năng phát sinh động đất.
+- Phân tích suy luận: Quan quỷ Dần mộc phát động, dần là Đông Bắc, hào bốn Huynh đệ Sửu thổ là Đông Bắc, ở quẻ ngoại bị Quan quỷ Dần mộc khắc thương, động đất ở hướng Đông bắc là bên ngoài Trung Quốc.
+- Nhưng hào bốn cùng hào thế liền nhau, là nước láng giềng Trung Quốc.
+- **Cấp độ động đất:** Hướng Tây nam ~ Tây Nam là khôn, khôn là thổ, cùng hào chứa thông tin động đất Quan quỷ là quan hệ tương khắc, thổ bị mộc khắc, cấp độ động đất tất lớn, tính toán cụ thể, quẻ cung số tám thêm phương vị số tám lại thêm hào chứa thông tin động đất số hai là mười tám.
+- Mười tám không hợp cấp độ động đất, chia cho ba là sáu, cho nên khu vực cao nguyên Thanh Tàng hướng Tây nam động đất sẽ có cấp sáu.
+- Phương Tây bắc ~ Tây Bắc càn vị thuộc kim, hào chứa thông tin động đất mộc, lực khắc yếu, cho nên cấp động đất sẽ nhỏ.
+- Tính toán cụ thể, số quẻ cung là tám, thêm phương vị là một, thêm hào vị mang thông tin động đất là số hai, cộng lại là mười một, chia cho hai là 5.5, cho nên động đất ở hướng Tây bắc là cấp năm.
+- Lại lấy hào năm Thê tài Hợi thủy chủ hướng Tây bắc tính toán, nạp can chi là Quý Hợi, Quý có số tiên thiên là năm, Hợi là bốn, vì hai số bé, có thể trực tiếp tính là 5.4.
+- Phương Đông nam ~ đại biểu phương Đông nam Thìn thổ bị Quan quỷ lân cận tương khắc, có động đất chắc chắn sẽ lớn.
+- Tính toán cụ thể, quẻ cung số tám thêm phương vị số năm lại thêm hào chứa thông tin động đất số hai, cộng lại là mười lăm.
+- Mười lăm chia cho hai là 7.5, phương Đông nam sẽ có động đất 7.5 độ.
+- Hoặc lấy đại biểu phương Đông nam là hào Huynh đệ Thìn thổ để tính toán, nạp can chi Giáp Thìn, Giáp là chín, Thìn là năm, chia cho hai là bảy, từ hai loại phương pháp tính toán, phương Đông nam động đất có cấp 7 đến 7.5.
+- Phương Đông bắc ~ Đông Bắc là Cấn, thuộc tính là thổ, bị hào có thông tin động đất khắc.
+- Bởi vậy nếu có động đất, cấp độ sẽ mạnh.
+- Tính toán cụ thể, quẻ cung số tám thêm phương vị số bảy là mười lăm, mười lăm chia cho hai là 7.5, bởi vậy cấp độ động đất là 7.5.
+- Lại dùng số thiên tiên của Huynh đệ Sửu thổ để xem, nạp can chi Quý Sửu, Quý là năm, Sửu là tám lại thêm hào có chứa thông tin động đất, cộng lại là 15, chia cho hai vẫn được 7.5, cho nên động đất ở phương Đông bắc có cấp 7.5.
+- **Thời gian phát sinh động đất:** Hào chứa thông tin động đất Quan quỷ Dần mộc, nhưng Nguyên thần Thê tài Hợi thủy không vong, Nguyệt phá, hẳn là ngày 5 tháng 6, tức tháng Ngọ mới có thể phát sinh, vì Nguyên thần Nguyệt phá, sang tháng không phá.
+- **Ứng nghiệm:** Phương Tây nam, ngày 2 tháng 7 (ngày Canh Tý) tại tỉnh Vân Nam phát sinh động đất 5.2 độ, ngày 3 tháng 5 (ngày Tân Sửu) Tây Tạng phát sinh động đất cấp sáu.
+- Phương Tây bắc, ngày mùng 1 tháng 6 (ngày Kỷ Tị) Tỉnh Cam Túc phát sinh động đất 5.4 độ.
+- Phương Đông nam, ngày 12 tháng 6 (ngày Canh Thìn) Philippines phát sinh động đất cấp bảy, ngày 17 tháng 7 (ngày Ất Dậu) lại phát sinh động đất 7.2 độ.
+- Phương Đông bắc, ngày 10 tháng 6 (ngày Mậu Dần) quần đảo A Lưu phát sinh động đất 7.6 độ.
+- Từ quẻ nội phục ngâm thì những địa phương trên dễ còn tiếp tục có động đất.
+##### Ví dụ 2: ** Ngày 12 tháng 7 năm 1996 (ngày Canh Tuất tháng Ất Mùi năm Bính Tý), Tiểu Lý lần nữa gọi điện thoại tới nói Thiên Mục của anh ta lại nháy lên, khả năng lại có nơi nào đó sắp có phát sinh động đất. Ta gieo quẻ xem trong vòng một tháng Trung Quốc và các quốc gia xung quanh có động đất hay không được quẻ Bát Thuần Cấn biến Lôi Sơn Tiểu Quá (nơi dự đoán là Sơn Tây)
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Ất Dậu, ngày Canh Tuất, tháng Ất Mùi, năm Bính Tý
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Tiểu thử                    Lệnh tháng:
+- Mùi-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 25.** Bát Thuần Cấn (Chính quái)
+    - <img src="assets/page_0030_img_01.png" alt="Hình 25" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+  - **Hình 26.** Lôi Sơn Tiểu Quá (Biến quái)
+    - <img src="assets/page_0030_img_02.png" alt="Hình 26" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Phân tích suy luận: Quan quỷ Dần mộc trì thế lâm Đằng Xà phát động, tất có động đất, cấp độ động đất lớn.
+- Chủ quẻ Lục xung, động đất mạnh.
+- Phương vị động đất:
+- Chủ quẻ là Cấn, Cấn là Đông Bắc, hào chứa thông tin động đất Quan quỷ Dần mộc đối ứng, phương Đông bắc phương chắc chắn có động đất.
+- Phân tích suy luận: Quan quỷ Dần mộc tại hào sáu, hào sáu là nước ngoài, là địa phương xa, nhưng lại là hào thế nên hẳn là biên cảnh Trung Quốc.
+- Chủ quẻ là quẻ Bát thuần, có thể đảo ngược phán đoán, tương ứng Đông Bắc là Tây Nam, hướng Tây nam cũng có động đất.
+- Trong quẻ có Huynh đệ Tuất thổ cùng Thìn thổ, cả hai đều bị Quan quỷ khắc, nhưng Tuất thổ hóa hồi đầu sinh, lại lâm Nhật, cho nên cả hai mặc dù cùng bị Quan quỷ khắc, nhưng Thìn thổ bị khắc mạnh hơn.
+- Cổ nhân nói "Hào tổn thương Nhật
+- "Nguyệt, đồ thụ kỳ danh", Tuất thổ lâm Nhật, bị khắc yếu.
+- Cho nên lấy Thìn thổ là phương hướng động đất, Thìn thổ đối ứng tại Đông Nam, phương Đông nam có động đất.
+- **Cấp độ động đất:** phương Đông bắc —— quẻ cung số bảy thêm động đất phương vị số bảy là mười bốn, chia cho hai được bảy, cho nên phương Đông bắc có động đất cấp bảy.
+- Lại lấy Đông Bắc là hào Quan quỷ Dần mộc tính toán, nạp can chi là Bính Dần, Bính có số tiên thiên là bảy thêm Dần có số tiên thiên cũng là bảy tính ra mười bốn, chia cho hai cũng là bảy, cho nên phương Đông bắc sẽ có động đất cấp bảy.
+- Phương Tây nam —— quẻ cung số bảy thêm phương vị số tám, lại thêm hào chứa thông tin động đất số sáu, cộng lại được hai mươi mốt số, chia cho ba là bảy, phương Tây nam có động đất cấp bảy.
+- Lại lấy đại biểu Tây nam Tử tôn Thân kim tính toán, nạp can chi Bính Thân, Bính số tiên thiên là bảy thêm Thân số tiên thiên cũng là bảy lại thêm bản thân hào số ba, cộng được mười bảy, chia cho ba là 5.7, cho nên phương Tây nam sẽ có động đất cấp bảy hoặc cấp 5.7.
+- Phương Đông nam —— quẻ cung số bảy thêm phương vị số năm lại hào chứa thông tin động đất số sáu cộng được mười tám, chia cho ba là sáu.
+- Mặt khác đại biểu Đông Nam là hào Huynh đệ Thìn thổ nạp can chi Bính thìn, Bính số tiên thiên là bảy thêm Thìn số tiên thiên là năm, lại thêm hào sơ cộng được mười ba, chia cho hai là 6.5, cho nên phương Đông nam có động đất cấp 6 đến 6.5.
+- **Thời gian phát sinh động đất:** Hào Quan quỷ Dần mộc không vong, Giáp Dần xuất không, động đất có khả năng rất lớn.
+- Canh Thân là ngày xung không cũng có thể là ứng kỳ.
+- Mặt khác Quan quỷ Dần mộc hưu tù, gặp ngày Hợi trường sinh cũng là ứng kỳ.
+- **Ứng nghiệm:** phương Đông bắc, ngày 16 tháng 7 (ngày Giáp Dần) bán đảo Kamchatka phát sinh động đất cấp 7.3. phương Tây nam, ngày 31 tháng 7 (Kỷ Tị) Tây Tạng phát sinh động đất cấp 5.7 (phương hướng ăn khớp, nhưng thời gian không ăn khớp).
+- Phương Đông nam, Indonesia ngày 22 tháng 7 (ngày Canh Thân) phát sinh động đất cấp 7.1, Đài Loan ngày 30 tháng 7 (Mậu thìn) phát sinh động đất cấp 5.3, ngày mùng 6 tháng 8 (ngày Ất Hợi) đảo Phi-gi phát sinh động đất cấp 7.1.
+##### Ví dụ 3: ** Mùa hè năm 1996, ta sinh sống ở Thái Nguyên trong thành thị đồn là sắp có động đất lớn, trên TV mỗi ngày đều có nói đến phòng hộ và phương pháp cấp cứu nếu phát sinh động đất, dân chúng đều bàng hoàng, có một số người còn dựng lều trên đường chờ động đất.
+
+- Ngày Bính Tý tháng Thân gieo quẻ xem Thái Nguyên có động đất trong năm nay hay không được quẻ Thủy Hỏa Ký Tế biến Trạch Hỏa Cách
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Đinh Dậu, ngày Bính Tý, tháng Bính Thân, năm Bính Tý
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Lập thu Lệnh tháng:
+- Thân-Kim
+- Phương pháp lập quẻ:
+- Lục hào
+- **CHÍNH QUÁI**
+- **THỦY HỎA KÝ TẾ**
+- **BIẾN QUÁI**
+- **TRẠCH HỎA CÁCH**
+- Trong quẻ chỉ có một hào động, các tiêu chí khác như Câu Trần, Đằng Xà đều không lâm hào động, Thê tài cùng Quan quỷ yên tĩnh, không có chút dấu hiệu động đất.
+- Phân tích suy luận: Phụ mẫu phát động chính là truyền ngôn.
+- Năm nay không có động đất.
+- **Ứng nghiệm:** Quả nhiên bình an vô sự, không có phát sinh động đất.
+##### Ví dụ 4: ** Năm 1996 bình an không có động đất. Nhưng đến năm sau, lại bắt đầu có truyền ngôn sẽ có động đất. Ngày 26 tháng 3 năm 1997 (ngày Đinh Mão, tháng Quý Mão năm Đinh Sửu) ta lần nữa gieo quẻ xem Thái Nguyên năm đó có động đất hay không được quẻ Trạch Thiên Quải biến Bát Thuần Đoài.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 27.** Chính quái Thủy Hỏa Ký Tế
+    - <img src="assets/page_0032_img_01.png" alt="Hình 27" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 28.** Biến quái Trạch Hỏa Cách
+    - <img src="assets/page_0032_img_02.png" alt="Hình 28" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Đinh Mão, tháng Quý Mão, năm Đinh Sửu
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Xuân phân                     Lệnh tháng:
+- Mão-Mộc
+- Phương pháp lập quẻ:
+- Lục hào
+##### TRẠCH THIÊN QUẢI — BIẾN QUÁI: BÁT THUẦN ĐOÀI
+
+- Phân tích suy luận: Huynh đệ Thìn thổ lâm Đằng Xà phát động, chính là thông tin động đất.
+- Nhưng là Huynh đệ Sửu thổ bị Nhật Nguyệt khắc chế, lại động mà hóa thoái, hưu tù vô khí, dù cho có động đất cũng sẽ không lớn.
+- Động đất phát sinh thời gian này lấy thoái thần định ứng kỳ, cho nên đoán tháng Sửu sẽ có động đất nhẹ.
+- **Ứng nghiệm:** ngày Đinh Tị tháng Sửu Thái Nguyên phát sinh cảm giác động đất.
+##### Ví dụ 5: ** ngày 13 tháng 8 năm 1996 (ngày Nhâm Ngọ tháng Thân), xem Trung Quốc cùng các quốc gia xung quanh sắp tới có động đất không? Được quẻ Phong Thuỷ Hoán biến Thiên Sơn Độn. (Nơi dự đoán là Sơn Tây)
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 29.** Trạch Thiên Quải (Chính quái)
+    - <img src="assets/page_0033_img_01.png" alt="Hình 29" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 30.** Bát Thuần Đoài (Biến quái)
+    - <img src="assets/page_0033_img_02.png" alt="Hình 30" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Nhâm Ngọ, tháng Bính Thân, năm Bính Tý
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Lập thu                     Lệnh tháng:
+- Thân-Kim
+- Phương pháp lập quẻ:
+- Lục hào
+##### PHONG THỦY HOÁN — BIẾN QUÁI: THIÊN SƠN ĐỘN
+
+- Quẻ này Quan quỷ mặc dù phục, nhưng lại có Tử tôn Mùi thổ lâm Câu Trần phát động, là thông tin động đất.
+- **Phương vị động đất:** Quẻ tại Ly cung, hào chứa thông tin động đất ở quẻ ngoại phát động, quẻ ngoại là Tốn, Ly là phương nam, Tốn là Đông Nam, tổng hợp phán đoán là phương Đông nam có động đất.
+- Quẻ biến nhập Càn cung, quẻ ngoại lại hóa Càn, Càn là Tây Bắc, phương Tây bắc cũng sẽ có động đất.
+- Mà Tử tôn Mùi thổ đối ứng tại Tây Nam, cũng không thể bài trừ phương Tây nam có khả năng động đất.
+- **Cấp độ động đất:** Tử tôn hào là hào chứa thông tin động đất, cấp độ động đất sẽ không quá lớn.
+- Phương Đông nam —— quẻ cung số ba thêm phương vị số năm lại thêm hào số bốn cộng được mười hai.
+- Chia cho hai được sáu, cấp độ động đất là cấp sáu.
+- Lại lấy phương Đông nam là hào Tử tôn Thìn thổ tính toán, nạp can chi
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 31.** Phong Thủy Hoán (Chính quái)
+    - <img src="assets/page_0034_img_01.png" alt="Hình 31" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 32.** Thiên Sơn Độn (Biến quái)
+    - <img src="assets/page_0034_img_02.png" alt="Hình 32" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Mậu dần, Mậu số tiên thiên là năm, Thìn số tiên thiên là năm, số không lớn, có thể trực tiếp đọc là cấp 5.5.
+- Phương Tây bắc —— quẻ cung số ba thêm phương vị số một, lại thêm hào có thông tin động đất số bốn cộng được tám, tám chia cho hai được bốn, là động đất cấp bốn.
+- Phương Tây nam —— quẻ cung số ba thêm phương vị số tám cộng được mười một, chia cho hai được cấp 5.5.
+- Lại lấy đại biểu phương vị Tử tôn Mùi thổ tính toán, nạp can chi là Tân Mùi, Tân số tiên thiên là bảy thêm Mùi số tiên thiên là tám lại thêm hào bốn cộng được mười chín, bởi là cấp độ động đất nhỏ, chia cho ba là 6.3.
+- **Thời gian phát sinh động đất:** Tử tôn Mùi thổ là hào chứa thông tin động đất, ngày Mùi hoặc ngày sinh Mùi thổ tức Tị Ngọ có khả năng có động đất, Tử tôn Mùi thổ động mà hoá hợp, ngày xung khai Tử tôn Mùi thổ cũng có thể là có động đất.
+- **Ứng nghiệm:** phương Đông nam, ngày 6 tháng 9 (ngày Bính Tý) Đài Loan phát sinh động đất cấp 7.1 và 5.5, ngày 7 tháng 9 (ngày Đinh Mùi) lại phát sinh động đất cấp năm.
+- Phương Tây bắc, ngày 22 tháng 8 (ngày Tân Mão, phương vị đúng, ngày chưa chuẩn) Thanh Hải phát sinh động đất 5.1 độ, phương Tây nam, ngày 25 tháng 9 (ngày Ất Sửu) Vân Nam phát sinh động đất cấp 7.
+##### Ví dụ 6: ** ngày 17 tháng 2 năm 1997 (ngày Canh Dần, tháng Nhâm Dần năm Đinh Sửu), xem Sơn Tây năm đó có động đất hay không được quẻ Trạch Sơn Hàm biến Thiên Địa Bĩ.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Ất Dậu, ngày Canh Dần, tháng Nhâm Dần, năm Đinh Sửu
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Lập xuân Lệnh tháng:
+- Dần-Mộc
+- Phương pháp lập quẻ:
+- Lục hào
+- **CHÍNH QUÁI**
+- **TRẠCH SƠN HÀM**
+- **BIẾN QUÁI**
+- **THIÊN ĐỊA BĨ**
+- Phân tích suy luận: Phụ mẫu Mùi thổ lâm Đằng Xà phát động, Quan quỷ Ngọ hỏa ám động, có tượng động đất.
+- Phân tích suy luận: Phụ mẫu Mùi thổ hưu tù, lại tương hợp với Quan quỷ Ngọ hỏa, là có cảm giác động đất.
+- Hợp tất ứng xung khai nên đoán năm đó tháng Sửu Sơn Tây sẽ phát sinh có cảm giác động đất.
+- Kết quả ngày Đinh Tị tháng Sửu tại Thái Nguyên có cảm giác động đất.
+##### Ví dụ 7: ** ngày 20 tháng 3 năm 1997 (ngày Tân Dậu tháng Quý Mão năm Đinh Sửu), dự đoán Nhật Bản gần đây sẽ có động đất hay không được quẻ Địa Trạch Lâm biến Bát Thuần Đoài (đây là xem theo chỉ định)
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 33.** Chính quái Trạch Sơn Hàm
+    - <img src="assets/page_0036_img_01.png" alt="Hình 33" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 34.** Biến quái Thiên Địa Bĩ
+    - <img src="assets/page_0036_img_02.png" alt="Hình 34" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Đinh Dậu, ngày Tân Dậu, tháng Quý Mão, năm Đinh Sửu
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Kinh trập
+- Bối cảnh chiêm đoán và thời gian: Lệnh tháng:
+- Mão-Mộc
+- Phương pháp lập quẻ:
+- Lục hào
+##### ĐỊA TRẠCH LÂM | BIẾN QUÁI: BÁT THUẦN ĐOÀI
+
+- Địa Trạch Lâm là Khôn cung, Khôn là đại địa, Câu Trần lâm Thê tài Hợi thủy phát động, hào thế Mão mộc ám động, thông tin động đất rất rõ ràng.
+- **Phương vị động đất:** Đây là xem theo chỉ định, cho nên khi phán đoán phương vị lấy trung bộ Nhật Bản làm trung tâm tính toán.
+- Chủ quẻ là Khôn, Khôn là Tây Nam, phương Tây nam Nhật Bản có động đất.
+- Một hào chứa thông tin động đất khác là Quan quỷ Mão mộc lâm Huyền Vũ, động đất có khả năng phát sinh ở khu vực thuỷ vực.
+- Hào chứa thông tin động đất lưỡng hiện, động đất sẽ xuất hiện nhiều lần.
+- **Cấp độ động đất:** Quẻ cung số tám thêm phương vị số tám được mười sáu, Quan quỷ Mão mộc là ám động, cấp độ động đất sẽ không quá lớn.
+- Cho nên chia cho ba được 5.3, cấp độ động đất là 5.3.
+- Tính toán kiểu khác, quẻ cung số tám thêm phương vị quẻ số tám lại thêm hào chứa thông tin động đất cộng được hai mươi mốt,
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 35.** Chính quái Địa Trạch Lâm
+    - <img src="assets/page_0037_img_01.png" alt="Hình 35" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- vì cấp độ động đất nhỏ nên chia cho bốn đến được 5.3, cũng là cấp độ 5.3.
+- Mặt khác cũng có thể tính toán cách khác là quẻ cung số tám thêm phương vị số tám lại thêm hào chứa thông tin động đất khác ở hào hai cộng được mười tám, chia cho ba được sáu.
+- Cũng có thể trực tiếp tính Quan quỷ Mão mộc số tiên thiên là sáu nên động đất cấp sáu.
+- Hoặc trực tiếp xem hào Thê tài Hợi thủy số tiên thiên là năm, động đất cấp 5.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 36.** Biến quái Bát Thuần Đoài
+    - <img src="assets/page_0037_img_02.png" alt="Hình 36" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **Thời gian phát sinh động đất:** Hào chứa thông tin động đất Thê tài Hợi thủy phát động, có thể định ứng kỳ, tức ngày 22 tháng 3 hoặc mùng 3 tháng 4.
+- Ngoài ra Quan quỷ Mão mộc ám động, cũng có thể lấy ngày Mão là ứng kỳ, tức ngày 26 tháng 3.
+- **Ứng nghiệm:** đảo Lộc nhi Nhật Bản ngày 26 tháng 3 phát sinh động đất cấp 6.3, ngày mùng 3 tháng 4 phát sinh động đất cấp 5.5, ngày mùng 5 tháng 4 lại phát sinh động đất cấp 4.9.
+##### Ví dụ 8: ** Mùa thu năm 2000, ta cùng Sâm Điền tiên sinh khảo sát đặc dị công năng lưu lại Tây An, lúc ấy mời mấy vị có đặc dị công năng dự đoán năm 2001 Nhật Bản có động đất hay không, kết quả không ai dám mở miệng, ta gặp tràng diện khó xử, nghĩ thầm mình nghiên cứu dùng Lục hào dự đoán động đất cũng mấy năm, ở đây vừa vặn thử một lần, thế là xuất ra đồng tiền gieo một quẻ. Lúc ấy là ngày Đinh Mùi tháng Tuất gieo được quẻ Bát Thuần Ly biến Sơn Lôi Di.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Đinh Mùi, tháng Bính Tuất, năm Canh Thìn
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Hàn lộ Lệnh tháng:
+- Tuất-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+##### BÁT THUẦN LY | SƠN LÔI DI
+
+- Trong quẻ Thê tài Quan quỷ phát động, lâm Đằng Xà, Tử tôn Sửu thổ ám động, cho thấy ba hào chứa thông tin động đất.
+- Như vậy năm 2001 Nhật Bản khẳng định có động đất mà lại không chỉ một chỗ.
+- **Phương vị động đất:** Đây là xem chỉ định, ứng lấy trung tâm Nhật Bản làm để xem xét.
+- Đầu tiên Thê tài Dậu kim động khắc chế Phụ mẫu Mão mộc, Dậu là Tây, phía Tây Nhật Bản có động đất.
+- Mão mộc bị khắc tương ứng phía Đông, phía Đông cũng có khả năng phát sinh động đất, nhưng Phụ mẫu Mão mộc nhập mộ tại Nhật, trong cổ thư có ghi "Nhập mộ khó khắc", so sánh với phía Tây động đất khả năng nhẹ hơn.
+- Phân tích suy luận: Huynh đệ Tị hỏa mặc dù bị Quan quỷ Hợi thủy khắc thương, nhưng có Nhật Nguyệt khắc chế quan quỷ, lại tự thân động hóa hồi đầu khắc, Tử tôn Sửu thổ ám động khắc thương, phương hướng Tị hỏa đối ứng không có động đất.
+- Phân tích suy luận: Tử tôn Sửu
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 37.** Chính quái Bát Thuần Ly
+    - <img src="assets/page_0039_img_01.png" alt="Hình 37" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- thổ lâm Đằng Xà, thổ đối ứng tại trung bộ, Sửu thổ đối ứng tại Đông Bắc, bởi vậy trung bộ cùng Đông Bắc bộ cũng có thể phát sinh động đất.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 38.** Biến quái Sơn Lôi Di
+    - <img src="assets/page_0039_img_02.png" alt="Hình 38" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Quẻ tại Ly cung, Ly là nam, Nhật Bản nam bộ có khả năng phát sinh động đất.
+- Lấy bản đồ Nhật Bản so sánh tin tức trong quẻ, Thê tài Dậu kim động, quẻ ngoại biến thành Cấn, Dậu là tảng đá, nham thạch, Cấn là tay, vừa vặn Nhật Bản Đông Bắc bộ có huyện Nham Tay nên đoán huyện Nham Tay năm 2001 sẽ có phát sinh động đất.
+- Một chỗ động đất khác hào Quan quỷ là thủy, lại hóa xuất thủy khố Thìn thổ, chủ quẻ Lục xungg, liên hệ xung và thủy, đoán phía nam Nhật Bản có đảo Okinawa cũng có khả năng phát sinh động đất.
+- **Cấp độ động đất:** phương Đông bắc ~ quẻ cung số ba thêm phương vị quẻ số bảy lại thêm phương vị hào hai cộng được mười hai, chia cho hai được sáu.
+- Cách khác lấy Tử tôn Sửu thổ nạp can chi tính toán, Kỷ là chín, Sửu là tám, lại thêm hào hai cộng được mười chín, chia cho ba được 6.3, cho nên phương Đông bắc huyện Nham Tay năm 2001 có động đất cấp 6.3.
+- Tây Nhật Bản:
+- Quẻ cung số ba thêm phương vị quẻ số hai cộng được năm.
+- Tính cách khác đại biểu tây bộ hào Thê tài Dậu kim nạp can chi là Thân Dậu, can chi số tiên thiên cộng lại thêm hào số bốn được mười chín, chia cho ba là 6.3.
+- Cho nên đoán Tây Nhật Bản động đất cấp năm hoặc 6.3.
+- Nam Nhật bản ~ quẻ cung số ba thêm phương vị số ba, lại thêm ba hào có chứa thông tin động đất (2+3+4) được mười lăm, chia cho hai được 7.5.
+- **Thời gian phát sinh động đất:** Phán đoán cho một năm, chỉ tháng là được rồi.
+- Tháng có khả năng phát sinh động đất —— Quan quỷ Hợi thủy phát động, tháng Hợi (Dương lịch là tháng 11) là một ứng kỳ.
+- Sửu thổ ám động khắc chế Quan quỷ, tháng Tý hợp lại trợ vượng Quan quỷ, cũng là một ứng kỳ.
+- Nhật Bản dùng dương lịch, từ Dương lịch ngày mùng 1 tháng 1 coi như tiến vào năm 2001, nhưng Lục hào dự đoán là lấy tiết khí, bởi vậy, năm 2001 liền có hai tháng Tý.
+- Tức năm 2001 ngày mùng 1 tháng 1 đến ngày mùng 4 tháng 1 là một tháng Tý, ngày mùng 7 tháng 12 đến ngày 30 tháng 12 là một tháng Tý nữa, chỉ cần tại hai tháng Tý này đoán thời gian phát sinh động đất đều tính năm 2001.
+- Thêm nữa, Thê tài Dậu kim động khắc Phụ mẫu Mão mộc, Mão mộc không vong, tháng Mão Nguyệt (Dương lịch là tháng 3) xuất không, cũng là một ứng kỳ.
+- **Ứng nghiệm:** ngày 4 tháng 1 năm 2001 (ngày Đinh Mão tháng Tý năm Canh Thìn) huyện Nham Tay phát sinh động đất cấp 5.3, ngày 24 tháng 3 (ngày Bính Tuất tháng Mão) Hiroshima phát sinh động đất cấp 6.4, ngày 26 tháng 3 (ngày Mậu Tý tháng Mão) lại phát sinh động đất cấp 5.2.
+- Ngày 2 tháng 12 năm 2001 (ngày Kỷ Hợi tháng Hợi), huyện Nham Tay phát sinh động đất cấp 6.3.
+- Ngày 20 tháng 12 (ngày Đinh Tị tháng Tý) đảo Lộc nhi phát sinh động đất cấp 4.3.
+- Ngày 18 tháng 12 năm 2001 (ngày Ất Mão tháng Tý) và ngày 21 tháng 12 (ngày Mậu Ngọ tháng Tý) Okinawa phát sinh động đất cấp 7.3 và 4.3.
+##### Ví dụ 9: ** « Tăng san bốc dịch » cũng có một ví dụ. Ngày Đinh Mão tháng Dần một người xem niên vận được quẻ Hỏa Lôi Phệ Hạp biến Hỏa Trạch Khuê.
+
+- Nguyên văn sách viết:
+- Mùa Thu tất có tai ách.
+- Hào Dần mộc động lâm Nguyệt kiến hóa tiến thần khắc thế, lúc này quá thịnh, tham vinh không đến khắc hại, tháng Sáu, Bảy là thời điểm suy mộ, phòng thổ mộc chi ách.
+- Người xem hỏi: "Tránh được hay không?" Dã Hạc nói: "Đi ra bên ngoài mới có thể tránh." Lại hỏi: "Phương nào tránh được?" Dã Hạc nói: "Trước mắt đi hướng tây, thán Sáu, Bảy đi hướng đông.
+- Sao vậy?
+- Tháng Sáu, Bảy Mộc suy cho nên phải đi phương Đông." Người này không nghe, đến mùng bảy tháng bảy gặp ác mộng, hai mươi tám động đất, phòng sập người chết.
+- Ví dụ này chính là chương xu cát tị hung nói rõ việc xấu có thể tránh được.
+- Nhưng ta cho rằng đáng ngưỡng mộ chỗ ở chỗ nó ứng nghiệm việc động đất.
+- Vậy động đất thế nào?
+- Phương pháp dự đoán động đất ở trên chúng ta đã biết, Câu Trần là một tiêu chí phát sinh động đất.
+- Trong quẻ này hào hai Câu Trần lâm Huynh đệ
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 39.** Hỏa Lôi Phệ Hạp (Chính quái)
+    - <img src="assets/page_0041_img_01.png" alt="Hình 39" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- phát động, hào hai là trạch, Câu Trần là kiến trúc, lại là hào chứa thông tin động đất, cho nên ứng tại động đất.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 40.** Hỏa Trạch Khuê (Biến quái)
+    - <img src="assets/page_0041_img_02.png" alt="Hình 40" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Không chỉ có một ví dụ, « Tăng san bốc dịch » còn có một ví dụ nữa ứng nghiệm động đất, vừa vặn có thể dùng để chứng minh Phụ mẫu bị Thê Tài khắc là động đất.
+##### Ví dụ 10: ** ngày Bính Thìn tháng Ngọ một người xem dọn nhà được quẻ Địa Sơn Khiêm biến Địa Hóa Minh Di.
+
+- Nguyên văn sách viết:
+- Xem dọn nhà, lấy Hào Phụ mẫu làm Dụng thần.
+- Quẻ này Thìn thổ Phụ mẫu động mà khắc thế, không nên ở.
+- Đã như vậy.
+- Làm sao?
+- Cho nên nói:
+- Trước mắt không ngại, mùa Thu là lúc bất lợi.
+- Bởi là Thìn thổ động hóa Mão mộc, đến thu, mộc bị kim khắc, Thìn thổ khắc thế.
+- Không nghe, đến tháng bảy động đất, phòng ốc khuynh đảo, gia quyến bị tổn thương.
+- Phân tích suy luận: Phụ mẫu có hàm nghĩa là kiến trúc, nhà ở, xem di chuyển cát hung, được Hào Phụ mẫu sinh hợp hào thế, hoặc hào thế khắc hào Phụ mẫu là cát.
+- Quẻ này hào thế hưu tù, nhập mộ tại Nhật không tốt, càng không nên bị Phụ mẫu phát động khắc thế, chính là tượng người vào phòng gặp điều xấu.
+- Sơ hào là mặt đất, đại địa, Phụ mẫu lâm thổ kiêm mộ khố động mà khắc thế, chính là người chôn trong phòng.
+- Phân tích suy luận: Hào thế làm gốc, lâm Tử tôn lại có thể đại biểu cho con cái, Tử tôn là nguyên thần của Thê tài, Thê Tài hưu tù, Nguyên thần bị khắc, cho nên một nhà bởi vì động đất mà chết.
+- Tại sao ứng tại tháng bảy?
+- Tháng bảy là kim, Kị thần hóa hồi đầu khắc, tháng bảy Mão mộc bị chế, bất lực khắc Phụ mẫu Thìn thổ, Thìn thổ không kiêng nể gì mà khắc hào thế, cho nên ứng tại tháng bảy.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 41.** Địa Sơn Khiêm (Chính quái)
+    - <img src="assets/page_0042_img_01.png" alt="Hình 41" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 42.** Địa Hóa Minh Di (Biến quái)
+    - <img src="assets/page_0042_img_02.png" alt="Hình 42" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+## Chương 3: Thiên Tai Dự Đoán Bí Pháp
+
+- Mấy ngàn năm nay nhân loại liên tục tranh đấu cùng thiên nhiên để sinh tồn.
+- Thiên tai nhân họa thường có phát sinh, muốn bình an, sớm biết tai hoạ đến, liền cần học được dự đoán, phòng ngừa rắc rối có thể xuất hiện.
+- Lợi dụng Lục hào dự đoán có thể xu cát tị hung, chính là dự tính từ đầu của cổ nhân khi phát minh ra thuật dự đoán.
+- Trong cuộc sống tai hoạ rất nhiều, chúng ta không thể liệt kê ra hết, do đó chỉ xem những thiên tai lớn, giới thiệu như sau.
+### Dự đoán Núi lửa bộc phát
+
+- Trái đất còn rất trẻ, đang ở tại thời kỳ ban đầu, núi lửa trải rộng các nơi trên thế giới.
+- Như Châu Phi, Bắc Âu, Nhật Bản, Indonesia mọi nơi đều có nhiều núi lửa hoạt động, bởi vậy dự đoán núi lửa bộc phát rất có giá trị nghiên cứu.
+- Từ lâu nghiên cứu thực tiễn, dùng Lục hào dự đoán động đất có độ tin cậy rất cao, vậy có thể áp dụng cho việc dự đoán núi lửa?
+- Câu trả lời của ta là có thể.
+- Cho tới bây giờ, ta chỉ được xem các ví dụ có quan hệ với núi lửa, mà núi lửa bộc phát không phải hàng năm đều có, bởi vậy ứng nghiệm cần thời gian rất lâu, ta ở chỗ này luận thuật một chút suy nghĩ, tương lai sẽ nghiên cứu núi lửa, cung cấp một chút tư liệu manh mối.
+- Cấn là núi, Cấn cung Quan quỷ lâm Đằng Xà hoặc Chu Tước phát động, Đằng Xà chủ biến dị, Chu Tước chủ hoả hoạn, là có khả năng núi lửa bộc phát.
+- Nếu như chuyên môn dự đoán núi lửa bộc phát, xem hào lâm Chu Tước, Quan quỷ phát động tức là dấu hiệu núi lửa bộc phát.
+#### Ví dụ 1: ** ngày 12 tháng 7 năm 1996, ta được thỉnh mời tham gia ngày hội giao lưu khí công. Người chủ trì giới thiệu ta đang nghiên cứu Lục hào dự đoán, một nữ sĩ Nhật Bản đứng lên nói Nhật Bản có một núi lửa nổi tiếng hoạt động, thỉnh cầu dùng Lục hào dự đoán năm đó có phát sinh núi lửa bộc phát hay không? Ngày Canh Tuất tháng Mùi, ta tại chỗ gieo được quẻ Phong Sơn Tiệm biến Phong Lôi Ích.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Ất Dậu, ngày Canh Tuất, tháng Ất Mùi, năm Bính Tý
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Tiểu thử Lệnh tháng:
+- Mùi-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- **CHÍNH QUÁI**
+- **PHONG SƠN TIỆM**
+- **BIẾN QUÁI**
+- **PHONG LÔI ÍCH**
+- Trong quẻ có hai hào động, nhưng đã không phải Quan quỷ, cũng không phải hào lâm Đằng Xà Chu Tước, không có chút thông tin nào về núi lửa bộc phát.
+- Phân tích suy luận: Tử tôn Thân kim vượng trì thế phát động, Quan quỷ hưu tù, chính là không có thông tin tai nạn nào.
+- **Ứng nghiệm:** Năm 1996, núi Bạch Căn không có phát sinh núi lửa phun trào.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 43.** Chính Quái: Phong Sơn Tiệm
+    - <img src="assets/page_0044_img_01.png" alt="Hình 43" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 44.** Biến Quái: Phong Lôi Ích
+    - <img src="assets/page_0044_img_02.png" alt="Hình 44" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### Dự đoán Lũ lụt
+
+- Mưa là kiệt tác thần kỳ của thiên nhiên.
+- Mưa nhiều thì ở đó thực vật rậm rạp, không có mưa thì sa mạc hoành hành, có thể nói nếu không có mưa thì Trái đất sẽ không có sinh mệnh.
+- Bất quá mưa mặc dù tốt, nhưng nhiều quá cũng lại tạo thành tai họa.
+- Biến hóa của trời đất không phải do ý chí của con người nhưng hành vi của nhân loại lại có ảnh hưởng rất lớn.
+- Vì nhân loại mù quáng khai phát lung tung làm nhiều nơi môi trường tự nhiên bị phá hư, sinh thái đã mất đi cân bằng, từ đó trời đất cũng biến dị.
+- Mùa mưa vừa đến, hình thành lũ lụt, mang đến bất hạnh tai nạn cho nhân loại.
+- Các nơi trên thế giới hàng năm đều có lũ lụt phát sinh, lũ lụt làm rất nhiều người đã mất đi nhà cửa, mất đi thân nhân, lâm vào nghèo khó.
+- Bởi vậy dự đoán lũ lụtcũng là một đầu đề để chúng ta nghiên cứu.
+- Từ nghiên cứu của bản thân, vì Quan quỷ là có ý tai họa, cho nên dự đoán lũ lụtứng lấy Quan quỷ làm Dụng thần.
+- Nếu như dự đoán hời hợt thiên tai một năm, Quan quỷ gặp Thủy phát động, hoặc Quan quỷ tại Khảm cung phát động tất có lũ lụt, nhưng nếu như khi chuyên môn dự đoán lũ lụt, chỉ cần Quan quỷ phát động cũng đã là thông tin về lũ lụt, vượng tướng nước lớn, hưu tù nước nhỏ.
+- Nếu như Quan quỷ yên tĩnh biểu thị không có lũ lụt.
+##### Ví dụ 1: ** mùa Thu năm 1997, ta ở Thái Nguyên ngày nào cũng mưa liên miên không ngừng, sợ có lũ lụt nên ngày Bính Tý tháng Mùi gieo một quẻ xem Thái Nguyên có thể lũ lụt hay không? Được quẻ Thủy Hỏa Ký Tế biến Lôi Hỏa Phong.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Đinh Dậu, ngày Bính Tý, tháng Đinh Mùi, năm Đinh Sửu
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Đại thử Lệnh tháng:
+- Mùi-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Lấy Quan quỷ làm Dụng thần, xem động tĩnh của Quan quỷ.
+- Quẻ này Quan quỷ Tuất thổ phát động, tất có lũ lụt.
+- Phân tích suy luận: Quan quỷ được Nguyệt kiến so đỡ vượng tướng, lại tại Khảm cung, rất rõ ràng sẽ có lũ lụt rất lớn.
+- Phân tích suy luận: Quan quỷ Tuất thổ động hóa Phụ mẫu Thân kim, Thân kim là đất Trường sinh của thổ, Phụ mẫu chủ mưa, trường sinh là sinh ra, trong quẻ chỉ ra mưa sẽ gây ra lũ lụt.
+- Phân tích suy luận: Quan quỷ Tuất thổ hóa Thân kim không vong, tháng Thân xuất không, tháng Thân chắc chắn sẽ phát sinh lũ lụt.
+- **Ứng nghiệm:** Mưa không ngừng, đến tháng Thân đột nhiên mưa như bão, quả nhiên phát sinh lũ lụt, trong thành phố còn không sao, vùng ngoại thành coi như thảm, nhà cửa bị lũ lụt quét bay, xe buýt cũng bị nước cuốn trôi, thiệt hại kinh tế thảm trọng.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 45.** Chính quái Thủy Hỏa Ký Tế
+    - <img src="assets/page_0046_img_01.png" alt="Hình 45" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 46.** Biến quái Lôi Hỏa Phong
+    - <img src="assets/page_0046_img_02.png" alt="Hình 46" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### Ví dụ 2
+
+- Đầu Hạ phương bắc Trung Quốc ít mưa mà phương nam lại tiến vào mùa mưa.
+- Nhiều năm qua vì rừng ở thượng du sông Trường Giang bị tàn phá nên không bảo vệ được môi trường thiên nhiên, gia tăng nguy cơ lũ lụt.
+- Ngày 30 tháng 5 năm 1998 (ngày Đinh Sửu tháng Đinh Tị năm Mậu Dần) xem phương nam Trung Quốc có lũ lụt hay không được quẻ Lôi Sơn Tiểu Quá biến Địa Thủy Sư.
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Đinh Sửu, tháng Đinh Tỵ, năm Mậu Dần
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Tiểu mãn               Lệnh tháng:
+- Tỵ-Hỏa
+- Phương pháp lập quẻ:
+- Lục hào
+- **CHÍNH QUÁI**
+- **LÔI SƠN TIỂU QUÁ**
+- **BIẾN QUÁI**
+- **ĐỊA THỦY SƯ**
+- Lấy Quan quỷ làm Dụng thần.
+- Trong quẻ Quan quỷ Ngọ hỏa hai hào đều phát động, năm nay phương nam có lũ lụt là không thể nghi ngờ.
+- Phân tích suy luận: Quan quỷ Ngọ hỏa được Nguyệt kiến Tị hỏa so đỡ là vượng tướng, lũ sẽ rất lớn.
+- Phân tích suy luận: Quan quỷ Ngọ hỏa phát động, động gặp trị gặp hợp, lũ lụt tất phát sinh ở tháng Ngọ.
+- **Ứng nghiệm:** tháng Ngọ hạ du Trường Giang hạ có lũ rất lớn.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 47.** Chính quái Lôi Sơn Tiểu Quá
+    - <img src="assets/page_0047_img_01.png" alt="Hình 47" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 48.** Biến quái Địa Thủy Sư
+    - <img src="assets/page_0047_img_02.png" alt="Hình 48" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### Ví dụ 3
+
+- Hè năm 1998, hạ du Trường Giang phát sinh lũ cực lớn, rất nhiều người mất tích vì lũ lụt.
+- Trên TV suốt ngày đưa tin chống lũ, cả nước các nơi nhao nhao viện trợ, quyên góp giúp đỡ, nhiều người tự nguyện tới tiền tuyến tham gia chống lũ.
+- Lúc ấy ngay trong lớp Lục hào dự đoán, một học sinh thỉnh cầu dự đoán chống lũ khi nào kết thúc?
+- Ngày Bính Thân tháng Thân gieo được quẻ Thiên Lôi Vô Vọng biến Trạch Lôi Tùy.
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Đinh Dậu, ngày Bính Thân, tháng Canh Thân, năm Mậu Dần
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Lập thu                 Lệnh tháng:
+- Thân-Kim
+- Phương pháp lập quẻ:
+- Lục hào
+- **CHÍNH QUÁI**
+- **THIÊN LÔI VÔ VỌNG**
+- **BIẾN QUÁI**
+- **TRẠCH LÔI TÙY**
+- Lấy Quan quỷ làm Dụng thần.
+- Trong quẻ Quan quỷ Thân kim được Nhật Nguyệt giúp đỡ là vượng tướng.
+- Đây biểu thị lũ lụt hung mãnh vạn phần nguy hiểm.
+- Nhưng nguyên thần của Quan quỷ Thê tài Tuất thổ phát động hóa thoái, đây là tin lũ sẽ rút.
+- Phân tích suy luận: Tử tôn là lục thân khắc Quan quỷ cũng có thể hiểu là người chống lũ lụt.
+- Đồng thời Tử tôn cũng vui sướng giải ưu chi thần.
+- Phân tích suy luận: Tử tôn trì thế, chính là thông tin vui về lũ sẽ rút.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 49.** Chính quái Thiên Lôi Vô Vọng
+    - <img src="assets/page_0048_img_01.png" alt="Hình 49" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 50.** Biến quái Trạch Lôi Tùy
+    - <img src="assets/page_0048_img_02.png" alt="Hình 50" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Nhưng Tử tôn hưu tù, nguyên thần Huynh đệ Dần mộc Nguyệt phá, không thể khắc chế Quan quỷ, lũ lụt hiện tại rất khó rút.
+- Nguyên thần Nguyệt phá, sang tháng không phá, chỉ có đến tháng Dậu lũ mới có thể rút.
+- Ngày 8 tháng 9 bắt đầu tháng Dậu, bởi vậy lấy ngày Dần đầu tiên của tháng Dậu tức ngày Bính Dần (ngày 16 tháng 9) là ứng kỳ lũ sẽ rút.
+- **Ứng nghiệm:** Ngày 4 tháng 9 (ngày Giáp Dần tháng Thân) Giang Trạch Dân tuyên bố toàn quốc là chống lũ thắng lợi, ngày 11 tháng 6 (ngày Tân Dậu tháng Dậu) việc chống lũ ở hạ du Trường Giang, tỉnh Hồ Bắc kết thúc.
+##### Dự đoán Hoả hoạn
+
+- Văn minh nhân loại sẽ không có nếu không có lửa, từ khi người nguyên thủy phát hiện bí mật dùng đá lửa làm ra lửa, nhân loại tiến vào giai đoạn dùng thực phẩm chín khiến thể chất con người có biến hóa cực lớn.
+- Từ người vượn quá độ đến người hiện đại, nhân loại từ đây bước lên con đường văn minh.
+- Nhóm các nhà hiền triết cổ đại dường như biết rõ điều này, « Ngũ Hành đại nghĩa » minh xác vạch ra "Lửa là văn minh".
+- Nhưng là theo nhân loại tiến bộ, lửa mang tới buồn rầu cũng dần dần tăng lên, các nơi trên thế giới hàng năm vì hoả hoạn tạo thành tổn thất kinh tế to lớn.
+- Xã hội phát triển càng hiện đại, nguyên nhân hoả hoạn càng phức tạp, nhưng nguyên nhân tạo thành hoả hoạn phần lớn là do nhân loại tự thân tạo thành, không thể trốn tránh trách nhiệm.
+- Đến giờ, nhân loại chỉ tận sức phòng cháy chưa bao giờ nghĩ tới dự đoán hoả hoạn.
+- Từ thực tiễn mà xem hoả hoạn có thể dự đoán được, nếu như có thể đoán thời gian hoả hoạn sớm, phòng ngừa mọi rắc rối thì sẽ phòng ngừa được hoả hoạn hoặc giảm thiểu tổn thất đến mức thấp nhất.
+- Lục hào dự đoán hoả hoạn lấy Quan quỷ cùng hào lâm Chu Tước để xem.
+- Nhất là Quan quỷ lâm Chu Tước phát động, thông tin có hoả hoạn sẽ rất mạnh.
+##### Ví dụ 1: ** Ngày 20 tháng 4 năm 1997 (ngày Giáp Tuất tháng Mão), dự đoán Thái Nguyên sắp tới có hoả hoạn hay không được quẻ Địa Phong Thăng biến Địa Sơn Khiêm.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Nhâm Thìn, tháng Giáp Thìn, năm Đinh Sửu
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Cốc vũ                    Lệnh tháng:
+- Thìn-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Trong quẻ Chu Tước lâm Phụ mẫu Hợi thủy phát động, là thông tin hoả hoạn.
+- Hợi thủy đối ứng tại Tây Bắc, phương Tây bắc khả năng sẽ có hoả hoạn phát sinh.
+- Trong quẻ Phụ mẫu Hợi thủy hưu tù, Nguyên thần Quan quỷ Dậu kim không vong, Nguyệt phá, sẽ không lập tức phát sinh.
+- Nhất định ngày mùng 5 tháng 4 là bắt đầu tháng Thìn Quan quỷ Dậu kim hợp phá mới có thể phát sinh.
+- Cụ thể để phán đoán, ngày 12 tháng 4 là tuần tiếp theo, Quan quỷ Dậu kim xuất không, xuất không nhất định có hoả hoạn lớn.
+- Lấy Lục hào ứng kỳ quy luật để xem, có thể ứng vào ngày Thân cũng có thể ứng vào ngày Dậu.
+- Ngày Giáp Thân là tuần tiếp theo, lại có Chu Tước lâm hào, hưu tù gặp trường sinh, mà Dậu kim trong quẻ là ngày thực không.
+- Bởi vậy nếu có hoả hoạn tất sẽ phát sinh trong vòng hai ngày này.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 51.** Chính quái Địa Phong Thăng
+    - <img src="assets/page_0051_img_01.png" alt="Hình 51" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 52.** Biến quái Địa Sơn Khiêm
+    - <img src="assets/page_0051_img_02.png" alt="Hình 52" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **Ứng nghiệm:** Ngày 12 tháng 4 tại Thái Nguyên mỏ than Tây Minh phát sinh một vụ nổ khí gas gây nên hoả hoạn, 39 người tử vong.
+##### Ví dụ 2: ** Ngày 17 tháng 4 năm 1997 (ngày Kỷ Sửu tháng Thìn), lại xem Thái Nguyên còn phát sinh hoả hoạn nữa không gieo được quẻ Lôi Phong Hằng biến Trạch Phong Đại Quá.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Quý Dậu, ngày Kỷ Sửu, tháng Giáp Thìn, năm Đinh Sửu
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Thanh minh                    Lệnh tháng:
+- Thìn-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Trong quẻ Quan quỷ lâm Chu Tước phát động, tin tức về hỏa hoạn là không hề nghi ngờ.
+- Phân tích suy luận: Quan quỷ Thân kim được Nguyệt kiến sinh phù, lại hóa tiến thần, so với mấy ngày trước đây thì hoả hoạn còn lớn hơn.
+- Lấy Lục hào ứng kỳ quy luật đến xem, Dụng thần động mà hóa tiến, chính là ứng gặp trị gặp hợp, hoả hoạn sẽ ứng ngày Tị hoặc tháng Tị.
+- Trong quẻ Nguyên thần của Quan quỷ là Thê tài Tuất thổ nguyệt phá, tháng này sẽ không phát sinh, cho nên đoán tháng Tị sẽ có hỏa hoạn.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 53.** Chính quái Lôi Phong Hằng
+    - <img src="assets/page_0052_img_01.png" alt="Hình 53" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 54.** Biến quái Trạch Phong Đại Quá
+    - <img src="assets/page_0052_img_02.png" alt="Hình 54" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Cụ thể phán đoán, chính là ứng Nguyên thần gặp ngày hợp ngày trị, tức ngày Tuất hoặc ngày Mão.
+- **Ứng nghiệm:** Ngày 25 tháng 5 (ngày Đinh Mão tháng Tị) một công ty sắt thép tại Thái Nguyên phát sinh hoả hoạn cực lớn tạo thành tổn thất kinh tế cao tới 2 ức nguyên (ước chừng 2.500 vạn đôla).
+- Vì bị bồi thường quá nhiều tiền mà công ty bảo hiểm phá sản.
+##### Ví dụ 3: ** ngày Giáp Ngọ tháng Mùi một người đến xem vận khí sắp tới được quẻ Hỏa Phong Đỉnh biến Sơn Hỏa Bí.
+
+- Phân tích suy luận: Thê tài Dậu kim được Nguyệt kiến sinh phù, động mà hóa hồi đầu sinh, Tài vượng sinh thế, tài vận không tệ.
+- Nhưng Quan quỷ Hợi thủy lâm Chu Tước tại hào hai phát động, hào hai là trạch, Quan quỷ cùng Chu Tước cùng động chủ hoả hoạn, nên lo trong nhà phát sinh hoả hoạn.
+- **Ứng nghiệm:** Người này ngày Nhâm Tý chơi mạt chược tại nhà hàng xóm thắng lớn, trong nhà lại bởi rò điện phát sinh hoả hoạn, may mắn phát hiện kịp thời, không tạo thành tổn thất lớn.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 55.** Hỏa Phong Đỉnh biến Sơn Hỏa Bí
+    - <img src="assets/page_0053_img_01.png" alt="Hình 55" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+## Chương 4: Thần Bí Hiện Tượng Dự Đoán Bí Pháp
+
+### THẦN BÍ HIỆN TƯỢNG DỰ ĐOÁN BÍ PHÁP
+
+- Trái đất trải qua hơn một tỷ năm phát triển, đã biến thành một thế giới cái tràn ngập sinh mệnh.
+- Người hiện đại dùng khoa học không ngừng tiến hành thăm dò vũ trụ và thiên nhiên, thường có bước tiến mới, đối với tương lai tràn đầy lòng tin.
+- Nhưng cuối cùng càng không ngừng cố gắng thì càng có nhiều vấn đề mê hoặc không thể lý giải trong vũ trụ.
+- Tỉ như người ngoài hành tinh, hiện tượng luân hồi, UFO, đặc dị công năng, u linh các loại, rất nhiều.
+- Lý luận của Lục hào dự đoán khác biệt nhiều với thuyết tiến hoá của Darwin.
+- Lý luận của Lục hào cho rằng sinh mệnh không phải bắt đầu từ đơn tế bào, mà bắt đầu từ Thái Cực.
+- Âm dương nảy mầm sinh mệnh, sinh mệnh vừa mới bắt đầu liền có cao cấp cùng cấp thấp khác nhau.
+- Mỗi cấp đều tự tiến hóa, ảnh hưởng lẫn nhau, tạo thành thế giới hôm nay.
+- Nhân loại nguyên thủy tiến hóa tới nay tất nhiên là nhân loại, khỉ vượn nguyên thủy tiến hóa tới nay tất nhiên là khỉ vượn, người và khỉ không phải cùng một nguyên thủy sinh mạng thể.
+- Đẳng cấp sinh mệnh vì nguyên thủy sinh mạng thể nhận ảnh hưởng nhiều hay ít từ năng lượng sinh mệnh vũ trụ mà có sự khác biệt.
+- Bộ phận tinh hoa của vũ trụ bị nhân loại sinh mạng thể hấp thu, biến thành cao cấp sinh mệnh.
+- Một phần năng lượng bị sinh mạng thể động vật hấp thu diễn biến thành động vật, năng lượng còn lại bị sinh mạng thể thực vật hấp thu biến thành thực vật.
+- Dùng lục thân biểu thị đẳng cấp sinh mạng thể cùng diễn biến thứ tự, tức là Phụ mẫu là nguyên thủy sinh mệnh năng lượng, Huynh đệ là người, Tử tôn là động vật, Thê tài là thực vật, Quan quỷ là sinh mệnh thể trở lại sinh mệnh năng lượng.
+- Đương nhiên ngay cả bản thân Lục hào cũng còn bị khoa học giải minh.
+- Nhưng Lục hào có thể dự đoán sự thật đã sớm được thực tiễn chứng minh.
+- Bởi vậy dùng Lục hào giải minh vũ trụ chi mê cũng có thể xem là một phương pháp tốt.
+- Ta tại phương diện dự đoán thần bí cũng có đôi chút nghiên cứu, có chút dự đoán quy luật còn đợi tổng kết thực tiễn, nhưng ít ra nói rõ Lục hào có thể dùng để dự đoán hiện tượng thần bí.
+- Ở đây giới thiệu một chút hàm nghĩa của lục thân trong dự đoán hiện tượng thần bí.
+- **Phụ mẫu:** UFO, phi thuyền vũ trụ, sinh mệnh năng, tiên thiên năng lượng, nguyên khí, gen, vũ trụ tin tức, tâm linh cảm ứng, cảm ứng.
+- **Huynh đệ:** Người ngoài hành tinh, người Địa Cầu, cao cấp sinh mạng thể, trí năng sinh vật.
+- **Tử tôn:** Thiên thể, tinh tinh, động vật, siêu năng, đặc dị công năng, năng lượng liệu pháp.
+- **Thê tài:** Thực vật, dưỡng khí, nước, doanh khí, vệ khí, huyết dịch, hô hấp.
+- **Quan quỷ:** U linh, thần phật, linh hồn, tai nạn, tạp niệm, ác ma, vô hình sư.
+#### Trên mặt trăng có nước không?
+
+- Ngày 8 tháng 1 năm 1998 nước Mỹ muốn xác minh trên mặt trăng có nước hay không đã phóng tham trắc khí lên mặt trăng.
+- Ngày hôm sau (ngày Bính Thìn tháng Sửu) ta từ trên báo chí đọc tin này bèn gieo quẻ xem trên mặt trăng có nước hay không được quẻ Thuỷ Lôi Truân biến Trạch Phong Đại Quá.
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Đinh Dậu, ngày Bính Thìn, tháng Quý Sửu, năm Đinh Sửu
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Tiểu hàn                    Lệnh tháng:
+- Sửu-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Phán đoán nước có hay không lấy Thê Tài làm Dụng thần.
+- Phân tích suy luận: Thê tài Ngọ hỏa phục mà hưu tù, không được Nhật Nguyệt sinh phù, phục là ngầm, xuất hiện là minh, nói rõ mặt ngoài mặt trăng không có nước.
+- Hào năm Quan quỷ Tuất thổ ám động, Thê tài nhập mộ tại Tuất thổ.
+- Phân tích suy luận: Thê tài mặc dù hưu tù nhưng được Nguyên thần Dần mộc phát động sinh phù, nói rõ trên mặt trăng không phải không có nước mà là nước không có tại bề mặt mặt trăng mà thôi.
+- Nguyên thần lâm Câu Trần, Câu Trần là đột xuất, đồ vật thành khối, bởi vậy có thể hiểu là băng.
+- Phân tích suy luận: Thê tài lâm Huyền Vũ, Huyền
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 56.** Thủy Lôi Truân
+    - <img src="assets/page_0056_img_01.png" alt="Hình 56" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 57.** Trạch Phong Đại Quá
+    - <img src="assets/page_0056_img_02.png" alt="Hình 57" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Vũ chủ âm u, rét lạnh, bởi vậy có thể kết luận tại phần mặt trăng không được mặt trời chiếu tới bên trong có chút ít tầng băng.
+- **Ứng nghiệm:** Còn chờ tại khoa học chứng minh.
+##### Người sao Hỏa có tồn tại không?
+
+- Ngày Mậu Tuất tháng Sửu, gieo một quẻ xem trên sao Hoả có người không được quẻ Phong Lôi Ích biến Thiên Lôi Vô Vọng.
+- **CHÍNH QUÁI:
+- PHONG LÔI ÍCH**
+- **BIẾN QUÁI:
+- THIÊN LÔI VÔ VỌNG**
+- Lấy Huynh đệ làm Dụng thần.
+- Phân tích suy luận: Huynh đệ Mão mộc không được Nhật Nguyệt sinh phù lại nhập mộ tại hào động, cực kỳ hưu tù, bởi vậy có thể kết luận trên sao Hoả không có cái gọi là người sao Hỏa.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 58.** Phong Lôi Ích
+    - <img src="assets/page_0058_img_01.png" alt="Hình 58" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 59.** Thiên Lôi Vô Vọng
+    - <img src="assets/page_0058_img_02.png" alt="Hình 59" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+##### Hoang đường Địa Cầu tận thế
+
+- Có chừng không ít người đọc qua « Chư thế kỷ ».
+- Đây là một nhà tiên tri sinh tại miền nam nước Pháp viết ra.
+- Trong sách viết: "Tháng 7 Năm 1999 đại vương kinh khủng từ trên trời giáng xuống." Tiên đoán cái gọi là Địa Cầu 99 đại kiếp nạn, nói năm 1999 là năm tận thế của Địa Cầu.
+- Thật sự là như vậy sao?
+- Nhân loại cùng tự nhiên không ngừng đấu tranh, dùng trí tuệ của mình sáng tạo ra văn minh nhân loại mới từ thời kì đồ đá phát triển cho tới trình độ văn minh như hiện nay, chẳng lẽ văn minh hiện đại liền bị hủy bởi một đại vương kinh khủng từ đâu đó trên trời hạ xuống mang tới tai nạn sao?
+- Ngày 2 tháng 7 năm 1998 (ngày Ất Hợi tháng Mùi) cùng bằng hữu đang bàn vấn đề này nên gieo quẻ xem năm 1999 vận mệnh Địa Cầu thế nào được quẻ Thủy Địa Tỷ biến Thủy Thiên Nhu
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Ất Dậu, ngày Canh Tuất, tháng Mậu Ngọ, năm Mậu Dần
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Hạ chí Lệnh tháng:
+- Ngọ-Hỏa
+- Phương pháp lập quẻ:
+- Lục hào
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 60.** Thủy Địa Tỷ (Chính quái)
+    - <img src="assets/page_0059_img_01.png" alt="Hình 60" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+  - **Hình 61.** Thủy Thiên Nhu (Biến quái)
+    - <img src="assets/page_0059_img_02.png" alt="Hình 61" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **THỦY ĐỊA TỶ** | **THỦY THIÊN NHU**
+- Lấy hào thế làm Dụng thần, hào thế tức là chúng ta sinh hoạt trên Địa Cầu.
+- Phân tích suy luận: Hào thế không bị Nhật Nguyệt khắc thương, lại đến Nhật thần sinh phù, Kị thần Tử tôn Thân kim yên tĩnh, Địa Cầu không có chút dấu hiệu nào sẽ bị hủy diệt.
+- Bởi vậy trên Địa Cầu sẽ không xuất hiện người ngoài hành tinh xâm lấn, cũng sẽ không có cái gọi là 99 đại kiếp nạn phát sinh. « Chư thế kỷ » tiên đoán sẽ không thành hiện thực.
+- Nhưng trong quẻ Quan quỷ Mão mộc trì thế phát động, lại thành tam hợp cục, Quan quỷ là tin tức tai họa, nói rõ Địa Cầu mặc dù không có bị hủy diệt, nhưng lại có thể có thiên tai phát sinh.
+- Bởi là Quan quỷ vượng phối hợp tam hợp cục, hợp là ý hội tụ, đưa ra nhiều thông tin về tai họa.
+- Phân tích suy luận: Quan quỷ lâm Câu Trần phát động, Câu Trần là ruộng đất, là thông tin động đất.
+- Đồng thời Phụ mẫu Tị hỏa lâm Chu Tước phát động, là thông tin về hoả hoạn.
+- Bởi vậy năm này có nhiều động đất và hoả hoạn.
+- **Ứng nghiệm:** Năm 1999 quả nhiên là một năm có rất nhiều động đất và hỏa hoạn khắp nơi, nhưng Địa Cầu chưa từng xuất hiện cái gọi là 99 đại kiếp nạn.
+##### Có người ngoài hành tinh hay không?
+
+- Ngày Giáp Thìn tháng Hợi xem ngoài Trái đất trong Thái Dương hệ còn có nhân loại khác tồn tại hay không được quẻ Bát Thuần Tốn.
+- Dự đoán nhân loại, lấy hào Huynh đệ làm Dụng thần.
+- Phân tích suy luận: Hào thế là Trái đất, hào ứng là những tinh cầu khác bên ngoài Trái đất.
+- Phân tích suy luận: Huynh đệ Mão mộc vượng trì Thế, Trái đất tràn đầy sinh cơ, có nhân loại tồn tại, nhưng hào ứng lại là Kị thần, nói rõ trong Thái Dương Hệ ngoại trừ Trái đất những tinh cầu khác không thích hợp cho nhân loại tồn tại.
+##### Lục hào linh cũng là bút tiên linh?
+
+- Có một ngày, bằng hữu Đoán Kiến Nghiệp cùng Vương Khai Vũ cùng với ta chơi trò bút tiên, phương pháp là hai người duỗi tay ra, đem bút kẹp ở giữa các ngón tay, sau đó buông lỏng thân thể, bút sẽ tự động viết chữ.
+- Loại hiện tượng này cũng rất đáng để nghiên cứu, nhưng ta cho rằng cũng không chẳng phải có cái gì tiên nhân và linh thể bám trên ngòi bút mà do cơ thể buông lỏng nên tiềm thức sinh ra tác dụng.
+- Điều này có nguyên lý giống với việc tự động phát công trong khí công.
+- Ta đã nghiên cứu qua tự phát công trong khí công, đúng là có người tự phát công, một người cũng có thể làm được.
+- Chẳng những có thể dùng bút viết chữ mà còn có thể vẽ cực đẹp.
+- Hai người bọn họ chơi bút Tiên Du hí, ta thử hỏi ta tên là gì, bút viết ra tên của ta là "Vương Hổ thần", đây chính là trong tiềm thức bọn họ biết tên của ta nhưng lại cho rằng trong bút có thần tiên nên mới có thể đem tên của ta viết thành như vậy.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 62.** Chính quái Bát Thuần Tốn
+    - <img src="assets/page_0061_img_01.png" alt="Hình 62" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 63.** Biến quái Bát Thuần Tốn
+    - <img src="assets/page_0061_img_02.png" alt="Hình 63" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Vì ta không phải là thần, trong danh tự cũng không có chữ "Thần".
+- Bất quá trời sinh có đặc dị công năng, dùng bút tiên có khi vẫn có thể xem chuẩn một ít chuyện.
+- Trò chơi lúc sắp kết thúc, hai người bọn họ để bút tiên khuyên mỗi người một câu, bút tiên tặng cho cả hai đều là phát tài, mà đối với ta thì viết thỉnh cầu hỗ trợ.
+- Phía dưới là đoạn đối thoại lúc đó.
+- Bút:
+- Ta đối Vương Hổ thần không có gì để tặng mà chỉ có một thỉnh cầu.
+- Vương Khai Vũ:
+- Ngươi thỉnh cầu điều gì?
+- Bút:
+- Ta là một con rắn, muốn trở thành rồng, nhưng chỉ dựa vào lực bản thân là không được, ta cần Vương Hổ thần giúp ta một chút sức lực.
+- Vương Khai Vũ:
+- Làm thế nào mới có thể trợ giúp ngươi?
+- Bút:
+- 8h20 sáng ba ngày nữa ta sẽ xuất hiện trước mặt Vương Hổ thần, nhờ ông ta đưa ta vào trong miếu.
+- Vương Khai Vũ:
+- Tại sao ngươi không tự đi vào đó?
+- Bút:
+- Tự ta không vào được, trước cổng có năng lượng cản trở ta.
+- Vương Khai Vũ:
+- Ngươi là rắn độc à?
+- Ngươi làm hại Vương tiên sinh thì làm sao?
+- Bút:
+- Vương Hổ thần lợi hại hơn ta, ta không tổn thương được ông ta.
+- Nhưng ta đối với đoạn đối thoại trên có chút hoài nghi, nhưng nghĩ nó nói tới thời gian xuất hiện cũng có chút kỳ quái, vào đúng giờ Thìn ngày Thìn, Thìn là rồng, nó muốn ngày đó thành rồng, quả là trùng hợp.
+- Ngày Nhâm Dần tháng Mùi, ta gieo quẻ đến xem ba ngày sau giờ Thìn có thật sẽ có rắn xuất hiện trước mặt ta hay không thì được quẻ Bát Thuần Ly.
+- **CHÍNH QUÁI:
+- BÁT THUẦN LY**
+- **BIẾN QUÁI:
+- BÁT THUẦN LY**
+- Rắn là động vật, lấy Tử tôn làm Dụng thần.
+- Trong quẻ Tử tôn lưỡng hiện, một là Tử tôn Mùi thổ, một là Tử tôn Sửu thổ, lấy hào Tử tôn nguyệt phá làm Dụng thần.
+- Dụng thần bị Nguyệt phá, bị Nhật thần khắc thương nên hưu tù, nguyên thần Tị hỏa không vong, không thì không cách nào sinh Dụng thần, thêm vào đó Bát Thuần Ly là quẻ Lục xung, Lục xung là tách rời, chủ khó mà gặp mặt.
+- Bởi vậy ta kết luận, ba ngày sau giờ Thìn không có con rắn nào xuất hiện cả.
+- **Ứng nghiệm:** Dự đoán chính xác, không có con rắn nào cả.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 64.** Bát Thuần Ly (Chính quái)
+    - <img src="assets/page_0063_img_01.png" alt="Hình 64" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 65.** Bát Thuần Ly (Biến quái)
+    - <img src="assets/page_0063_img_02.png" alt="Hình 65" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### Dự đoán đám cưới ma
+
+- Một cô gái có con chết trẻ, cô ta sợ con mình cô độc tại Minh giới nên cầu hôn một nhà có con gái chết trẻ.
+- Bên kia cũng đồng ý.
+- Nhằm định ngày thành hôn cho con đã chết, cô ta xin ta gieo một quẻ vì ta thường gieo quẻ để chọn ngày tốt.
+- Ngày Mậu Ngọ tháng Ngọ, gieo được quẻ Địa Sơn Khiêm biến Thủy Sơn Kiển.
+- **CHÍNH QUÁI:
+- ĐỊA SƠN KHIÊM**
+- **BIẾN QUÁI:
+- THỦY SƠN KIẾN**
+- Vì con của cô gái là người ở thế giới khác, Tử tôn mặc dù là hài tử, nhưng ứng lấy Quan quỷ làm Dụng thần vì Quan quỷ là người chết, linh hồn, Quan quỷ Ngọ hỏa lâm hào hai, hào hai là trạch, nói rõ con của cô gái mặc dù đã chết nhưng còn mười phần lưu luyến cái nhà này, hồn phách còn thường về nhà.
+- Phân tích suy luận: Tử tôn Hợi thủy phát động khắc Quan quỷ là tượng hồn phách bất an, do đó bèn chọn ngày hợp hào Tử tôn là ngày Dần để thành hôn.
+- **Ứng nghiệm:** Con trai của cô gái mặc dù đã chết, nhưng trên nóc nhà và trong phòng bếp thường xuyên có thể trông thấy thân ảnh con trai cô ta lúc ẩn lúc hiện.
+- Sau khi chọn đúng ngày thành hôn thì hiện tượng này biến mất.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 66.** Địa Sơn Khiêm (Chính quái)
+    - <img src="assets/page_0064_img_01.png" alt="Hình 66" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 67.** Thủy Sơn Kiển (Biến quái)
+    - <img src="assets/page_0064_img_02.png" alt="Hình 67" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### Nghi vấn về sự biến mất của Khủng long
+
+- Ngày 19 tháng 1 năm 2001 (ngày Nhâm Ngọ tháng Sửu), ta đọc sách khảo cổ đến đoạn vùng có khủng long hoá thạch thì đột nhiên nghĩ đến tại sao khủng long lại biến mất trên Trái đất?
+- Thế là gieo được quẻ Bát Thuần Ly biến Sơn Hỏa Lữ.
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Nhâm Ngọ, tháng Kỷ Sửu, năm Canh Thìn
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Tiểu hàn Lệnh tháng:
+- Sửu-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Khủng long là động vật, lấy Tử tôn làm Dụng thần.
+- Trong quẻ Tử tôn lưỡng hiện, lấy hào bị Nguyệt phá Tử tôn Mùi thổ làm Dụng thần.
+- Phân tích suy luận: Tử tôn Mùi thổ lâm Đằng Xà, Đằng Xà chủ biến dị, giật mình, bị Nguyệt kiến xung phá là Trái đất bị thiên thể lao vào khiến hoàn cảnh Trái đất biến dị, khủng long bị tuyệt chủng, đây là lý do thứ nhất.
+- Bên cạnh đó, Tử tôn Mùi thổ bị Nguyệt kiến xung phá, Nguyệt kiến cũng là Tử tôn, tức một nguyên nhân khác dẫn đến sự diệt vong của khủng long đến từ chính bản thân chúng.
+- Nguyệt kiến Tử tôn Sửu thổ lâm quẻ tại hào hai, hào hai là hào vị
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 68.** Bát Thuần Ly (Chính quái)
+    - <img src="assets/page_0065_img_01.png" alt="Hình 68" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- bộ phận sinh dục, lâm Thanh Long cũng là ý về sinh dục, vậy sự diệt vong của khủng long có quan hệ đến khả năng sinh sản của chúng.
+- Chủ quẻ là Ly, Ly là hỏa, là nhiệt độ cao.
+- Như vậy thời điểm đó nhiệt độ của Trái đất tăng lên rất cao.
+- Sơ hào Phụ mẫu Mão mộc phát động, khắc chế Tử tôn, Phụ mẫu là gen, bởi nhiệt độ của Trái đất tăng cao làm gien di truyền của khủng long phát sinh biến hóa, năng lực sinh sản của khủng long giảm đi và đây cũng là một trong những nguyên nhân khiến khủng long diệt vong.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 69.** Hỏa Sơn Lữ (Biến quái)
+    - <img src="assets/page_0065_img_02.png" alt="Hình 69" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Tổng hợp các suy đoán trên, chính là Trái đất bị thiên thạch lao vào khiến nhiệt độ biến hóa, nhiệt độ bề mặt trái đất không ngừng tăng lên khiến khả năng sinh sản của khủng long giảm đi, đây chính là nguyên nhân khiến khủng long bị diệt vong.
+- Nhưng trong quẻ Phụ mẫu Mão mộc động sinh Tử tôn nên trong tương lai các nhà khoa học sẽ lợi dụng kỹ thuật gien di truyền để phục sinh khủng long.
+##### Dự đoán đặc dị công năng
+
+- Nhiều năm qua, ta đối với hiện tượng công năng đặc dị đã có không ít quan sát và nghiên cứu, từ góc độ Lục hào để dự đoán công năng đặc dị tích lũy một chút kinh nghiệm.
+- Hiện đem một số ví dụ công bố như sau.
+##### Ví dụ 1: ** ngày Đinh Mão tháng Tuất, một người Nhật Bản muốn xem Thiên Mục của mình như thế nào? Gieo được quẻ Hỏa Trạch Khuê.
+
+- Lấy Tử tôn làm Dụng thần, Huyền Vũ là Thiên mục thấy đồ tượng.
+- Trong quẻ này Tử tôn Dậu kim trì thế ám động, ngày hôm sau Thiên mục đã có phản ứng.
+- Thiên mục có tín hiệu mở ra.
+- Trong quẻ Nguyên thần lưỡng hiện, một là Huynh đệ Mùi thổ lâm Huyền Vũ, một là Huynh đệ Sửu thổ lâm Đằng Xà.
+- Huyền Vũ là Thiên mục thấy đồ tượng, Đằng Xà là Thiên mục sinh ra hiện tượng kỳ dị.
+- Đây là quẻ tĩnh, hào vượng tướng sinh hào hưu tù, hào thế Tử tôn được hai hào sinh phù, chỉ rõ Thiên Mục đã sinh ra hiện tượng kỳ dị, có thể trông thấy đồ tượng.
+- Quả nhiên chính xác.
+##### Ví dụ 2: ** ngày Bính Dần tháng Tuất, một thầy yoga Nhật Bản đến xem Thiên Mục như thế nào? Gieo được quẻ Sơn Lôi Di biến Bát Thuần Cấn.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 70.** Đồ hình quẻ Hỏa Trạch Khuê
+    - <img src="assets/page_0067_img_01.png" alt="Hình 70" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Lấy Tử tôn làm Dụng thần, Tử tôn Tị hỏa tuy được Nhật thần sinh phù, nhưng phục mà không hiện, phi khắc phục, Phụ mẫu Tý Thủy phát động khắc thương, hào thế lại lâm không vong, Thiên Mục không có mở ra, hào lâm Huyền Vũ nhập mộ tại hào động Thìn thổ, Thiên Mục không thấy đồ tượng.
+- Kết quả dự đoán chính xác.
+##### Ví dụ 3: ** Ngày Nhâm Tuất tháng Tuất, một người Nhật Bản đến xem Thiên Mục như thế nào? Được quẻ Thiên Trạch Lý
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 71.** Đồ hình quẻ Sơn Lôi Di biến Bát Thuần Cấn
+    - <img src="assets/page_0068_img_01.png" alt="Hình 71" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 72.** Đồ hình quẻ Thiên Trạch Lý
+    - <img src="assets/page_0068_img_02.png" alt="Hình 72" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Lấy Tử tôn làm Dụng thần.
+- Phân tích suy luận: Tử tôn Thân kim trì thế được Nhật Nguyệt sinh phù vượng tướng, thế lâm Đằng Xà, lại tại hào năm, hào năm là hào vị ngũ quan, Đằng Xà chủ kỳ dị, Thiên Mục đã phát sinh hiện tượng kỳ dị.
+- Cho nên đoán Thiên Mục đã mở, sơ hào Phụ mẫu Tị hỏa hợp hào thế, Huyền Vũ chủ bức ảnh, ngày hôm sau mắt có thể thấy đồ tượng.
+- Đồng thời Phụ mẫu lại là chỗ bắt được tin tức của Thiên mục, nhập mộ tại Nhật Nguyệt, ngày mai Thiên mục dù được mở nhưng vẫn chưa thể tiên đoán được.
+- Kết quả phán đoán chính xác.
+##### Ví dụ 4: ngày Giáp Tý tháng Tuất, một người Nhật Bản đến xem Thiên Mục gieo được quẻ Khôn Vi Địa biến Bát Thuần Cấn.
+
+- Lấy Tử tôn làm Dụng thần.
+- Phân tích suy luận: Tử tôn Thân kim trì thế lâm Huyền Vũ, hào thế được Nguyệt kiến sinh phù vượng tướng, Huyền Vũ chủ đồ tượng, phát động chủ Thiên Mục có động tĩnh, Thiên Mục đã mở, có thể trông thấy đồ tượng.
+- Nhưng Lục xung biến Lục xung, Thiên mục không ổn định, lúc hiện lúc không.
+- Dự đoán quả nhiên ứng nghiệm.
+##### Ví dụ 5: ngày Ất Sửu tháng Tuất, một người Nhật Bản đến xem Thiên Mục gieo được quẻ Lôi Sơn Tiểu Quá biến Lôi Hỏa Phong.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 73.** Chính quái Bát Thuần Khôn
+    - <img src="assets/page_0069_img_01.png" alt="Hình 73" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 74.** Biến quái Bát Thuần Cấn
+    - <img src="assets/page_0069_img_02.png" alt="Hình 74" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Phân tích suy luận: Tử tôn Hợi thủy bị Nhật Nguyệt hào động khắc, phục không hiện, lại nhập mộ tại hào động Phụ mẫu Thìn thổ, thoạt nhìn Thiên Mục dường như chưa mở, nhưng hào thế Quan quỷ Ngọ hỏa lâm Đằng Xà, Đằng Xà chủ kỳ dị, như vậy ngày hôm sau Thiên mục sẽ mở.
+- Hỏa là ánh sáng, cho nên đoán Thiên Mục có thể trông thấy ánh sáng, nhưng nhìn không thấy bức ảnh.
+- Phân tích suy luận: Quan quỷ trì thế, Quan quỷ là tạp niệm, đoán tạp niệm quá nhiều.
+- Quả nhiên ứng nghiệm.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 75.** Chính quái Lôi Sơn Tiểu Quá
+    - <img src="assets/page_0070_img_01.png" alt="Hình 75" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 76.** Biến quái Lôi Hỏa Phong
+    - <img src="assets/page_0070_img_02.png" alt="Hình 76" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+## Chương 5: Nam Nữ Nhân Duyên Dự Đoán Bí Pháp
+
+- Nam nữ là biến thể của âm dương, theo một ý nghĩa nào đó nam nữ kết hợp chính là tuân thủ đạo âm dương.
+- Bởi vậy lấy âm dương là tư tưởng xuyên suốt trong dự đoán Lục hào về tình yêu nam nữ.
+- Vũ trụ biến hóa từ âm dương hòa hợp đến mất cân bằng, lại từ mất cân bằng đến cân bằng, không ngừng vận động.
+- Nhưng vũ trụ cũng không khả năng khiến âm dương hòa hợp một cách hoàn hảo, trong vũ trụ âm dương một khi cân bằng, vũ trụ sẽ đình chỉ vận động trở về trạng thái vô cực.
+- Con người là một bộ phận tạo thành vũ trụ, cho nên nhân loại không thể tách rời khỏi ảnh hưởng của vũ trụ âm dương.
+- Chính vì vũ trụ âm dương không cân bằng mới có thể sinh ra đủ loại biến hóa, mới có thể diễn nghĩa ra tình yêu nam nữ.
+- Ai cũng hi vọng có được may mắn, nhưng từ khi nhân loại xuất hiện điều này, nguyên lý âm dương lại luôn đem tình yêu phân chia thành bi kịch cùng hí kịch.
+- Cổ nhân dùng Lục hào giải mã tình yêu, trải qua nhiều thế hệ đã tổng kết ra rất nhiều quyết khiếu đoán quẻ, chẳng những có thể từ quẻ phán đoán ra cát hung hôn nhân mà còn có thể đoán ra hôn kỳ, tính tình của đối phương, tướng mạo, bối cảnh gia đình...., đây cũng là mị lực của Lục hào.
+
+### Dụng Thần, Hương Khuê và Sàng Trướng
+
+#### Dụng thần
+
+- Căn cứ chiêm đoán: Căn cứ giới tính của người muốn dự đoán mà Dụng thần cũng có chỗ khác biệt.
+- Nữ xem nam hoặc xem hôn nhân của con gái, lấy Quan quỷ làm Dụng thần; nam xem nữ, hoặc xem hôn nhân của con trai, lấy Thê Tài làm Dụng thần.
+- Nếu như Dụng thần lấy sai, dự đoán cũng liền mất đi độ chính xác, sẽ sai một li đi ngàn dặm.
+##### Hương khuê cùng Sàng trướng
+
+- Dự đoán nam nữ đã kết hôn hay chưa, hai người đã phát sinh quan hệ nhục thể chưa thì xem Hương khuê và Sàng trướng.
+- Nữ xem Hương khuê, nam xem Sàng trướng, vượng tướng xuất hiện là ở chung hoặc đã kết hôn, hưu tù không phá là chưa lập gia đình hoặc chưa ở chung.
+- Hương khuê cùng Sàng trướng là từ Quái thân thôi diễn mà ra.
+- Quái thân xác định như sau:
+- Xem hào thế âm hay dương, hào thế dương, từ Tý thuận theo kim đồng hồ đếm mười hai địa chi, đếm tới hào thế được địa chi nào thì đó chính là quái thân.
+- Phân tích suy luận: Hào thế âm, thì từ Ngọ thuận theo kim đồng hồ đếm theo mười hai địa chi, đếm tới hào thế được địa chi nào thì đó chính là Quái thân.
+##### Quái thân
+
+- Hào bị Quái thân khắc thương là Hương khuê, cũng là khuê phòng, Quái thân sinh hào nào thì đó là Sàng trướng.
+##### Quái thân cùng Hương khuê và Sàng trướng
+
+- Hương khuê cùng Sàng trước cũng không phải là căn cứ không quyết định hết thảy, nhất định phải kết hợp đồng thời lục thân, lục thần cùng Dụng thần sinh hợp mới có thể phán đoán chính xác.
+- Nếu không xác suất đoán trúng không cao.
+##### Đào hoa cùng Dịch mã
+
+- Đào hoa thường thường dùng để phán đoán thái độ của nam nữ với tình yêu và cách nhìn về quan hệ nam nữ.
+- Có nhiều duyên phận với người khác phái gọi là số đào hoa.
+- Lục hào phán đoán tình yêu nam nữ thường lấy đào hoa là một căn cứ cho nhân duyên rất ứng nghiệm.
+- Đào hoa được rút ra từ Nhật Nguyệt.
+- Đào hoa khẩu quyết là:
+- Thân Tý Thìn Đào hoa tại Dậu, Dần Ngọ Tuất Đào hoa tại Mão, Tị Dậu Sửu Đào hoa tại Ngọ, Hợi Mão Mùi Đào hoa tại Tý.
+- Nói cách khác tháng Thân, Tý, Thìn, hoặc ngày Thân, Tý, Thìn trong quẻ xuất hiện Dậu kim thì Dậu kim là Đào hoa.
+##### Đào hoa
+
+- Đào hoa dùng để phán đoán tình huống quan hệ nam nữ, cũng không phải tất cả đều là tin tức không tốt.
+- Đào hoa chủ phong lưu, háo sắc, dâm dục, gợi cảm, xinh đẹp, mỹ lệ.
+- Dịch mã chính là diễn biến ra từ chế độ giao thông thời cổ đại.
+- Cổ đại đi xa phải dùng ngựa, ngựa cũng là công cụ mà cổ nhân dùng để truyền thư tín, tin tức.
+- Vì đường xá thời cổ đại không tốt, khoảng cách lại xa, cho nên ven đường cần chỗ để nghỉ ngơi và thay thế ngựa, nơi cung cấp ngựa và chỗ nghỉ ngơi được gọi là dịch trạm.
+- Mà ngựa chuyên dùng để thay thế chính là dịch mã.
+- Cổ nhân đem Dịch mã vào Lục hào là dùng nó để biểu thị cho ý tứ xa xôi, bôn tẩu, nửa đường, phương tiện giao thông, kinh thương, ra ngoài, rời đi, tách rời, di động nhanh chóng.
+- Dịch mã cùng Đào hoa đều lấy Nguyệt kiến và Nhật thần để xem.
+- Phương pháp tìm Dịch mã là Thân Tý Thìn Dịch mã tại Dần Ngọ Tuất, Dần Ngọ Tuất Dịch mã tại Thân Tý Thìn, Hợi Mão Mùi Dịch mã tại Tị Dậu Sửu, Tị Dậu Sửu Dịch mã tại Hợi Mão Mùi.
+- Để mọi người liếc qua có thể thấy ngay, có bảng như sau:
+##### Dịch mã
+
+### Phán Đoán Tính Cách
+
+- Muốn tìm kiếm cho mình một bạn lữ đáng hài lòng, nhất định phải tham khảo tính tình của đối phương.
+- Ai cũng muốn biết tính tình của đối phương có hợp với mình hay không.
+- Nhưng mỗi người cũng không thể tiên tri, không có khả năng sớm biết về đối phương, đến khi ở cùng nhau một thời gian mới phát hiện đối phương có nhiều khuyết điểm, tính cách không hợp, khó thích hợp, không thể không cãi lộn, cuối cùng ly hôn, tan rã không vui.
+- Đôi khi còn bị ngược đãi, khiến thể xác tinh thần nhận tổn thương cực lớn.
+- Bởi vậy lúc chọn đối tượng, phán đoán tính cách là một bộ phận trọng yếu khi dự đoán.
+- Lục hào đoán tính cách căn cứ ngũ hành của Dụng thần cùng lục thần, quẻ cung đến tiến hành phán đoán.
+- Tính cách cũng chia ra hai phương diện âm dương.
+- Căn cứ chiêm đoán: Căn cứ Dụng thần suy vượng mà dự đoán cụ thể có chỗ khác biệt.
+#### Theo quẻ cung để phán đoán tính cách
+
+- **Dụng thần tại Càn cung:**
+- *Phán đoán tích cực:* có khí chất, uy nghiêm, được người tôn kính, lòng ôm chí lớn, có phong độ.
+- *Phán đoán tiêu cực:* kiêu ngạo tự đại, ngạo mạn, cao ngạ, không thích sống chung cùng người khác.
+- **Dụng thần tại Khôn cung:**
+- *Phán đoán tích cực:* vững vàng, trung thực, giữ uy tín, lòng dạ rộng lớn, bao dung hết thảy.
+- *Phán đoán tiêu cực:* không thích nói chuyện, mềm yếu, dễ bị người ngược đãi, không có chí khí, không có chủ kiến.
+- **Dụng thần tại Khảm cung:**
+- *Phán đoán tích cực:* thông minh, có trí tuệ.
+- *Phán đoán tiêu cực:* giảo hoạt, nhiều ý đồ xấu, không thành thật, nói chuyện không có tính toán.
+##### Dụng thần tại Ly cung:
+
+- *Phán đoán tích cực:* hoạt bát, có sức sống, tính cách sáng sủa.
+- *Phán đoán tiêu cực:* gấp gáp, dễ cáu giận, đầu voi đuôi chuột.
+##### Dụng thần tại Chấn cung:
+
+- *Phán đoán tích cực:* có tên tuổi, hiếu động.
+- *Phán đoán tiêu cực:* dễ giận, tính tình không tốt, tính cách nôn nóng, làm việc thiếu cân nhắc.
+##### Dụng thần tại Tốn cung:
+
+- *Phán đoán tích cực:* tâm địa thiện lương, có lòng từ bi.
+- *Phán đoán tiêu cực:* tính cách không quả quyết, lập trường không kiên định.
+##### Dụng thần tại Cấn cung:
+
+- *Phán đoán tích cực:* bảo thủ, vững vàng, thật yên tĩnh.
+- *Phán đoán tiêu cực:* lười biếng, nhát gan.
+##### Dụng thần tại Đoài cung:
+
+- *Phán đoán tích cực:* vui tính, dễ nói chuyện, hay nói, thích uống rượu.
+- *Phán đoán tiêu cực:* lải nhải, líu lo không ngừng, dài dòng.
+##### Theo Ngũ Hành phán đoán tính cách
+
+##### Dụng thần là Kim:
+
+- *Phán đoán tích cực:* có khí khái đàn ông, khí phách, coi trọng chữ tín, có tinh thần trọng nghĩa, năng khiếu âm nhạc.
+- *Phán đoán tiêu cực:* thích tranh đấu, háo sắc, hung ác.
+##### Dụng thần là Mộc:
+
+- *Phán đoán tích cực:* tâm địa thiện lương, từ bi, dễ tha thứ.
+- *Phán đoán tiêu cực:* mềm yếu.
+##### Dụng thần là Thủy:
+
+- *Phán đoán tích cực:* thông minh, cơ trí, trí lực cao.
+- *Phán đoán tiêu cực:* giảo hoạt, dâm loạn, lỗ mãng, không giữ lời hứa.
+##### Dụng thần là Hỏa:
+
+- *Phán đoán tích cực:* tràn ngập sức sống, hoạt bát, hướng ngoại.
+- *Phán đoán tiêu cực:* dễ giận, tính tình không tốt, nôn nóng.
+##### Dụng thần là Thổ:
+
+- *Phán đoán tích cực:* vững vàng, trung thực, coi trọng chữ tín.
+- *Phán đoán tiêu cực:* cứng nhắc, trì độn.
+##### Dùng lục thần để phán đoán tính cách
+
+- **Thanh Long:** Tâm địa thiện lương, lễ phép, nho nhã lễ độ, rộng lượng, dễ tha thứ, thiện lành.
+- **Chu Tước:** Hay nói, líu lo không ngừng, lải nhải nói liên miên, dài dòng, cười mị mị.
+- **Câu Trần:** Chính trực, trung thực, trì độn, lười biếng, không linh hoạt, cứng nhắc.
+- **Đằng Xà:** Hẹp hòi, ki bo, tham tiền, không thủ tín, quỷ bí, quái gở, không thích sống chung, cổ quái.
+- **Bạch Hổ:** Hay cáu, dễ giận, uy nghiêm, rất thích tàn nhẫn tranh đấu, hung tàn, cường ngạnh, nghịch ngợm.
+- **Huyền Vũ:** Giảo hoạt, háo sắc, âm hiểm, có mưu trí, hướng nội, không rộng rãi.
+
+### Phán Đoán Tướng Mạo
+
+- Dùng Lục hào dự đoán tướng mạo có thể xem từ đầu đến chân.
+- Phán đoán chủ yếu là mượn nhờ quẻ cung, ngũ hành, lục thần, lục thân, hào vị tổng hợp phân tích.
+#### Phán đoán theo hào vị
+
+- **Hào sáu:** Tóc, vật trang sức, tay, bả vai, mũ.
+- **Hào năm:** Lỗ tai, con mắt, mũi, miệng, mặt mũi, râu, yết hầu, kính mắt.
+- **Hào bốn:** Ngực, vú, phần lưng.
+- **Hào ba:** Bụng, mông, eo.
+- **Hào hai:** Đùi, đầu gối, chân.
+- **Hào sơ:** bàn chân.
+##### Phán đoán Hình thể
+
+- *Căn cứ ngũ hành của Dụng thần để phán đoán.*
+- **Dụng thần là Kim:** Vượng tướng thì thể trạng cường tráng, khôi ngô, hưu tù là gầy yếu, da bọc xương.
+- **Dụng thần là Mộc:** Vượng tướng là thon thả, cao lớn, thân cao, hưu tù là gầy yếu.
+- **Dụng thần là Thủy:** Vượng tướng là thủy linh, thân thể nhu hòa, mạnh mẽ.
+- **Dụng thần là Hỏa:** đầu to người nhỏ, đi đường đung đưa không ngừng, mặt mũi đỏ.
+- **Dụng thần là Thổ:** Vượng tướng là vừa cao vừa béo, hưu tù thấp thấp béo phì.
+##### Phán đoán Tóc
+
+- Căn cứ chiêm đoán: Căn cứ lục thân:
+- Vượng tướng là rậm, hưu tù thưa thớt.
+- *Lâm Thanh Long:* tóc chỉnh tề, mỹ quan, xinh đẹp, vật trang sức mới lạ.
+- *Lâm Chu Tước:* tóc đỏ, hoặc tóc xoã tung.
+- *Lâm Huyền Vũ:* tóc đen nhánh.
+- *Lâm Bạch Hổ:* tóc cứng, có lẽ có tóc trắng.
+- *Lâm Câu Trần:* tóc hơi vàng. *Lâm Đằng Xà* tóc quăn, uốn tóc.
+##### Phán đoán Mặt
+
+- Tý Ngọ Mão Dậu mặt tròn, Dần Thân Tị Hợi mặt trái xoan, Thìn Tuất Sửu Mùi mặt vuông.
+- Ngũ Hành Nguyệt phá, tướng mạo xấu xí hoặc mặt có tổn thương.
+- *Lâm Thanh Long:* mỹ mạo.
+- *Lâm Chu Tước:* sắc mặt đỏ hoặc thường mang tiếu dung.
+- *Lâm Câu Trần:* biểu lộ khô khan, không lộ vẻ gì, đầu trì độn.
+- *Lâm Đằng Xà:* có sẹo, hoặc nhiều nếp nhăn, hoặc mặt mày cau có.
+- *Lâm Bạch Hổ:* biểu lộ nghiêm túc, để cho người ta sinh ra sợ hãi.
+- *Lâm Huyền Vũ:* có nốt ruồi, hoặc mặt màu đen, hoặc dáng dấp gợi cảm.
+- Hỏa là mắt.
+- Thủy là yết hầu, miệng.
+- Thổ là mũi.
+- Kim là lỗ tai, răng.
+- Mộc là tóc, lông mày, râu.
+##### Chiều cao:
+
+- Nếu như muốn phán đoán chiều cao đối phương, lấy Dụng thần suy vượng phán đoán.
+- Dụng thần là mộc, kim, thủy tương đối cao, là hỏa, thổ tương đối thấp.
+- Đây là từ Ngũ Hành tính chất để phán đoán.
+- Đồng thời còn nên kết hợp Dụng thần vượng suy để tổng hợp phán đoán.
+- Dụng thần vượng tướng thân hình cao lớn, hưu tù dáng người thấp bé.
+- Mặt khác từ mười hai cung trường sinh cũng có thể xem, gặp thai, dưỡng, suy, bệnh, tử, tuyệt là thấp, gặp trường sinh, quan đái, lâm quan, đế vượng là cao.
+##### Ví dụ 1: ** ngày Nhân Thân tháng Tý, một người đàn ông đến xem nhân duyên, nghĩ đến mấy người, hỏi xem có thể thành tri kỷ.
+
+- Xem người thứ nhất được quẻ Thiên Phong Cấu.
+- Lấy Thê Tài làm Dụng thần, xem Thê Tài suy vượng cùng với hào thế sinh khắc thế nào.
+- Nhưng muốn phán đoán toàn bộ về đối phương, còn phải xem toàn bộ quẻ biến hóa, động tĩnh, tổng thể cẩn thận phân tích.
+- Phân tích suy luận: Hào thế là người đến xem.
+- Phân tích suy luận: Thê tài Dần mộc phục mà khắc thế, chính là cô gái này trốn tránh không muốn gặp mặt, cự tuyệt kết giao.
+- Cẩn thận phân tích một chút về cô gái này.
+- Đầu tiên xem Hương khuê, hào thế âm, từ Ngọ đếm lên Quái thân.
+- Phân tích suy luận: Hào thế tại sơ hào, quái thân là Ngọ, Ngọ là Hỏa, Hỏa khắc Huynh đệ Thân kim hoặc Huynh đệ Dậu kim chính là Hương khuê.
+- Hương khuê lâm Nhật vượng tướng, nói rõ anh ta muốn theo đuổi một người phụ nữ đã kết hôn.
+- Từ góc độ lục thân xem, Phụ mẫu Sửu thổ trì thế, trường sinh tại Nhật, Phụ mẫu là hôn thú, nói rõ người phụ nữ này vừa mới kết hôn.
+- Phân tích suy luận: Tử tôn Hợi thủy không vong, Tử tôn đại biểu hài tử, không vong biểu thị không có, nói rõ cô gái còn chưa có con.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 77.** Chính quái Thiên Phong Cấu
+    - <img src="assets/page_0080_img_01.png" alt="Hình 77" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 78.** Biến quái Thiên Phong Cấu
+    - <img src="assets/page_0080_img_02.png" alt="Hình 78" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Phân tích suy luận: Thê tài tại Càn cung, Càn có ý là tròn, Dần mộc là nhọn, cùng Dần mộc tổng hợp phán đoán, cô gái này mặt tròn cằm nhọn.
+- Lâm Thanh Long, có thể nói là một mỹ nhân.
+- Phân tích suy luận: Quan quỷ Ngọ hỏa là chồng cô ấy.
+- Từ Nhật Nguyệt nhìn lại Ngọ hỏa là Dịch mã, lâm hào ứng, ứng là nước ngoài, chỗ khác, nói rõ chồng của cô ấy chạy bên ngoài hoặc làm việc tại nước ngoài.
+- Dụng thần Thê tài Dần mộc sinh ứng, ứng lại là hào vị chồng, nói rõ cô ấy rất yêu chồng.
+- Bởi vậy khó có thể thành với cô này.
+- Quả như chỗ đến xem.
+##### Ví dụ 2: lại xem người phụ nữ Thứ Hai như thế nào? Gieo được quẻ Địa Thủy Sư biến Sơn Trạch Tổn.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 79.** Chính quái: Địa Thủy Sư
+    - <img src="assets/page_0081_img_01.png" alt="Hình 79" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+  - **Hình 80.** Biến quái: Sơn Trạch Tổn
+    - <img src="assets/page_0081_img_02.png" alt="Hình 80" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Xem cùng cô gái này có nhân duyên hay không lấy Thê Tài làm Dụng thần.
+- Muốn phán đoán về cô gái này cần xem toàn bộ tin tức trong quẻ.
+- Phân tích suy luận: Thê tài Ngọ hỏa trì thế, hào thế là người đến xem, Dụng thần cùng hào thế đồng vị.
+- Chỉ cần người đến xem muốn, đối phương cũng sẽ nguyện ý cùng anh ta có mối quan hệ qua lại.
+- Phân tích suy luận: Thê tài là Ngọ hỏa, Ngọ Hỏa là tròn, cô gái này mặt tròn.
+- Nhưng Ngọ hỏa Nguyệt phá, dung mạo không đẹp.
+- Lâm Chu Tước, cô gái này rất hay nói.
+- Dụng thần cùng Nguyên thần đều là Dịch mã, nói rõ cô gái này là người không thích an tĩnh.
+- Phân tích suy luận: Phụ mẫu Dậu kim lâm Bạch Hổ phát động, Phụ mẫu là tức giận, Bạch Hổ là tính
+- tình không tốt, nói rõ cô gái này tính tình khá nóng nảy, động một chút lại gây chuyện.
+- Xem Hương khuê, Quái thân là Thân, Tử tôn Dần mộc bị khắc là Hương khuê.
+- Phân tích suy luận: Tử tôn Dần mộc được Nguyệt kiến sinh phù vượng tướng, Phụ mẫu Dậu kim cùng Nhật thần có ngũ hành giống nhau, cổ nhân nói "Phụ mẫu lâm Nhật hôn kỳ định", nói rõ cô gái này là người đã kết hôn.
+- Nhưng Hương khuê cùng Huynh đệ Hợi thủy tương hợp, Hợi thủy không vong, Hương khuê hợp không, nói rõ là phòng không gối chiếc, cho nên không phải ly dị thì cũng li thân.
+- Mà đại biểu hôn thú Phụ mẫu Dậu kim động hóa tuyệt, như vậy là đăng ký kết hôn đã chấm dứt, chứng tỏ cô ta đã ly hôn.
+- Phân tích suy luận: Phụ mẫu hóa ra Dần mộc, năm 1998 là năm Mậu Dần, xác nhận năm 1998 ly hôn.
+- Trong quẻ Quan quỷ lưỡng hiện, kẹp lấy Thê tài Ngọ hỏa, Quan quỷ là nam nhân, Tài lâm hào ba, hào ba là hào vị giường, trên giường bị hai Quan quỷ đến kẹp, nói rõ cô gái cùng mấy người đàn ông ở chung.
+- Nguyên thần Tử tôn lâm Huyền Vũ phát động sinh Thế, Nguyên thần là thế giới nội tâm và tư duy của một người, Huyền Vũ chủ mập mờ, nói rõ cô gái này chủ động câu dẫn anh ta.
+- Suy đoán quả nhiên ứng nghiệm, cô gái này đã ly hôn, phong lưu thành tính, cùng mấy người đàn ông có quan hệ mập mờ, chủ động câu dẫn anh ta, anh ta ngại hình thức không ổn nên không chấp nhận.
+##### Ví dụ 3: lại xem người phụ nữ thứ ba. Gieo được quẻ Khôn Vi Địa biến Sơn Địa Bác.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 81.** Chính quái: Bát Thuần Khôn
+    - <img src="assets/page_0082_img_01.png" alt="Hình 81" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+  - **Hình 82.** Biến quái: Sơn Địa Bác
+    - <img src="assets/page_0082_img_02.png" alt="Hình 82" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Phân tích suy luận: Thê tài là cô gái anh ta muốn theo đuổi, hào thế là người đến xem.
+- Phân tích suy luận: Hào thế lâm Bạch Hổ phát động sinh Dụng thần, Bạch Hổ chủ mãnh liệt, cưỡng ép, truy cầu, nói rõ người đến xem đang liều mạng chủ động theo đuổi cô gái này.
+- Từ Nhật Nguyệt nhìn lại, hào thế Dậu kim là Đào hoa, người đến xem khá hào hoa phong độ.
+- Nhưng Thê tài Hợi thủy không vong, không nhận hào thế sinh phù, nói rõ cô gái này không chịu hợp tác, hào thế động mà hóa tuyệt, bản thân tuyệt vọng, từ bỏ theo đuổi.
+- Phân tích suy luận: Thê tài là Hợi thủy, Hợi mặt trái xoan, Thủy là nũng nịu, nói rõ cô gái này dáng dấp tinh linh xinh đẹp.
+- Lâm Đằng Xà, Đằng Xà là giật mình, hiếm thấy, nói rõ cô gái này là mỹ nhân hiếm thấy.
+- Hương khuê là Phụ mẫu Tị hỏa, bị Nguyệt kiến khắc, Nhật lại không sinh, cô gái này còn chưa kết hôn.
+- Hợi thủy sinh hào ứng là Quan quỷ, ứng là phu vị, cô gái này muốn tìm chồng.
+- Anh ta và cô gái này vô duyên.
+- Quả như chỗ đến xem.
+##### Ví dụ 4: ** ngày Giáp Tý tháng Thìn, một người đàn ông hỏi mình và bạn gái có duyên phận hay không? Gieo được quẻ Phong Thiên Tiểu Súc.
+
+- Lấy Thê Tài làm Dụng thần.
+- Trong quẻ Thê Tài lưỡng hiện, lấy hào ứng làm Dụng thần.
+- Một hào khác Thê Tài để tham khảo.
+- Nếu như muốn phán đoán hình thể cùng tướng mạo, phải xem toàn bộ chỉnh thể quẻ.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 83.** Phong Thiên Tiểu Súc
+    - <img src="assets/page_0083_img_01.png" alt="Hình 83" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Phân tích suy luận: Thê tài Mùi thổ lâm Đằng Xà, Đằng Xà là hiếm thấy, quái gở, cô gái này tính cách cùng người thường không giống nhau, cá tính rất mạnh.
+- Một hào Thê Tài lâm Câu Trần, Câu Trần là béo phì, cô gái này khá mập mạp.
+- Dụng thần tại Tốn cung, là một người ý chí không kiên định.
+- Nguyệt là mộ khố của Dụng thần, Dụng thần nhập mộ là bị người khống chế, không có quyền tự chủ, cô gái này là người không có chủ kiến.
+- Hào năm là nguyên thần, hào năm là hào vị ngũ quan.
+- Phân tích suy luận: Tử tôn Tị hỏa lâm hào năm, Tử tôn cũng là ngũ quan, hỏa là mắt, bị Nhật khắc thương, lại lâm Bạch Hổ, Bạch Hổ là có bệnh, mắt của cô gái không tốt, có bệnh, suy đoán mắt cận thị, hào dương, trái là dương, đoán mắt trái cận thị nặng hơn.
+- Phân tích suy luận: Tử tôn là y dược, Bạch Hổ là phẫu thuật, Tị hỏa là đất tuyệt của thủy, thủy là miệng, yết hầu, gặp tuyệt, yết hầu hơi nhỏ, đoán yết hầu đã từng giải phẫu.
+- Hào sáu là hào vị tóc, mộc cũng là tóc, lâm hào sáu ý càng mạnh.
+- Hào sáu Huynh đệ Mão mộc được Nhật thần sinh phù là vượng tướng, đoán tóc dài.
+- Lâm Huyền Vũ, Huyền Vũ chủ đen, là đen nhánh.
+- Đoán đến đây, đối phương phản hồi, tính cách phán đoán rất chính xác, mắt cũng cận thị, nhưng không biết là mắt nào không tốt, cũng không biết có phẫu thuật yết hầu hay không.
+- Lập tức gọi điện thoại hỏi một chút, suy đoán toàn bộ chính xác.
+- Quẻ này có ích thần mặc dù vượng tướng, nhưng Nguyên thần hưu tù bị khắc, hỏi quan hệ lâu dài nhất định phải xem nguyên thần, vượng tướng có khí là lâu dài, hưu tù bị khắc không lâu dài.
+- Quẻ tên là Phong Thiên Tiểu Súc, chủ hai người không lâu dài.
+- Dự đoán lúc này hai người quan hệ như keo sơn, chung đụng phi thường tốt.
+- Nhưng đến tháng Tuất, bạn trai cũ của cô gái tìm đến, cô gái do dự, không biết lựa chọn ai.
+- Đối thoại thực tế: Người đến xem để cô gái tự quyết định, nhưng cô ta không quả quyết, mãi không thể xác định nên hai người chia tay.
+##### Ví dụ 5: ** ngày Quý Mùi, tháng Mùi, một người đàn ông đến xem bạn gái đã chia tay tình trạng như thế nào? Được quẻ Trạch Thủy Tiết.
+
+##### THỦY TRẠCH TIẾT | BIẾN QUÁI: THỦY TRẠCH TIẾT
+
+- Phân tích suy luận: Thê tài tuy là người yêu, nhưng đã chia tay, mục đích dự đoán tình huống, không cần xem cát hung, chỉ từ trong quẻ phân tích tình huống bạn gái là đủ.
+- Nếu như đến xem người yêu cát hung thế nào thì lấy Thê tài làm Dụng thần, nhưng nay chỉ hỏi tình trạng, toàn bộ quẻ tức là tin tức người được hỏi, cho nên xem Thê Tài đồng thời xem hào thế, hào thế cũng là đối tượng cần xem.
+- Quẻ lục hợp, cô gái người đầy đặn.
+- Phân tích suy luận: Hào thế là Tị hỏa, Dần Thân Tị Hợi là nhọn, cô gái này mặt trái xoan.
+- Lâm Huyền Vũ, lại là quẻ lục hợp, cô gái này dáng dấp rất gợi cảm, hấp dẫn.
+- Hào năm Quan quỷ lâm Đằng Xà, hào năm là mặt, thổ chủ mũi, Quan quỷ chủ có bệnh, Đằng Xà chủ vết sẹo, cho nên đoán mũi có sẹo.
+- Hào năm Tuất thổ là mộ khố của Hỏa, Hoả là mắt, nhập mộ khố tại Quan quỷ, tất chủ mắt cận thị.
+- Kính mắt lấy Phụ mẫu làm Dụng thần, Phụ mẫu Thân kim không vong, không nhận hào năm sinh phù, chủ mặc dù cận thị cũng không đeo kính.
+- Hào bốn là ngực, lâm Phụ mẫu càng chủ ngực, Tử tôn là vú, Phụ mẫu Thân kim là đất tuyệt của Tử tôn, Tử tôn lại suy, đoán cô gái này ngực nhỏ.
+- Phân tích suy luận: Phụ mẫu tại hào bốn chủ áo ngực, lâm Câu Trần chủ phồng lên, nhưng không vong, nói rõ bên trong là trống không, cho nên đoán cô gái này ngực tuy nhỏ, mang áo ngực lại rất lớn.
+- Phân tích suy luận: Hào thế là hoả, gặp lục hợp là mắt hai mí.
+- Hào ba Sửu thổ Nguyệt phá, có tượng tách ra, âm hào chủ phía sau, cho nên Sửu thổ là cái mông, Nhật xung là động, cho nên đoán lúc đi mông uốn éo.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 84.** Sơ đồ quẻ Thủy Trạch Tiết (Chính Quái)
+    - <img src="assets/page_0085_img_01.png" alt="Hình 84" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 85.** Sơ đồ quẻ Thủy Trạch Tiết (Biến Quái)
+    - <img src="assets/page_0085_img_02.png" alt="Hình 85" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Kết quả chỗ đoán đều nghiệm.
+##### Ví dụ 6: Ngày Quý Mùi tháng Mùi một người đàn ông khác thấy đoán quẻ quá thần kỳ cũng muốn xem về bạn gái trước kia, gieo được quẻ Phong Sơn Tiệm.
+
+##### PHONG SƠN TIỆM | BIẾN QUÁI: PHONG SƠN TIỆM
+
+- Lấy Thê tài làm dụng kiêm nhìn hào thế, toàn bộ tin tức trong quẻ chính là người cần xem.
+- Tài là Tý thủy, là mặt tròn.
+- Quẻ tại Cấn cung, là người con gái bảo thủ, cổ điển.
+- Dụng thần Tý Thủy phục dưới hào năm Phụ mẫu Tị hỏa, hào năm là ngũ quan, Tị hỏa là mắt, bị hỏa tuyệt, mắt cận thị.
+- Phân tích suy luận: Phụ mẫu Tị hỏa là dương, chủ yếu là mắt trái cận nặng hơn.
+- Phân tích suy luận: Hào thế lâm Tử tôn Thân kim Chu Tước, Chu Tước chủ lời nói, ngôn ngữ, thanh âm, Tử tôn là khoái hoạt, giải trí, không vong, kim không tắc minh, bạn gái cũ thích ca hát.
+- Phân tích suy luận: Tử tôn là vú, lâm không vong, ngực trống không, nói rõ ngực nhỏ.
+- Phân tích suy luận: Tử tôn lâm hào ba, hào ba là hào vị tử cung, Tử tôn lại chủ bộ phận sinh dục, tài là kinh nguyệt, không mà không sinh hào Tài, kinh nguyệt ít.
+- Phân tích suy luận: Phụ mẫu là trang phục, Phụ mẫu Ngọ hỏa lâm hào hai, hào hai là chân, Phụ mẫu lâm chân tức là quần.
+- Ngọ hỏa là đất mộc dục của hào thế, mộc dục là trần trụi, vốn nên giải thích là mặc váy, nhưng Ngọ hỏa cùng Nhật Nguyệt tương hợp, hợp là che đậy, cho nên đoán bạn gái cũ thích mặc quần dài, không thích váy.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 86.** Sơ đồ quẻ Phong Sơn Tiệm (Chính Quái)
+    - <img src="assets/page_0086_img_01.png" alt="Hình 86" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 87.** Sơ đồ quẻ Phong Sơn Tiệm (Biến Quái)
+    - <img src="assets/page_0086_img_02.png" alt="Hình 87" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Suy đoán quả nhiên chính xác.
+##### Ví dụ 7: ngày Quý Hợi tháng Ngọ, một người đàn ông đến xem việc ra mắt, kết quả như thế nào? Được quẻ Lôi Địa Dự biến Địa Lôi Phục.
+
+- Lấy Thê Tài làm Dụng thần.
+- Thê Tài lưỡng hiện, lấy hào Thê tài Mùi thổ phát động làm Dụng thần.
+- Phân tích suy luận: Tử tôn Ngọ hỏa lâm hào ứng sinh hào thế, ứng là người khác, sinh Dụng thần, có thể hiểu thành bà mối.
+- Là có người giới thiệu bạn gái.
+- Nhưng hào thế phát động, hóa Nguyệt phá cùng không vong, bản thân không muốn đi.
+- Phân tích suy luận: Tử tôn Tị hỏa lâm hào hai ám động sinh hào thế, hào hai là nhà, người trong nhà thúc giục để đi gặp đối tượng.
+- Phân tích suy luận: Tử tôn Tị hỏa là do Nhật thần Hợi thủy thôi động, Hợi thủy cùng Phụ mẫu có ngũ hành giống nhau, Phụ mẫu là song thân, là bố mẹ thúc giục để ra mắt.
+- Xem tình hình đối phương, lấy Thê Tài làm trung tâm phán đoán.
+- Huyền Vũ lâm Dụng thần, mặt của đối phương hơi đen.
+- Phân tích suy luận: Tử tôn Ngọ hỏa tại hào bốn lâm Nguyệt là vượng tướng, Hào bốn là hào vị vú, Tử tôn lại cũng là vú, lâm Câu Trần, Câu Trần là phồng lên, cô gái này có ngực đặc biệt lớn.
+- Phân tích suy luận: Quan quỷ Thân kim tại hào năm, hào năm là hào vị ngũ quan, kim tại hào năm là răng, Quan quỷ là bệnh, lâm Đằng Xà, Đằng Xà chủ cổ quái khó coi, cô gái có hàm răng khá khó coi, kiểu có răng nanh.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 88.** Lôi Địa Dự biến Địa Lôi Phục
+    - <img src="assets/page_0087_img_01.png" alt="Hình 88" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Xem chiều cao đối phương, Thê tài là thổ, được Nguyệt sinh phù vượng tướng, cô gái có chiều cao trung bình.
+- Thế ứng đều động, động mà hóa không, thế ứng đều không cuối cùng cả hai đều trốn.
+- Lần này ra mắt không thành.
+- Hết thảy quả như phán đoán.
+
+### Phán Đoán Ứng Kỳ
+
+- Ứng kỳ phân ra ứng kỳ quá khứ và tương lai.
+- Người đã kết hôn đến xem, suy đoán thời gian kết hôn là ứng kỳ quá khứ, nếu bất hòa, suy đoán thời gian quay lại hoặc ly hôn là ứng kỳ tương lai.
+- Nếu như người xem chưa lập gia đình, suy đoán thời gian kết hôn cũng là ứng kỳ tương lai.
+- Suy đoán ứng kỳ, đầu tiên phải phân tích rõ ràng cát hung của Dụng thần, sau đó mới có thể xác định thời gian việc đó phát sinh.
+- Dụng thần Nguyên thần vượng tướng, Kị thần yên tĩnh là cát, Dụng thần hưu tù Kị thần phát động là hung.
+- Phán đoán ứng kỳ từ Dụng thần cùng Hào Phụ mẫu để phán đoán, nam xem hào Tài, nữ khán Quan quỷ, Dụng thần là người yêu hoặc vợ chồng, Phụ mẫu là hôn thú, cho nên đều cần xem.
+- Phân tích suy luận: Phụ mẫu lâm Nhật hoặc tỷ hòa với Nhật thì lấy Phụ mẫu để phán đoán ứng kỳ kết hôn.
+- Nếu không phải, dùng Dụng thần đoán ứng kỳ.
+- Cụ thể quy luật là hưu tù ứng trường sinh, Nguyệt phá ứng thực phá hợp phá, không vong ứng xung không thực không.
+- Hợp ứng xung, xung ứng hợp, phục ứng xuất hiện, hoặc ứng xung phi xung phục, phát động ứng gặp trị gặp hợp, yên tĩnh ứng gặp trị gặp xung.
+- Như Nguyên thần có vấn đề, lại phải xem thêm nguyên thần.
+#### Ví dụ 1: ** ngày Đinh Mão, tháng Mùi, năm 1995, một phụ nữ xem hôn nhân của con gái được quẻ Thủy Hỏa Ký Tế biến Thuỷ Lôi Truân.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Đinh Mão, tháng Quý Mùi, năm Ất Hợi
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Đại thử    Lệnh tháng:
+- Mùi-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 89.** Chính quái Thủy Hỏa Ký Tế
+    - <img src="assets/page_0090_img_01.png" alt="Hình 89" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+  - **Hình 90.** Biến quái Thủy Lôi Truân
+    - <img src="assets/page_0090_img_02.png" alt="Hình 90" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy Quan quỷ làm Dụng thần.
+- Phân tích suy luận: Hào thế không vong, là tượng bất an, lâm Đằng Xà, là tượng bực bội, động mà hóa mộ, là tượng bức bí, bị nhốt, cho nên đoán bởi vì hôn nhân của con gái mà tâm phiền ý loạn, buồn rầu phát sầu.
+- Thế ứng tỷ hòa, không mai mối khó thành.
+- Phân tích suy luận: Tử tôn nhập mộ tại Nguyệt kiến Quan quỷ, con gái bà ta vì không yêu đương cũng đang phát sầu.
+- Trong quẻ Quan quỷ lưỡng hiện, Tuất thổ không vong, năm 1994 là Giáp Tuất, đoán cô gái trong năm này chia tay một anh.
+- Sửu thổ Nguyệt phá, đoán cô gái tháng này lại lại chia tay một anh nữa.
+- Suy đoán toàn bộ ứng nghiệm.
+- Trong quẻ hào thế động mà hóa xuất Quan quỷ, đoán năm nay tháng Hợi sẽ xuất hiện một người bạn trai, nhưng nhất định phải do người lớn tác hợp mà thành.
+- Sau kết quả như thế nào không có tin tức phản hồi.
+##### Ví dụ 2: ngày 7 tháng 11 năm 1995 (ngày Nhâm Dần, tháng Bính Tuất, năm Ất Hợi), một người đàn ông khoảng năm mươi tuổi đến hỏi hôn nhân, gieo được quẻ Phong Lôi Ích biến Phong Trạch Trung Phu.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Nhâm Dần, tháng Bính Tuất, năm Ất Hợi
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Sương giáng        Lệnh tháng:
+- Tuất-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- ### CHÍNH QUÁI
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 91.** Chính quái Phong Lôi Ích
+    - <img src="assets/page_0091_img_01.png" alt="Hình 91" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- ### BIẾN QUÁI
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 92.** Biến quái Phong Trạch Trung Phu
+    - <img src="assets/page_0091_img_02.png" alt="Hình 92" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy Thê Tài làm Dụng thần.
+- Trong quẻ Thê tài lưỡng hiện, lấy Thê tài lâm không làm Dụng thần.
+- Phân tích suy luận: Thê tài Thìn thổ trì thế, là tin tức có vợ.
+- Nhưng Thê tài Thìn thổ không phá, Huynh đệ Dần mộc động hóa tiến thần, lại là tượng ly dị.
+- Xem Sàng trướng, Quái thân là Thân kim, Quái thân sinh hào Thủy, Phụ mẫu Tý Thủy tức là Sàng trướng.
+- Sàng trướng hưu tù, thế lại ở hào ba, hào ba là hào vị giường, lâm Tài không vong, là giường bên trên không có nữ nhân, sinh hoạt một mình.
+- Phân tích suy luận: Hào ứng là thê vị, khắc hào thế, kết hôn trễ.
+- Nguyệt Kiến cùng hành với Thê Tài, tương hợp hào ứng, chính là thê quy vị, cho ra tin tức lấy vợ.
+- Năm 1982 là Nhâm Tuất, đoán năm 1982 kết hôn.
+- Từ Nguyệt Kiến tỷ hòa Nhật thần nhìn lại, Dụng thần Thê tài Thìn thổ là Dịch mã.
+- Dịch mã có tượng chạy, rời xa, đi xa, lại thêm không vong, người vợ đi đến địa phương nào đó.
+- Cẩn thận quan sát Quan quỷ Dậu kim phục dưới Thê tài, cùng Thê tài Thìn thổ tương hợp, vợ anh ta bỏ trốn cùng người khác.
+- Đoán ứng kỳ, Thê tài Thìn thổ không phá, ứng thực không thực phá, năm 1988 là Mậu Thìn, đoán vợ bỏ trốn năm 1988.
+- Toàn bộ suy đoán ứng nghiệm.
+##### Ví dụ 3: Ngày 13 tháng 11 năm 1995 (ngày Mậu Thân, tháng Đinh Hợi năm Ất Hợi), một người phụ nữ (sinh năm 1967) đến xem khi nào thành hôn được quẻ Thiên Trạch Lý biến Phong Thiên Tiểu Súc.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Tân Dậu, ngày Mậu Thân, tháng Đinh Hợi, năm Ất Hợi
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Lập đông    Lệnh tháng:
+- Hợi-Thủy
+- Phương pháp lập quẻ:
+- Lục hào
+##### THIÊN TRẠCH LÝ | BIẾN QUÁI: PHONG THIÊN TIỂU SÚC
+
+- Lấy Quan quỷ làm Dụng thần.
+- Thế ứng tương khắc hôn nhân muộn.
+- Phân tích suy luận: Quan quỷ Mão mộc lâm hào ứng, ứng là phu vị, cũng là hào vị đối tượng nên đã có đối tượng.
+- Cổ nhân nói "Quan quỷ lâm ứng tất vừa lòng", bản thân rất thích bạn trai hiện tại.
+- Trong hai hào phát động, Phụ mẫu Ngọ hỏa động sinh Huynh đệ Sửu thổ, Huynh đệ Sửu thổ động sinh Kị thần Tử tôn, yêu đương không thuận lợi, trong nhà có người phản đối.
+- Phân tích suy luận: Phụ mẫu là song thân, Huynh đệ là tỷ muội, trong nhà Phụ mẫu tỷ muội phản đối.
+- Trong cổ thư nói "Thế khắc ứng ngại nghèo yêu giàu", là ngại gia đình đối phương nghèo khó hoặc đối phương lương không cao.
+- Phân tích suy luận: Hào thế nhập mộ tại hào Huynh đệ Sửu thổ động, nhập mộ là không thể tự điều khiển, chủ bản thân không có chủ kiến, không thể chi phối hôn nhân của mình.
+- Phân tích suy luận: Phụ mẫu Tị hỏa hợp Nhật, cho nên lấy Phụ mẫu để phán đoán ứng kỳ kết hôn.
+- Đây gọi là "Phụ mẫu hợp Nhật hôn kỳ định".
+- Tị hỏa Nguyệt phá, chính là ứng thực
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 93.** Hình quẻ Chính quái: Thiên Trạch Lý
+    - <img src="assets/page_0093_img_01.png" alt="Hình 93" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- phá, tức năm Tị hoặc tháng Tị.
+- Hào Phụ mẫu Ngọ hỏa biến hợp, hợp chờ xung, năm sau Bính Tý xung mở Phụ mẫu Ngọ hỏa, tổng hợp lại, ứng là tháng Tị năm 1996 kết hôn.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 94.** Hình quẻ Biến quái: Phong Thiên Tiểu Súc
+    - <img src="assets/page_0093_img_02.png" alt="Hình 94" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **Ứng nghiệm:** Bản thân cô gái này thích một người đàn ông, đã xác định quan hệ yêu đương, nhưng lại bị bố mẹ cùng anh chị phản đối vì đối phương đi làm lương thấp.
+- Sau cùng chia tay, bố mẹ làm chủ tháng Tị năm 1996 cưới một người đàn ông khác.
+##### Ví dụ 4: Ngày 26 Tháng 12 năm 1995 (ngày Tân Mão, tháng Mậu Tý, năm Ất Hợi), một người đàn ông gần bốn mươi tuổi đến xem duyên phận vợ chồng được quẻ Lôi Sơn Tiểu Quá biến Lôi Phong Hằng.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Đinh Dậu, ngày Tân Mão, tháng Mậu Tý, năm Ất Hợi
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Đông chí    Lệnh tháng:
+- Tý-Thủy
+- Phương pháp lập quẻ:
+- Lục hào
+##### LÔI SƠN TIỂU QUÁ | BIẾN QUÁI: LÔI PHONG HẰNG
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 95.** Hình quẻ Chính quái: Lôi Sơn Tiểu Quá
+    - <img src="assets/page_0094_img_01.png" alt="Hình 95" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 96.** Hình quẻ Biến quái: Lôi Phong Hằng
+    - <img src="assets/page_0094_img_02.png" alt="Hình 96" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy Thê Tài làm Dụng thần.
+- Đầu tiên thấy Thế ứng tương sinh, quan hệ vợ chồng rất tốt, nhưng nhìn kỹ, Thê tài Mão mộc phục dưới Quan quỷ Ngọ hỏa, hào thế không vong, quan hệ vợ chồng không tốt.
+- Sàng trướng là Quan quỷ Ngọ hỏa, mặc dù lưỡng hiện, lại đều gặp không vong, chính là ly dị hoặc li thân.
+- Dụng thần không hiện lên quẻ, là vợ không ở nhà.
+- Lại xem giấy đăng ký kết hôn là Phụ mẫu Thìn thổ bị Nhật khắc, Nguyên thần Nguyệt phá, lại hóa hồi đầu khắc.
+- Chính là tượng ly hôn.
+- Phân tích suy luận: Phụ mẫu cùng Nhật thần tương hợp, lấy Phụ mẫu định ứng kỳ kết hôn.
+- Năm 1982 là Nhâm Tuất, chính là năm 1982 sẽ kết hôn.
+- Năm 1992 là Nhâm Thân, năm 1993 là Quý Dậu, đều khắc Dụng thần, nhất định trong hai năm này một năm sẽ ly hôn.
+- Thân kim xuất hiện trong quẻ, năm 1992 ly hôn khả năng có thể lớn hơn.
+- Nguyệt là đất mộc dục của hào Tài, sinh phù Dụng thần, vợ dung mạo xinh đẹp.
+- Thê Tài là mộc, vượng tướng, dáng cao ráo.
+- Lâm Huyền Vũ, dáng dấp rất gợi cảm.
+- Dụng thần phục dưới hào Quan quỷ, Quan quỷ là người đàn ông, có thể hiểu người vợ có quan hệ mập mờ với người đàn ông khác.
+- Nhưng Quan quỷ Ngọ hỏa Nguyệt phá, không vong, không phải là thật, chính là một loại giả tượng.
+- Bởi vậy hoài nghi người vợ có người đàn ông khác, kết quả ảnh hưởng tới tình cảm vợ chồng, dẫn đến ly hôn.
+- **Ứng nghiệm:** Vợ của người đến xem là một diễn viên múa, dáng dấp cao ráo, xinh đẹp, hai người kết hôn năm 1982, vì vợ dung mạo xinh đẹp nên luôn sợ có người câu dẫn, thường thường theo dõi vợ, kết quả dẫn đến tình cảm tan vỡ, vợ thần kinh, năm 1992 đền tám vạn nguyên ly dị.
+##### Ví dụ 5: ** ngày 8 tháng 3 năm 1996 (ngày Giáp Dần, tháng Tân Mão năm Bính Tý), một người phụ nữ đến xem duyên phận vợ chồng được quẻ Phong Thuỷ Hoán biến Bát Thuần Tốn
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Quý Dậu, ngày Giáp Thìn, tháng Tân Mão, năm Bính Tý
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Kinh trập Lệnh tháng:
+- Mão-Mộc
+- Phương pháp lập quẻ:
+- Lục hào
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 97.** Sơ đồ quẻ Lục Hào: Chính quái Phong Thủy Hoán và Biến
+    - <img src="assets/page_0096_img_01.png" alt="Hình 97" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **PHONG THỦY HOÁN** | **BÁT THUẦN TỐN**
+- Lấy Quan quỷ làm Dụng thần.
+- Dụng thần phục dưới hào ba, hưu tù vô khí, vợ chồng duyên phận mỏng.
+- Dụng thần phục, chồng đã không ở nhà.
+- Hương khuê là Hợi thủy, chính là Quan quỷ phục, đây cũng là tin tức người chồng không ở nhà.
+- Phân tích suy luận: Phụ mẫu Dần mộc cùng Nhật thần tỷ hòa, lấy Phụ mẫu phán đoán ứng kỳ kết hôn.
+- Phân tích suy luận: Phụ mẫu Dần mộc yên tĩnh, lấy quy luậy ứng kỳ xem, tĩnh cần gặp trị gặp xung, ứng năm Thân kết hôn, đồng thời Dụng thần Quan quỷ hưu tù, năm thân làm Dụng thần trường sinh, nhất định là kết hôn năn Thân.
+- Năm 1992 là Nhâm Thân, đoán năm 1992 kết hôn.
+- Phân tích suy luận: Quan quỷ Hợi thủy cùng Phụ mẫu Dần mộc tương hợp, Phụ mẫu là hôn thú, nói rõ chồng đã từng kết hôn.
+- Phân tích suy luận: Hào thế là Tị hỏa, hào ứng là Thìn thổ, Thìn Tị cùng nạp Tốn quẻ, hai vợ chồng là đồng hương.
+- Cổ nhân gọi là "Thân càng thêm thân cùng một cung".
+- Năm 1994 là Giáp Tuất, khắc chế Quan quỷ, năm 1994 ly hôn.
+- **Ứng nghiệm:** Cô gái này năm 1992 kết hôn với anh hàng xóm, đối phương là cưới lần hai, vợ bất hòa, năm 1994 ly hôn.
+##### Ví dụ 6: Ngày 4 tháng 11 năm 1996 (ngày Ất Tị tháng Mậu Tuất năm Bính Tý), một người đàn ông đến xem khi nào kết hôn được quẻ Phong Trạch Trung Phu biến Thuỷ Lôi Truân.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Ất Dậu, ngày Ất Tỵ, tháng Mậu Tuất, năm Bính Tý
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Sương giáng Lệnh tháng:
+- Tuất-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Lấy Thê Tài làm Dụng thần.
+- Phân tích suy luận: Thê tài phục dưới hào Phụ mẫu Tị hỏa, Phi thần khiến Dụng thần lâm tuyệt, hiện tại không có đối tượng nào.
+- Kị thần trì thế, bất lợi hôn nhân, kết hôn trễ.
+- Năm 1995 là Ất Hợi trợ vượng Dụng thần xung phi thần, năm này phải có đối tượng.
+- Năm Bính Tý cùng Dụng thần có địa chi giống nhau, phục xuất hiện, năm
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 98.** Đồ hình Chính quái Phong Trạch Trung Phu
+    - <img src="assets/page_0097_img_01.png" alt="Hình 98" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- này cũng phải có đối tượng.
+- Tháng sau là tháng Hợi, xung phi thần, đối tượng xuất hiện.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 99.** Đồ hình Biến quái Thủy Lôi Truân
+    - <img src="assets/page_0097_img_02.png" alt="Hình 99" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Dụng thần là Tý thủy, dáng dấp tròn trịa.
+- Từ Nguyệt kiến đến xem, Dụng thần Tý Thủy là Dịch mã, Dụng thần lại nằm ở hào năm, hào năm là đường đi, Dịch mã chủ nhanh chóng, đối tượng đi rất nhanh.
+- Lâm Bạch Hổ, tính cách có chút nôn nóng, tính tình không tốt.
+- Bởi nhân duyên nhiều gặp nạn, cho nên có kỳ ngộ nhất định phải bắt lấy.
+- Phân tích suy luận: Phụ mẫu Tị hỏa lâm Nhật, lấy Phụ mẫu định hôn kỳ.
+- Năm 2001 là Tân Tị, hẳn tại năm 2001 kết hôn.
+- Tân Tị là năm Tử tôn lâm trường sinh, năm đó kết hôn sinh con.
+- Trong quẻ Quan quỷ lưỡng động, hào hai Quan quỷ Mão mộc là thai địa của Tử tôn, cũng là hào vị thai, động mà sinh phù Phụ mẫu, Phụ mẫu là hôn thú, chính là trước mang thai sau kết hôn.
+- **Ứng nghiệm:** Người trên năm 1995 từng yêu một người, nhưng chỉ được hai tháng là chia tay.
+- Năm 1996 cuối tháng Hợi muốn quay lại nhưng bị đối phương vứt bỏ.
+- Năm 1999 (năm Kỷ Mão) mới bắt đầu yêu người khác.
+- Phán đoán tính cách cùng tướng mạo cô gái này phi thường ăn khớp.
+- Nhưng lúc đó không có đoán ra tại sao xuất hiện năm 1999.
+- Xem lại quẻ, trên thực tế quẻ đã có biểu hiện.
+- Hào sáu Quan quỷ Mão mộc động hóa xuất thê tài Tý thủy, chính là năm 1999 xuất hiện đối tượng.
+- Đồng thời Kị thần trì thế, năm 1999 Kị thần bị chế, cho nên năm này xuất hiện đối tượng.
+- Hai người vừa thấy đã yêu, ở chung với nhau, năm Tân Tị mang thai, cuống quít cử hành hôn lễ.
+- Tháng 11 sinh một đứa con gái.
+
+### Chưa Lập Gia Đình Ở Chung Bí Mật
+
+- Theo thời đại biến thiên, hiện tượng chưa lập gia đình ở chung càng ngày càng nhiều, từ góc độ luật pháp là không ổn, nhưng cũng không trái với tự nhiên pháp tắc, âm dương giao hợp, nam nữ chi đạo chính là thiên địa tự nhiên tạo ra.
+- Mặc kệ dấu diếm ra sao, thực tế không thể che dấu khi lên quẻ, những tin tức này sẽ hiển thị rất rõ trong quẻ.
+- Muốn phát hiện bí mật này, chính là xem hào Phụ mẫu.
+- Quy luật như sau:
+- Một, Hào Phụ mẫu phục lâm Huyền Vũ, chính là chưa lập gia đình ở chung.
+- Hai, Hào Phụ mẫu phục không vong nhập mộ, chính là chưa lập gia đình ở chung.
+- Ba, Hào Phụ mẫu xuất hiện, lâm Huyền Vũ nhập mộ, chính là chưa lập gia đình ở chung.
+- Bốn, Phụ mẫu không vong lâm Huyền Vũ cùng hào thế tương hợp, chính là chưa lập gia đình ở chung.
+- Năm, Phụ mẫu phát động hóa không vong, đồng thời nhập mộ, chính là chưa lập gia đình ở chung.
+#### Ví dụ 1: ** ngày 11 tháng 5 năm 1999 (ngày Quý Hợi, tháng Kỷ Tỵ, năm Kỷ Mão), một người đàn ông xem duyên phận vợ chồng được Phong Thuỷ Hoán biến Thiên Địa Bĩ.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Tân Dậu, ngày Quý Hợi, tháng Kỷ Tỵ, năm Kỷ Mão
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Lập hạ Lệnh tháng:
+- Tỵ-Hỏa
+- Phương pháp lập quẻ:
+- Lục hào
+- Lấy Thê Tài làm Dụng thần.
+- Dụng thần Thê tài Dậu kim bị Nguyệt khắc chế, hưu tù lại phục, Kị thần Huynh đệ Tị hỏa trì thế ám động, ít có duyên với nữ giới.
+- Nhưng Phụ mẫu Dần mộc tương hợp với Nhật cũng có kỳ ngộ kết hôn.
+- Phân tích suy luận: Phụ mẫu Dần mộc lâm Huyền Vũ, nhập mộ tại hào động Tử tôn Mùi thổ, chính là chưa lập gia đình ở chung.
+- Năm 1994 Giáp Tuất, Kị thần nhập mộ, sinh trợ Dụng thần, Thê Tài cùng Tử tôn Thìn thổ tương hợp, năm này hợp gặp xung sẽ có kỳ ngộ kết hôn.
+- Nhưng Thê Tài cùng Tử tôn tương hợp, gặp phải người phụ nữ đã có con.
+- Phân tích suy luận: Hào thế thuộc Hỏa, bản thân tính cách nôn nóng, dễ nổi giận.
+- Phân tích suy luận: Hào thế là Dịch mã ám động, tâm vô định tính, lâm Đằng Xà, Đằng Xà chủ cổ quái, quái gở, tính cách cùng người không hợp.
+- Cho dù hạ thấp yêu cầu cùng khó tìm được đối tượng phù hợp tính cách, khó mà sống vui vẻ.
+- Nhất là năm 1995, xung hào thế, cảm xúc cực không ổn định.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 100.** Sơ đồ quẻ Lục Hào: Chính quái Phong Thủy Hoán và Biến
+    - <img src="assets/page_0100_img_01.png" alt="Hình 100" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **Ứng nghiệm:** Năm 1994 có người giới thiệu một người phụ nữ đã ly hôn đang nuôi con, hai người không đăng ký mà ở chung.
+- Sau hai tháng, anh ta đánh con của cô này, cô gái tức giận chia tay, mang con rời đi, người này hiện tại lại sống một mình.
+##### Ví dụ 2: ** Ngày Giáp Tý, tháng Đinh Mùi, năm Đinh Sửu, một người đàn ông đến xem vợ mất tích khi nào trở về, được quẻ Sơn Thủy Mông biến Trạch Thủy Khốn.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Quý Dậu, ngày Giáp Tý, tháng Đinh Mùi, năm Đinh Sửu
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Tiểu thử Lệnh tháng:
+- Mùi-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Lấy Thê Tài làm Dụng thần.
+- Dụng thần phục, chính là vợ không thấy, tượng mất tích.
+- Hào động Phụ mẫu Dần mộc, Tử tôn Tuất thổ cùng hào Huynh đệ Ngọ hỏa ám động thành tam hợp cục khắc Dụng thần, vợ sẽ không trở về.
+- Phân tích suy luận: Hào thế không vong, lâm Đằng Xà, không vong là tâm thần có chút không tập trung, Đằng Xà là đứng ngồi không yên.
+- Thế lâm Dịch mã phát động, sinh Dụng
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 101.** Chính Quái: Sơn Thủy Mông
+    - <img src="assets/page_0101_img_01.png" alt="Hình 101" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- thần, chính là khắp nơi bôn tẩu tìm vợ.
+- Nhưng không nên không thể sinh Dụng thần, tìm không thấy đâu cả.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 102.** Biến Quái: Trạch Thủy Khốn
+    - <img src="assets/page_0101_img_02.png" alt="Hình 102" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Hào sáu Phụ mẫu lâm Huyền Vũ phát động, nhập mộ tại biến hào, người gọi là vợ chính là chưa có đăng ký kết hôn mà chỉ ở chung.
+- Phân tích suy luận: Hào thế không vong, tháng Thìn xung thực, tháng Thìn bắt đầu ở chung.
+- Dụng thần Thê tài Dậu kim xem từ Nhật thần là Đào hoa, hào Huynh đệ Ngọ hỏa ám động là đất mộc dục của Dụng thần, người gọi là vợ thực ra rất dâm đãng.
+- Hương khuê là Phụ mẫu Dần mộc, Hương khuê lưỡng hiện, lại lâm Huyền Vũ cùng Thanh Long, cô gái này ở chung với vài người đàn ông khác.
+- **Ứng nghiệm:** Người xem đành phải nói rõ sự thật.
+- Cô gái này đã ly hôn hai lần, bản thân là mình người thứ ba.
+- Ba tháng trước, hai người quen biết qua người khác giới thiệu và bắt đầu ở chung, vài ngày trước, không chào không hỏi trộm sạch tiền chạy mất.
+- Anh ta rất mất mặt, bởi vậy giả xưng là vợ muốn thông qua dự đoán tìm tới cô này, kết quả không nghĩ là muốn giấu diếm cũng không giấu diếm được, trong quẻ sớm đã hiện ra thiên cơ.
+##### Ví dụ 3: ** Ngày Tân Mùi tháng Đinh Mùi năm Đinh Sửu, một người phụ nữ đến xem chồng khi nào trở về? Được quẻ Bát Thuần Cấn biến Hỏa Sơn Lữ.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Đinh Dậu, ngày Tân Mùi, tháng Đinh Mùi, năm Đinh Sửu
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Đại thử Lệnh tháng:
+- Mùi-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+##### BÁT THUẦN CẤN
+
+- ### BIẾN QUÁI:
+- HỎA SƠN LỮ
+- Lấy Quan quỷ làm Dụng thần.
+- Nhật Nguyệt không sinh Dụng thần, Nguyên thần Tý Thủy bị Nhật Nguyệt khắc chế, bất lực sinh Dụng thần, chồng rất khó trở về.
+- Phân tích suy luận: Phụ mẫu lâm Huyền Vũ, nhập mộ tại hào động Huynh đệ Tuất thổ, chính là chưa lập gia đình chỉ ở chung, người gọi là chồng, cũng không đúng nghĩa là chồng.
+- Chu Tước cùng Huynh đệ động là tượng miệng lưỡi, Quan quỷ nhập mộ, người đàn ông có khả năng vào tù.
+- Phân tích suy luận: Quan quỷ lâm Đằng Xà, Đằng Xà là bất an, người đàn ông này hoảng loạn, nhập mộ tại Nhật Nguyệt, chắc chuồn đi Tây Tạng.
+- **Ứng nghiệm:** Cô gái này sau mới nói, người đàn ông chính xác không phải là chồng, mà là từ năm Quý Dậu bắt đầu ở chung, còn cô đã ly hôn.
+- Năm Bính Tý người đàn ông này buôn bán ma tuý, bị cảnh sát truy nã mà chạy trốn.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 103.** Bát Thuần Cấn
+    - <img src="assets/page_0103_img_01.png" alt="Hình 103" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 104.** Hỏa Sơn Lữ
+    - <img src="assets/page_0103_img_02.png" alt="Hình 104" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+##### Ví dụ 4: Ngày Đinh Hợi, tháng Bính Thìn, năm Mậu Dần, một người phụ nữ đến xem duyên phận vợ chồng được quẻ Địa Sơn Khiêm biến Lôi Hỏa Phong.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Đinh Hợi, tháng Bính Thìn, năm Mậu Dần
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Thanh minh Lệnh tháng:
+- Thìn-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+##### ĐỊA SƠN KHIÊM
+
+- ### BIẾN QUÁI:
+- LÔI HỎA PHONG
+- Lấy Quan quỷ làm Dụng thần.
+- Hương khuê tại hào thế lâm Nhật, trước mắt ở cùng với một người đàn ông.
+- Nhưng Phụ mẫu Sửu thổ động hóa không vong, nhập mộ tại Phụ mẫu Thìn thổ, là chưa lập gia đình ở chung.
+- Phân tích suy luận: Quan quỷ Mão mộc tại hào ứng, phục dưới Thê tài, ứng là người khác, ở chung với một người đàn ông đã có vợ.
+- Phân tích suy luận: Phụ mẫu Sửu thổ động hóa Quan quỷ Ngọ hỏa, năm Đinh Sửu bắt đầu ở cùng người đàn ông này.
+- Phân tích suy luận: Tử tôn Hợi thủy trì thế, hiện tại hai người đã có con.
+- Phân tích suy luận: Quan quỷ Ngọ hỏa là thai địa của Tử tôn, là con của người đàn ông này.
+- Kị thần trì thế, Quan quỷ Ngọ hỏa lại bị Nhật thần khắc thương, không tốt.
+- Phân tích suy luận: Hào thế tuy bị hai hào Phụ mẫu khắc chế, nhưng Phụ mẫu Thìn thổ lâm Chu Tước
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 105.** Địa Sơn Khiêm
+    - <img src="assets/page_0104_img_01.png" alt="Hình 105" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- động hóa hồi đầu khắc, việc hai người ở chung đến năm Kỷ Mão bị vợ người này phát hiện, dẫn đến cãi nhau làm tan vỡ.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 106.** Lôi Hỏa Phong
+    - <img src="assets/page_0104_img_02.png" alt="Hình 106" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- **Ứng nghiệm:** Cô gái này là một cô phục vụ quán karaoke, năm Đinh Sửu bắt đầu ở chung với một người đàn ông, đến năm Mậu Dần (năm 1998) sinh hạ một đứa bé, cô gái mấy lần thúc giục người đàn ông đăng ký kết hôn, nhưng anh ta chậm chạp không đáp ứng.
+- Thế là cô gái xuất tiền mướn người điều tra, phát hiện anh ta đã có gia đình nên cảm thấy bất an, về sau bởi là chưa gặp lại cô gái này, không biết kết quả như thế nào.
+##### Ví dụ 5: ** ngày Nhâm Thìn, tháng Nhâm Tý, năm Đinh Sửu, một người đàn ông đến xem vợ sinh con, được quẻ Thiên Trạch Lý biến Thiên Thủy Tụng.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Nhâm Thìn, tháng Nhâm Tý, năm Đinh Sửu
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Đại tuyết                    Lệnh tháng:
+- Tý-Thủy
+- Phương pháp lập quẻ:
+- Lục hào
+- **CHÍNH QUÁI**
+- **THIÊN TRẠCH LÝ**
+- **BIẾN QUÁI**
+- **THIÊN THỦY TỤNG**
+- Lấy Tử tôn làm Dụng thần.
+- Phân tích suy luận: Tử tôn trì thế, được Nhật thần sinh phù, thai địa của Tử tôn lâm hào hai, hào hai là vị trí bào thai, đã mang thai không thể nghi ngờ.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 107.** Chính quái Thiên Trạch Lý
+    - <img src="assets/page_0105_img_01.png" alt="Hình 107" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 108.** Biến quái Thiên Thủy Tụng
+    - <img src="assets/page_0105_img_02.png" alt="Hình 108" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Phân tích suy luận: Tử tôn là dương hào, tại Cấn cung, cấn làm trưởng nam, dương hào độc phát, mang thai chính là con trai.
+- Nhưng này đứa bé rất khó sống.
+- Dựa vào đâu mà dự đoán?
+- Nguyệt kiến là tử địa của Tử tôn, Kị thần độc phát, trong quẻ các nhân tố bất lợi với Dụng thần chiếm đa số.
+- Đặc biệt là đến năm 1998 là năm Mậu Dần Dụng thần lâm tuyệt địa, hài nhi rất khó sống đến ngày dự sinh.
+- Từ tin tức trong quẻ, mang thai cũng không phải là vợ.
+- Phân tích suy luận: Phụ mẫu Tị hỏa lâm Huyền Vũ, nhập mộ tại hào sáu Huynh đệ Tuất thổ ám động, đây là tượng ở chung.
+- Phân tích suy luận: Thê tài Tý Thủy phục dưới hào thế, nhập mộ tại Nhật thần, mộ khống chính là giấu mà không lộ, đây là lén ở chung
+- Phân tích suy luận: Thê tài lâm Nguyệt kiến, nhưng bị Nhật thần cùng hào Huynh đệ Tuất thổ ám động khắc chế, lại tuyệt ở Phụ mẫu Tị hỏa, hào thế Tử tôn Thân kim bị Phụ mẫu Tị hỏa hợp, hào thế tham hợp quên sinh, hai người tất nhiên sẽ xuất hiện mâu thuẫn, cuối cùng chia tay.
+- Nguyệt kiến Thê tài là tử địa của Tử tôn, tài là nữ nhân, đứa bé này chắc chắn sẽ chết trong tay nữ nhân.
+- **Ứng nghiệm:** người mang thai đúng là chỉ ở chung, nhưng bởi lúc ấy hai người tình cảm rất tốt, lại dự định kết hôn, nên nghe luận quẻ rất cáu.
+- Nhưng kết quả cuối cùng vẫn là ứng nghiệm.
+- Người này tháng 3 năm 1999 tháng 3 cãi nhau ầm ĩ với cô gái ở cùng, cô gái trong cơn tức giận sẩy mất đứa con, hai người tan rã.
+
+### Quan Hệ Ngoài Hôn Nhân
+
+- Bình thường gia đình đều là chế độ một vợ một chồng, đây là quy định của pháp luật.
+- Kỳ thật từ góc độ âm dương, chưa chắc là như thế.
+- Nam nữ nhân duyên hết sức phức tạp, bởi vì ảnh hưởng của vũ trụ, có tính đa dạng, cũng không thể dùng cái nhìn thế tục để cân nhắc.
+- Có người đồng thời có mấy nữ nhân, có người cả đời chả có ai, đây đều là do ảnh hưởng của vũ trụ.
+- Vũ trụ vô thủy vô chung dựa theo quy luật nhất định không ngừng vận động.
+- Nếu như vũ trụ không có pháp tắc nhất định, chúng ta liền không khả năng nhận biết thế giới.
+- Con người là một bộ phận của vũ trụ đương nhiên phải bị vũ trụ chế ước.
+- Mỗi người đều có quỹ tích của riêng mình, dựa theo tự thân pháp tắc vận động.
+- Loại vận động của pháp tắc này chính là vận mệnh.
+- Vũ trụ là một tổ hợp thể của thời gian cùng không gian.
+- Vận mệnh cũng cùng vũ trụ, theo thời gian cùng không gian khác biệt, mà sinh ra biến hóa.
+- Bởi thời gian cùng không gian ra đời của mỗi người không giống nhau, bởi vậy mới có khác biệt vận mệnh, diễn nghĩa ra đủ loại nhân sinh.
+- Nhưng dù cho vận mệnh có như thế nào, lại có một quy luật bất biến đó chính là đạo âm dương.
+- Bởi vậy người tinh thông âm dương liền có thể xem vận mệnh của mình và người khác, ở một mức độ nào đó liền có thể lợi dụng thời gian cùng không gian để cải biến vận mệnh con người.
+- Lục hào dự đoán yêu đương cùng nam nữ nhân duyên, trong quẻ xuất hiện dạng này tổ hợp liền là quan hệ tay ba:
+- ***Nữ xem hôn nhân, trong quẻ xuất hiện những tình huống là chồng có ngoại tình:***
+- Một, Thê tài phục dưới Quan quỷ.
+- Hai, Quan quỷ phát động cùng Huynh đệ tương hợp.
+- Ba, Huynh đệ phát động cùng Quan quỷ tương hợp.
+- Bốn, Quan quỷ phát động cùng Thê Tài tương hợp.
+- Năm, Thê Tài phát động cùng Quan quỷ tương hợp.
+- Sáu, Quan quỷ phát động cùng hào có cùng ngũ hành với hào thế tương hợp.
+- Bảy, hào có cùng ngũ hành với hào thế phát động tương hợp với Quan quỷ.
+- ***Nữ dự đoán hôn nhân trong quẻ xuất hiện các tình huống này là chính mình ngoại tình:***
+- Một, trong quẻ đã có Quan quỷ, nhưng lại có hào động hóa Quan quỷ.
+- Hai, trong quẻ Quan quỷ lưỡng hiện, hào ứng bên phía Quan quỷ phát động cùng hào thế tương hợp.
+- Ba, Quan quỷ lưỡng hiện, hào thế phát động cùng Quan quỷ bên phía hào ứng tương hợp.
+- Bốn, trong quẻ đã có Quan quỷ, hào thế và Nhật Nguyệt là Quan quỷ tương hợp.
+- ***Nam dự đoán hôn nhân, trong quẻ xuất hiện cái tình huống này là vợ ngoại tìn:***
+- Một, Quan quỷ phục dưới Thê Tài.
+- Hai, Thê Tài phát động cùng Quan quỷ tương hợp.
+- Ba, Quan quỷ phát động cùng Thê tài tương hợp.
+- Bốn, Thê tài phát động cùng Huynh đệ tương hợp.
+- Năm, Huynh đệ phát động cùng Thê Tài tương hợp.
+- Sáu, hào có cùng ngũ hành với hào thế phát động hợp Thê tài.
+- Bảy, Thê tài phát động cùng hào cùng ngũ hành với hào thế tương hợp.
+- ***Nam dự đoán hôn nhân, trong quẻ xuất hiện các tình huống này là chính mình ngoại tình:***
+- Một, trong quẻ đã có Thê tài, lại có hào động hóa Thê tài tương hợp.
+- Hai, trong quẻ Thê tài lưỡng hiện, hào thế phát động cùng hào Thê tài bên phía hào ứng tương hợp.
+- Ba, trong quẻ Thê Tài lưỡng hiện, hào Thê tài bên phía hào ứng cùng hào thế tương hợp.
+- Bốn, trong quẻ đã có Thê tài, hào thế cùng Nhật Nguyệt là Thê tài tương hợp.
+- Các quy luật trên mặc dù ứng nghiệm rất cao, nhưng không thể quá khẳng định vì có thể là vợ, chồng cũ hoặc người yêu cũ, phải hết sức cẩn thận.
+- Nếu như hợp hào không vong, thì có khả năng không hợp, cũng có thể là quá khứ.
+- Bởi vậy trong lúc phán đoán, đồng thời tham khảo đất Đào hoa, Mộc dục, Huyền Vũ, Thanh Long mới có thể nắm chắc chuẩn xác để không phạm sai lầm.
+#### Ví dụ 1: ** ngày Tân Hợi, tháng Quý Tị, năm Bính Tý, một cô gái hơn hai mươi tuổi đến xem hôn nhân được quẻ Phong Thiên Tiểu Súc biến Bát Thuần Tốn.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Đinh Dậu, ngày Tân Hợi, tháng Quý Tị, năm Bính Tý
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Lập hạ               Lệnh tháng:
+- Tỵ-Hỏa
+- Phương pháp lập quẻ:
+- Lục hào
+- **CHÍNH QUÁI**
+- **PHONG THIÊN TIỂU SÚC**
+- **BIẾN QUÁI**
+- **BÁT THUẦN TỐN**
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 109.** Chính quái Phong Thiên Tiểu Súc
+    - <img src="assets/page_0109_img_01.png" alt="Hình 109" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 110.** Biến quái Bát Thuần Tốn
+    - <img src="assets/page_0109_img_02.png" alt="Hình 110" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy Quan quỷ làm Dụng thần.
+- Phân tích suy luận: Quan quỷ Dậu kim phục dưới hào ba Thìn thổ, phục chờ hiện, năm 1993 là Quý Dậu sẽ là năm xuất hiện bạn trai.
+- Phân tích suy luận: Hào thế xem từ Nhật thần là Đào hoa, lại cùng hào biến tương hợp, lâm Bạch Hổ tính cách có chút nôn nóng, tính tình không tốt.
+- Hào biến là hào Tài, tới tương hợp, thích tiền, là người chủ trương tôn thờ đồng tiền.
+- Quái thân là Tý thủy, Hương khuê là Tử tôn Tị hỏa, Hương khuê ám động, hai người vụng trộm ở chung.
+- Hào năm là quán trọ, lâm Câu Trần ý càng mạnh.
+- Chính là mất trinh với bạn trai trong khách sạn.
+- Phân tích suy luận: Hào thế là thai địa của Tử tôn lâm Bạch Hổ, Bạch Hổ chủ lưu sinh, hào hai là vị trí bào thai không vong, tổng hợp là bỏ thai.
+- Cô gái đã từng bỏ thai.
+- Phân tích suy luận: Quan quỷ Dậu kim lâm Thanh Long, Thanh Long chủ mỹ mạo, người yêu của cô gái này rất đẹp trai.
+- Phân tích suy luận: Quan quỷ Dậu kim phục dưới Thê tài Thìn thổ, người đàn ông này đã có người yêu hoặc đã có vợ.
+- Phân tích suy luận: Quan quỷ Dậu kim bị Nguyệt kiến nhập quẻ thành Tử tôn Tị hỏa ám động khắc thương, lại là đất tuyệt của hào động Tý thủy, quẻ biến Lục xung, hai người không thành được vợ chồng, cuối cùng chia tay.
+- **Ứng nghiệm:** Bạn trai đầu và cô gái này quen nhau năm 1993.
+- Là quân nhân, đẹp trai.
+- Hai người kết giao dần dần thân mật, năm tháng 2 năm 1996 thuê nhà ở chung, từng một lần mang thai sẩy thai.
+- Vài ngày trước, mới phát hiện đối phương sớm đã đính hôn, có hôn thê.
+- Cảm thấy bất an cho nên mới đến xem quẻ.
+- Sau đó bị bố mẹ phản đối mà chia tay.
+##### Ví dụ 2: ** Ngày Bính Tý, tháng Giáp Ngọ, năm Bính Tý, một cô gái Nhật bản dự đoán hôn nhân được quẻ Trạch Thiên Quải biến Lôi Địa Dự.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Đinh Dậu, ngày Bính Tý, tháng Giáp Ngọ, năm Bính Tý
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Mang chủng            Lệnh tháng:
+- Ngọ-Hỏa
+- Phương pháp lập quẻ:
+- Lục hào
+- **CHÍNH QUÁI:
+- TRẠCH THIÊN QUẢI**
+- **BIẾN QUÁI:
+- LÔI ĐỊA DỰ**
+- Lấy Quan quỷ làm Dụng thần.
+- Năm 1995 là năm Ất hợi, Quan quỷ Dần mộc gặp trường sinh, nên năm này từng có đối tượng.
+- Hào ba Huynh đệ Thìn thổ động hóa Quan quỷ Mão mộc, hào ba là gian hào, gian hào là người làm mối, Huynh đệ chủ bằng hữu, đoán năm 1995 tháng Thìn bạn bè giới thiệu bạn trai.
+- Cô gái sau khi nghe xong, cảm giác rất ngạc nhiên, nói đoán rất chuẩn, thật có chuyện như vậy.
+- Trong quẻ sơ hào Tý Thủy là Thái Tuế nhập hào, động mà sinh Quan quỷ Dần mộc, đoán cô gái năm nay lại xuất hiện bạn trai.
+- Phân tích suy luận: Hào thế động mà sinh Thê tài Tý thủy, Tý Thủy động mà sinh Quan quỷ, là cô gái đang theo đuổi đối phương.
+- Phân tích suy luận: Hào thế không vong lại lâm Huyền Vũ, không vong là bất an, nơm nớp lo sợ, Huyền Vũ chủ lén lút, cho nên đoán là thầm mến.
+- Bởi hào thế động hóa thoái, đoán là nhút nhát không dám bày tỏ.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 111.** Trạch Thiên Quải
+    - <img src="assets/page_0111_img_01.png" alt="Hình 111" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 112.** Lôi Địa Dự
+    - <img src="assets/page_0111_img_02.png" alt="Hình 112" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Phân tích suy luận: Quan quỷ lâm hào ứng, hào ứng là nơi khác, lại lâm Dịch mã, đây là một người con trai ở xa.
+- Phân tích suy luận: Quan quỷ Dần mộc động hợp Thê tài Hợi thủy, người đàn ông kia có người yêu khác.
+- **Ứng nghiệm:** Kết quả suy đoán toàn bộ chính xác, cô gái nói mình vô cùng thích một người đàn ông, là người Trung Quốc, học ở đại học Bắc Kinh, cô gái biết đối phương có bạn gái, bởi vậy không theo đuổi, rất buồn rầu.
+- Sau nghe nói cô gái kết hôn năm 1999, định cư ở Trung Quốc, chính là hào thế tuần không, năm này xung thực.
+- Bất quá không rõ có cưới người con trai thầm yêu kia hay không.
+##### Ví dụ 3: ** ngày Mậu Tý, tháng Bính Thân, năm Bính Tý, một người đàn ông đến xem yêu đương kết quả như thế nào? Được quẻ Bát Thuần Khôn biến Lôi Hỏa Phong.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Tân Dậu, ngày Mậu Tý, tháng Bính Thân, năm Bính Tý
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Lập thu            Lệnh tháng:
+- Thân-Kim
+- Phương pháp lập quẻ:
+- Lục hào
+- **CHÍNH QUÁI:
+- BÁT THUẦN KHÔN**
+- **BIẾN QUÁI:
+- LÔI HỎA PHONG**
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 113.** Bát Thuần Khôn
+    - <img src="assets/page_0112_img_01.png" alt="Hình 113" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 114.** Lôi Hỏa Phong
+    - <img src="assets/page_0112_img_02.png" alt="Hình 114" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Lấy Thê tài làm Dụng thần.
+- Trong quẻ Thê tài Hợi thủy được Nguyệt sinh Nhật tỷ hòa là vượng tướng, nhưng hai hào Huynh đệ phát động khắc chế Dụng thần, là không tốt.
+- Từ Nhật Nguyệt mà xem, hào thế là Đào hoa, người này khá đa tình.
+- Trong quẻ đã có Thê tài Hợi thủy, mà hào ba Quan quỷ Mão mộc lại động hóa Thê tài Hợi thủy, nói rõ có xuất hiện một người phụ nữ khác.
+- Hào ba là giường, đồng thời cũng là Sàng Trướng, mối quan hệ với người con gái đó đã không phải bình thường.
+- Trong quẻ Kị thần lưỡng động, yêu đương không có kết quả tốt, sợ là cùng nữ nhân kia cũng thành không được vợ chồng.
+- **Ứng nghiệm:** Người này cùng một nữ tử yêu đương, đang lúc cuồng nhiệt, bạn gái cũ muốn quay lại, anh ta cùng bạn gái cũ đã ở chung, bạn gái hiện tại nghe vậy nổi cơn ghen, cuối cùng không đâu vào đâu.
+##### Ví dụ 4: ** ngày Tân Sửu, tháng Canh Ngọ, năm Kỷ Mão một người phụ nữ gọi điện thoại hỏi nhân duyên vợ chồng, tự gieo từ ý niệm của người phụ nữ đó được quẻ Sơn Trạch Tổn biến Hỏa Lôi Phệ Hạp.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Đinh Dậu, ngày Tân Sửu, tháng Canh Ngọ, năm Kỷ Mão
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Mang chủng                    Lệnh tháng:
+- Ngọ-Hỏa
+- Phương pháp lập quẻ:
+- Lục hào
+- Lấy Quan quỷ làm Dụng thần.
+- Trong quẻ Quan quỷ lưỡng hiện, lấy hào Quan quỷ Mão mộc phát động làm Dụng thần.
+- Phân tích suy luận: Quan quỷ phát động khắc thế, bản thân bị chồng ngược đãi.
+- Sơ hào Phụ mẫu Tị hỏa không vong, nhập mộ tại hào động Huynh đệ Tuất thổ, chính là chưa lập gia đình chỉ ở chung.
+- Hào hai Quan quỷ Mão mộc hóa thoái thần, hào hai là nhà, hóa thoái là người đàn ông ở chung muốn rời đi khỏi nhà này.
+- Phân tích suy luận: Quan quỷ Mão mộc tương hợp với Tuất thổ Huynh đệ, Huynh đệ Tuất thổ cùng hào thế có ngũ hành giống nhau, người đàn ông ở chung có tư thông với người khác.
+- Phân tích suy luận: Quan quỷ Mão mộc lâm Huyền Vũ, đây là một người rất phong lưu.
+- Thế tại hào ba, Quái thân ở Thân, Quan quỷ Mão mộc cùng Quan quỷ Dần mộc đều là hương khuê.
+- Hương khuê theo Quan quỷ động mà hóa thoái, hai người đã không còn ở chung.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 115.** Đồ hình quẻ Chính quái Sơn Trạch Tổn và Biến quái Hỏa
+    - <img src="assets/page_0114_img_01.png" alt="Hình 115" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Phân tích suy luận: Quan quỷ không được Nhật Nguyệt sinh phù nên hưu tù, Nguyên thần Thê Tài Tý thủy Nguyệt phá, Nhật khắc khó mà sinh Dụng thần, hai người chia tay chẳng qua là vấn đề thời gian.
+- **Ứng nghiệm:** Cô gái này quả nhiên chưa kết hôn, ở cùng một người đàn ông, vì người đàn ông đó tư thông với người khác nên lo lắng đến xem quẻ.
+##### Ví dụ 5: ** ngày Kỷ Mão, tháng Tân Mùi, năm Kỷ Mão, một người phụ nữ đến xem duyên phận vợ chồng được quẻ Thiên Phong Cấu biến Bát Thuần Tốn.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Quý Dậu, ngày Kỷ Mão, tháng Tân Mùi, năm Kỷ Mão
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Đại thử Lệnh tháng:
+- Mùi-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Lấy Quan quỷ làm Dụng thần.
+- Phân tích suy luận: Phụ mẫu Tuất thổ hợp Nhật, Phụ mẫu hợp Nhật hôn kỳ đã định, năm 1994 Giáp Tuất trị Phụ mẫu, là năm 1994 kết hôn.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 116.** Chính quái Thiên Phong Cấu
+    - <img src="assets/page_0115_img_01.png" alt="Hình 116" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 117.** Biến quái Bát Thuần Tốn
+    - <img src="assets/page_0115_img_02.png" alt="Hình 117" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Phân tích suy luận: Phụ mẫu Sửu thổ trì thế, cũng là thông tin đăng ký kết hôn, nhưng bị Nguyệt kiến xung phá, chính là nhắc nhở giải trừ hôn ước.
+- Thế lâm Đằng Xà, Đằng Xà chủ bất an, tâm lý khó bình tĩnh.
+- Phân tích suy luận: Quan quỷ Ngọ hỏa lâm hào ứng phát động, cùng hào biến Phụ mẫu Mùi thổ tương hợp, hào biến cùng hào thế là cùng ngũ hành, chính là chồng có người khác.
+- Vợ chồng duyên phận đã đến cuối cùng.
+- Phân tích suy luận: Hào thế Nguyệt phá, không đến năm thực phá hợp phá rất khó tái hôn.
+- Phân tích suy luận: Quan quỷ Ngọ hỏa bị hợp cũng ứng xung mở.
+- Cho nên đoán năm 2008 (năm Mậu Tý) mới có thể tái hôn.
+- **Ứng nghiệm:** Cô gái này quả là năm 1994 kết hôn, hiện tại đã li dị, năm 1998 cưới người khác.
+- Cho tới bây giờ cô gái vẫn một mình.
+##### Ví dụ 6: ** ngày Quý Sửu, tháng Giáp Ngọ, năm Tân Tị, một người đàn ông đến xem đang bạn gái cãi nhau chia tay, hai người có quay lại không? Được quẻ Lôi Phong Hằng biến Lôi Thiên Đại Tráng.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Tân Dậu, ngày Quý Sửu, tháng Giáp Ngọ, năm Tân Tỵ
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Mang chủng                    Lệnh tháng:
+- Ngọ-Hỏa
+- Phương pháp lập quẻ:
+- Lục hào
+- Lấy Thê Tài làm Dụng thần.
+- Trong quẻ Thê tài lưỡng hiện, lấy hào Thê tài Sửu thổ phát động làm Dụng thần.
+- Dụng thần được Nguyệt sinh lâm Nhật là vượng tướng, Kị thần phục khó khắc Dụng thần, mặc dù chia tay cũng chỉ là tạm thời, cô gái sẽ còn trở lại.
+- Quái thân ở Dần, Tử tôn Ngọ hỏa là Sàng trướng, Sàng trướng là Nguyên thần của Tài, một Sàng trướng, sinh hai hào tài, chính là một người đồng thời cùng hai nữ nhân kết giao.
+- Một đương nhiên là cô gái đang hỏi, một người khác chính là hào Thê tài Tuất thổ lâm hào ứng.
+- Ứng làm thê vị, người này đã có vợ.
+- Bởi vậy hiện tại hỏi là tình nhân.
+- Phân tích suy luận: Thê tài Sửu thổ cùng hào biến Phụ mẫu Tý Thủy tương hợp, Phụ mẫu là hôn thú, tới tương hợp, tình nhân của anh ta cũng đã có gia đình, nhưng Phụ mẫu Tý thủy Nguyệt phá, sau khi kết hôn lại ly hôn.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 118.** Chính Quái: Lôi Phong Hằng
+    - <img src="assets/page_0117_img_01.png" alt="Hình 118" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 119.** Biến Quái: Lôi Thiên Đại Tráng
+    - <img src="assets/page_0117_img_02.png" alt="Hình 119" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Dụng thần lâm Huyền Vũ, tình nhân của anh ta dáng dấp rất gợi cảm.
+- Phân tích suy luận: Hào thế nhập mộ tại Sửu thổ, người này phi thường mê luyến tình nhân của mình.
+- Phân tích suy luận: Hào thế lâm Chu Tước, lại tại Chấn cung, Chấn là giận, Chu Tước chủ miệng lưỡi, là anh ta phát cáu cùng đối phương cãi nhau, mắng cô ta, cô ta giận dữ mà rời đi.
+- **Ứng nghiệm:** Mọi đoán định đều đúng, sau hai người hòa hảo, cô gái lại quay lại.
+
+## Chương 6: Chung Thân Vận Khí Dự Đoán Bí Pháp
+
+- Người trên thế giới này đến cùng có hay không có vận mệnh?
+- Nếu như có, vận mệnh là cố định hay có thể cải biến?
+- Đây đại khái đều là mối quan tâm của mỗi người.
+- Nếu như nhận biết không rõ bản chất vận mệnh, sẽ không nhìn thấu quỹ tích của nó, càng không có khả năng thay đổi nó.
+- Chương Nhân duyên bên trên đã đề cập con người là có vận mệnh.
+- Cái gọi là vận mệnh chính là ảnh hưởng của vũ trụ đối con người, con người hoạt động theo quy luật của vũ trụ.
+- Vận mệnh là có, và ở một mức độ nào đó là có thể cải biến.
+- Theo khoa học, tật bệnh, tử vong có quan hệ đến gien di truyền, hay nói cách khác, tử vong và bệnh tật là bẩm sinh, cái này cũng nói rõ vận mệnh là tồn tại.
+- Nhưng người bị bệnh lại trông chờ vào bác sĩ, cái này lại nói rõ vận mệnh là có thể cải biến, con người không phải nô lệ của vận mệnh, hết sức cố gắng, ở một mức độ nào đó là có thể cải biến.
+- Nhưng có một số người căn bản cũng không biết giờ, ngày, tháng năm sinh, vậy thì phải dùng Lục hào để dự đoán, dùng Lục hào đồng dạng có thể dự đoán chuẩn vận mệnh con người.
+- Ví dụ khi gặp người có bát tự giống nhau, từ đó cũng có thể thăm dò ra đầu mối vận mệnh.
+- Ví dụ có hai nữ nhân mặc dù bát tự giống nhau, nhưng kinh lịch có chỗ giống có chỗ khác biệt.
+- Một cô sinh ở thành thị, một cô sinh ở nông thôn, như vậy hoàn cảnh đã có chỗ khác biệt, di truyền từ bố mẹ, điều kiện giáo dục, cố gắng đối với vận mệnh đều có ảnh hưởng, cũng có thể chứng minh vận mệnh ở một mức độ nào đó là có thể cải biến.
+- Ví dụ có hai người con gái sinh cùng giờ Ngọ ngày 30 tháng 6 năm 1975 nhưng sinh ở những nơi khác nhau.
+- Chúng ta xem một chút kinh nghiệm của họ.
+- **Trình độ:** Người phụ nữ sinh ra ở nông thôn tốt nghiệp trung học, người phụ nữ sinh ra ở thành thị tốt nghiệp đại học.
+- Trình độ có chỗ khác biệt, khả năng này là do tại địa phương có sự khác biệt về trình độ giáo dục và khả năng của giáo viên, hay là nỗ lực cố gắng của bản thân khác nhau mà tạo thành.
+- **Anh em:** Hai người đều có một người anh, một người chị nhưng anh chị tuổi tác không giống nhau.
+- **Bố:** Hai người đều mất bố năm 1989, nhưng một người chết vào tháng 2, một người mất vào tháng 4.
+- **Mẹ:** Người phụ nữ sinh ở nông thôn mẹ tái giá năm 1990 sau đó chia tay.
+- Năm 1993 lại tái giá.
+- Người phụ nữ sinh ra ở thành thị mẹ không tái giá, nhưng vụng trộm có nhân tình.
+- Việc này có quan hệ với hoàn cảnh sinh hoạt, mẹ của người sinh ra ở nông thôn không có công việc, không có thu nhập nên cần dựa vào đàn ông nuôi sống, mà mẹ của người sinh ở thành thị có công việc nên độc lập.
+- **Sự nghiệp:** Người phụ nữ sinh ở nông thôn năm 1993 đến thành thị mở một tiệm thẩm mỹ, mà người phụ nữ sinh ra ở thành thị làm ở một công ty dược.
+- **Hôn nhân:** Người phụ nữ sinh ở nông thôn năm 1997 kết hôn, còn người phụ nữ sinh ra ở thành thị năm 1997 yêu ba người rồi chia tay.
+- Đây là khác biệt phong tục tập quán địa phương, nông thôn kết hôn sớm, chậm liền không gả ra được, mà thành phố lớn mọi người phổ biến kết hôn muộn.
+- Người phụ nữ sinh ra ở thành thị về sau ở chung với bạn trai năm 1999, năm 2000 chính thức cử hành hôn lễ.
+- **Chồng:** Người phụ nữ sinh ra ở nông thôn lấy chồng là quân nhân xuất ngũ, người sinh ra ở thành thị lấy chồng là sĩ quan đang tại ngũ.
+- **Bố chồng:** Đều là lão sư.
+- Từ hai người kinh lịch đến xem, người phụ nữ sinh ra ở thành thị mỗi phương diện đều hơn người sinh ra ở nông thôn rất nhiều, cái này nhất định liên quan đến hoàn cảnh cùng giáo dục sau này.
+- Có nhiều trường phái dự đoán vận mệnh như Tứ trụ, Thiết bản thần số, Thiệu tử thần số, Tử Vi Đẩu Số, Chiêm tinh học.... cổ nhân ở phương diện này tích lũy nhiều tài sản quý giá.
+- Những dự đoán thuật này đều có phương pháp tính toán khác nhau nhưng mục đích chỉ có một chính là dự đoán vận mệnh con người.
+- Phương pháp mặc dù nhiều loại đa dạng, nhưng đều giống nhau ở chỗ đều là lấy thời gian làm căn cứ dự đoán, dùng Ngũ Hành sinh khắc, và đều có ứng nghiệm.
+- Lục hào dự đoán như thế nào?
+- Cổ nhân dự đoán chung thân vận khí, thường thiên về tài vận và quan vận, cho rằng một quẻ không thể đồng thời dự đoán mọi chuyện.
+- Nhưng người hiện đại dục vọng rất mạnh, hận không thể một quẻ đem thiên hạ sự tình đều đoán ra.
+- Yêu cầu dùng một quẻ dự đoán công việc, tài vận, hôn nhân, con cái, thân thể, tuổi thọ các loại, điều đó là có thể, nhưng muốn đoán chính xác, thì cần trình độ rất sâu cùng nhiều năm kinh nghiệm mới có thể làm được.
+### Dụng thần
+
+- Con người khi sống rất phức tạp, dùng Lục hào dự đoán kỹ càng cụ thể từng năm là rất khó.
+- Nhưng chuyện trọng đại cả đời dùng Lục hào vẫn là có thể.
+- Cổ nhân lấy hào tương lai đẩy quá khứ, cái gì một hào quản mười năm, chủ quẻ ba mươi năm, biến quẻ ba mươi năm các loại, cũng không quá ứng nghiệm.
+- Muốn từ một quẻ đồng thời xem xét nhiều việc, Dụng thần sẽ biến hóa theo.
+- Nếu như đến xem thành danh, vận làm quan, lấy Quan quỷ làm Dụng thần, đến xem tài vận lấy Thê tài làm Dụng thần, tuổi thọ cùng thân thể lấy hào thế làm Dụng thần, xem con cái lấy Tử tôn làm Dụng thần, xem bố mẹ lấy Phụ mẫu làm Dụng thần, xem hôn nhân, nam xem Thê tài cùng hào ứng, nữ khán Quan quỷ cùng hào ứng.
+- Đây là một cách dự đoán không rõ ràng, cũng không tinh tế tỉ mỉ.
+- Tỉ như nam đến dự đoán, Tài đã là tiền tài lại là thê tử, tài vận người không tốt, chưa hẳn hôn nhân không tốt, kẻ có tiền hôn nhân không thuận có khối người.
+#### Chung thân vận khí
+
+- Phán đoán vận khí cả đời, không cần thiết phải xem mọi phương diện cuộc sống.
+- Bởi là khi gieo sẽ khác nhau vì mỗi người có tin tức sóng khác biệt, quẻ tượng phản ứng tin tức cũng không giống.
+- Đoán quẻ chỉ nhắc tới những tin tức hết sức rõ ràng là được, nếu miễn cưỡng phán đoán sẽ tạo thành dự đoán không chính xác.
+- Dự đoán vận khí cả đời lấy hào thế làm trung tâm tiến hành phán đoán.
+- Nếu như hào thế cùng Quan quỷ không tuần không, không bị phá, Quan quỷ vượng tướng tỷ hòa cùng hợp thế, lâm Thanh Long thì quý và có vận làm quan, hoặc cả đời công việc thuận lợi, có thể trở thành công chức.
+- Được hào năm sinh trợ, ở công ty rất được cấp trên ưu ái, ở trong quan trường có hậu đài, chỗ dựa, được sơ hào sinh phù, quần chúng cơ sở tốt.
+- Thê Tài vượng tướng, Tử tôn không bị không, phá là có khí, cả đời tài nguyên phong phú, Tử tôn hưu tù vô khí Thê Tài độc vượng, chính là chỉ có tiền nhất thời.
+- Thê Tài vượng tướng, Tử tôn lâm không, hoặc Huynh đệ động hóa tài, là nhà giàu mới nổi.
+- Thê Tài Tử tôn hưu tù không phá, cả đời nghèo khó, hào thế còn không cát, nghèo khó mà có bệnh.
+- Phân tích suy luận: Hào thế nhập mộ, mê luyến chuyện không đâu, không có chí tiến thủ, cả ngày u ám, chấp mê bất ngộ, lâm Câu Trần lười biếng.
+- Quẻ Lục xung, cả đời rung chuyển, bôn ba, cần tự mình cố gắng phấn đấu mới có phát triển, quẻ Lục hợp, Dụng thần cát, cả đời an nhàn, ổn định, giao tế tốt.
+- Được Nhật Nguyệt hào động sinh phù, có nhân duyên, nhiều người trợ giúp.
+- Phân tích suy luận: Hào thế động mà hóa tiến, bản thân rất cố gắng, hưu tù được trợ, mượn lực người khác mà phát triển.
+- Hóa thoái thần, đầu voi đuôi chuột, làm việc có đầu không có đuôi.
+- Thanh Long Tử tôn trì thế hưu tù, mặc dù đầy bụng kinh luân, nhưng bất đắc chí, nghèo rớt mùng tơi.
+- Tài được Nhật Nguyệt sinh phù, thế lâm Huynh đệ phát động, mặc dù có tổ nghiệp mà lang thang rách nát, Huynh đệ lâm hào ứng phát động bị người đến cướp của.
+- Thê Tài trì thế vượng tướng, lâm Bạch Hổ, Phụ mẫu lâm Chu Tước hưu tù, tuy có gia tài bạc triệu, lại không dễ học tập, không muốn đi theo con đường học vấn.
+- Phân tích suy luận: Quan quỷ động mà khắc thế, hào thế hoặc Quan quỷ lâm Bạch Hổ, cả đời nhiều bệnh nhiều tai ách, lâm Chu Tước, Câu Trần, có kiện cáo miệng lưỡi, lao ngục tai ương.
+- Nam đến xem Huynh đệ trì thế, nữ đến xem Tử tôn trì thế, cả đời ít duyên với người khác phái, nam xem mà Thanh Long, Huyền Vũ lâm tài sinh hợp hào thế, lại gặp Đào hoa, Mộc dục, phong lưu đào hoa, nữ thì xem quan quỷ.
+- Thê Tài vượng, thế là tài khố, gia tài bạc triệu, lâm Đằng Xà, là ki bo.
+- Phân tích suy luận: Phụ mẫu không phá, hưu tù vô khí, phục không hiện trên quẻ, bố mẹ mất sớm.
+- Thế tại hào năm, hào sáu, lâm Thổ động là nhận làm con thừa tự người khác.
+- Hoặc Phụ mẫu động mà hợp thế, quẻ lại có hào động hóa ra Phụ mẫu cũng là tượng làm con nuôi người khác.
+- Phân tích suy luận: Tử tôn vượng mà đa hiện, con nhiều mà khỏe mạnh, Tử tôn không phá lâm Bạch Hổ, chính là tượng sinh non, động quan quỷ, hoặc hưu tù hóa không hóa phá, là tượng mất con.
+- Phân tích suy luận: Tử tôn phục, không phá vô khí, là khó có con.
+- Trên là sơ giản luận vận khí cả đời, có nghiệm lý tương đối cao.
+- Trong thực tế phán đoán, nhìn sâu vào biến hóa trong quẻ, lục thân suy vượng, động tĩnh sinh khắc mà cẩn thận phân tích.
+- Cổ nhân lưu lại rất ít ví dụ về dự đoán cả đời mà có cũng rất đơn giản, nhưng là mọi người muốn hiểu rõ dự đoán vận khí cả đời, ở đây có một số ví dụ cổ và thực tiễn để cùng so sánh học tập.
+##### Ví dụ 1: Ví dụ cổ đại, ngày Tân Hợi tháng Tuất, một người đàn ông đến xem chung thân tài phúc, được quẻ Thủy Địa Tỷ biến Phong Địa Quán.
+
+- Phân tích suy luận: Hào thế mặc dù không nhưng được Nguyệt kiến hợp, Nhật thần sinh, năm Mão nhất định thành gia.
+- Năm Sửu xem quẻ, quả đến năm Mão, lúc đó đóng đô mới bắt đầu, Vân Quý mới bình ổn, người này tại Xuyên Trung buôn bán dược liệu, đột nhiên mà giàu, từ đây lập nghiệp thành gia, mấy năm liên tục sung túc.
+##### Ví dụ 2: Ví dụ cổ, ngày Tân Mùi, tháng Dậu, chiêm chung thân tài phúc, được quẻ Sơn Lôi Di.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 120.** Chính quái Thủy Địa Tỷ
+    - <img src="assets/page_0123_img_01.png" alt="Hình 120" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 121.** Biến quái Phong Địa Quán
+    - <img src="assets/page_0123_img_02.png" alt="Hình 121" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Thê Tài trì thế, tuy có Nhật thần tỷ hòa nhưng tuần không, trong quẻ không có Hỏa sinh phù, chiêm thân mệnh là điều Kị đầu tiên.
+- Khó có thể thành gia.
+- Người này từ hai mươi lăm tuổi đến hơn năm mươi tuổi hối hả ngược xuôi, chẳng làm nên trò trống gì.
+- Sau vì bần cùng khổ cực mà tòng quân, ra ngoài không biết kết cuộc ra sao.
+- Ví dụ này người được xem không khá giả, không phải chỉ bởi là hào thế không vong, Nguyên thần Tử tôn Tị hỏa phục, hưu tù vô khí cũng là nguyên nhân trọng yếu.
+##### Ví dụ 3: Ví dụ cổ, ngày Bính Tuất, tháng Ngọ, chiêm chung thân tài phúc, được quẻ Thủy Trạch Tiết.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 122.** Chính quái Sơn Lôi Di
+    - <img src="assets/page_0124_img_01.png" alt="Hình 122" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 123.** Biến quái Sơn Lôi Di
+    - <img src="assets/page_0124_img_02.png" alt="Hình 123" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### THỦY TRẠCH TIẾT — BIẾN QUÁI: THỦY TRẠCH TIẾT
+
+- Người này được Thê tài vượng lâm thế, xưa nay có thừa tiền, cũng bởi là thế nhập Tuất mộ, đến năm Tị mở một mỏ chì giàu có nổi tiếng.
+##### Ví dụ 4: ** ngày Canh Thân, tháng Tân Tị, năm Ất Hợi, một người đàn ông đến xem chung thân vận khí được quẻ Sơn Hỏa Bí biến Thiên Thủy Tụng.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 124.** Chính Quái: Thủy Trạch Tiết
+    - <img src="assets/page_0125_img_01.png" alt="Hình 124" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 125.** Biến Quái: Thủy Trạch Tiết
+    - <img src="assets/page_0125_img_02.png" alt="Hình 125" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Ất Dậu, ngày Canh Thân, tháng Tân Tỵ, năm Ất Hợi
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Tiểu mãn         Lệnh tháng:
+- Tỵ-Hỏa
+- Phương pháp lập quẻ:
+- Lục hào
+##### SƠN HỎA BÍ — BIẾN QUÁI: THIÊN THỦY TỤNG
+
+- Sáu hào có đến năm hào phát động, trong quẻ hào động quá nhiều là tin tức cả đời nhiều biến động.
+- Phân tích suy luận: Quan quỷ Mão mộc mặc dù trì thế, nhưng hưu tù hóa thoái, cả đời không có vận làm quan.
+- Lâm sơ hào, sơ hào là hào vị bộ hạ, quần chúng, trong cuộc đời chỉ là người bình thường.
+- Phân tích suy luận: Quan quỷ trì thế hưu tù, lâm Bạch Hổ, Quan quỷ Bạch Hổ đều là có bệnh, thân thể nhiều bệnh.
+- Thê Tài lưỡng hiện, Tý thủy không vong, Hợi thủy Nguyệt phá, lại hai Huynh đệ cùng phát động khắc tài, cả đời tài vận không tốt.
+- Bất quá, Nhật là đất trường sinh của hào tài, cơ bản cuộc sống không thành vấn đề, nhưng khó có tích súc.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 126.** Chính Quái: Sơn Hỏa Bí
+    - <img src="assets/page_0126_img_01.png" alt="Hình 126" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 127.** Biến Quái: Thiên Thủy Tụng
+    - <img src="assets/page_0126_img_02.png" alt="Hình 127" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Thế khắc ứng, hôn nhân muộn, tài sinh thế, một lâm Thanh Long, một hóa hồi đầu sinh, sau khi lấy vợ tất bận tâm về gia đình.
+- Trong quẻ hào hai Huynh đệ vượng, hào hai lại hóa ra Huynh đệ, chứng tỏ anh chị em đông đúc.
+- Phân tích suy luận: Huynh đệ Sửu thổ không vong, bị Quan quỷ Mão mộc khắc thương, tuyệt ở Nguyệt kiến, anh em dễ có người đoản mệnh chết sớm.
+- Phân tích suy luận: Huynh đệ Sửu thổ động mà hóa mộ, Tuất thổ lâm Chu Tước bị Quan quỷ Mão mộc khắc hợp, anh em dễ có người bị tù tội.
+- **Ứng nghiệm:** Người này 28 tuổi kết hôn, vợ hiền lành, sinh hoạt ở một trấn nhỏ, là một viên chức bình thường.
+- Bản thân và vợ đều nhiều bệnh yếu ớt, hàng năm ba phần thu nhập đều dùng để chữa bệnh, Anh chị em có năm người, một người chết bệnh, một người vào tù.
+##### Ví dụ 5: ** ngày Giáp Tuất, tháng Quý Hợi, năm Mậu Dần, một người phụ nữ đến xem vận khí cả đời được quẻ Địa Trạch Lâm biến Lôi Trạch Quy muội (sinh năm 1962)
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Quý Dậu, ngày Giáp Tuất, tháng Quý Hợi, năm Mậu Dần
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Tiểu tuyết Lệnh tháng:
+- Hợi-Thủy
+- Phương pháp lập quẻ:
+- Lục hào
+- **Công việc:** Lấy Quan quỷ làm Dụng thần.
+- Nguyệt là cấp trên, Nhật là đồng sự.
+- Phân tích suy luận: Quan quỷ Mão mộc trì thế, được Nguyệt sinh phù là vượng tướng, công việc sự nghiệp có thành tựu.
+- Phân tích suy luận: Quan quỷ cư hào hai, hào hai là nhà, ở trong phòng làm việc.
+- Lâm Chu Tước, Chu Tước liên quan đến sách vở, nói chuyện, chính là xử lí thư tịch văn kiện.
+- Phân tích suy luận: Hào thế được Nguyệt kiến sinh phù, hào năm sinh thế, hào năm là hào vị lãnh đạo, trong công tác rất được lãnh đạo ưu ái.
+- Thế cùng Nhật thần tương hợp, cùng đồng sự chung đụng cũng mười phần hòa hợp.
+- **Tài vận:** Lấy Thê Tài làm Dụng thần.
+- Phân tích suy luận: Thê tài Hợi thủy tỷ hòa với Nguyệt, tĩnh mà sinh thế, tài vận tốt, thu nhập ổn định.
+- Tài lâm ứng, ứng là hào vị chồng, hào năm là hào vị trưởng thượng, trong nhà nam nhân cầm quyền, trông coi tiền tài.
+- Thê Tài bị Nhật thần cùng hào động Sửu thổ khắc chế, vừa có tiền liền phải tiêu xài, trong nhà không chứa được tiền.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 128.** Chính quái Địa Trạch Lâm
+    - <img src="assets/page_0128_img_01.png" alt="Hình 128" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 129.** Biến quái Lôi Trạch Quy Muội
+    - <img src="assets/page_0128_img_02.png" alt="Hình 129" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **Hôn nhân:** Lấy Quan quỷ làm Dụng thần, xem thêm hào ứng.
+- Năm 1986 là năm Bính dần, cùng hành với Quan quỷ, năm này cùng hào ứng phu vị tương hợp, năm này bắt đầu yêu đương.
+- Trong quẻ Quan quỷ Mão mộc cùng Nhật thần tương hợp, hợp chờ xung, năm 1988 Mậu Thìn, xung Nhật thần Tuất thổ, Quan quỷ Mão mộc thoát hợp, cho nên đoán năm 1988 sẽ kết hôn.
+- Phân tích suy luận: Hào ứng lâm Bạch Hổ, Bạch Hổ chủ tính tình không tốt, dễ nổi giận, đoán chồng tính tình không tốt, hay nóng nảy.
+- Ứng sinh hào thế, Quan quỷ và hào thế cùng ở một hào, đoán chồng vợ ân ái vui vẻ, chung thủy.
+- **Con cái:** Tử tôn Dậu kim không vong, nhập mộ tại hào động Sửu thổ, đoán từng sinh non.
+- Phân tích suy luận: Tử tôn Dậu kim lâm Huyền Vũ, con hiện tại có tính cách hướng nội.
+- Nhập mộ tại Sửu thổ, con có sở thích đặc biệt, si mê với chuyện gì đó.
+- Phân tích suy luận: Tử tôn sinh hào ứng, con rất hợp với bố.
+- **Bản thân:** Trạch lâm quẻ tại cung Khôn, Khôn là thổ, thổ chủ dạ dày.
+- Tài là ẩm thực, là Nguyên thần của hào thế, bị hào bốn Huynh đệ Sửu thổ phát động khắc thương, hào bốn là hào vị tính khí, đoán tính khí không tốt.
+- Tài lại chủ huyết dịch, lâm Bạch Hổ, Bạch Hổ cũng chủ máu, bị khắc thương nên lực sinh thế giảm đi, đoán huyết dịch tuần hoàn không tốt.
+- Hào sáu là Kị thần, hào sáu còn là đầu, lâm Huyền Vũ, Huyền Vũ chủ mê muội, đoán là có hiện tượng choáng đầu.
+- **Bố mẹ:** Hào sơ Phụ mẫu Tị hỏa Nguyệt phá, nhập mộ tại Nhật, lâm hào Dương là bố, đoán bố đã mất.
+- **Ứng nghiệm:** Cô này làm kế toán một công ty máy tính, năm 1986 có người yêu, năm 1988 kết hôn, hiện có một con gái, bố mất năm 1993.
+- Cái khác kết luận cũng đều phù hợp tình huống thực tế.
+##### Ví dụ 6: ** ngày Ất Mùi, tháng Mậu Thìn, năm Kỷ Mão, một người đàn ông đến xem vận khí cả đời được quẻ Phong Sơn Tiệm biến Bát Thuần Tốn (sinh năm 1957)
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Ất Dậu, ngày Ất Mùi, tháng Mậu Thìn, năm Kỷ Mão
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Thanh minh Lệnh tháng:
+- Thìn-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- **CHÍNH QUÁI**
+- **PHONG SƠN TIỆM**
+- **BIẾN QUÁI**
+- **BÁT THUẦN TỐN**
+- **Tính cách:** Phong Sơn Tiệm quẻ thuộc Cấn cung, Cấn là dừng lại, lại Câu Trần trì thế, một thân lười biếng.
+- Phân tích suy luận: Quan quỷ Mão mộc tại hào sáu là cừu thần, hào sáu là đầu, mộc là thần kinh, dễ bị thần kinh.
+- **Công việc:** Lấy Quan quỷ làm Dụng thần.
+- Phân tích suy luận: Quan quỷ Mão mộc hưu tù, cả đời không có công việc tốt.
+- Phân tích suy luận: Quan quỷ lâm Huyền Vũ, Huyền Vũ chủ dơ bẩn, công việc hoàn cảnh cũng không tốt.
+- Phân tích suy luận: Tử tôn trì thế khắc Quan quỷ, bản thân không nguyện ý làm việc.
+- **Hôn nhân:** Lấy Thê tài làm Dụng thần.
+- Nguyên thần của Dụng trì thế, bản thân luôn có khát vọng với nữ nhân, nhưng tài bị Nhật Nguyệt khắc thương, phi hào là đất tuyệt, không có duyên với người khác phái.
+- Phân tích suy luận: Phụ mẫu đại biểu hôn thú, động mà hóa hồi đầu khắc, hóa tuyệt, cả đời không có hôn nhân.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 130.** Phong Sơn Tiệm
+    - <img src="assets/page_0130_img_01.png" alt="Hình 130" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 131.** Bát Thuần Tốn
+    - <img src="assets/page_0130_img_02.png" alt="Hình 131" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- **Bố mẹ:** Phụ mẫu Tị hỏa không vong, Ngọ hỏa động hóa hồi đầu khắc, bố mẹ nhất định đã có một người không còn tại thế.
+- Năm 1995 Ất Hợi, là hào biến của Ngọ hỏa, qua đời tại năm 1995.
+- **Ứng nghiệm:** Người đàn ông này làm việc rửa than tại nhà máy, thường thường giả bệnh không đi làm.
+- Lại lười biếng, có chút thần kinh không bình thường.
+- Năm 1995 bố qua đời, đến bây giờ còn độc thân.
+##### Ví dụ 7: ** ngày Ất Mùi, tháng Nhâm Ngọ, năm Canh Thìn, một người phụ nữ đến xem vận khí cả đời được quẻ Thủy Thiên Nhu biến Thủy Phong Tỉnh. (sinh năm 1961)
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Ất Dậu, ngày Ất Mùi, tháng Nhâm Ngọ, năm Canh Thìn
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Mang chủng          Lệnh tháng:
+- Ngọ-Hỏa
+- Phương pháp lập quẻ:
+- Lục hào
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 132.** Chính quái Thủy Thiên Nhu
+    - <img src="assets/page_0131_img_01.png" alt="Hình 132" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+  - **Hình 133.** Biến quái Thủy Phong Tỉnh
+    - <img src="assets/page_0131_img_02.png" alt="Hình 133" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **Tính cách:** Tử tôn cùng Đằng Xà trì thế, Tử tôn là giải trí, nghệ thuật, Đằng Xà chủ kỹ nghệ, bản thân thích nghệ thuật, lòng hiếu kỳ mạnh.
+- Phân tích suy luận: Hào thế nhập mộ tại
+- Nhật, Đằng Xà lại chủ thần kỳ, kỳ dị, chủ rất có hứng thú đối với các hiện tượng đặc dị và tôn giáo.
+- **Công việc:** Lấy Quan quỷ làm Dụng thần.
+- Phân tích suy luận: Quan quỷ Dần mộc tại hào hai, hào hai là nhà, là trong phòng, xác nhận ngồi trong phòng làm việc.
+- Lâm Chu Tước, Chu Tước là văn thư các loại, Thê tài Tý Thủy lâm Thanh Long phát động sinh, Thanh Long chính là tượng cao quý nên có chức quan.
+- Nhưng hào vị Quan quỷ khá thấp, là quan chức nhỏ.
+- Phân tích suy luận: Quan quỷ Dần mộc, Dần Thân Tị Hợi nên làm chức phó.
+- **Hôn nhân:** Lấy Quan quỷ làm Dụng thần.
+- Phân tích suy luận: Tử tôn trì thế, hôn nhân không mỹ mãn.
+- Phân tích suy luận: Quan quỷ là Mộc, Mộc chủ hiền lành, thiện lương, chồng là người hiền lành, thiện tâm.
+- Hào Thế khắc Quan quỷ, bản thân nếu không mắng chồng cũng thường xuyên nói móc chồng.
+- **Anh chị em:** Huynh đệ Tuất thổ không vong, Nhật thần hình, lâm Bạch Hổ, Bạch Hổ chủ tử vong, anh chị em có người đoản mệnh.
+- Hào Thế nhập mộ tại Nhật, Nhật cũng là huynh đệ, nhập mộ chính là bị quản chế, là tượng bị quản thúc, cho nên bản thân không phải con cả.
+- **Con cái:** Thủy Thiên Nhu là quẻ du hồn, có ý ra ngoài, Tử tôn là Dịch mã ở quẻ biến, con cái có chứng đa động, hiếu động, tinh nghịch.
+- **Ứng nghiệm:** Cô này làm việc tại toà soạn báo, là phó trưởng khoa.
+- Anh chị em có một người chị và một người anh đã mất.
+- Vợ chồng bất hòa, con cái gây sự không nghe lời.
+##### Ví dụ 8: ** ngày Ất Mùi, tháng Quý Mùi, năm Canh Thìn, một người đàn ông đến xem vận khí cả đời được quẻ Trạch Thủy Khốn biến Trạch Phong Đại Quá.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Ất Dậu, ngày Ất Mùi, tháng Quý Mùi, năm Canh Thìn
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Đại thử Lệnh tháng:
+- Mùi-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- **Tính cách:** Hào thế thuộc tính là mộc, lại lâm Thanh Long, bản thân hiền lành, có lễ phép.
+- Tài là ẩm thực, Thanh Long chủ yến hội, ẩm thực, nhập mộ tại Nhật, quẻ lục hợp, hợp là chậm chạp, đoán lúc ăn cơm nhai kỹ nuốt chậm tốc độ chậm.
+- Thê Tài là vợ, lâm thế, lại nhập mộ chính là tượng bị quản thúc, đoán sợ vợ.
+- **Công việc:** Lấy Quan quỷ làm Dụng thần.
+- Phân tích suy luận: Quan quỷ Ngọ hỏa hưu tù, Nguyên thần Thê tài nhập mộ, thế lại tại hào sơ, đoán không có vận làm quan, chỉ là dân thường.
+- **Tài vận:** Nhật Nguyệt khắc chế Tử tôn, bất lực sinh trợ hào Tài, Tài lại nhập mộ, đoán tài vận không tốt thu nhập thấp, tiền lương ít đến thương cảm. (Một dịch hữu bên cạnh đoán người này tiền lương chỉ có 530 nguyên, chính là dùng số tiên thiên của Thê Tài.
+- Thế nạp Mậu Dần, Mậu là năm, Dần mộc là ba, nên là 530 nguyên, hưu tù nên lấy số nhỏ)
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 134.** Chính quái Trạch Thủy Khốn
+    - <img src="assets/page_0133_img_01.png" alt="Hình 134" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 135.** Biến quái Trạch Phong Đại Quá
+    - <img src="assets/page_0133_img_02.png" alt="Hình 135" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **Thân thể:** Thê Tài nhập mộ, tiêu hóa không tốt.
+- Biến du hồn, trạng thái tinh thần không tốt.
+- Nhập mộ, như say như dại, đầu não không thanh tỉnh, thường thường mơ hồ.
+- **Ứng nghiệm:** Toàn bộ ứng nghiệm.
+##### Ví dụ 9: ngày Nhâm Dần, tháng Giáp Thân, năm Canh Thìn, một thanh niên đến xem vận khí cả đời được quẻ Địa Sơn Khiêm biến Trạch Hỏa Cách (sinh năm 1981)
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Nhâm Dần, tháng Giáp Thân, năm Canh Thìn
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Lập thu Lệnh tháng:
+- Thân-Kim
+- Phương pháp lập quẻ:
+- Lục hào
+- **Tính cách:** Hào thế phát động, hiếu động, tính cách hướng ngoại.
+- Phân tích suy luận: Hào thế nhập mộ tại Phụ mẫu Thìn thổ, Phụ mẫu là trưởng bối, ý là có tính ỷ lại.
+- Phân tích suy luận: Tử tôn trì thế, Tử tôn là thần giải trí, ham chơi.
+- Phân tích suy luận: Phụ mẫu hưu tù, Thìn thổ động hóa hồi đầu khắc, lại bị Nhật thần Dần mộc khắc thương, không thích học tập, học không giỏi.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 136.** Chính quái Địa Sơn Khiêm
+    - <img src="assets/page_0134_img_01.png" alt="Hình 136" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 137.** Biến quái Trạch Hỏa Cách
+    - <img src="assets/page_0134_img_02.png" alt="Hình 137" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **Việc học:** xem Quan quỷ cùng Phụ mẫu, Quan quỷ Ngọ hỏa được Nhật sinh là vượng, nhưng Tử tôn trì thế động mà khắc thương, dựa vào bản thân rất khó thi vào đại học.
+- Nhưng, Phụ mẫu hai trọng phát động, chế phục Tử tôn, dựa vào lực Phụ mẫu, có thể lên đại học.
+- Bất quá Phụ mẫu hưu tù, dù cho lên đại học cũng khó có thể có bằng cấp.
+- **Sự nghiệp:** Lấy Quan quỷ làm Dụng thần.
+- Phân tích suy luận: Quan quỷ lâm ứng, tuy được Nhật sinh, nhưng lại là sự nghiệp của người khác, hào thế khắc thương, không làm việc cho người khác.
+- Kị thần động tại hào thế, cả đời không có công việc cố định.
+- **Tài vận:** Lấy Thê tài làm Dụng thần.
+- Thê Tài Mão phục, nhưng tỷ hòa với Nhật thần, hào thế lại động sinh, cả đời tài vận rất tốt, tự mình buôn bán tất có thể phát tài.
+- **Sức khỏe:** Lấy hào thế làm Dụng thần.
+- Thế tại hào năm, hào năm là ngũ quan, thủy là miệng, bị hào hai Phụ mẫu khắc thương, yết hầu có bệnh, có viêm cổ họng.
+- Hào Thế động hóa mộc dục, mộc dục có ý là trai giới, cho nên đoán thích ăn chay, không thích ăn đồ dầu mỡ.
+- **Ứng nghiệm:** Bản thân không có thi lên đại học, bố mẹ dùng tiền để chạy cho anh ta lên đại học, nhưng anh ta ham chơi, không thích học, bởi vậy mấy ngành học đều thất bại.
+- Tính cách bệnh tật suy đoán cũng đúng, liên quan tới sự nghiệp còn chờ tương lai nghiệm chứng.
+##### Ví dụ 10: ngày Canh Thân, tháng Nhâm Thân, năm Kỷ Mão, một người đàn ông đến xem vận khí cả đời được quẻ Bát Thuần Chấn biến Trạch Địa Tụy (sinh năm 1962)
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Ất Dậu, ngày Canh Thân, tháng Nhâm Thân, năm Kỷ Mão
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Xứ thử    Lệnh tháng:
+- Thân-Kim
+- Phương pháp lập quẻ:
+- Lục hào
+- Chủ quẻ Lục xung, nửa đời trước mặc dù có chút vất vả không yên nhưng hào thế yên tĩnh, tuổi già sẽ an nhàn hơn.
+- **Tài vận:** Lấy Thê tài làm Dụng thần.
+- Thê Tài trì thế, trường sinh tại Nhật Nguyệt động hào, hào sơ Tý Thủy lại là đất đế vượng, cả đời không thiếu tiền xài.
+- Thê Tài trường sinh tại Quan quỷ, Quan quỷ là chính phủ, công chức, là đi làm tại cơ quan chính phủ, moi tiền của nhà nước.
+- **Công việc:** Lấy Quan quỷ làm Dụng thần.
+- Phân tích suy luận: Quan quỷ lâm Nhật, Nguyệt, lại động hóa tiến thần, sự nghiệp phát triển không ngừng.
+- Phân tích suy luận: Quan quỷ tại hào năm, có chức quan, hóa tiến chức quan liên tiếp lên cao.
+- **Hôn nhân:** Lấy Thê tài làm Dụng thần.
+- Nhìn thế ứng quan hệ.
+- Thế ứng tương xung quan hệ vợ chồng bất hòa.
+- Kị thần Huynh đệ Dần mộc Nguyệt phá Nhật phá lại yên tĩnh, bất lực khắc tài, mặc dù không ở cùng nhưng cũng sẽ không ly hôn.
+- Sơ
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 138.** Bát Thuần Chấn (Chính quái)
+    - <img src="assets/page_0136_img_01.png" alt="Hình 138" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- hào động hóa Thê tài, bản thân có ngoại tình.
+- Thê Tài hưu tù, năm 1989 Kỷ Tị, năm 1990 Canh Ngọ; hai năm này sinh trợ hào tài, chắc chắn kết hôn vào hai năm này.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 139.** Trạch Địa Tụy (Biến quái)
+    - <img src="assets/page_0136_img_02.png" alt="Hình 139" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **Con cái:** Lấy Tử tôn làm Dụng thần.
+- Phân tích suy luận: Tử tôn là Ngọ hỏa, năm 1990 đẻ con.
+- Phân tích suy luận: Tử tôn Ngọ hỏa là Dịch mã, lại lâm Chu Tước, con cái hoạt bát hiếu động, nói lắm.
+- **Tính cách:** Hào thế là mộ khố của Tử tôn, lâm Đằng Xà, Tử tôn Đằng Xà đều chủ nghệ thuật, bản thân thích nghệ thuật.
+- Quẻ Lục xung, ít tự chủ.
+- **Sức khỏe:** Lấy hào thế làm Dụng thần.
+- Nguyên thần Tử tôn bị hào sơ Phụ mẫu Tý Thủy khắc thương, Phụ mẫu là xe cộ, hào sơ là bánh xe, lâm Bạch Hổ, Bạch Hổ là đường đi, chính là tin tức liên quan đến tai nạn xe cộ.
+- Phân tích suy luận: Phụ mẫu Tý thủy không vong, năm 1996 Bính Tý thực không, năm này có khả năng phát sinh tai nạn.
+- Phân tích suy luận: Tử tôn Ngọ hỏa tại hào bốn, hào bốn là hào vị tim, hỏa cũng chủ tim, bị Phụ mẫu khắc thương, tim không tốt, có bệnh.
+- Phân tích suy luận: Phụ mẫu Tý Thủy bị hào biến Mùi thổ khắc chế, năm 1997 là năm Đinh Sửu, xung Mùi thổ, Tý Thủy không bị khống chế, khắc Tử tôn, năm này ứng bệnh tim khởi phát.
+- **Anh chị em:** Lấy Huynh đệ làm Dụng thần.
+- Phân tích suy luận: Huynh đệ khắc thế, khó được anh chị em trợ giúp.
+- **Bố mẹ:** Lấy Phụ mẫu làm Dụng thần.
+- Phân tích suy luận: Phụ mẫu vượng tướng, nhưng động mà khắc nguyên thần, cùng mình ít duyên phận.
+- Phân tích suy luận: Hào thế tại hào sáu lại là thổ, ứng nhận làm con thừa tự người khác.
+- **Ứng nghiệm:** Người này là phóng viên, thích vẽ tranh, là cán bộ cấp sở, từ nhỏ nhận làm con thừa tự người khác, năm 1989 kết hôn, năm 1990 sinh con gái, năm 1996 gặp tai nạn giao thông, năm 1997 bởi là bệnh tim nằm viện.
+
+## Chương 7: Niên Vận Dự Đoán Bí Pháp
+
+- Phương pháp dự đoán niên vận cùng phương pháp dự đoán vận khí cả đời thực ra giống nhau, có thể nói bổ sung cho dự đoán vận khí cả đời.
+- Vận khí cả đời không thể xem kỹ được cát hung của từng năm thật chi tiết nhưng niên vận lại có thể dự đoán cụ thể hàng năm, báo cho người xem cát hung từng năm một.
+- Ở một trình độ nào đó, có thể nói dự đoán niên vận so với dự đoán vận khí cả đời càng có ý nghĩa hơn.
+- Dự đoán niên vận chủ yếu là ở sự an nguy cùng cát hung của bản thân người đến xem, tiếp theo mới là tài vận, công việc, gia đình và các loại tình huống khác.
+- Dự đoán niên vận, không cần phán đoán tính cách.
+- Bất quá dự đoán niên vận cũng không phải là dự đoán tất cả các phương diện, mà là nhìn trong quẻ có tin tức gì, căn cứ vào đó cùng với thông tin tham chiếu từ người đến xem mới có những phán đoán chính xác, nếu muốn phán đoán tỷ mỷ từng vấn đề, ứng nghiệm sẽ không quá cao.
+- Nhưng Lục hào dự đoán là toàn bộ tin tức, dự đoán niên vận, có đôi khi lại có thể xem quá khứ do đó khi dự đoán phải cẩn thận.
+### Ví dụ 1: ** Ngày Giáp Tý, Tháng Quý Dậu, năm Kỷ Mão, một người phụ nữ đến xem niên vận được quẻ Thuỷ Lôi Truân biến Lôi Thuỷ Giải.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Quý Dậu, ngày Giáp Tý, tháng Nhâm Thân, năm Kỷ Mão
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Bạch lộ                    Lệnh tháng:
+- Dậu-Kim
+- Phương pháp lập quẻ:
+- Lục hào
+#### THỦY LÔI TRUÂN
+
+- ### BIẾN QUÁI:
+- LÔI THỦY GIẢI
+- **Tài vận:** Lấy Thê tài làm Dụng thần.
+- Thê Tài Ngọ hỏa phục, không được Nhật Nguyệt sinh phù, lại bị Nhật thần Tý Thủy khắc thương, hưu tù vô khí, tài vận không tốt.
+- **Công việc:** Lấy Quan quỷ làm Dụng thần.
+- Trong quẻ Quan quỷ Tuất thổ, Thìn thổ lưỡng hiện, lấy hào động Tuất thổ làm Dụng thần.
+- Phân tích suy luận: Quan quỷ Tuất thổ không vong, Nhật Nguyệt không sinh, Nguyên thần phục mà không hiện, Kị thần lại trì thế phát động, sự nghiệp vận khí không tốt, rất khó có cơ hội thăng tiến.
+- **Gia đình an nguy:** Xem về chồng, lấy Quan quỷ làm Dụng thần.
+- Lưỡng hiện, lấy hào Quan quỷ trì ứng ở thượng quẻ làm Dụng thần.
+- Phân tích suy luận: Quan quỷ Tuất thổ hưu tù không vong, Tử tôn Dần mộc lại phát động khắc thương, không tốt.
+- Nay Quan quỷ tuần không không bị khắc, tháng Tuất xuất không, là sẽ chịu tác hại.
+- Phân tích suy luận: Tử tôn lâm Chu Tước, Chu Tước là miệng lưỡi, cần phòng ngừa phát sinh tranh chấp.
+- Phân tích suy luận: Quan quỷ tại
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 140.** Thủy Lôi Truân (Chính quái)
+    - <img src="assets/page_0139_img_01.png" alt="Hình 140" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- hào năm, lâm Bạch Hổ, hào năm là đường đi, Bạch Hổ cũng là đường đi, động hóa phụ mẫu, Phụ mẫu là xe cộ, đi ra ngoài cần đề phòng tai nạn xe cộ.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 141.** Lôi Thủy Giải (Biến quái)
+    - <img src="assets/page_0139_img_02.png" alt="Hình 141" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Con cái xem Tử tôn, Tử tôn Dần mộc được Nhật sinh, lại được sơ hào Tý Thủy phát động sinh, Phụ mẫu Thân kim lại cùng hào biến của Tử tôn tạo thành tam hợp cục sinh phù, nên tuy bị Nguyệt khắc cũng không sao.
+- Phân tích suy luận: Hào thế Tử tôn động hóa Quan quỷ, Tử tôn là khoái hoạt, Quan quỷ là ưu sầu, Tử tôn hóa Quan quỷ là vui quá hóa buồn.
+- **Ứng nghiệm:** Tài vận không tốt, trong công tác không có cơ hội thăng tiến, tháng Tuất chồng ngã từ cửa sổ phòng làm việc rơi xuống mà chết.
+##### Ví dụ 2: ** ngày Đinh Mùi, tháng Canh Ngọ, năm Kỷ Mão, một tài xế taxi đến xem niên vận được quẻ Trạch Hỏa Cách biến Thiên Hỏa Đồng Nhân.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Đinh Mùi, tháng Canh Ngọ, năm Kỷ Mão
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Hạ chí                    Lệnh tháng:
+- Ngọ-Hỏa
+- Phương pháp lập quẻ:
+- Lục hào
+##### TRẠCH HỎA CÁCH
+
+- ### BIẾN QUÁI:
+- THIÊN HỎA ĐỒNG NHÂN
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 142.** Trạch Hỏa Cách (Chính quái)
+    - <img src="assets/page_0140_img_01.png" alt="Hình 142" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 143.** Thiên Hỏa Đồng Nhân (Biến quái)
+    - <img src="assets/page_0140_img_02.png" alt="Hình 143" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **An nguy bản thân:** Lấy hào thế làm Dụng thần.
+- Phân tích suy luận: Hào thế chẳng những không được Nhật Nguyệt sinh phù, lại bị Nhật khắc, trong quẻ lại có Quan quỷ Mùi thổ phát động hóa tiến thần khắc thương, Quan quỷ Sửu thổ ám động khắc thương, rất không tốt.
+- Phân tích suy luận: Quan quỷ có ý là chính phủ, tai nạn, Sửu thổ lâm Câu Trần, Câu Trần khắc thế chủ lao ngục, năm này không nên dính gì đến phạm pháp, nếu không sẽ bị lao ngục tai ương.
+- Tháng sau Quan quỷ Mùi thổ lâm Nguyệt, tháng sau cần đề phòng cẩn thận.
+- **Tài vận:** Thê tài Ngọ Hỏa mặc dù phục, lâm Nguyệt là vượng, nhưng Kị thần trì thế, Nguyên thần Tử tôn không vong nhập mộ, tài vận không thể nói là tốt, tài bị Quan quỷ Mùi thổ hợp, phòng bị cảnh sát giao thông phạt tiền.
+- **Ứng nghiệm:** Người này vừa mới lái taxi, kỹ thuật lái xe không tốt, cho nên luôn lo lắng phát sinh tai nạn giao thông, nhờ được nhắc nhở nên tháng Mùi lái xe rất cẩn thận, cho đến tuần cuối tháng Mùi, cũng không phát sinh tai nạn giao thông.
+- Nhưng do lái xe quá khẩn trương, đến cuối tháng còn có một tuần lễ, muốn thư giãn một tí, dự định ra ngoài Bắc Kinh du lịch.
+- Kết quả giữa đường phát sinh xung đột với người khác, đánh người ta vỡ đầu, bị cảnh sát nhốt một tuần lễ.
+- Ngồi trong nhà tạm giam mới đột nhiên nhớ tới lời khuyên, nhưng hối hận đã muộn.
+##### Ví dụ 3: ** ngày Giáp Ngọ, tháng Quý Mùi, năm Canh Thìn, một người đàn ông đến xem niên vận được quẻ Lôi Thuỷ Giải biến Thiên Hỏa Đồng Nhân.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Quý Dậu, ngày Giáp Ngọ, tháng Quý Mùi, năm Canh Thìn
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Đại thử Lệnh tháng:
+- Mùi-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 144.** Chính quái Lôi Thủy Giải
+    - <img src="assets/page_0142_img_01.png" alt="Hình 144" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+  - **Hình 145.** Biến quái Thiên Hỏa Đồng Nhân
+    - <img src="assets/page_0142_img_02.png" alt="Hình 145" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **An nguy bản thân:** Lấy hào thế làm Dụng thần.
+- Phân tích suy luận: Hào thế tỷ hòa với Nguyệt, được Nhật sinh là vượng tướng, trong quẻ Kị thần mặc dù phát động hóa tiến thần, nhưng cùng Tử tôn Ngọ hỏa, Thê tài Tuất thổ thành tam hợp cục sinh thế, năm nay không có tai nạn.
+- **Tài vận:** Lấy Thê tài làm Dụng thần.
+- Thoạt nhìn, Thê Tài trì thế vượng tướng, tài vận phải rất khá.
+- Thìn thổ lâm Thái tuế, là Thái Tuế nhập quẻ, biểu thị một năm biến động.
+- Thìn thổ động mà hóa thoái, lại lâm không vong, chính là năm này không kiếm được tiền, tán tài.
+- Thoái thần ứng kỳ là lấy hào biến để phán đoán thời gian.
+- Sửu thổ cùng năm 1997 địa chi giống nhau, phán đoán từ năm 1997 tài vận bắt đầu xuống dốc.
+- Năm 1989 là năm Tị, Thê Tài được sinh, phán đoán từ năm 1998 phát triển.
+- Năm 1998 Mậu Dần, năm 1999 Kỷ Mão, hai năm này đều khắc Thê Tài, nên đây là hai năm khó khăn.
+- **Vận làm quan:** Lấy Quan quỷ làm Dụng thần, Quan quỷ được Nguyệt sinh phù, lại là đất trường sinh của hào thế, đoán từng có chức quan, nhưng quẻ ngoại phục ngâm, Tử tôn thành tam hợp cục khắc thương, chức quan đã mất.
+- **Ứng nghiệm:** Tất cả phán đoán toàn bộ chính xác.
+- Người này vốn có chức quan, từ năm 1989 trở đi tài vận cũng không tệ.
+- Nhưng đến năm 1997 tài vận bắt đầu đi xuống, đến năm 1999 ngay cả cuộc sống cũng khó khăn.
+- Năm 2000 cũng không có gì khởi sắc.
+##### Ví dụ 4: ngày Ất Mùi, tháng Quý Mùi, năm Canh Thìn, một người đàn ông đến xem niên vận được quẻ Thủy Phong Tỉnh biến Phong Thuỷ Hoán.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Ất Dậu, ngày Ất Mùi, tháng Quý Mùi, năm Canh Thìn
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Đại thử
+- Bối cảnh chiêm đoán và thời gian: Lệnh tháng:
+- Mùi-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- **Quan vận:** Lấy Quan quỷ làm Dụng thần.
+- Thế tại hào năm, hào năm là hào vị lãnh đạo, hào thế tại đây, lại thêm Quan quỷ vượng tướng, là tượng có quan chức.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 146.** Thủy Phong Tỉnh biến Phong Thủy Hoán
+    - <img src="assets/page_0143_img_01.png" alt="Hình 146" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Nhưng hào ba Quan quỷ Dậu kim động hóa hồi đầu khắc, lại là tượng mất chức.
+- Cho nên đoán vốn có chức quan, bây giờ không có.
+- **Tài vận:** Lấy Thê tài làm Dụng thần.
+- Thoạt nhìn, Thê Tài trì thế, Nhật Nguyệt đều là tài tinh, Thê Tài rất vượng, nên tài vận phải rất tốt mới đúng.
+- Nhưng Tử tôn Ngọ hỏa phục, Nhật Nguyệt không sinh, lại bị Phụ mẫu Tý Thủy phát động khắc thương, tài nguyên khô kiệt, sơ hào Thê tài Sửu thổ Nguyệt phá Nhật phá, là tượng không có tài.
+- Phân tích suy luận: Phụ mẫu Tý Thủy mặc dù không vượng, nhưng được Quan quỷ Dậu kim sinh trợ, Quan quỷ là chính phủ, lâm Câu Trần, cổ đại là nha môn, nay là đồn công an, cục công an, là ban ngành chính phủ chẹn mất nguồn lực.
+- Sơ hào là bắt đầu, Thê Tài lâm Nguyệt phá, là vừa khởi sự liền mất tiền.
+- Lâm Thanh Long, Thanh Long là tửu sắc, rủi ro có liên quan tới vấn đề đó.
+- Cho nên đoán năm nay bắt đầu buôn bán, nhưng vừa mới bắt đầu liền bị công an chẹn mất đường kiếm tiền, nhất định là làm ăn không đứng đắn.
+- **Ứng nghiệm:** Người này vốn có chức quan, nhưng bị mất chức.
+- Năm 2000 tại khu du lịch kinh doanh quán bar, thuê rất nhiều đào, kết quả ngay ngày đầu tiên liền bị cục công an niêm phong.
+- Đại phá kỳ tài.
+##### Ví dụ 5: ngày Nhâm Tuất, tháng Canh Dần, năm Tân Tị, một người phụ nữ đến xem niên vận được quẻ Sơn Phong Cổ biến Sơn Hỏa Bí.
+
+- Bối cảnh chiêm đoán và thời gian: Thời gian lập quẻ:
+- 18:41:1 - 28/2/2001 (giờ Dậu, ngày 25/1/2001 Lịch tiết khí)
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Nhâm Tuất, tháng Canh Dần, năm Tân Tỵ
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Vũ thủy Lệnh tháng:
+- Dần-Mộc
+- Phương pháp lập quẻ:
+- Lục hào
+##### SƠN PHONG CỔ - BIẾN QUÁI: SƠN HỎA BÍ
+
+- **An nguy bản thân:** Lấy hào thế làm Dụng thần.
+- Phân tích suy luận: Hào thế được Nhật thần sinh phù, Kị thần phục, năm này không có tai nạn.
+- **Tài vận:** Thê Tài lưỡng hiện, lấy hào động Thê tài Sửu thổ làm dụng.
+- Sửu thổ bị Nguyệt kiến khắc thương, lại động hóa hồi đầu khắc, Nguyên thần Tử tôn Tị hỏa phục, nhập mộ tại Nhật, lại bị Phụ mẫu Hợi thủy phát động khắc chế.
+- Phân tích suy luận: Tử tôn Tị hỏa làm gốc năm Thái Tuế, phục mà không thể sinh Thê tài, tức ám chỉ năm nay không được tiền như mong muốn.
+- **Hậu quả như phán đoán.**
+##### Ví dụ 6: ** ngày Đinh Hợi, tháng Kỷ Sửu, năm Canh Thìn, một người đàn ông đến xem niên vận được quẻ Thiên Trạch Lý biến Bát Thuần Đoài.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 147.** Sơn Phong Cổ
+    - <img src="assets/page_0145_img_01.png" alt="Hình 147" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 148.** Sơn Hỏa Bí
+    - <img src="assets/page_0145_img_02.png" alt="Hình 148" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Đinh Hợi, tháng Kỷ Sửu, năm Canh Thìn
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Đại hàn Lệnh tháng:
+- Sửu-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+##### THIÊN TRẠCH LÝ - BIẾN QUÁI: BÁT THUẦN ĐOÀI
+
+- **An nguy bản thân:** Lấy hào thế làm Dụng thần.
+- Phân tích suy luận: Hào thế được Nguyệt sinh phù, lại có hào động sinh, Tử tôn trì thế, là tượng không có nguy nan.
+- Nhưng Nguyên thần động mà hóa thoái, lực sinh thế yếu đi, sẽ có bệnh nhẹ.
+- Thế tại hào năm, hào năm là hào vị ngũ quan, kim là răng, sẽ đau răng.
+- **Tài vận:** Lấy Thê Tài làm Dụng thần.
+- Dụng thần mặc dù phục, nhưng Nhật thần giúp đỡ, Kị thần suy, lại động mà hóa thoái, tài vận có tiến triển.
+- Phân tích suy luận: Hào thế là Nguyên thần của Tài, tĩnh mà bất động, chỉ có phát động mới có thể thành liên tục tương sinh, giảm Kị thần chi khắc, bởi vậy bản thân bôn ba, vất vả cầu tài.
+- **An nguy của gia đình:** Thê tài là vợ, Nguyệt khắc, Kị thần phát động khắc thương, lại đại biểu tật bệnh.
+- Phân tích suy luận: Quan quỷ lâm ứng, ứng là hào vị vợ, vợ sẽ xảy ra bệnh.
+- Hào hai là hào vị tử cung, lâm Câu Trần, Câu Trần là sưng, vợ sẽ bị u tử cung.
+- **Ứng nghiệm:** Tháng Mão bị đau răng, tháng Tuất vợ nhập viện mổ u tử cung.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 149.** Thiên Trạch Lý
+    - <img src="assets/page_0146_img_01.png" alt="Hình 149" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 150.** Bát Thuần Đoài
+    - <img src="assets/page_0146_img_02.png" alt="Hình 150" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+##### Ví dụ 7: ngày Quý Tị, tháng Bính Thìn, năm Mậu Dần, một ông già 86 tuổi đến xem niên vận được quẻ Địa Thiên Thái biến Thuỷ Lôi Truân.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Tân Dậu, ngày Quý Tỵ, tháng Bính Thìn, năm Mậu Dần
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Thanh minh Lệnh tháng:
+- Thìn-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- **CHÍNH QUÁI:
+- ĐỊA THIÊN THÁI**
+- **BIẾN QUÁI:
+- THỦY LÔI TRUÂN**
+- **An nguy bản thân:** Lấy hào thế làm Dụng thần.
+- Năm nay Thái tuế là Dần mộc, Thái Tuế nhập quẻ phát động khắc thế, năm này có tai nạn.
+- Quẻ nội phục ngâm, là tượng đau đớn thống khổ.
+- Phân tích suy luận: Hào thế tại hào ba, hào ba là giường, chính là tượng nằm liệt giường.
+- Phân tích suy luận: Huynh đệ là tay chân, ở quẻ nội là chân, hào ba là đùi, hào hai Quan quỷ động khắc thương, hào hai là hào vị chân, trên đùi sẽ xảy ra bệnh.
+- Hào ba là dạ dày, ruột, dạ dày cũng sẽ xuất hiện bệnh.
+- Thê Tài là cứt đái, nhập mộ tại hào thế, trong bụng có cứt nước tiểu, kéo không ra không tiểu được, chính là bị táo bón.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 151.** Địa Thiên Thái (Chính quái)
+    - <img src="assets/page_0147_img_01.png" alt="Hình 151" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 152.** Thủy Lôi Truân (Biến quái)
+    - <img src="assets/page_0147_img_02.png" alt="Hình 152" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Nói đến tuổi thọ, từ hào thế phán đoán.
+- Phân tích suy luận: Hào thế tỷ hòa với Nguyệt, Nhật thần sinh phù là vượng tướng, sẽ không nguy hiểm tính mệnh.
+- Sống thêm mấy năm không có vấn đề.
+- **Ứng nghiệm kết quả:** Tháng Tị đột nhiên sưng chân, nằm trên giường một tháng.
+- Bình thường bị táo bón, năm 1998 là nghiêm trọng nhất.
+##### Ví dụ 8: ngày Đinh Mão, tháng Đinh Mão, năm Kỷ Mão, một người đàn ông đến xem niên vận được quẻ Trạch Lôi Tùy.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Đinh Mão, tháng Đinh Mão, năm Kỷ Mão
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Kinh trập Lệnh tháng:
+- Mão-Mộc
+- Phương pháp lập quẻ:
+- Lục hào
+- **CHÍNH QUÁI:
+- TRẠCH LÔI TÙY**
+- **BIẾN QUÁI:
+- TRẠCH LÔI TÙY**
+- **An nguy bản thân:** Lấy hào thế làm Dụng thần.
+- Phân tích suy luận: Hào thế bị Nhật Nguyệt khắc thương không tốt.
+- Thế tại hào ba, hào ba là dạ dày, thổ cũng chủ dạ dày, Kị thần tại hào hai là ruột, năm này dễ bị bệnh dạ dày.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 153.** Trạch Lôi Tùy (Chính quái)
+    - <img src="assets/page_0148_img_01.png" alt="Hình 153" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 154.** Trạch Lôi Tùy (Biến quái)
+    - <img src="assets/page_0148_img_02.png" alt="Hình 154" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **Tài vận:** Lấy Thê Tài làm Dụng thần.
+- Thê Tài mặc dù trì thế, nhưng bị Nhật Nguyệt khắc thương, Nguyên thần lại không hiện trên quẻ.
+- Tài vận không tốt.
+- **Công việc:** Lấy Quan quỷ làm Dụng thần.
+- Phân tích suy luận: Quan quỷ Dậu kim Nguyệt phá Nhật phá, sự nghiệp vận khí cũng không tốt.
+- Người này không có công việc, buôn bán nhưng không có kiếm được tiền.
+- Đến tháng 6 đến kiết lỵ tiêu chảy.
+##### Ví dụ 9: ngày Giáp Thân, tháng Kỷ Tị, năm Kỷ Mão, một người đàn ông đến xem niên vận được quẻ Lôi Thủy Giải biến Bát Thuần Đoài.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Quý Dậu, ngày Giáp Thân, tháng Kỷ Tỵ, năm Kỷ Mão
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Tiểu mãn                    Lệnh tháng:
+- Tỵ-Hỏa
+- Phương pháp lập quẻ:
+- Lục hào
+- **An nguy bản thân:** Lấy hào thế làm Dụng thần.
+- Phân tích suy luận: Hào thế được Nguyệt kiến sinh phù là vượng tướng.
+- Nhưng Kị thần động khắc thế, không tốt.
+- Quẻ tại Chấn
+- cung, Chấn là chân, thế tại hào hai lại là hào vị chân, năm này không phải bị thương khi đi lại cũng là đi lại mà bị bệnh.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 155.** Sơ đồ quẻ Lôi Thủy Giải biến Bát Thuần Đoài
+    - <img src="assets/page_0149_img_01.png" alt="Hình 155" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **Tài vận:** Lấy Thê Tài làm Dụng thần.
+- Thê Tài trì thế, được Nguyệt sinh phù là vượng tướng, Quan quỷ là công việc, động mà trường sinh tại hào tài, tiền lương thu nhập không tệ.
+- Nhưng Tử tôn không vong, Kị thần Dần mộc phát động, đại phát tài rất khó.
+- **Vận làm quan:** Lấy Quan quỷ làm Dụng thần.
+- Phân tích suy luận: Quan quỷ lâm Nhật thần động hóa tiến thần, nhìn như công việc phát triển không ngừng, tượng thăng tiến, nhưng Quan quỷ lâm ứng, ứng là người khác, cùng mình có liên can gì?
+- Phân tích suy luận: Quan quỷ tại hào năm, hào năm là lãnh đạo, chính là lãnh đạo có tượng biến động.
+- **Ứng nghiệm:** Đoán xong quẻ, người đàn ông kéo lên quần cho thấy bị bệnh giãn tĩnh mạch.
+- Năm đó lãnh đạo thay đổi, bản thân vẫn nguyên dạng.
+- Trừ tiền lương còn không có thêm thu nhập nào.
+
+## Chương 8: Mang Thai Và Sinh Sản Dự Đoán Bí Pháp
+
+- Con cái là kết tinh của tình yêu, tại Trung Quốc rất nhiều người xem việc sinh con là vấn đề phi thường trọng yếu, tục ngữ nói: "Tam đại bất hiếu, vô hậu vi đại." Cổ nhân đem việc sinh con dưỡng cái xếp vào hàng thứ nhất nhân sinh.
+- Bởi vậy dự đoán có thai cùng sinh con là một trong những nghiên cứu trọng yếu của Lục hào.
+### Dụng thần
+
+- Đi cầu xem có thai cùng sinh con có đủ loại người, Dụng thần cũng theo người hỏi mà có biến hóa khác biệt.
+- Nếu như không thể mang thai, xem cả đời có con cái hay không, liền lấy Tử tôn làm Dụng thần, Tử tôn vượng tướng đắc sinh phù là có con, hưu tù không phá, động mà hóa hung là cả đời khó có con cái.
+- Nếu như hoài nghi là mang thai, xem mang thai hay không, liền lấy Tử tôn làm Dụng thần đồng thời tham khảo thai hào của Tử tôn, cách tính thai hào là lấy Ngũ Hành trường sinh mười hai cung đến tra, đếm tới thai chính là thai hào.
+- Đối thoại thực tế: Người đến xem nếu như là xem mẹ mang thai, thì lại lấy Huynh đệ làm Dụng thần.
+#### Tin tức rút ra
+
+- Phân tích suy luận: Tử tôn cùng thai hào vượng tướng, là dấu hiệu có thai, nếu như hưu tù không phá là không có thai.
+- Phân tích suy luận: Tử tôn vượng tướng, nhưng thai hào không phá, hoặc Tử tôn động mà hóa hung, là có thai nhưng sinh non, sẩy thai.
+- Phân tích suy luận: Tử tôn, thai hào yên tĩnh là cát, Tử tôn phát động lâm Bạch Hổ, chính là sắp sinh.
+- Phân tích suy luận: Phụ mẫu không nên phát động, phát động Tử tôn tất nhiên bị khắc thương.
+- Nhất định có nguyên nhân nào đó bất lợi cho thai nhi.
+- Như Huynh đệ đồng thời phát động thì việc bất lợi sẽ giảm thiểu.
+- Hào hai là vị trí bào thai, đồng thời cũng là hào vị tử cung.
+- Phân tích suy luận: Tử tôn lâm Thanh Long hoặc Câu Trần vượng mà cư tại hào vị này là chắc chắn có thai.
+- Phân tích suy luận: Tử tôn không nên động mà hóa Quỷ, hóa Phụ mẫu hồi đầu khắc, là dấu hiệu thai nhi tử vong hoặc có bệnh.
+- Phân tích suy luận: Tử tôn gặp hợp, gặp quẻ lục hợp là dấu hiệu khó sinh.
+- Gặp quẻ lục xung, hoặc Tử tôn bị hào động xung là dấu hiệu sinh thuận lợi.
+- **Phán đoán giới tính thai nhi:** lấy Tử tôn vượng suy cùng hào vị âm dương, quẻ cung âm dương, cùng hào động Âm Dương biến hóa để phán đoán.
+- Phân tích suy luận: Tử tôn là hào dương vượng tướng là nam, trái lại là nữ.
+- Tại dương cung là nam, tại âm cung là nữ.
+- Phân tích suy luận: Tử tôn vượng tướng, dương hào động là nữ, âm hào động là nam.
+- Phân tích suy luận: Tử tôn hưu tù lấy Tử tôn âm dương kết hợp cùng quẻ cung để phán đoán.
+- Lại lấy hào vị quyết định, một hào độc phát, nhìn động hào, hào hai phát động, xem hào ở trên, ba hào phát động, xem hào giữa, nhiều hào phát động xem hào tĩnh.
+- Quẻ tượng không rõ có thể gieo lại quẻ để phân tích.
+- Hào hai Tử tôn đều động, hai hào thai hiện là sinh đôi.
+- Ứng kỳ lấy hào Tử tôn để phán đoán.
+- Phục sẽ ứng kì khi xuất hiện, Nhật Nguyệt xung phi là ứng kỳ, hợp chờ xung, nhập mộ ứng xung mộ, hưu tù ứng trường sinh, Nguyệt phá ứng thực phá, hợp phá hoặc sang tháng, tuần không ứng xung không thực không.
+- Cũng có ứng Tử tôn thai dưỡng mà sinh.
+##### Ví dụ 1: ** Ngày Ất Tị tháng Mùi năm Ất hợi, nam kết hôn sáu năm, vợ mãi không có thai xem khi nào có con? Được quẻ Trạch Phong Đại Quá biến Lôi Sơn Tiểu Quá.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Ất Dậu, ngày Ất Tỵ, tháng Quý Mùi, năm Ất Hợi
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Tiểu thử Lệnh tháng:
+- Mùi-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Lấy Tử tôn làm Dụng thần.
+- Phân tích suy luận: Tử tôn Ngọ Hỏa phục dưới Phụ mẫu Hợi thủy, phi thần khắc phục thần là không tốt.
+- Nhưng Phi thần bị Nguyệt kiến khắc, Nhật thần xung Phi thần tương trợ Dụng thần, chính là tượng có thai.
+- Phân tích suy luận: Phụ mẫu Hợi thủy được Quan quỷ Dậu kim sinh phù, năm 2000 là năm Canh Thìn, hợp Quan quỷ Dậu kim, Phụ mẫu nhập mộ khó khắc Tử tôn, nên có thai.
+- Nếu không có thì năm 2001 Tân Tị xung Phi thần chắc chắn có.
+- **Ứng nghiệm:** Vợ anh ta năm 1999 mang thai, nhưng sinh non.
+- Năm 2000 lần nữa mang thai, năm 2001 tháng Thìn sinh con trai.
+##### Ví dụ 2: ** Ngày Ất Tị tháng Bính Dần năm Kỷ Mão, một nữ tử từ Bắc Kinh đến xem khi nào có thể có con? Được quẻ Thủy Địa Tỷ.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 156.** Trạch Phong Đại Quá (Chính quái)
+    - <img src="assets/page_0153_img_01.png" alt="Hình 156" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 157.** Lôi Sơn Tiểu Quá (Biến quái)
+    - <img src="assets/page_0153_img_02.png" alt="Hình 157" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Ất Dậu, ngày Ất Tỵ, tháng Bính Dần, năm Kỷ Mão
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Vũ thủy Lệnh tháng:
+- Dần-Mộc
+- Phương pháp lập quẻ:
+- Lục hào
+- Lấy Tử tôn làm Dụng thần.
+- Phân tích suy luận: Tử tôn Thân kim bị Nguyệt kiến xung phá, Nhật thần khắc thương, Nhật Nguyệt Dụng thần lại thành tam hình, Dụng thần cực yếu.
+- Phân tích suy luận: Hào thế Quan quỷ mão mộc là thai địa của Tử tôn, hào thế là người đến xem, lâm không vong, chính là bản thân không cách nào mang thai.
+- Cả đời sợ khó có con.
+- **Ứng nghiệm:** Cô này kết hôn năm 1989, đã vài chục năm một mực không có thai, phi thường buồn rầu.
+- Chữa trị khắp nơi, không biết đã dùng bao nhiêu thuốc, không có chút hiệu quả nào.
+##### Ví dụ 3: ** Ngày Quý Dậu tháng Đinh Mão năm Kỷ Mão, một người phụ nữ xem cả đời có con hay không được quẻ Thiên Hỏa Đồng Nhân biến Thủy Phong Tỉnh.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 158.** Thủy Địa Tỷ (Chính quái)
+    - <img src="assets/page_0154_img_01.png" alt="Hình 158" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 159.** Thủy Địa Tỷ (Biến quái)
+    - <img src="assets/page_0154_img_02.png" alt="Hình 159" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Tân Dậu, ngày Quý Dậu, tháng Đinh Mão, năm Kỷ Mão
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Xuân phân Lệnh tháng:
+- Mão-Mộc
+- Phương pháp lập quẻ:
+- Lục hào
+- Lấy Tử tôn làm Dụng thần.
+- Trong quẻ Tử tôn Tuất thổ, Tử tôn Sửu thổ Dụng thần lưỡng hiện, lại đều phát động, cả hai đều có thể lấy làm Dụng thần.
+- Dụng thần bị Nguyệt kiến khắc thương, lại có Kị thần lâm Nguyệt phát động khắc, không tốt.
+- Phân tích suy luận: Tử tôn ở hào sáu động hóa Quan quỷ, hóa nhập không vong, hào hai Tử tôn không vong cũng là động hóa Quan quỷ, chính là tượng không con cái, tử động hóa Quan quỷ, dù cho có con cũng khó giữ.
+- Cả đời khó có con.
+- **Ứng nghiệm:** Kết hôn đã vài chục năm, mãi không có con.
+##### Ví dụ 4: ** Ngày Kỷ Mão tháng Đinh Hợi, năm Canh Thìn, một phụ nữ xem lúc nào có thể có con? Được quẻ Phong Thuỷ Hoán biến Thiên Thủy Tụng.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 160.** Thiên Hỏa Đồng Nhân
+    - <img src="assets/page_0155_img_01.png" alt="Hình 160" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 161.** Thủy Phong Tỉnh
+    - <img src="assets/page_0155_img_02.png" alt="Hình 161" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Quý Dậu, ngày Kỷ Mão, tháng Đinh Hợi, năm Canh Thìn
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Lập đông Lệnh tháng:
+- Hợi-Thủy
+- Phương pháp lập quẻ:
+- Lục hào
+- Lấy Tử tôn làm Dụng thần.
+- Thoạt nhìn Tử tôn động hóa hồi đầu sinh, chính là tượng sẽ có con, nhưng Tử tôn không được Nhật Nguyệt sinh phù, lại bị Nhật thần khắc thương, chính là không có gốc rễ.
+- Lại thêm Nguyên thần Tị hỏa Nguyệt phá, nên động hóa hồi đầu sinh cũng không làm nên chuyện gì.
+- Phân tích suy luận: Huynh đệ Tị hỏa tại hào thế, là Nguyên thần của Tử tôn, Nguyệt phá là không có khả năng sinh con, quẻ rõ ràng nói không thể có con.
+- Phân tích suy luận: Huynh đệ Tị hỏa bị Nguyệt kiến xung phá, Nguyệt là Quan quỷ, Quan quỷ là chồng, chồng có vấn đề.
+- Phân tích suy luận: Tử tôn Thìn thổ tại hào hai bị Nhật khắc, hào hai cũng là phu vị, đồng thời lại là hào ứng, hào ứng cũng là phu vị, lâm Bạch Hổ, Bạch Hổ là bệnh, là chồng có bệnh không thể có thai.
+- Hào hai là hào vị bộ phận sinh dục, Tử tôn cũng chủ bộ phận sinh dục, là bộ phận sinh dục của chồng có vấn đề.
+- Phân tích suy luận: Thê tài là tinh trùng, không mà phục, lại gặp
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 162.** Phong Thủy Hoán
+    - <img src="assets/page_0156_img_01.png" alt="Hình 162" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 163.** Thiên Thủy Tụng
+    - <img src="assets/page_0156_img_02.png" alt="Hình 163" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Nguyệt kiến Hợi thủy là bệnh địa, là tinh trùng của chồng có vấn đề, khiến không thể mang thai.
+- Nếu chỉ sinh hoạt với chồng thì cả đời cũng sẽ không có con.
+- **Ứng nghiệm:** Người phụ nữ này cùng chồng đến bệnh viện kiểm tra thì được biết người chồng hồi bé bị tổn thương tinh hoàn, tinh trùng bị chết, không thể có con.
+##### Ví dụ 5: Ngày Canh Dần, tháng Canh Thìn, năm Ất Hợi, một người phụ nữ đến xem sinh con được quẻ Hỏa Địa Tấn biến Hỏa Trạch Khuê.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Ất Dậu, ngày Canh Dần, tháng Canh Thìn, năm Ất Hợi
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Cốc vũ                    Lệnh tháng:
+- Thìn-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 164.** Chính quái Hỏa Địa Tấn
+    - <img src="assets/page_0157_img_01.png" alt="Hình 164" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+  - **Hình 165.** Biến quái Hỏa Trạch Khuê
+    - <img src="assets/page_0157_img_02.png" alt="Hình 165" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy Tử tôn làm Dụng thần.
+- Phân tích suy luận: Tử tôn Tý Thủy nằm ở sơ hào phục dưới hào Phụ mẫu Mùi thổ, Phi thần phát động khắc Dụng thần, không tốt.
+- May mắn Phi thần không vong, lại có Nhật thần chế phục, cổ thư nói: "Phục dưới hào không, dễ dàng dẫn hiện" Dụng thần phục mà hiện.
+- Tháng Ngọ Hỏa Phi thần gặp hợp không thể khắc phục thần, phục thần hiện, tháng Ngọ sẽ sinh.
+- Xung chờ hợp, hợp chờ xung, ngày Ngọ sẽ đẻ vào giờ Sửu, ngày Sửu sinh sẽ vào giờ Tý.
+- Ngày 14 tháng 6 là ngày Bính Tý, ngày 15 là ngày Đinh Sửu, chắc chắn sinh vào hai ngày này.
+- Xem giới tính con cái, Tử tôn hưu tù, lại là âm hào phát động, chắc chắn là con gái.
+- Đồng thời quẻ nội âm biến âm, cũng là dấu hiệu sinh con gái.
+- **Ứng nghiệm:** Ngày 15 tháng 6 (Ngày Đinh Sửu Tháng Ngọ) giờ Tý, sinh con gái.
+##### Ví dụ 6: Ngày Bính Thân, tháng Giáp Thân, năm Ất Hợi, một người phụ nữ đến xem sinh con cát hung cùng giới tính được quẻ Sơn Phong Cổ biến Địa Phong Thăng.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Đinh Dậu, ngày Bính Thân, tháng Giáp Thân, năm Ất Hợi
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Xử thử                    Lệnh tháng:
+- Thân-Kim
+- Phương pháp lập quẻ:
+- Lục hào
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 166.** Chính quái Sơn Phong Cổ
+    - <img src="assets/page_0158_img_01.png" alt="Hình 166" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+  - **Hình 167.** Biến quái Địa Phong Thăng
+    - <img src="assets/page_0158_img_02.png" alt="Hình 167" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy Tử tôn làm Dụng thần.
+- Phân tích suy luận: Tử tôn Tị hỏa phục dưới hào năm Phụ mẫu Tý thủy, phi thần khắc phục là không tốt.
+- Nhưng Phi thần yên tĩnh, Nguyên thần phát động sinh phù, chính là khắc xứ phùng sinh.
+- Xem an nguy bản thân, lấy hào thế để xét.
+- Phân tích suy luận: Hào thế cùng Nhật Nguyệt Ngũ Hành giống nhau, vượng tướng là tốt.
+- Phân tích suy luận: Tử tôn Nhật Nguyệt tương hợp là dấu hiệu khó sinh, Nguyên thần Nguyệt phá, tháng Dần thực phá, sinh trợ Dụng thần, nên tháng Dần sẽ sinh.
+- Phân tích suy luận: Tử tôn là hào dương, hưu tù, hào dương phát động, sẽ sinh con trai.
+- **Ứng nghiệm:** Năm 1996 ngày mùng 5 tháng 2 sinh con trai, sinh khó.
+##### Ví dụ 7: Ngày Đinh Sửu, Tháng Giáp Thìn, Năm Đinh Sửu, một người phụ nữ đến xem sinh con được quẻ Sơn Lôi Di.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Đinh Sửu, tháng Giáp Thìn, năm Đinh Sửu
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Thanh minh Lệnh tháng:
+- Thìn-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 168.** Chính quái Sơn Lôi Di
+    - <img src="assets/page_0159_img_01.png" alt="Hình 168" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 169.** Biến quái Sơn Lôi Di
+    - <img src="assets/page_0159_img_02.png" alt="Hình 169" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy Tử tôn làm Dụng thần.
+- Phân tích suy luận: Tử tôn Tị hỏa phục dưới hào năm Phụ mẫu Tý thủy, phi thần khắc phục thần, Dụng thần lại không vượng tướng, nhưng không bị Nhật Nguyệt khắc thương, Phi thần bị Nhật Nguyệt khắc chế, Phi thần không rảnh tự lo, bất lực khắc phục, không sao.
+- Phân tích suy luận: Hào thế là người đến xem, Tử tôn mộ khố ở thế, là tượng mang thai.
+- Tháng này Nguyệt xung mộ khố là tượng sinh con nên chắc chắn sinh trong tháng.
+- Lâm Bạch Hổ, Bạch Hổ chủ lâm bồn, cũng là sẽ sinh.
+- Phân tích suy luận: Tử tôn hưu tù, ở Tốn cung, tốn là quẻ âm, sinh con gái.
+- Phân tích suy luận: Tử tôn mộ khố bị Nguyệt xung phá, phá mộ dễ ra, sẽ sinh dễ.
+- **Ứng nghiệm:** Ngày Tý giờ Tỵ sinh con gái an toàn.
+- Ví dụ này ứng Tử tôn thai địa là ngày, Dụng thần phục là giờ sinh.
+##### Ví dụ 8: Ngày Quý Hợi, tháng Kỷ Mùi, năm Mậu Dần, một người đàn ông đến xem con gái sinh con được quẻ địa lôi phục biến Địa Sơn Khiêm.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Tân Dậu, ngày Quý Hợi, tháng Kỷ Mùi, năm Mậu Dần
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Tiểu thử Lệnh tháng:
+- Mùi-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 170.** Chính quái Địa Lôi Phục
+    - <img src="assets/page_0160_img_01.png" alt="Hình 170" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 171.** Biến quái Địa Sơn Khiêm
+    - <img src="assets/page_0160_img_02.png" alt="Hình 171" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Con gái cùng cháu đều thuộc Tử tôn, nhưng trong quẻ chỉ có một hào Tử, nếu chỉ lấy một hào để xem cho cả con gái và cháu là không phù hợp.
+- Lúc này phải xoay lục thân.
+- Nếu lấy Tử tôn Dậu kim là cháu, Huynh đệ Sửu thổ là mộ khố của Tử tôn, là người đang mang thai, cho nên có thể tính Huynh đệ Sửu thổ là con gái.
+- Mộ khố của Tử tôn bị Nguyệt phá là dấu hiệu sinh con.
+- Phân tích suy luận: Tử tôn Dậu kim được Nguyệt sinh phù là cát.
+- Phân tích suy luận: Tử tôn là hào âm, lại ở quẻ âm, chắc chắn là con gái.
+- Phân tích suy luận: Huynh đệ Thìn thổ động hợp Tử tôn là khó sinh, Huynh đệ Sửu thổ mộ tại Thìn thổ, chính là con gái đang nằm viện.
+- **Ứng nghiệm:** Con gái người này ngày Tân Mùi sinh con gái, sinh khó.
+##### Ví dụ 9: ** Ngày Kỷ Dậu, tháng Quý Tị, năm Bính Tý, một người đàn ông đến xem vợ sinh con, được quẻ Trạch Địa Tụy biến Trạch Sơn Hàm.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Quý Dậu, ngày Kỷ Dậu, tháng Quý Tỵ, năm Bính Tý
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Lập hạ               Lệnh tháng:
+- Tỵ-Hỏa
+- Phương pháp lập quẻ:
+- Lục hào
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 172.** Trạch Địa Tụy biến Trạch Sơn Hàm
+    - <img src="assets/page_0162_img_01.png" alt="Hình 172" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### TRẠCH ĐỊA TỤY | TRẠCH SƠN HÀM
+
+- Lấy Tử tôn làm Dụng thần.
+- Phân tích suy luận: Tử tôn Hợi thủy Nguyệt phá, tháng Hợi thực phá nên tháng Hợi sẽ sinh.
+- Phân tích suy luận: Tử tôn là hào dương, được Nhật sinh phù là vượng tướng, hào âm phát động biến dương cũng chủ sinh con trai.
+- Phân tích suy luận: Thê tài Mão mộc động hóa hồi đầu khắc không tốt, nhưng Mão mộc tuần không nên không bị khắc là chuyển hung thành cát.
+- Nguyệt kiến xung phá Tử tôn nhập quẻ là Quan quỷ Tị hỏa, lâm Bạch Hổ, Bạch Hổ là phẫu thuật, Thê tài lại bị kim hồi đầu khắc, kim chủ đao kiếm, cũng có ý giải phẫu, nhất định là sinh mổ.
+- Ngày Ất Mão tháng Hợi sinh mổ con trai.
+##### Ví dụ 10: ** ngày Nhâm Dần, tháng Giáp Ngọ, năm Bính Tý, một người đàn ông hỏi vợ đã mang thai năm tháng, bào thai trong bụng còn không thấy động tĩnh, hoài nghi thai nhi có vấn đề, hỏi khi nào thai động được quẻ Khôn Vi Địa biến Địa Lôi Phục.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Nhâm Dần, tháng Giáp Ngọ, năm Bính Tý
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Hạ chí    Lệnh tháng:
+- Ngọ-Hỏa
+- Phương pháp lập quẻ:
+- Lục hào
+- **CHÍNH QUÁI** | **BIẾN QUÁI**
+- **BÁT THUẦN KHÔN** | **ĐỊA LÔI PHỤC**
+- Lấy Tử tôn làm Dụng thần.
+- Phân tích suy luận: Tử tôn Dậu kim trì thế, Nguyệt khắc, tuyệt tại Nhật hưu tù bất lực cho nên bất động.
+- Nay trong quẻ Mùi thổ phát động sinh Tử tôn, thần cơ tại hào động, tháng Mùi thai sẽ động.
+- **Ứng nghiệm:** Tháng Mùi thai động.
+##### Ví dụ 11: ** Ngày Kỷ Tỵ, tháng Kỷ Hợi, năm Bính Tý, một người đàn ông hoài nghi cô gái ở chung có thai đến xem được quẻ Địa Phong Thăng biến Lôi Thiên Đại Tráng.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 173.** Bát Thuần Khôn (Chính quái)
+    - <img src="assets/page_0163_img_01.png" alt="Hình 173" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 174.** Địa Lôi Phục (Biến quái)
+    - <img src="assets/page_0163_img_02.png" alt="Hình 174" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Bối cảnh chiêm đoán và thời gian: Thời gian lập quẻ:
+- 18:41:1 - 28/11/1996 (giờ Dậu, ngày 18/10/1996 Âm dương hợp lịch)
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Quý Dậu, ngày Kỷ Tỵ, tháng Kỷ Hợi, năm Bính Tý
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Tiểu tuyết    Lệnh tháng:
+- Hợi-Thủy
+- Phương pháp lập quẻ:
+- Lục hào
+- **CHÍNH QUÁI** | **BIẾN QUÁI**
+- **ĐỊA PHONG THĂNG** | **LÔI THIÊN ĐẠI TRÁNG**
+- Lấy Tử tôn làm Dụng thần.
+- Phân tích suy luận: Tử tôn Ngọ hỏa cùng thai hào Phụ mẫu Tý thủy phục dưới hào hai Thê tài động, Tử tôn Ngọ hỏa được Nhật tỷ hòa là vượng tướng, thai hào Phụ mẫu Tý Thủy cũng được Nguyệt kiến tỷ hòa, Thê tài là người yêu, vượng tướng, hào bốn Thê tài Sửu thổ động hóa ra Tử tôn hồi đầu sinh, sơ hào Thê tài Sửu thổ động hóa ra thai hào của Tử tôn hồi đầu hợp là tượng có thai, Thê tài lại lâm Thanh Long, có thai là chắc chắn.
+- Phân tích suy luận: Phụ mẫu Hợi thủy ám động khắc Tử tôn, chính là dấu hiệu sẩy thai.
+- **Ứng nghiệm:** Đến bệnh viện kiểm tra phát hiện mang thai, hai người lập tức kết hôn, thế nhưng lại sẩy thai sau đó.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 175.** Địa Phong Thăng (Chính quái)
+    - <img src="assets/page_0164_img_01.png" alt="Hình 175" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 176.** Lôi Thiên Đại Tráng (Biến quái)
+    - <img src="assets/page_0164_img_02.png" alt="Hình 176" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### Ví dụ 12: ngày Bính Ngọ, tháng Canh Dần, năm Tân Tị, một người đàn ông đến xem vợ đã sinh hai con gái, bản thân muốn con trai, nay vợ lại mang thai, hỏi lần này là nam hay nữ? Được quẻ Sơn Địa Bác biến Trạch Thủy Khốn
+
+- Bối cảnh chiêm đoán và thời gian: Thời gian lập quẻ:
+- 18:41:1 - 12/2/2001 (giờ Dậu, ngày 20/1/2001 Âm dương hợp lịch)
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Đinh Dậu, ngày Bính Ngọ, tháng Canh Dần, năm Tân Tỵ
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Lập xuân
+- Bối cảnh chiêm đoán và thời gian: Lệnh tháng:
+- Dần-Mộc
+- Phương pháp lập quẻ:
+- Lục hào
+- Lấy Tử tôn làm Dụng thần.
+- Phân tích suy luận: Tử tôn Tý Thủy trì thế, động hóa hồi đầu sinh, là đã có thai.
+- Phân tích suy luận: Tử tôn lâm hào âm, không được Nhật Nguyệt sinh phù nên hưu tù, trong quẻ bốn hào phát động, nhiều hào phát động nhìn tĩnh hào, hào hai tĩnh đều là hào âm, con thứ ba cũng là nữ.
+- **Ứng nghiệm:** ngày Đinh Mùi tháng Tý sinh con gái.
+##### Ví dụ 13: ngày Ất Hợi, tháng Kỷ Hợi, năm Tân Tị, một người đàn ông đến xem vợ đã phẫu thuật bỏ thai, nhưng bụng vẫn to, thai nhi phải chăng chưa hết? Được quẻ Thủy Phong Tỉnh biến Khảm Vi Thủy.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 177.** Chính quái Sơn Địa Bác
+    - <img src="assets/page_0165_img_01.png" alt="Hình 177" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 178.** Biến quái Trạch Thủy Khốn
+    - <img src="assets/page_0165_img_02.png" alt="Hình 178" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Ất Dậu, ngày Ất Hợi, tháng Kỷ Hợi, năm Tân Tỵ
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Lập đông
+- Bối cảnh chiêm đoán và thời gian: Lệnh tháng:
+- Hợi-Thủy
+- Phương pháp lập quẻ:
+- Lục hào
+- Lấy Tử tôn làm Dụng thần.
+- Phân tích suy luận: Tử tôn Ngọ hỏa phục, bị Nhật Nguyệt khắc thương, tuyệt ở Nhật Nguyệt, Quan quỷ Dậu kim độc phát, Dậu kim là tử địa của Dụng thần, là trong bụng không có thai, nói rõ đã bỏ thai rồi.
+- **Ứng nghiệm:** Chính xác.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 179.** Chính quái Thủy Phong Tỉnh
+    - <img src="assets/page_0166_img_01.png" alt="Hình 179" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 180.** Biến quái Bát Thuần Khảm
+    - <img src="assets/page_0166_img_02.png" alt="Hình 180" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+## Chương 9: Thị Trường Chứng Khoán Dự Đoán Bí Pháp
+
+### THỊ TRƯỜNG CHỨNG KHOÁN DỰ ĐOÁN BÍ PHÁP
+
+- Thị trường chứng khoán là cái mới mà thời cổ đại là không có.
+- Như vậy dùng phương pháp dự đoán truyền thừa của cổ nhân có thể dự đoán được giá cả của cổ phiếu hay không?
+- Lục hào dự đoán là căn cứ quy luật vận động của vũ trụ mà phát minh ra, cổ phiếu cũng là sản phẩm vận động của vũ trụ, không có khả năng thoát ly vũ trụ mà độc lập tồn tại, bởi vậy dùng Lục hào có thể dự đoán cổ phiếu.
+- Nghiệm chứng Lục hào trong từng lĩnh vực ứng dụng thì dự đoán cổ phiếu cũng là một nghiên cứu đáng thăm dò.
+- Từ thực tế dự đoán kết quả, Lục hào dùng dự đoán giá cả cổ phiếu có xác suất nhất định.
+- Bất quá cổ phiếu thay đổi trong nháy mắt, muốn dự đoán được chính xác là khá khó khăn.
+- Dự đoán cổ phiếu chuẩn xác hay không, chẳng những đoán quẻ cần phải có trình độ cao mà gieo quẻ cũng là điểm mấu chốt.
+- Nếu như tin tức rút ra không đúng, trình độ đoán quẻ cho dù cao hơn, cũng không có khả năng dự đoán chuẩn xác.
+- Bởi vậy khi gieo quẻ dự đoán giá cả cổ phiếu, không thể ham hố, trong lòng có nhiều ý niệm, đồng thời nghĩ đến nhiều cổ phiếu.
+- Nếu không gieo được quẻ ứng với cổ phiếu nào là khó nói rõ.
+- Vương Hổ Ứng từ năm 2001 đến năm 2002 cùng Sâm Điền tiên sinh dự đoán nghiên cứu thị trường chứng khoán Nhật bản, cũng chỉ đạo anh ta mua bán, hiệu quả không tệ.
+- Dùng ba ngàn năm trăm vạn yên đầu tư thị trường cổ phiếu, thời gian nửa năm cũng kiếm 140 triệu yên.
+- Bất quá Vương Hổ Ứng chưa từng tham dự đầu tư cổ phiếu, cho tới bây giờ, chưa từng tới thị trường chứng khoán.
+- Vương Hổ Ứng đem chủ yếu tinh lực để nghiên cứu Lục hào.
+
+### Dụng Thần và Tin Tức Rút Ra
+
+#### Dụng thần
+
+- Cổ phiếu biến hóa chủ yếu là giá cổ phiếu biến hóa, cho nên lấy Thê Tài làm Dụng thần.
+- Phân tích suy luận: Thê tài suy vượng là căn cứ cơ bản để phán đoán giá cả cổ phiếu.
+- Phân tích suy luận: Tử tôn là Nguyên thần của Tài, là lượng giao dịch cũng là nhân tố có lợi cho cổ phiếu tăng trưởng.
+- Phân tích suy luận: Phụ mẫu là cừu thần, đồng thời lại có ý là thông tin tình báo, cũng là tin tức và tin đồn bất lợi cho cổ phiếu.
+- Phân tích suy luận: Quan quỷ có hàm nghĩa quản lý khống chế, cho nên Quan quỷ là nhà cái và tay to thao túng cổ phiếu.
+- Phân tích suy luận: Quan quỷ có tính hai mặt, nó có thể chế phục Kị thần nên phát sinh tác dụng tốt với Dụng thần nhưng lại có thể tiết khí Dụng thần, đây cũng chính là lúc để cổ phiếu tăng lên điên cuồng, hoặc giảm điên cuồng tùy theo hành vi của nhà cái.
+- Phân tích suy luận: Huynh đệ khắc tài, là nhân tố bất lợi cho cổ phiếu.
+##### Tin tức rút ra
+
+- Dự đoán giá cả cổ phiếu biến hóa, Thê tài vượng tướng là giá cổ phiếu lên cao, nếu hưu tù, bị thương khắc thì giá cổ phiếu sẽ giảm.
+- Dự đoán lâu dài giá cả cổ phiếu, nhất định phải đồng thời nhìn hào Tử tôn.
+- Phân tích suy luận: Thê tài vượng tướng, nhưng Tử tôn không được hưu tù không phá, chính là trước mắt giá cao, cổ phiếu đã lên tới đỉnh, rất khó tăng giá.
+- Phân tích suy luận: Thê tài không vượng, Tử tôn vượng tướng, hoặc động hóa hồi đầu sinh, trước mắt giá tuy thấp, nhưng ngày sau tất có cơ hội tăng rất mạnh.
+- Phân tích suy luận: Thê tài vượng, động mà hóa tiến, hoặc Thê tài có khí, Tử tôn động mà hóa tiến thần, chính là cổ phiếu sẽ dần dần tăng giá.
+- Phân tích suy luận: Thê tài mặc dù vượng, nhưng động hóa thoái, hoặc Tử tôn động mà hóa không, hóa phá, hóa thoái đều là cổ phiếu sẽ giảm giá.
+- Phân tích suy luận: Thê tài vượng có khí, Tử tôn vượng mà không lâm không, không bị phá phát động, hào Huynh đệ đồng thời phát động, nên để ý kỹ cổ phiếu này về lâu dài.
+- Nếu Thê tài vượng tướng, Tử tôn, Huynh đệ mặc dù đồng thời phát động, nhưng Tử tôn không phá, cổ phiếu bồi hồi, sẽ không lên.
+- Phân tích suy luận: Thê tài hưu tù, Huynh đệ phát động, cổ phiếu tất nhiên sẽ giảm.
+- Phân tích suy luận: Thê tài vượng tướng, nhưng Huynh đệ động hóa tiến thần, trước mắt giá tuy tốt, ngày sau sẽ dần dần giảm.
+- Phân tích suy luận: Thê tài hưu tù, Phụ mẫu, Huynh đệ đồng thời phát động, giá cổ phiếu sẽ sụt giảm.
+- Phân tích suy luận: Thê tài hưu tù, Quan quỷ độc phát, hoặc Thê tài phát động hóa quan quỷ, cổ phiếu giảm.
+- Phân tích suy luận: Phụ mẫu cùng Chu Tước phát động, trong quẻ lại có nhân tố bất lợi cho Thê tài, giá cổ phiếu sẽ giảm, nếu như là nhân tố có lợi cho Thê tài, cổ phiếu sẽ tăng.
+- Phân tích suy luận: Thê tài vượng tướng, Huynh đệ phát động, nhưng Quan quỷ động mà chế huynh đệ, chính là nhà cái cố ý làm cổ phiếu lên cao.
+- Quẻ phục ngâm, Thê tài bị hợp nhập mộ, cổ phiếu rất khó lên cao, quẻ phản ngâm, cổ phiếu lên xuống, rung chuyển không chừng.
+- Phân tích suy luận: Thê tài Huynh đệ mạnh yếu tương đương, đồng thời hóa thoái hoặc nhập mộ, chính là giá cổ phiếu bất động.
+- Dự đoán lâu dài cổ phiếu, Dụng thần, Nguyên thần phục vượng là có khí, chỉ cần Kị thần bất động, xung phi, xung phục, phục thần xuất hiện là thời điểm cổ phiếu tăng giá.
+- Dự đoán quy luật cổ phiếu, chỉ có tự mình tiến hành dự đoán, mới có thể nắm chắc biến hóa vi diệu, tuyệt đối không nên cứng nhắc, máy móc mà kết luận.
+
+### Dự Đoán Giá Cả Trong Một Ngày
+
+#### Ví dụ 1: Ngày Bính Tý tháng Mùi, dự đoán thị trường chứng khoán Thượng Hải ngày hôm sau được quẻ Địa Lôi Phục hóa Phong Địa Quán.**
+
+- Lấy Thê tài làm Dụng thần.
+- Trong quẻ Thê tài Tý Thủy cùng Hợi thủy lưỡng hiện, toàn bộ phát động, lấy hào thế Thê tài Tý Thủy trì thế làm dụng.
+- Phân tích suy luận: Thê tài Tý Thủy tỷ hòa với Nhật thần, nhưng bị Nguyệt khắc thương, từ Nhật Nguyệt xem, lực lượng tương đối cân bằng.
+- Lúc này cần xem trong quẻ có hào khác gây ảnh hưởng đến Dụng thần hay không.
+- Phân tích suy luận: Thê tài Hợi thủy động mà tỷ hòa Tý thủy, Tử tôn Dậu kim lại phát động sinh, nhưng Tử tôn không vong, Dụng thần động hóa hồi đầu khắc.
+- Quẻ hiện tại một mặt có lợi cho Dụng thần nhưng mặt khác cũng không có lợi cho Dụng thần.
+- Quẻ ngoại phản ngâm, chính là tin tức có sự rung chuyển trên thị trường chứng khoán.
+- Thị trường chứng khoán tại giờ Tỵ bắt đầu phiên giao dịch, giờ Tỵ làm Dụng thần tuyệt địa, Nguyên thần thụ khắc, Kị thần được sinh, yếu tố bất lợi cho Dụng thần chiếm đa số, thị trường chứng khoán toàn bộ sụt giảm.
+- Ngọ Hỏa là giờ Ngọ khiến hào biến Huynh đệ Mùi thổ bị hợp, làm Mùi thổ khó khắc Dụng thần, cổ phiếu sẽ tăng trở lại.
+- Đến giờ Mùi, chính là thời của biến hào, Dụng thần bị khắc tất nhiên lại giảm.
+- **Ứng nghiệm:** Quả như dự đoán.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 181.** Địa Lôi Phục hóa Phong Địa Quán
+    - <img src="assets/page_0170_img_01.png" alt="Hình 181" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+##### Ví dụ 2: Ngày Bính Dần tháng Tuất, xem cổ phiếu Neeson. Được Hỏa Trạch Khuê biến Hỏa Thủy Vị Tế.
+
+- Lấy Thê tài làm Dụng thần.
+- Phân tích suy luận: Thê tài Tý Thủy nằm ở hào năm phục dưới Huynh đệ Mùi thổ, Dụng thần không được Nhật Nguyệt sinh phù, Nguyệt khắc, Phi thần khắc thương, Phụ mẫu Tị hỏa phát động làm Dụng thần lâm tuyệt, Dụng thần hưu tù vô khí, tất nhiên giá giảm.
+- **Ứng nghiệm:** Ngày hôm sau cổ phiếu Neeson từ 34.5 nguyên rơi xuống 33.9 nguyên.
+##### Ví dụ 3: Ngày Đinh Mão Tháng Tuất, xem cổ phiếu Neeson được được quẻ Bát Thuần Đoài biến Địa Trạch Lâm.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 182.** Đồ hình quẻ Hỏa Trạch Khuê
+    - <img src="assets/page_0171_img_01.png" alt="Hình 182" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 183.** Đồ hình quẻ Hỏa Thủy Vị Tế
+    - <img src="assets/page_0171_img_02.png" alt="Hình 183" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Lấy Thê tài làm Dụng thần.
+- Phân tích suy luận: Thê tài Mão mộc hợp với Nguyệt lại được Nhật sinh là vượng, nhưng Kị thần Huynh đệ Dậu kim được Nguyệt sinh trợ phát động khắc Dụng thần.
+- Dưới tình huống bình thường, Nhật thần phát động Nguyên thần cũng đồng thời phát động có thể hình thành liên tục tương sinh để giải Kị thần chi khắc, gọi là tham sinh quên khắc.
+- Nhưng quẻ như thế nào?
+- Nguyên thần Tử tôn Hợi thủy mặc dù phát động, nhưng bị Nguyệt khắc thương, động hóa hồi đầu khắc, lại tuần không, không cách nào chống đỡ, đây là chỗ bất lợi cho Dụng thần, do đó, giá giảm.
+- Bất quá Dụng thần vượng tướng, biên độ giảm giá sẽ không quá lớn.
+- **Ứng nghiệm:** Ngày Thứ Hai Neeson cổ phiếu từ 33.9 nguyên giảm xuống 33.8 nguyên.
+##### Ví dụ 4: Ngày Mậu Thìn tháng Tuất, Xem cổ phiếu Neeson được Phong Thiên Tiểu Súc.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 184.** Đồ hình quẻ Bát Thuần Đoài
+    - <img src="assets/page_0172_img_01.png" alt="Hình 184" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 185.** Đồ hình quẻ Địa Trạch Lâm
+    - <img src="assets/page_0172_img_02.png" alt="Hình 185" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Lấy Thê tài làm Dụng thần.
+- Trong quẻ Thê tài Mùi thổ, Thê tài Thìn thổ lưỡng hiện, lấy hào Nguyệt phá Thê tài Thìn thổ làm dụng.
+- Dụng thần Nguyệt phá, lâm Nhật thực phá.
+- Mới nhìn là tượng không tăng không giảm, lúc này cần nhìn Nguyên thần cùng Kị thần suy vượng tác động đến Dụng thần.
+- Phân tích suy luận: Tử tôn Tị hỏa mộ tại Nguyệt, không được Nhật Nguyệt sinh phù, Kị thần Huynh đệ Mão mộc bị Nguyệt hợp vượng, lại có Huynh đệ Dần mộc cùng hiện trong quẻ, khắc nhiều sinh ít, chắc chắn giá sẽ giảm.
+- **Ứng nghiệm:** Hôm sau cổ phiếu Neeson từ 33.8 nguyên giảm xuống 33.5 nguyên.
+##### Ví dụ 5: ** Ngày Tân Mùi tháng Tuất, xem giá cổ phiếu Benny hôm sau được quẻ Lôi Hỏa Phong biến Lôi Sơn Tiểu Quá.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 186.** Chính Quái Phong Thiên Tiểu Súc
+    - <img src="assets/page_0173_img_01.png" alt="Hình 186" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 187.** Biến Quái Phong Thiên Tiểu Súc
+    - <img src="assets/page_0173_img_02.png" alt="Hình 187" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy Thê tài làm Dụng thần.
+- Phân tích suy luận: Thê tài Ngọ hỏa không được Nhật Nguyệt sinh phù nên hưu tù.
+- Nhưng Kị thần Huynh đệ Hợi thủy bị Nhật Nguyệt khắc chế, so với Dụng thần càng thêm hưu tù.
+- Nguyên thần Tử tôn Mão mộc độc phát sinh Dụng thần, nhìn sơ qua là cổ phiếu sẽ tăng giá, nhưng Tử tôn Mão mộc nhập mộ, nhập mộ khó sinh, lại Thê tài Ngọ hỏa bị Nhật thần hợp trú, Nhật hợp là giữ lại, là tượng giá không thay đổi.
+- Cho nên đoán là, không tăng không giảm hoặc hơi tăng.
+- **Ứng nghiệm:** Hôm sau giá vẫn là 33.5 nguyên, không có biến hóa.
+##### Ví dụ 6: ** Ngày Tân Mùi tháng Tuất, Sâm Điền tiên sinh cũng gieo quẻ xem cổ phiếu Neeson hôm sau biến hóa thế nào được quẻ Bát Thuần Đoài biến Bát Thuần Càn.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 188.** Chính Quái Lôi Sơn Tiểu Quá
+    - <img src="assets/page_0174_img_01.png" alt="Hình 188" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 189.** Biến Quái Lôi Sơn Tiểu Quá
+    - <img src="assets/page_0174_img_02.png" alt="Hình 189" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy Thê tài làm Dụng thần.
+- Phân tích suy luận: Thê tài không được Nhật Nguyệt sinh phù, nhưng được Nguyệt hợp vượng.
+- Phân tích suy luận: Huynh đệ Dậu kim Nhật Nguyệt đều sinh, lại được hào hai động hóa tiến tương sinh thành cực vượng, vật cực tất phản, khó mà khắc Thê tài.
+- Đồng thời Dụng thần cùng Kị thần đều nhập động mộ, Dụng thần nhập mộ khó tăng, giá sẽ khó động, Kị thần nhập mộ khó khắc, khó làm cổ phiếu giảm, tượng giá cổ phiếu không đổi.
+- **Ứng nghiệm:** Giá giữ nguyên tại 33.5 nguyên, không có biến hóa.
+##### Ví dụ 7: ** Ngày Nhâm Thân tháng Tuất, xem giá cổ phiếu Neeson hôm sau thế nào được quẻ Sơn Thủy Mông.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 190.** Bát Thuần Đoài
+    - <img src="assets/page_0175_img_01.png" alt="Hình 190" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 191.** Bát Thuần Càn
+    - <img src="assets/page_0175_img_02.png" alt="Hình 191" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Lấy Thê tài làm Dụng thần.
+- Phân tích suy luận: Thê tài Dậu kim phục dưới Tử tôn Tuất thổ, được Nguyệt sinh Nhật đỡ, Phi thần sinh phục là cát.
+- Kị thần Huynh đệ Ngọ hỏa hưu tù bất động, bất lực khắc dụng, có dấu hiệu tăng giá.
+- Hôm sau là ngày Quý Dậu, phục thần xuất hiện sẽ tăng, nhưng Nguyên thần Tuất thổ không vong, Thìn thổ Nguyệt phá, sẽ không tăng mạnh.
+- **Ứng nghiệm:** giá cổ phiếu Neeson cổ phiếu từ 33.5 nguyên tăng lên 34.0 nguyên.
+##### Ví dụ 8: ** Ngày Quý Dậu tháng Tuất, xem giá cổ phiếu Neeson hôm sau được quẻ Càn Vi Thiên biến Thiên Phong Cấu.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 192.** Sơn Thủy Mông
+    - <img src="assets/page_0176_img_01.png" alt="Hình 192" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 193.** Sơn Thủy Mông
+    - <img src="assets/page_0176_img_02.png" alt="Hình 193" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Lấy Thê tài làm Dụng thần.
+- Phân tích suy luận: Thê tài Dần mộc không được Nhật Nguyệt sinh phù, lại bị Nhật thần khắc thương, Nguyên thần Tử tôn Tý Thủy bị Nguyệt khắc thương, lại động hóa hồi đầu khắc, chắc chắn giảm.
+- **Ứng nghiệm:** Hôm sau giá cổ phiếu Neeson giảm từ 34.0 nguyên xuống 33.5 nguyên.
+##### Ví dụ 9: Ngày Giáp Tuất tháng Hợi, xem giá cổ phiếu Neeson hôm sau được quẻ Hỏa tấn biến Thiên Thủy Tụng.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 194.** Bát Thuần Càn biến Thiên Phong Cấu
+    - <img src="assets/page_0177_img_01.png" alt="Hình 194" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 195.** Hỏa Địa Tấn biến Thiên Thủy Tụng
+    - <img src="assets/page_0177_img_02.png" alt="Hình 195" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy Thê tài làm Dụng thần.
+- Phân tích suy luận: Thê tài Mão mộc được Nguyệt sinh phù không thể nói hưu tù, nhưng bị Nhật thần hợp trú, nên vấp hợp.
+- Phân tích suy luận: Phụ mẫu Mùi thổ phát động, khắc Nguyên thần Tử tôn, làm Thê tài nhập mộ, giảm bớt lực của Thê tài.
+- Phân tích suy luận: Quan quỷ Tị hỏa phát động, lại tiết khí của Thê tài, cổ phiếu tất nhiên giảm giá.
+- **Ứng nghiệm:** giá cổ phiếu Neeson giảm từ 33.5 nguyên xuống 32.7 nguyên.
+##### Ví dụ 10: Ngày Ất Hợi tháng Hợi, xem giá cổ phiếu Neeson hôm sau được quẻ Sơn Thủy Mông biến Bát Thuần Chấn.
+
+- Lấy Thê tài làm Dụng thần.
+- Phân tích suy luận: Thê tài Dậu kim phục dưới hào bốn, không được Nhật Nguyệt sinh phù nên hưu tù.
+- Nguyên thần Tử tôn mặc dù phát động sinh trợ, nhưng trong quẻ hào hai Phụ mẫu Dần mộc phát động khắc thương, nên lực sinh Thê tài rất yếu.
+- Phân tích suy luận: Tử tôn Thìn thổ phát động làm Nguyên thần nhập mộ, hợp trú Thê tài, cho nên giá sẽ không thể tăng, căn cứ tin tức trong quẻ để kết luận, ngày kế tiếp cổ phiếu hoặc là bất động, hoặc là hơi giảm.
+- **Ứng nghiệm:** Cổ phiếu không có tăng không giảm.
+##### Ví dụ 11: Ngày Nhâm Ngọ tháng Hợi, xem giá cổ phiếu Neeson hôm sau được quẻ Trạch Phong Đại Quá biến Trạch Thủy Khốn.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 196.** Sơn Thủy Mông biến Bát Thuần Chấn
+    - <img src="assets/page_0178_img_01.png" alt="Hình 196" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy Thê tài làm Dụng thần.
+- Trong quẻ có Thê tài Mùi thổ cùng Thê tài Sửu thổ, làm Dụng thần lưỡng hiện, lấy hào hợp Nhật Thê tài Mùi thổ làm Dụng thần.
+- Dụng thần được Nhật sinh phù không tính hưu tù, nhưng Quan quỷ Dậu kim độc phát tiết khí Dụng thần, cổ phiếu sẽ giảm.
+- **Ứng nghiệm:** giá cổ phiếu Neeson giảm từ 31.2 nguyên xuống 30.7 nguyên.
+##### Ví dụ 12: Ngày Quý Sửu tháng Thìn, xem giá cổ phiếu Neeson hôm sau được quẻ Thiên Trạch Lý.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 197.** Chính quái Trạch Phong Đại Quá
+    - <img src="assets/page_0179_img_01.png" alt="Hình 197" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 198.** Biến quái Trạch Thủy Khốn
+    - <img src="assets/page_0179_img_02.png" alt="Hình 198" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 199.** Chính quái Thiên Trạch Lý
+    - <img src="assets/page_0179_img_03.png" alt="Hình 199" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 200.** Biến quái Thiên Trạch Lý
+    - <img src="assets/page_0179_img_04.png" alt="Hình 200" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy Thê tài làm Dụng thần.
+- Phân tích suy luận: Thê tài Tý Thủy phục dưới hào năm bị Nhật Nguyệt khắc thương nên hưu tù.
+- Phi thần là nguyên thần, mặc dù được Nguyệt sinh phù là vượng, nhưng Dụng thần nguyên bản không có rễ, Phi thần sinh cũng vô ích.
+- Cổ phiếu giảm giá.
+- **Ứng nghiệm:** giá cổ phiếu Neeson từ 141.0 nguyên giảm xuống 140.8 nguyên.
+##### Ví dụ 13: Ngày Ất Mão tháng Thìn, xem giá cổ phiếu Neeson hôm sau được quẻ Thủy Phong Tỉnh biến Thiên Thủy Tụng.
+
+- Lấy Thê tài làm Dụng thần.
+- Trong quẻ có Thê tài Tuất thổ cùng Thê tài Sửu thổ, làm Dụng thần lưỡng hiện, lấy hào bị Nguyệt phá Thê tài Tuất thổ làm dụng.
+- Dụng thần Nguyệt phá bị Nhật khắc chế, cừu thần tam hợp thành cục, Quan quỷ lưỡng động động nhụt chí, tin tức bất lợi cho Dụng thần rất nhiều, cổ phiếu tất nhiên giảm.
+- **Ứng nghiệm:** Cổ phiếu từ 140.8 nguyên giảm xuống 136.8 nguyên.
+##### Ví dụ 14: Ngày Bính Thìn tháng Thìn, xem giá cổ phiếu Neeson hôm sau được quẻ Thủy Trạch Tiết biến Thủy Địa Tỷ.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 201.** Chính quái Thủy Phong Tỉnh
+    - <img src="assets/page_0180_img_01.png" alt="Hình 201" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 202.** Biến quái Thiên Thủy Tụng
+    - <img src="assets/page_0180_img_02.png" alt="Hình 202" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy Thê tài làm Dụng thần.
+- Phân tích suy luận: Thê tài Tị hỏa không được Nhật Nguyệt sinh phù, nhưng cũng không bị Nhật Nguyệt khắc thương.
+- Phân tích suy luận: Tử tôn Mão mộc phát động sinh, nhưng Dụng thần Nguyên thần cũng không tính là vượng, là vậy giá hơi tăng.
+- **Ứng nghiệm:** Giá cổ phiếu Neeson tăng từ 136.8 nguyên tới 139.9 nguyên.
+##### Ví dụ 15: Ngày Mão tháng Hợi, xem giá cổ phiếu Sắt hôm sau được quẻ Lôi Thuỷ Giải biến Lôi Phong Hằng.
+
+- Lấy Thê tài làm Dụng thần.
+- Trong quẻ có Thê tài Tuất thổ cùng Thê tài Thìn thổ, là Dụng thần lưỡng hiện, lấy hào hợp Nhật Thê tài Tuất thổ làm Dụng thần.
+- Dụng thần không được Nhật Nguyệt sinh phù, bị Nhật thần khắc bên trong mang hợp, khắc là Dụng thần hưu tù, hợp là Dụng thần bất động, bất lợi cho giá cổ phiếu tăng.
+- Trong quẻ tuy có Tử tôn Ngọ hỏa phát động, nhưng Ngọ hỏa tuyệt tại Nguyệt, động mà hóa không, cũng bất lợi cho gía cổ phiếu tăng.
+- Nhưng Tử tôn được Nhật sinh phù, giá sẽ không giảm nhiều.
+- **Ứng nghiệm:** Giảm xuống 5 nguyên.
+
+### Dự Đoán Trong Một Tuần
+
+#### Ví dụ 1: ** Ngày Tị tháng Tuất, xem cổ phiếu Jony được quẻ Bát Thuần Khảm biến Thủy Địa Tỷ.
+
+- Lấy Thê tài làm Dụng thần, xem địa chi hàng ngày ảnh hưởng đến Dụng thần ảnh hưởng để phán đoán giá cổ phiếu tăng hay giảm.
+- Đầu tiên xem sự vượng suy của Thê tài.
+- Phân tích suy luận: Thê tài Ngọ hỏa được Nhật thần tỷ hòa hữu khí, không tính hưu tù, Quan quỷ Thìn thổ độc phát, Quan quỷ là nhà cái, Quan quỷ độc phát tất tiết khí Dụng thần, cổ phiếu giảm xuống chính là do nhà cái gây nên.
+- Cổ phiếu tuy có xu thế giảm xuống, nhưng Dụng thần bản thân vượng, cho nên biên độ giảm không lớn.
+- Thứ Hai là ngày Nhâm Thân, không sinh Dụng thần mà sinh trợ Kị thần.
+- Nhưng Kị thần Huynh đệ Tý Thủy hưu tù bị Nguyệt khắc chế, tuyệt ở Nhật, nhập mộ tại hào động Thìn thổ, đối Dụng thần cơ hồ không có ảnh hưởng, cho nên giá cả không tăng không giảm.
+- Thứ Ba là ngày Quý Dậu, cùng Quan quỷ Thìn thổ tương hợp, hợp thì giữ lại, nguyên bản Quan quỷ phát động tiết khí Dụng thần, Quan quỷ bị hợp không cách nào tiết khí, có lợi cho Dụng thần, cho nên hôm đó cổ phiếu có khả năng hơi tăng lên.
+- Thứ Tư là ngày Giáp Tuất, khiến Dụng thần nhập mộ, bất lợi cho Dụng thần, cổ phiếu giảm.
+- Thứ Năm là ngày Ất Hợi, Dụng thần lâm tuyệt thụ khắc, tất nhiên sẽ giảm.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 203.** Bát Thuần Khảm (Chính quái)
+    - <img src="assets/page_0183_img_01.png" alt="Hình 203" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 204.** Thủy Địa Tỷ (Biến quái)
+    - <img src="assets/page_0183_img_02.png" alt="Hình 204" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Thứ Sáu là ngày Bính Tý, xung Dụng thần, Dụng thần vượng gặp xung là tăng, Dụng thần hưu tù gặp xung là giảm.
+- Mà trong quẻ này Dụng thần không tính rất vượng cũng không tính hưu tù, cho nên cổ phiếu biến hóa sẽ không quá lớn.
+- **Ứng nghiệm:** Thứ Hai Nhâm Thân, cổ phiếu giữ nguyên 33.5 nguyên không có biến hóa.
+- Thứ Hai ngày Quý Dậu, từ 33.5 nguyên tăng đến 34.0 nguyên.
+- Thứ Ba ngày Giáp Tuất, từ 34.0 nguyên hạ xuống 33.5 nguyên.
+- Thứ Năm ngày Ất Hợi, từ 33.5 nguyên hạ xuống 32.7 nguyên.
+- Thứ Sáu ngày Bính Tý, cổ phiếu không có biến hóa.
+##### Ví dụ 2: ** Ngày Giáp Dần tháng Tý, xem cổ phiếu Jony được quẻ Phong Lôi Ích biến Thiên Hỏa Đồng Nhân.
+
+- Lấy Thê tài làm Dụng thần.
+- Trong quẻ có Thê tài Mùi thổ cùng Thê tài Thìn thổ, Dụng thần lưỡng hiện, toàn bộ phát động, lấy hào sang tháng bị phá Thê tài Mùi thổ làm Dụng thần.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 205.** Phong Lôi Ích (Chính quái)
+    - <img src="assets/page_0184_img_01.png" alt="Hình 205" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 206.** Thiên Hỏa Đồng Nhân (Biến quái)
+    - <img src="assets/page_0184_img_02.png" alt="Hình 206" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Dụng thần không được Nhật Nguyệt sinh phù, bị Nhật thần khắc thương, động mà hóa phá, tin tức bất lợi cho Dụng thần khá mạnh, cho nên tuần này cổ phiếu tổng thể giảm.
+- Thứ Hai ngày Giáp Dần, Kị thần lâm Nhật khắc thương Dụng thần, cổ phiếu giảm.
+- Thứ Ba ngày Ất Mão, đồng dạng là Kị thần lâm Nhật, khắc thương Dụng thần, cho nên cổ phiếu cũng sẽ giảm.
+- Thứ Tư ngày Bính thìn, chính là Dụng thần nhập mộ, cổ phiếu tiếp tục giảm.
+- Thứ Năm ngày Đinh Tị, sinh phù Dụng thần, cổ phiếu sẽ tăng.
+- Thứ Sáu ngày Mậu Ngọ, Dụng thần động hóa phá chính là thực phá, cổ phiếu giảm.
+- **Ứng nghiệm:** Thứ Hai Giáp Dần, cổ phiếu từ 46.4 nguyên giảm còn 44.4 nguyên.
+- Thứ Ba Ất Mão, cổ phiếu từ 44.4 nguyên giảm còn 42.0 nguyên.
+- Thứ Tư Bính Thìn, cổ phiếu từ 42.0 nguyên giảm còn 40.0 nguyên.
+- Thứ Năm Đinh Tị, cổ phiếu từ 40.0 nguyên tăng lên 40.4 nguyên.
+- Thứ Sáu Mậu Ngọ, cổ phiếu từ 40.4 nguyên giảm còn 39.4.
+##### Ví dụ 3: ** Ngày Hợi tháng Thân, dự đoán cổ phiếu Sơn Tây một tuần được quẻ Hỏa Trạch Khuê biến Lôi trạch Quy muội.
+
+##### HỎA TRẠCH KHUÊ — BIẾN QUÁI: LÔI TRẠCH QUY MUỘI
+
+- Lấy Thê tài Dụng thần.
+- Dụng thần Thê tài Tý Thủy phục dưới hào năm Mùi thổ, phi tới khắc phục, nhưng Dụng thần được Nguyệt sinh Nhật đỡ là vượng tướng.
+- Tổng thể tình huống sẽ lên.
+- Thứ Hai Kỷ Hợi Dụng thần được trợ, có lợi cho Dụng thần cổ phiếu lên cao.
+- Thứ Ba Canh Tý, Dụng thần hiện, có lợi cho Dụng thần, cổ phiếu lên cao.
+- Thứ Tư Tân Sửu, Dụng thần bị khắc, trong khắc có hợp bất lợi cho Dụng thần, giảm.
+- Thứ Năm Nhâm Dần, tiết khí Dụng thần, sinh trợ cừu thần Tị hỏa làm Dụng thần lâm tuyệt, bất lợi cho Dụng thần, cổ phiếu giảm.
+- Thứ Sáu Quý Mão, giống Thứ Năm.
+- **Ứng nghiệm:** Thứ Hai, cổ phiếu từ 6.7 nguyên lên 7.2 nguyên.
+- Thứ Ba, cổ phiếu từ 7.2 nguyên lên tới 7.15 nguyên.
+- Thứ Tư, cổ phiếu từ 7.15 nguyên giảm xuống 7.14 nguyên.
+- Thứ Năm, cổ phiếu từ 7.14 nguyên giảm xuống 7.13 nguyên.
+- Thứ Sáu, cổ phiếu từ 7.13 nguyên giảm xuống 7.10 nguyên.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 207.** Sơ đồ quẻ Hỏa Trạch Khuê biến Lôi Trạch Quy Muội
+    - <img src="assets/page_0186_img_01.png" alt="Hình 207" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### Ví dụ 4: Ngày Quý Mão tháng Thân, dự đoán tuần cổ phiếu Rượu được quẻ Bát Thuần Càn biến Thiên Phong Cấu.
+
+- Lấy Thê tài làm Dụng thần.
+- Phân tích suy luận: Thê tài Dần mộc Nguyệt phá, nhưng được Nhật thần so đỡ, hào động Tý Thủy vượng tướng.
+- Nguyên thần độc phát, Kị thần yên tĩnh, trên tổng thể cổ phiếu tăng.
+- Thứ Hai Bính Ngọ, Kị thần bị khắc, Nguyên thần động mà bị hào biến hợp, ngày này xung hợp, Tử tôn Tý Thủy không còn bị hợp, sinh trợ Dụng thần, cổ phiếu hẳn là lên cao.
+- Thứ Ba Đinh Mùi, tuy là mộ khố của Dụng thần, nhưng giống ngày Bính Ngọ, cũng là hợp gặp xung, cổ phiếu lên cao.
+- Thứ Tư Mậu Thân, Dụng thần bị khắc lâm tuyệt, cổ phiếu giảm.
+- Thứ Năm Kỷ Dậu, Dụng thần thụ khắc, cổ phiếu giảm.
+- Thứ Sáu Canh Tuất, sinh Kị thần mà khắc Nguyên thần, bất lợi cho Dụng thần cổ phiếu giảm.
+- **Ứng nghiệm:** Thứ Hai, cổ phiếu từ 7 nguyên lên tới 7.11 nguyên.
+- Thứ Ba, cổ phiếu từ 7.11 nguyên lên tới 7.62 nguyên.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 208.** Chính quái Bát Thuần Càn
+    - <img src="assets/page_0187_img_01.png" alt="Hình 208" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 209.** Biến quái Thiên Phong Cấu
+    - <img src="assets/page_0187_img_02.png" alt="Hình 209" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Thứ Tư, cổ phiếu từ 7.62 nguyên giảm xuống 7.53 nguyên.
+- Thứ Năm, cổ phiếu từ 7.53 nguyên giảm xuống 7.50 nguyên.
+- Thứ Sáu, cổ phiếu từ 7.50 nguyên giảm xuống 7.48 nguyên.
+
+### Thời Điểm Mua Bán Tốt Nhất
+
+- Đầu tư cổ phiếu mục đích là thu hoạch lợi nhuận lớn nhất.
+- Cho nên giá thấp mua vào, giá cao bán đi là nguyên lý hàng đầu.
+- Dùng Lục hào dự đoán thời điểm tốt nhất để mua bán là điểm trọng yếu.
+- Hào Tử tôn hưu tù, Thê tài vượng tướng là tin tức giá cổ phiếu cao nhất, bởi vậy phải chọn ngày Thê tài vượng mà bán, Thê tài có khí, động mà hóa tiến, hoặc Tử tôn động là giá cổ phiếu sẽ tăng, bởi vậy lựa chọn thời điểm Thê tài bị khắc để mua vào là tốt nhất.
+- Tình huống cụ thể, xem biến hóa trong quẻ.
+#### Ví dụ 1: ngày Giáp Ngọ tháng Thân xem cổ phiếu lúc nào bán đi là tốt nhất được quẻ Trạch Thủy Khốn biến Bát Thuần Khảm.**
+
+- Lấy Thê tài là Dụng thần.
+- Phân tích suy luận: Thê tài Dần mộc Nguyệt phá, Tử tôn Hợi Thủy phát động sinh hợp Dụng thần, vừa sinh trợ Dụng thần lại giải Dụng thần bị phá.
+- Nhưng Dụng thần nguyên bản không có rễ, cổ phiếu sẽ không tăng lên được, bởi vậy nhất định phải bán nhanh.
+- Ngày kế tiếp Ất Mùi Dụng thần nhập mộ, cổ phiếu sẽ giảm mạnh.
+- Hôm nay bán đi là tốt nhất.
+- **Ứng nghiệm:** Bắt đầu từ ngày thứ hai cổ phiếu giảm một mạch.
+##### Ví dụ 2: ngày Canh Thìn tháng Tý xem cổ phiếu đang nắm giữ bán lúc nào tốt được quẻ Hỏa Lôi Phệ Hạp biến Lôi Hỏa Phong.**
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 210.** Trạch Thủy Khốn biến Bát Thuần Khảm
+    - <img src="assets/page_0189_img_01.png" alt="Hình 210" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy Thê tài làm Dụng thần.
+- Phân tích suy luận: Thê tài lưỡng hiện, lấy hào động Thê tài Thìn thổ là Dụng thần.
+- Phân tích suy luận: Thê tài lâm Nhật vượng tướng, nhưng Tử tôn bị Nguyệt khắc tổn thương, lại động mà hóa mộ, cổ phiếu không có khả năng tăng cao nữa, nên bán sớm.
+- Hôm nay Thê tài vượng địa, hôm nay bán đi là tốt nhất.
+- Người này hôm đó bán hết cổ phiếu đi thu lợi.
+- Sau đó cổ phiếu giảm một mạch và không tăng nữa.
+##### Ví dụ 3: ngày Ất Dậu tháng Tuất, một người xem mua cổ phiếu lúc nào tốt nhất được quẻ Trạch Thủy Khốn biến Lôi Thủy Giải.**
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 211.** Hỏa Lôi Phệ Hạp biến Bát Thuần Ly
+    - <img src="assets/page_0190_img_01.png" alt="Hình 211" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### TRẠCH THỦY KHỐN — BIẾN QUÁI: LÔI THỦY GIẢI
+
+- Lấy Thê tài làm Dụng thần.
+- Phân tích suy luận: Thê tài không được Nhật Nguyệt sinh phù, bị Nhật khắc tổn thương là hưu tù.
+- Kị thần độc phát, vốn là tin tức cổ phiếu giảm giá, nhưng động mà hóa thoái, chính là cổ phiếu đã giảm sâu nhất.
+- Tháng sau là tháng Hợi, Dụng thần được sinh, tất nhiên sẽ bắt đầu tăng.
+- Bởi vậy hiện tại mua vào là tốt nhất.
+- **Ứng nghiệm:** Quả như xem cổ phiếu tại tháng Hợi tăng mạnh, người này thu lợi rất nhiều.
+##### Ví dụ 4: ** ngày Nhâm Ngọ tháng Tuất, một người xem cổ phiếu đang giữ lúc nào bán là tốt? Được quẻ Sơn Thiên Đại Súc biến Bát Thuần Càn.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 212.** Trạch Thủy Khốn
+    - <img src="assets/page_0191_img_01.png" alt="Hình 212" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 213.** Lôi Thủy Giải
+    - <img src="assets/page_0191_img_02.png" alt="Hình 213" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+##### SƠN THIÊN ĐẠI SÚC — BIẾN QUÁI: BÁT THUẦN CÀN
+
+- Lấy Thê tài làm Dụng thần.
+- Phân tích suy luận: Thê tài Nguyệt khắc Nhật xung là phá, là cổ phiếu sẽ giảm.
+- Nhưng Thê tài phát động hóa hồi đầu sinh, cổ phiếu còn có thể tăng lên một lần, Tử tôn Thân kim không vượng, ngày Giáp Thân xuất không, nhất định sẽ tăng, bởi vậy hôm đó bán đi là tốt nhất.
+- Nếu bỏ lỡ, cổ phiếu sẽ giảm không phanh.
+- **Ứng nghiệm:** Người này ngày Giáp Thân bán đi, thu lợi.
+- Ngày Bính Tuất giá giảm không phanh.
+##### Ví dụ 5: ** ngày Tân Sửu tháng Tý, một người hỏi cổ phiếu đang nắm giữ khi nào nên bán? Được quẻ Lôi Trạch Quy Muội biến Bát Thuần Đoài.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 214.** Sơn Thiên Đại Súc
+    - <img src="assets/page_0192_img_01.png" alt="Hình 214" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 215.** Bát Thuần Càn
+    - <img src="assets/page_0192_img_02.png" alt="Hình 215" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Lấy Thê tài làm Dụng thần.
+- Phân tích suy luận: Thê tài Mão mộc được Nguyệt sinh phù là vượng, nhưng kị thần Thân kim động mà hóa tiến, trước mắt cổ phiếu nhất định có sóng nhỏ.
+- Đợi tháng Dần Dụng thần được sinh phù, xung mất Kị thần, Kị thần lâm tuyệt, cổ phiếu nhất định sẽ tăng.
+- Tháng Dần bán đi là tốt nhất.
+- Tháng Dần cổ phiếu dâng mạnh, người này bán đi cổ phiếu thu lợi.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 216.** Lôi Trạch Quy Muội (Chính quái)
+    - <img src="assets/page_0193_img_01.png" alt="Hình 216" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 217.** Bát Thuần Đoài (Biến quái)
+    - <img src="assets/page_0193_img_02.png" alt="Hình 217" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+## Chương 10: Phong Thủy Nhà Cửa Dự Đoán Bí Pháp
+
+- Phong thuỷ là dùng Âm Dương Ngũ Hành nguyên lý để phán đoán hoàn cảnh cát hung của nhà cửa.
+- Phong thuỷ thuật có mấy ngàn năm lịch sử, sinh ra ra các loại lưu phái đều có riêng lý luận.
+- Phong thủy chia ra dương trạch và âm trạch phong thuỷ.
+- Bình thường Phong thuỷ cần thăm dò thực địa, mà Lục hào thì chỉ thông qua gieo quẻ liền có thể phán đoán, nếu không có thời gian đến thăm dò thực địa mà nói là lựa chọn tốt nhất.
+- Xin giới thiệu một chút cơ bản dương trạch, âm trạch.
+
+### Dụng Thần và Từ Hào Vị Rút Ra Tin Tức
+
+#### Ảnh hưởng của phong thủy cùng mục đích dự đoán
+
+- Phong thuỷ ảnh hưởng nhiều mặt đến con người.
+- Phong thủy tốt xấu đối với vận mệnh mỗi người mà có chỗ khác nhau.
+- Người có vận khí không tốt ở địa phương phong thuỷ không tốt thì thụ ảnh hưởng cái xấu của phong thuỷ nhiều hơn, người vận khí tốt ở nơi phong thuỷ không tốt thì ảnh hưởng ít hơn.
+- Tài vận, vận làm quan, sức khỏe, quan hệ vợ chồng, con cái, tai nạn đều sẽ bị ảnh hưởng của phong thủy.
+- Bởi vậy vận mệnh tốt còn cần phối hợp phong thuỷ tốt mới được, mà vận mệnh người không tốt càng cần hơn phong thuỷ tốt để hỗ trợ.
+- Dự đoán phong thủy tốt xấu, mục đích là vì tìm ra nhân tố bất lợi phong thuỷ đối với bản thân người hỏi, thông qua điều chỉnh và cải thiện để được trạng thái tốt nhất.
+- Bất quá muốn đánh giá chính xác ưu khuyết của phong thủy cần kiến thức thật tốt, nếu trình độ dự đoán chưa tốt sẽ ảnh hưởng nhiều đến phán đoán phong thủy.
+##### Dụng thần
+
+- Lục hào phong thuỷ dự đoán là lấy nơi ở làm trung tâm đến tiến hành phán đoán, bởi vì Phụ mẫu có ý tứ là nhà, cho nên lấy Phụ mẫu làm dùng thần.
+- Nhưng Lục hào dự đoán đồng thời cũng không bỏ qua hào vị, cho nên phán đoán phong thuỷ nơi ở phải kết hợp hào vị.
+- Hào vị của nhà ở là hào hai.
+- Bất quá Lục hào dự đoán có nhiều phương diện, nhiều cấp độ, cũng không phải là máy móc đơn sơ phán đoán là được, bởi vì nhà ở có cả vợ, chồng, con cái, mà ảnh hưởng của phong thuỷ đối mỗi người lại dính đến từng phương diện, cho nên toàn bộ tin tức bên trong quẻ đều có thể nhắc đến phong thủy.
+- Bởi vậy tại dự đoán phong thuỷ ngoài xem tác dụng của Phụ mẫu, hào hai còn đồng thời phải xem lục thân, lục thần trong quẻ tác dụng như thế nào.
+##### Từ hào vị rút ra tin tức
+
+- Không biết tác dụng của hào vị trong Lục hào dự đoán sẽ không dùng chính xác được Lục hào dự đoán phong thuỷ.
+- Bởi vậy lý giải cùng ứng dụng hào vị trong Lục hào dự đoán trong phong thủy có tác dụng mấu chốt.
+- Hào sáu:
+- Vách tường, hàng rào, nóc nhà, lương đống, hàng xóm, bàn thờ Phật, Thần vị.
+- Hào năm:
+- Nhân khẩu, gia trưởng, con đường, thủ đô.
+- Hào bốn:
+- Cửa sổ, cửa chính, nhà vệ sinh, thành thị.
+- Hào ba:
+- Giường, cửa, thị trấn.
+- Hào hai:
+- Nhà ở, gian phòng, phòng bếp, viện tử.
+- Sơ hào:
+- Nền nhà, giếng nước, con cái, sủng vật, hàng xóm, cống rãnh.
+- Bình thường, hào năm khắc hào hai, hào hai sinh hào năm hay là hào năm cùng hào hai cùng hành là cát, hào năm sinh hào hai, hào hai khắc hào năm là hung.
+- Nhưng đây là xem kiểu chết.
+- Xem quan hệ hào năm và hào hai nhất định phải nhìn suy vượng của hào năm cùng hào hai, xem cái gì là thế hào, tổng hợp phán đoán mới được.
+- Như hào hai là thế hào, hào năm sinh thế, chính là xuất nhập thuận tiện, giao thông tiện lợi, đại lộ thông khí, không thể nói là không tốt.
+##### Sơ hào:
+
+- Sơ hào lâm Phụ mẫu phát động, Tử tôn hưu tù không phá, hoặc Tử tôn lâm sơ hào động mà hóa quan quỷ, là nền nhà bất lợi cho con cái hoặc gia cầm.
+- Sơ hào lâm Thanh Long, Tý thủy vượng tướng, gần nơi ở có giếng nước, hồ nước, dòng sông.
+- Dấu hiệu hoàn cảnh nơi ở ưu mỹ chính là phong thuỷ bảo địa.
+- Lâm Huyền Vũ là mương bẩn thỉu, cống thoát nước, động mà khắc thế, gia đình dễ bị hại.
+- Tý thủy cùng Bạch Hổ lâm sơ hào là phụ cận có cầu.
+- Lâm Tử tôn Thê tài là có dòng nước, Nguyệt phá, hưu tù lâm tuyệt, có sông không có nước, cầu hư hỏng.
+- Sơ hào là thổ, Nguyệt phá thì nền nhà/móng nhà hư hỏng, bị khắc tất có rễ cây xuyên phá nền nhà/móng nhà.
+- Thổ hóa mộc, mộc hóa thổ là cơ sở mới mở.
+- Sơ hào Quan quỷ lâm Bạch Hổ, gần nơi ở có cổ mộ, hoặc là nền nhà/móng nhà có xương cốt.
+- Mộ khố của Quan quỷ nằm ở sơ hào cũng vậy.
+##### Hào hai:
+
+- Hào hai Nguyệt phá, nhà có khe hở, hoặc là sắp phá dỡ.
+- Có đôi khi là nhà rách nát.
+- Hào hai lâm Câu Trần động là cải tạo, tu kiến nhà ở, lâm Thanh Long là trang trí nhà cửa.
+- Phân tích suy luận: Quan quỷ lâm Chu Tước tại hào hai phát động, là thông tin hoả hoạn và tố tụng.
+- Lâm Huyền Vũ là bị trộm cắp vào nhà.
+- Lâm Bạch Hổ là thụ thương, nhiễm bệnh.
+- Ứng hào là hào hai, không phải cho người khác thuê phòng thì chính là thuê phòng của người khác.
+- Hào hai là mộc, là trong nhà có cây hoặc trồng hoa.
+- Có đôi khi cũng thông tin về các vật dụng bằng gỗ dùng trong nhà.
+- Hào hai cùng Nhật Nguyệt tương hợp là nhà nhiều tầng, hoặc là nhiều phòng nhỏ tạo thành nhà.
+- Tương hợp biến hào đa số là nhà trệt.
+- Hào hai phát động hóa tiến, ở lại lâu dài, hóa thoái, sẽ rời đi nhanh chóng.
+- Hào hai lâm Thanh Long vượng tướng là nơi ở xa hoa.
+- Lâm Quan quỷ động mà sinh thế, phong thuỷ nhà ở có lợi cho vận làm quan.
+- Nam xem phong thuỷ, huynh đệ lâm Chu Tước tại hào hai phát động, vợ chồng miệng lưỡi bất hòa, Thê tài hóa thoái dễ ly dị vợ; nữ xem phong thuỷ Tử tôn lâm Chu Tước thì phu thê bất hòa.
+- Phân tích suy luận: Quan quỷ động mà hóa thoái, tất cùng ly dị chồng.
+- Phân tích suy luận: Tử tôn lâm Thanh Long phát động, nhà ở yên tĩnh, tài vận tốt, không có tà khí.
+- Lâm Quan quỷ động, tất không ổn định.
+- Lâm Xà có sự tình quái dị phát sinh.
+##### Hào ba:
+
+- Phân tích suy luận: Quan quỷ tại hào ba phát động, gặp nhiều ác mộng.
+- Phân tích suy luận: Huynh đệ tại hào ba Nguyệt phá, cửa có khe hở.
+- Mộc lâm Câu Trần động, là sửa cửa.
+- Hào ba hào bốn huynh đệ tương xung, là cửa đối diện nhau, tất nhiên sẽ có rủi ro.
+- Phân tích suy luận: Tử tôn xung hào ba, hoặc hào năm xung hào ba, là đường đâm vào nhà.
+##### Hào bốn:
+
+- Hào bốn lâm Huyền Vũ là nhà vệ sinh.
+- Lâm hỏa vượng tướng, nhà ở sáng sủa sạch sẽ, Nguyệt phá, có khe hở.
+- Phân tích suy luận: Huynh đệ khắc hào bốn mang hình, có gió lạnh nhập cửa sổ.
+##### Hào năm:
+
+- Hào năm không phá, con đường đi ra không thoải mái.
+- Tài là âm hào, nữ nhân ở nhà làm quản gia.
+- Hào năm là thủy, ven đường có nước, hợp hào hai, nhà ở phụ cận có nước.
+- Lâm Xà, phụ cận có đường đi vòng hoặc đường nhỏ uốn lượn.
+- Hào năm xung khắc thế hào, con đường có ảnh hưởng phong thuỷ.
+##### Hào sáu:
+
+- Thế tại hào sáu, không phải ly biệt quê hương chính là nhận làm con thừa tự người khác, làm con nuôi.
+- Hào sáu là mộc là hàng rào, là thổ là tường gạch hoặc tường đất.
+- Lâm phá tường có khe hở.
+- Không vong tường có lỗ thủng.
+- Phân tích suy luận: Quan quỷ tại hào sáu khắc thế, có linh vị bàn thờ Phật bất lợi với người ở, sinh thế được tổ ấm.
+
+### Từ Lục Thân Rút Ra Tin Tức
+
+#### Phụ mẫu:
+
+- Phân tích suy luận: Phụ mẫu hưu tù Nguyệt phá không vong, nhà gặp nguy hiểm, gặp tuyệt nhà ở rách nát, nguy hiểm.
+- Phân tích suy luận: Phụ mẫu phát động, nơi ở bất an.
+- Lâm Xà, tất có quái sự phát sinh.
+- Phân tích suy luận: Phụ mẫu phát động hóa phụ mẫu, nhà ở nhiều mà nối liền không dứt.
+- Sinh ứng hào, hoặc cho người khác thuê, hoặc bán cho người khác.
+- Phân tích suy luận: Phụ mẫu vượng tương lâm Thanh Long, là mới lợp nhà.
+- Lâm Hỏa bị khắc lâm Huyền Vũ, có tia sáng ngầm.
+##### Huynh đệ:
+
+- Phân tích suy luận: Huynh đệ là cửa, cửa sổ, vách tường, tường vây, nhà vệ sinh, vượng tướng là phối trí không tốt gây hại cho tiền bạc, hưu tù bất động, phối trí tốt.
+- Ứng ở quẻ thượng là Thê tài bị khắc nam xem phong thủy bất lợi hôn nhân.
+- Nữ là chồng tài vận không tốt.
+##### Quan quỷ:
+
+- Phân tích suy luận: Quan quỷ lâm Thanh Long trì thế hoặc sinh thế, vận làm quan tốt, là công chức.
+- Phân tích suy luận: Quan quỷ phát động khắc thế, tất bởi vì phong thuỷ không tốt phát sinh tai nạn.
+- Nữ xem phong thuỷ, quan quỷ lâm đào hoa, mộc dục cùng ứng hào, tha hào tương hợp, là nhà đào hoa, chồng ngoại tình.
+- Thế hào lâm Huyền Vũ, đào hoa, mộc dục hợp Quan quỷ, hoặc động mà hóa Quan quỷ, bản nhân có số đào hoa.
+- Nam xem phong thuỷ, thế hào lâm Huyền Vũ đào hoa, mộc dục cùng tha hào tương hợp, hoặc trong quẻ tại thê tài lại hóa thê tài, bản thân ngoại tình, hào Tài hợp ứng hào, vợ ngoại tình.
+##### Thê tài:
+
+- Phân tích suy luận: Thê tài là phòng bếp, nhà kho.
+- Phân tích suy luận: Thê tài vượng mà sinh thế hào, phong thuỷ tụ tài, lợi tài vận.
+- Phân tích suy luận: Quan quỷ vượng tướng, Phụ mẫu lâm Chu Tước cũng vượng, cư trú phong thuỷ lợi Văn Xương, tốt cho học hành.
+##### Tử tôn
+
+- Phân tích suy luận: Tử tôn là động vật, sủng vật, con đường, hành lang, con cháu.
+- Phân tích suy luận: Quan quỷ trì thế, Tử tôn phát động bất lợi cho lên chức cũng như công việc.
+- Nữ dự đoán hôn nhân bất lợi.
+- Phân tích suy luận: Tử tôn hợp hào hai, nhà ở ven đường.
+- Xung hào hai, có đường xung nhà.
+- Phân tích suy luận: Tử tôn Nguyệt phá lâm Bạch Hổ không vong, nhà dễ phát sinh phá/hỏng thai.
+
+### Từ Lục Thần Rút Ra Tin Tức
+
+- Lục thần là dùng thuyết minh tính chất cùng nguyên nhân sự vật, có đôi khi cũng dùng cho phương vị phán đoán.
+- Thanh Long là đông, là mới, là trang trí
+- Chu Tước là nam, là hoả hoạn, miệng lưỡi, tố tụng
+- Câu Trần là bên trong, là kiến trúc, là sửa chữa và chế tạo
+- Đằng Xà là bên trong, là uốn lượn, là kinh dị
+- Bạch Hổ là tây, là đường, là bệnh tai
+- Huyền Vũ là bắc, là trộm cướp, hắc ám.
+- Phán đoán phong thuỷ cần kết hợp lục thân hào vị.
+#### Ví dụ 1: ngày Bính Dần tháng Hợi một người phụ nữ đến xem phong thuỷ nhà ở được quẻ Phong Trạch Trung Phu biến Bát Thuần Tốn.
+
+- **CHÍNH QUÁI:
+- PHONG TRẠCH TRUNG PHU — BIẾN QUÁI:
+- BÁT THUẦN TỐN**
+- Lấy Phụ mẫu làm Dụng thần, Phụ mẫu Tị hỏa lưỡng hiện, lấy sơ hào Phụ mẫu Tị hỏa phát động làm Dụng thần.
+- Phân tích suy luận: Phụ mẫu Nguyệt phá, nơi ở bất an.
+- Phân tích suy luận: Thê tài không
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 218.** Sơ đồ quẻ Phong Trạch Trung Phu biến Bát Thuần Tốn
+    - <img src="assets/page_0200_img_01.png" alt="Hình 218" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- hiện lên quẻ, Huynh đệ Sửu thổ phát động, Phụ mẫu lại là tuyệt địa của hào tài, nhà này không tụ tài.
+- Ở nhà này sẽ có buồn rầu, tai nạn, bệnh tật do Quan quỷ Mão mộc lâm hào hai, hào hai là trạch hào, Nhật phù Quan quỷ khắc thế, phong thuỷ nhà này bất lợi cho người ở, dễ mang đến cho người ta tai nạn cùng phiền não.
+- Phân tích suy luận: Thê tài Tý Thủy tuy được Nguyệt kiến so đỡ nhưng tuyệt ở Phụ mẫu Tị hỏa động, hào ba Huynh đệ Sửu thổ động khắc thương, chính là thông tin rủi ro.
+- Hào ba là cửa, lâm Huynh đệ cũng cửa chính, động mà cùng Hào bốn tương xung, chính là cửa cửa tương đối, phạm vào đại kị phong thuỷ.
+- Phân tích suy luận: Tử tôn Thân kim phục, nhập mộ tại hào động Sửu thổ, Nguyệt là bệnh địa của Tử tôn, Nhật là tuyệt địa của Tử tôn, sơ hào Phụ mẫu động mà khắc Tử tôn, nhà này bất lợi cho con cái.
+- Gặp đất bệnh là nhiễm bệnh, nhập mộ là nằm viện, con cái tất bệnh nằm viện.
+- **Ứng nghiệm:** Gia đình thu nhập rất ít, con bị bướu não nằm viện tốn không ít tiền.
+- Hiệu quả không tốt, tìm bà cốt xem bệnh, lại bị lừa gạt đi rất nhiều tiền.
+- Trong nhà hoàn toàn chính xác có hai cửa đối nhau.
+##### Ví dụ 2: ** ngày Giáp Tuất tháng Tị, một người đàn ông đến xem phong thuỷ nhà ở được quẻ Bát Thuần Cấn biến Sơn Địa Bác.
+
+- **CHÍNH QUÁI:
+- BÁT THUẦN CẤN**
+- **BIẾN QUÁI:
+- SƠN ĐỊA BÁC**
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 219.** Bát Thuần Cấn biến Sơn Địa Bác
+    - <img src="assets/page_0201_img_01.png" alt="Hình 219" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy Phụ mẫu làm Dụng thần.
+- Phân tích suy luận: Phụ mẫu Ngọ hỏa tại hào hai, nhập mộ tại Nhật thần.
+- Nhật là huynh đệ, Huynh đệ là vách tường, nói rõ là bị một bức tường vây quanh nhà.
+- Chủ quẻ lục xung, không thể giấu gió tụ khí.
+- Phân tích suy luận: Tử tôn Thân kim tại hào ba lâm Câu Trần phát động khắc thế, hào ba là cửa, Thân là Tây Nam, Câu Trần là sửa chữa và chế tạo, kiến trúc, phương Tây nam có kiến trúc thi công ảnh hưởng vận làm quan.
+- Nguyệt là tuyệt địa của Thê tài, Nhật khắc Thê tài, Thê tài Tý Thủy nhập mộ tại hào Huynh đệ Thìn thổ ám động nên hưu tù.
+- Trong quẻ tuy có Tử tôn phát động liên tục tương sinh, nhưng Tử tôn Thân kim không vong, Thê tài nguyên bản không có rễ, tất bởi là phong thuỷ không tốt mà rủi ro.
+- Phân tích suy luận: Thê tài Tý Thủy lâm hào năm bị khắc, hào năm là đường đi, Bạch Hổ chủ tai nạn giao thông, chính là bởi là tai nạn giao thông rủi ro.
+- **Ứng nghiệm:** Người này nhà ở là một cái độc viện, bốn phía tường vây quanh.
+- Cửa tại Tây Nam, đã từng sửa chữa qua cửa.
+- Vài ngày trước bị tai nạn giao thông, xe rơi vào rãnh sâu, lái xe tử vong, bồi thường không ít tiền.
+##### Ví dụ 3: ** ngày Kỷ Hợi tháng Thìn, một người đàn ông đến xem phong thuỷ nhà ở được quẻ Địa Lôi Phục biến Lôi Thiên Đại Tráng.
+
+- **CHÍNH QUÁI:
+- ĐỊA LÔI PHỤC**
+- **BIẾN QUÁI:
+- LÔI THIÊN ĐẠI TRÁNG**
+- Lấy Phụ mẫu làm Dụng thần, hào hai là trạch hào.
+- Phân tích suy luận: Phụ mẫu Tị hỏa phục dưới hào hai, chính là trạch phục xuống trạch, thông tin nhà ở trùng điệp.
+- Nói rõ nhà có tầng hầm.
+- Hào hai cùng Nhật tương hợp, Phụ mẫu Tị hỏa cùng Nguyệt tương hợp, kết hợp trùng điệp chi tượng, nhà ở bên trên có nhà ở, là nhà lầu.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 220.** Địa Lôi Phục biến Lôi Thiên Đại Tráng
+    - <img src="assets/page_0202_img_01.png" alt="Hình 220" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Hào hai Nguyệt phá, nhưng cùng Nhật tương hợp Nguyệt phá bị giải, bởi vậy nhà ở vốn có khe hở, về sau tiến hành sửa chữa.
+- Phân tích suy luận: Phụ mẫu hưu tù, nhà ở không phải mới.
+- Phân tích suy luận: Hào ứng phát động hóa ra Phụ mẫu Ngọ hỏa, ứng là người khác, Phụ mẫu chủ cha mẹ, là nhà mua lại.
+- Bạch Hổ Lâm Quan quỷ tại hào hai phát động, quẻ nội phản ngâm, nhà ở phong thuỷ không tốt.
+- Trạch hào lâm Bạch Hổ động mà khắc hào ứng, Quan quỷ cùng Bạch Hổ đều chủ tật bệnh, ứng là người khác, bị khắc, gia đình ở trước đó nhất định bệnh tai liên tục không ngừng.
+- Ứng cũng là thê vị, nhà này bất lợi cho thê tử.
+- **Ứng nghiệm:** Đơn vị làm việc phân nhà cho.
+- Nhà ở đã rất cũ kỷ, lúc đầu hộ gia đình vào ở về sau mẹ chết, vợ mổ cũng chết, bản thân bị bệnh phải phẫu thuật, con nhảy lầu tự sát nhưng chưa chết.
+- Đối thoại thực tế: Người đến xem mặc dù cũng biết nhà này phong thuỷ không tốt, nhưng không có chỗ ở, đành phải vào ở.
+- Người này vào ở về sau, ngay cả cưới ba vợ vẫn ly dị.
+##### Ví dụ 4: ngày Ất Hợi tháng Dậu, một người đàn ông đến xem phong thuỷ nhà ở được quẻ Địa Hỏa Minh Di.
+
+- **CHÍNH QUÁI:
+- ĐỊA HỎA MINH DI** | **BIẾN QUÁI:
+- ĐỊA HỎA MINH DI**
+- Lấy Phụ mẫu làm Dụng thần, đồng thời xem thêm hào hai.
+- Trong quẻ không thấy Hỏa, Phụ mẫu Dậu kim lâm Huyền Vũ, Huyền Vũ chủ âm thầm, âm đạm, Hỏa là quang minh, nói rõ hiện tại chỗ ở ánh sáng không tốt, hiếm khi có ánh nắng mặt trời chiếu vào nhà.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 221.** Sơ đồ quẻ Địa Hỏa Minh Di
+    - <img src="assets/page_0203_img_01.png" alt="Hình 221" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Hào hai Quan quỷ Sửu thổ khắc hào năm Huynh đệ Hợi thủy, hào hai là trạch, hào năm là người, người ở nhà này bất lợi.
+- Phân tích suy luận: Quan quỷ trì thế, lâm Đằng Xà, Quan quỷ là phiền não, Đằng Xà là đứng ngồi không yên, nói rõ ở nhà này người thường thường tâm phiền ý loạn, không ổn định.
+- Phân tích suy luận: Quan quỷ tại hào hai lâm Chu Tước, Chu Tước là miệng lưỡi, ở nhà này, miệng lưỡi kiện cáo khó tránh khỏi.
+- Phân tích suy luận: Thê tài Ngọ hỏa hưu tù không lên quẻ, Phi thần là đất tuyệt, trong nhà không có vợ, vợ đã rời nhà trốn đi.
+- Phân tích suy luận: Thê tài lâm Ngọ hỏa, sự tình phát sinh ở tháng Ngọ.
+- Địa Hỏa Minh Di là Khảm cung, khảm là nước, là nước tiểu, là huyết dịch.
+- Phân tích suy luận: Thê tài nằm ở hào ba bị Phi thần khắc thương, Nhật thần khắc thương, hào ba là hào vị tử cung, vợ có phụ khoa bệnh, kinh nguyệt không đều.
+- **Ứng nghiệm:** Nhà ở chung quanh có công trình kiến trúc rất cao ngăn cản, cả ngày không có ánh mặt trời.
+- Vợ chồng thường xuyên cãi nhau, ba tháng trước, vợ tức giận về nhà mẹ đẻ, đến bây giờ còn chưa về.
+- Mấy lần đến nhà mẹ đẻ vợ đón về, đều bị cha vợ đuổi. chính xác vợ kinh nguyệt không đều.
+##### Ví dụ 5: ngày Tân Dậu tháng Hợi, một người đàn ông đến xem phong thuỷ nhà của người chú được quẻ Thủy Địa Tỷ biến Bát Thuần Khôn.
+
+- **CHÍNH QUÁI:
+- THỦY ĐỊA TỶ** | **BIẾN QUÁI:
+- BÁT THUẦN KHÔN**
+- Lấy Phụ mẫu làm Dụng thần xem thêm hào hai.
+- Thoạt nhìn hào hai sinh hào năm, nhà đối người có lợi.
+- Nhưng trạch hào Nguyệt phá tuyệt ở Nhật, nhập mộ tại hào năm, lại biến quẻ Lục xung, là nhà không thể giấu gió tụ khí, tử khí rất nặng.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 222.** Sơ đồ quẻ Thủy Địa Tỷ biến Bát Thuần Khôn
+    - <img src="assets/page_0204_img_01.png" alt="Hình 222" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Hào ba Quan quỷ ám động khắc hào năm Tuất thổ, hào ba là cửa, hào năm là người, cửa nhà này không tốt, bất lợi cho hộ gia đình.
+- Khiến cho hào ba ám động chính là Nhật thần Dậu kim, Dậu kim cùng hành với Tử tôn, Tử tôn là đường đi, Dậu kim là phía Tây, nói rõ có một con đường từ phía tây đâm thẳng vào cửa, sát khí đâm thẳng vào nhà.
+- Trong quẻ Phụ mẫu Tị hỏa Nguyệt phá, tuyệt tại Nhật, nhập mộ tại Tuất thổ, Phụ mẫu chủ chú dì, chú dì tất có bệnh.
+- Phân tích suy luận: Phụ mẫu là Hỏa, hoả là tim, tất là nguy bởi bệnh tim.
+- Tháng Tuất Phụ mẫu nhập mộ, tháng này Phụ mẫu Nguyệt phá, hai tháng này tất có hung sự phát sinh.
+- **Ứng nghiệm:** đúng từ phía tây có một con đường đâm thẳng vào cửa nhà, ông chú tháng Tuất bị tắc nghẽn cơ tim mà chết.
+##### Ví dụ 6: một người đàn ông đến xem phong thuỷ cửa hàng được quẻ Hỏa Thiên Đại Hữu biến Bát Thuần Ly.
+
+- **CHÍNH QUÁI:
+- HỎA THIÊN ĐẠI HỮU**
+- **BIẾN QUÁI:
+- BÁT THUẦN LY**
+- Lấy Phụ mẫu làm Dụng thần xem thêm hào hai.
+- Hào hai là cửa hàng, hào năm là nhân viên cửa hàng, hào hai khắc hào năm, cửa hàng bất lợi cho nhân viên.
+- Hào năm Nhật phá lâm Bạch Hổ, hào năm là đường đi, Bạch Hổ chủ tai nạn xe cộ, đây là cửa hàng kinh doanh, nhân viên cửa hàng dễ bị tai nạn giao thông.
+- Trong quẻ Thê Tài tuy được Nguyệt kiến sinh phù, nhưng Tài lâm không, lâm hào hai phát động, này cửa hàng thu nhập không ổn định.
+- Hào hai động mà hóa phụ mẫu, lại biến lục xung, cửa hàng mở chưa lâu, sẽ di chuyển.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 223.** Sơ đồ quẻ Hỏa Thiên Đại Hữu biến Bát Thuần Ly
+    - <img src="assets/page_0205_img_01.png" alt="Hình 223" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **Ứng nghiệm:** Tháng Dậu một nhân viên cửa hàng bị tai nạn giao thông, năm 1997 do kinh doanh không tốt nên di chuyển.
+##### Ví dụ 7: ngày Mậu Thìn tháng Hợi, một người đàn ông đến xem phong thuỷ nhà hàng được quẻ Địa Sơn Khiêm biến Phong Hỏa Gia Nhân.
+
+- **CHÍNH QUÁI:
+- ĐỊA SƠN KHIÊM**
+- **BIẾN QUÁI:
+- PHONG HỎA GIA NHÂN**
+- Lấy Phụ mẫu làm Dụng thần xem thêm hào hai.
+- Sơ hào Phụ mẫu Thìn thổ phát động hóa hồi đầu khắc, lâm Câu Trần, Câu Trần chủ đạo công trình kiến trúc, nhà hàng có thể bị phá dỡ vì nguy hiểm.
+- Hào năm phát động khắc hào hai, hào năm là đường, hào hai là cửa hàng, lại là nguyên thần của Phụ Mẫu, sợ là bởi là mở rộng đường mà phá dỡ cửa hàng.
+- Quẻ ngoại phản ngâm, phản ngâm là ý lặp đi lặp lại, nhà hàng này không chỉ làm riêng nhà hàng mà còn đã làm nhiều mảng khác.
+- Phân tích suy luận: Thê tài Mão mộc phục tuy được Nguyệt sinh, nhưng bị Huynh đệ phát động khắc chế, Tử tôn không vong lại nhập mộ tại Nhật, nhà hàng rất khó kinh doanh thu lợi.
+- Ứng lâm hào hai là ứng nhập phi trạch, cửa hàng không phải có người muốn thuê thì là có người muốn mua.
+- Nhất định phải nắm lấy cơ hội chuyển nhượng cửa hàng.
+- **Ứng nghiệm:** Cửa hàng đã từng kinh doanh sách và đồ trang trí.
+- Bởi kinh doanh không tốt nên chuyển thành nhà hàng, nhưng vẫn không khá lên được.
+- Vừa vặn có người thuê cửa hàng, thế là đem cửa hàng cho thuê.
+- Năm sau do mở rộng
+- đường, cửa hàng bị phá hủy một nửa, diện tích thu nhỏ, các bên thuê lại đều khó khăn.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 224.** Sơ đồ quẻ Địa Sơn Khiêm biến Phong Hỏa Gia Nhân
+    - <img src="assets/page_0206_img_01.png" alt="Hình 224" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### Ví dụ 8: ngày Quý Tị, tháng Tý, một người đàn ông đến xem phong thuỷ cửa hàng được quẻ Trạch Sơn Hàm biến Thiên Sơn Độn.
+
+- Lấy Phụ mẫu làm Dụng thần xem thêm hào hai.
+- Hào hai Nguyệt phá, được Phụ mẫu Mùi thổ động mà hợp phá, mặt tiền cửa hàng không phải rất tốt, từng tu bổ qua.
+- Lâm Chu Tước, Chu Tước là miệng, quẻ tại cung Đoài, cũng là miệng, chỗ kinh doanh cửa hàng liên quan đến ẩm thực.
+- Phân tích suy luận: Phụ mẫu lâm hào ứng, ứng là người khác, cửa hàng thuộc về người khác, là đi thuê.
+- Phân tích suy luận: Thê tài Mão mộc mặc dù phục, nhưng được Nguyệt sinh phù, Phi thần không vong, phục dưới không dễ hiện, đồng thời Tử tôn Hợi thủy ám động sinh phù, cửa hàng doanh thu cũng ổn.
+- Nhưng hào ứng Phụ mẫu Mùi thổ ở quẻ thượng phát động, làm Thê Tài nhập mộ, người cho thuê cửa hàng muốn tăng giá cho thuê.
+- Trước mắt Mùi thổ không vong, sang năm Đinh Sửu xung Mùi thổ, giá phòng chắc chắn tăng.
+- Đến lúc đó chắc chắn kinh doanh sẽ khó khăn.
+- **Ứng nghiệm:** Người này mở một tiệm tạp hóa.
+- Tiền thuê mặc dù có chút cao, nhưng vẫn gọi là có lợi nhuận.
+- Thế nhưng đến năm 1997 giá thuê tăng lên, lợi nhuận không đáng mấy, không thể không đóng cửa.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 225.** Chính quái: Trạch Sơn Hàm
+    - <img src="assets/page_0207_img_01.png" alt="Hình 225" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 226.** Biến quái: Thiên Sơn Độn
+    - <img src="assets/page_0207_img_02.png" alt="Hình 226" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### Ví dụ 9: ngày Canh Thìn tháng Mùi, một người đàn ông đến xem phong thuỷ nhà máy than được quẻ Phong Trạch Trung Phu biến Thiên Thủy Tụng.
+
+- Lấy Phụ mẫu làm dụng, Phụ mẫu là nhà máy.
+- Nhà máy lấy lợi nhuận làm mục đích, bởi vậy còn nhất định phải xem hào Tài.
+- Phân tích suy luận: Thê tài Tý Thủy không hiện lên quẻ, bị Nhật Nguyệt khắc thương, trong quẻ lại có Huynh đệ Mùi thổ phát động khắc thương, Phụ mẫu Tị hỏa phát động khiến Thê tài lâm tuyệt, vừa nhìn liền biết nhà máy không quá khởi sắc.
+- Phân tích suy luận: Phụ mẫu lưỡng hiện, lấy hào Phụ mẫu Tị hỏa phát động làm Dụng thần.
+- Phân tích suy luận: Phụ mẫu là tuyệt địa của Thê tài, phong thuỷ nhà máy bất lợi cho tài vận.
+- Phân tích suy luận: Thê tài đồng thời là công nhân, sơ hào lại là bộ hạ, hào vị công nhân, Thê tài không hiện lên quẻ, tuyệt ở sơ hào, Thê tài không được quy vị, công nhân không muốn trở về nhà máy làm việc.
+- Sơ hào lâm Bạch Hổ hóa Quan quỷ, Bạch Hổ và Quan quỷ đều có ý là tử vong và tổn thương, Thê Tài hưu tù, nhà máy nhất định có vấn đề tử thương nào đó.
+- Sơ hào là chân, chân dễ bị tổn thương.
+- Phân tích suy luận: Thê tài nhập mộ tại Nhật, mộ có ý là chôn giấu, sẽ có việc công nhân bị chôn ở trong đất mà chết.
+- Hào bốn là cửa lớn, Huynh đệ Mùi thổ phát động khắc Thê tài, cửa nhà máy phối trí không tốt cũng ảnh hưởng tài vận.
+- Mùi thổ đối ứng Tây Nam, hướng Tây nam cửa lớn không hợp phong thuỷ.
+- Sơ hào là chân, lâm Bạch Hổ, Bạch Hổ là đường đi, sơ hào là tuyệt địa của Thê tài, động mà hóa quan quỷ, đường đi của nhà máy cũng không phù hợp phong thủy.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 227.** Chính quái: Phong Trạch Trung Phu
+    - <img src="assets/page_0208_img_01.png" alt="Hình 227" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 228.** Biến quái: Thiên Thủy Tụng
+    - <img src="assets/page_0208_img_02.png" alt="Hình 228" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **Ứng nghiệm:** Hiện tại nhà máy kinh tế đình trệ, sản xuất than bán không được, trong nhà xưởng từng phát sinh việc công nhân đi đứng bị thương và bị sập mỏ chết.
+- Không được bảo hộ an toàn khi sản xuất, lương thấp, công nhân không muốn làm việc.
+##### Ví dụ 10: ngày Kỷ Dậu tháng Dần, một người phụ nữ đến xem dự định kinh doanh tiệm thuốc, phong thuỷ ra sao? Được quẻ Thủy Thiên Nhu.
+
+- Lấy Phụ mẫu làm Dụng thần, xem thêm hào hai.
+- Kinh doanh tiệm thuốc là thu lợi, đồng thời kiêm nhìn hào Tài.
+- Phân tích suy luận: Tử tôn trì thế lâm Thanh Long, Tử tôn là y dược, Thanh Long chủ quý giá, cô gái có một loại thuốc đặc biệt tốt.
+- Thê Tài tuy được Nhật sinh, nhưng hào thế Nguyệt phá, khó mà phát tài, kinh doanh tiệm thuốc chưa hẳn có thể thu lợi.
+- Xung phá hào thế là Nguyệt kiến Quan quỷ.
+- Phân tích suy luận: Quan quỷ là quan lại, ngành chấp pháp, chắc chắn do đơn vị chuyên môn kiểm định gây khó dễ mà không cách nào kinh doanh.
+- Hào hai Quan quỷ không vong, hào hai là cửa hàng, nói rõ tiệm thuốc còn chưa thuê.
+- Lâm Bạch Hổ, Bạch Hổ là y dược, hiện tại muốn mở tiệm thuốc nhưng lại đang làm phòng khám bệnh.
+- Phân tích suy luận: Phụ mẫu phục, tiệm thuốc không ở trên đường cái mà trong ngõ nhỏ.
+- **Ứng nghiệm:** Bản thân tốt nghiệp đại học y, phát minh ra một loại thuốc đặc hiệu, nhưng còn chưa lấy được giấy phép sản xuất của Bộ Y tế.
+- Vì xin sản xuất giấy phép cần nhiều tiền nên định mở phòng khám kiếm chút tiền rồi đi xin giấy phép.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 229.** Thủy Thiên Nhu (Chính quái)
+    - <img src="assets/page_0209_img_01.png" alt="Hình 229" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 230.** Thủy Thiên Nhu (Biến quái)
+    - <img src="assets/page_0209_img_02.png" alt="Hình 230" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Hiện tại tìm được một nhà mặt tiền đã từng là phòng khám, cảm thấy rất thích hợp, nhưng còn chưa ký hợp đồng thuê nhà, muốn xem phong thủy rồi mới thuê sau.
+##### Ví dụ 11: ngày Tân Hợi tháng Ngọ, một người phụ nữ đến xem phong thuỷ nhà ở được quẻ Lôi Địa Dự.
+
+- Lấy Phụ mẫu làm Dụng thần, xem thêm hào hai.
+- Phân tích suy luận: Phụ mẫu Tý Thủy phục dưới hào thế chứng tỏ nhà là tài sản riêng.
+- Lâm Bạch Hổ, Bạch Hổ là đường đi, nhà ở lân cận ven đường.
+- Phân tích suy luận: Phụ mẫu Tý thủy Nguyệt phá, nhà ở có khe hở, không phải rất mới.
+- Hào hai là trạch hào, ám động sinh hào Thê tài trì thế, nhà này có lợi cho tài vận.
+- Phân tích suy luận: Tử tôn Tị hỏa ám động tương hợp hào năm Quan quỷ Thân kim, hào năm là hào vị lãnh đạo, Tử tôn đại biểu con cái, hào năm đại biểu vận làm quan, con cái có người làm quan.
+- Lâm Câu Trần, Câu Trần là nha môn, nói rõ làm tại cơ quan công quyền.
+- Hào ba là cửa, không vong, cửa có khe hở, là có hàng rào.
+- Lâm Thanh Long, cửa lớn rất đẹp.
+- Quẻ gặp lục hợp, bản thân giao tế rộng.
+- **Ứng nghiệm:** Nhà ở mặt đường, giao thông rất tiện lợi.
+- Bản thân tiền lương rất cao, ngoài ra còn là bác sĩ, được bệnh viện tư nhân thuê, thu nhập tương đối khá.
+- Con làm việc ở cơ quan chính phủ, là thư ký thị trưởng.
+- Cửa cũng phán đoán chính xác.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 231.** Lôi Địa Dự (Chính quái)
+    - <img src="assets/page_0210_img_01.png" alt="Hình 231" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 232.** Lôi Địa Dự (Biến quái)
+    - <img src="assets/page_0210_img_02.png" alt="Hình 232" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### Ví dụ 12: ngày Kỷ Hợi tháng Thìn, một người đàn ông đến xem phong thuỷ nhà ở được quẻ Sơn Trạch Tổn biến Lôi Trạch Quy Muội.
+
+- Lấy Phụ mẫu làm Dụng thần, xem thêm hào hai.
+- Hào hai làm quan quỷ, Quan quỷ là chính phủ, công quyền, nhà ở là được đơn vị công tác phân cho.
+- Hào bốn phát động hợp hào hai, bên trên hợp dưới, là nhà lầu.
+- Phân tích suy luận: Phụ mẫu Tị hỏa không vong, nói rõ còn chưa vào ở.
+- Phân tích suy luận: Huynh đệ Tuất thổ lâm Thanh Long, phát động hóa ra phụ mẫu, Thanh Long chủ trang trí, Phụ mẫu là nhà ở, nói rõ nhà ở đã trang trí.
+- Phân tích suy luận: Phụ mẫu tại sơ hào, sơ hào là tầng một, lâm Hỏa, Hoả số 2, nhà ở không phải tại một tầng chính là tại tầng hai.
+- Phân tích suy luận: Phụ mẫu là Hỏa lâm không vong, Hỏa là ánh sáng, ánh sáng không đủ.
+- Hào ba là cửa, là phòng ngủ, Huynh đệ tại hào ba càng có ý nghĩa mạnh hơn, lâm Huyền Vũ, Huyền Vũ chủ ngầm, là trong phòng không có ánh nắng.
+- Hào sáu Quan quỷ lâm Câu Trần động mà khắc hào ba huynh đệ, Dần mộc đối ứng tại Đông Bắc, Câu Trần là đột xuất, thổ địa, nói rõ hướng đông bắc có một dải đất chặn ánh sáng.
+- Hào năm sinh hào hai không tốt, Quan quỷ lâm Bạch Hổ cư hào hai, Quan quỷ cùng Bạch Hổ đều có ý tứ bệnh tật, nhà này bất lợi cho người ở, dễ sinh tật bệnh.
+- Phân tích suy luận: Quan quỷ Dần mộc tại hào sáu phát động khắc thế, hào sáu là đầu, mộc chủ đau nhức, nhất định có bệnh nhức đầu.
+- Thế tại hào ba bị khắc, Tử tôn phục bên dưới, Tử tôn chủ bộ phận sinh dục, lâm Huyền Vũ, Huyền Vũ chủ mập mờ, khó nói, bộ phận sinh dục có bệnh.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 233.** Chính Quái: Sơn Trạch Tổn
+    - <img src="assets/page_0211_img_01.png" alt="Hình 233" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 234.** Biến Quái: Lôi Trạch Quy Muội
+    - <img src="assets/page_0211_img_02.png" alt="Hình 234" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Sơ hào Phụ mẫu ám động, sơ hào là tâm tư, Phụ mẫu chủ phòng ở, động chủ biến hóa, có dự định đổi phòng.
+- **Ứng nghiệm:** Quả nhiên là từ đơn vị làm việc phân đến nhà ở.
+- Tầng lầu là tầng hai, cửa sổ hướng bắc, hướng đông bắc có cái sườn đất, chặn tia sáng, nhà ở vừa mới trang trí xong, đột nhiên liền bệnh.
+- Bản thân cho rằng nguyên nhân do phong thủy nên đến đây xem.
+- Bản thân hiện tại đau đầu cùng bộ phận sinh dục nát rữa.
+##### Ví dụ 13: ngày Ất Hợi tháng Kỷ Dậu năm Đinh Sửu, một người bạn hơn hai mươi năm không gặp mặt đến xem gia đình được quẻ Lôi Thiên Đại Tráng.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Ất Dậu, ngày Ất Hợi, tháng Kỷ Dậu, năm Đinh Sửu
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Thu phân    Lệnh tháng:
+- Dậu-Kim
+- Phương pháp lập quẻ:
+- Lục hào
+- Lấy Hào Phụ mẫu làm Dụng thần, xem thêm hào hai.
+- Phân tích suy luận: Hào thế là tọa sơn, Phụ mẫu Ngọ hỏa trì thế, là nhà tọa Nam hướng Bắc.
+- Hào hai Lâm Quan quỷ, Quan quỷ
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 235.** Chính Quái: Lôi Thiên Đại Tráng
+    - <img src="assets/page_0212_img_01.png" alt="Hình 235" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- chủ nhà công, chính phủ, chỗ ở là nhà của công.
+- Tài được Nhật sinh, Phụ mẫu trì thế, đã dùng tiền mua lại nhà công thành sở hữu của mình.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 236.** Biến Quái: Lôi Thiên Đại Tráng
+    - <img src="assets/page_0212_img_02.png" alt="Hình 236" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Nhật thần hợp hào hai trạch hào, trùng điệp chi tượng, là nhà lầu.
+- Quẻ Lục xung là tượng không tốt, nhà này không nên ở.
+- Chu Tước Lâm Quan quỷ Dần mộc nhập trạch, Dần mộc là đất trường sinh của Hỏa, Chu Tước lại chủ hoả hoạn, cho nên đoán nhà này đã từng bị hoả hoạn.
+- Hào ba là cửa, lâm Huynh đệ, Huynh đệ cũng là cửa chính, hào ba cùng Nguyệt kiến tác hợp, lại lâm Câu Trần là tượng câu vấp nên đoán cửa khó dùng.
+- Hào năm là người, Tử tôn Thân kim không vong lâm Bạch Hổ, Bạch Hổ chủ lưu thai, sẩy thai, đoán nếu đã sinh con thì vào đây ở không sao, nếu chưa thì chắc chắn sẽ bị lưu thai, sẩy thai.
+- Quẻ Lục xung có tượng không lâu bền, hào hai là trạch bị Nguyệt kiến khắc, lại bị hào Tử tôn Thân kim xung khắc, đoán là nhà này ở chưa lâu, muốn phá dỡ.
+- Trong quẻ xung khắc trạch hào là Tử tôn Thân kim tại hào năm, hào năm là đường đi, Tử tôn cũng chủ đường đi, lâm Bạch Hổ, Bạch Hổ cũng chủ đường đi, cho nên đoán nhà này mà phá đi sau cũng sẽ phá lần nữa vì mở đường nên thu hồi đất.
+- Thân kim không vong, đoán việc này sẽ phát sinh vào Tháng Thân năm 1998 Mậu Dần.
+- **Ứng nghiệm:** Nguyên lai người bạn này cũng rất hiểu kinh dịch, anh ta nói anh ta cũng xem qua sách Lục hào nhưng chưa từng có ứng nghiệm qua, không nghĩ tới chỉ một quẻ có thể đoán ra được nhiều chuyện như vậy.
+- Nhà anh ta đúng là tọa Nam hướng Bắc, nhà có hai tầng, nhà anh ta ở một tầng.
+- Đây là nhà nhà nước về sau anh ta mua lại.
+- Vào ở về sau phát sinh một lần hoả hoạn, cửa đúng thật không tốt, đóng mở khó khăn.
+- Anh ta có con trước khi vào ở nên đến tận giờ vợ chưa bị lưu thai, sẩy thai.
+- Đã có nghe đồn sắp mở đường nên chỉ đập phá xây dựng bên trong.
+- Về sau có báo lại quả nhiên tháng 8 năm 1998 (tháng Thân) nhà nước quyết định thu hồi để làm đường và phá dỡ.
+- Cùng năm, vợ anh ta mang thai nhưng sẩy thai.
+
+## Chương 11: Tật Bệnh Dự Đoán Bí Pháp
+
+- Người sáng lập Phật giáo, Thích Ca Mâu Ni, bắt đầu từ sự sống và cái chết của con người để khám phá bản chất của vũ trụ và đạt đến cảnh giới giác ngộ.
+- Có lẽ sinh lão bệnh tử chính là mấu chốt giải mã vũ trụ bí mật.
+- Cổ nhân nói: "Thiên cơ tiết lộ ở nơi bệnh".
+- Nếu không dùng Lục hào đoán bệnh, sẽ rất khó trở thành Lục hào dự đoán cao thủ.
+- Bởi lúc đoán bệnh, thường thường phải xem biến hóa vi diệu của quẻ, liên quan đến toàn bộ cơ sở của Lục hào, nếu như không có nắm giữ tốt kỹ xảo dự đoán thì không thể đoán nổi bệnh.
+- Từ cổ chí kim có câu "Y dịch tương thông".
+- Dự đoán bệnh tật là bắt buộc bước vào cảnh giới cao của môn Lục hào.
+- Cơ thể con người rất đa dạng và phức tạp, và nó có mối quan hệ chặt chẽ với thời gian, không gian, thiên thể, mùa, giao tế giữa người với người, vật thể, tính cách, ẩm thực, thế giới vô hình.
+- Thông thường khó có thể phán đoán chính xác nguyên nhân khi chữa bệnh, dù y học càng ngày càng phát triển nhưng cũng có nhiều nan đề với y học như virus biến dị không ngừng...
+- Dù y học có phát triển thế nào vẫn có nhiều bệnh tật không thể nào xác định được nguyên nhân gây bệnh cho nên nhiều người mới cầu cứu Kinh dịch.
+- Do đó, nghiên cứu dự đoán bệnh tật đối với người khỏe mạnh cũng tốt, đối với nghiên cứu y học cũng tốt, đều vô cùng hữu ích.
+
+### Đối Ứng Bát Quái, Lục Thân, Lục Thần và Hào Vị
+
+#### Bát Quái đối ứng với cơ thể
+
+- Dự đoán bệnh tật thông qua Dụng thần suy vượng để quyết định.
+- Mà bệnh chứng phán đoán thì là quẻ cung, lục thân, hào vị, ngũ hành, lục thần tổng hợp phân tích mới có thể cho ra kết luận chính xác.
+- Quẻ cung là chỗ rút ra tin tức chứng bệnh cơ bản nhất.
+- **Càn cung:** Bệnh phổi, cơ quan hô hấp, bệnh liên quan đến đầu, bệnh nam giới, bệnh xương, bệnh về ngực, đại tràng, táo bón, bệnh tuổi già.
+- **Khôn cung:** Dạ dày, lá lách, bụng, tiêu hóa không tốt, thực quản, phụ khoa, mãn kinh, bệnh ngoài da.
+- **Chấn cung:** Gan, mật, chân, hệ thần kinh, cuồng loạn, thần kinh suy nhược, chứng động kinh, chứng đa động.
+- **Tốn cung:** Gan, mật, phong hàn, phần đùi, chân, hậu môn, bán thân bất toại, ruột, bệnh truyền nhiễm, bạch huyết, thở khò khè.
+- **Khảm cung:** Thận, bàng quang, huyết dịch, cao huyết áp, nước tiểu, bệnh tiểu đường, nhiễm trùng tiểu đường, eo, lỗ tai, kiết lỵ, bệnh lây qua đường sinh dục, trúng độc, bộ phận sinh dục.
+- **Ly cung:** Tim, ruột non, huyết dịch, huyết áp thấp, sốt, bị cảm nắng, kinh nguyệt, ảo giác, phụ khoa, thiếu máu.
+- **Cấn cung:** Tỳ vị, lưng, mũi, da, cánh tay, bả vai, tay, tuyến giáp, vú, bệnh sởi.
+- **Đoài cung:** Bệnh phổi, ruột, khoang miệng, đầu lưỡi, yết hầu, hậu môn, răng, ngực, ngoại thương, khí quản, thực quản.
+##### Lục thân cùng cơ thể đối ứng
+
+- Dùng lục thân phán đoán bệnh tật phân biệt chứng bệnh, từ xưa đến nay lấy Quan quỷ làm căn cứ tiến hành phán đoán, nhưng xác suất đúng rất thấp.
+- Trong thực tế phát hiện nên dùng mọi thông tin quay chung quanh Dụng thần sinh khắc hỉ kị để phán đoán, tất cả lục thân cũng có thể làm căn cứ đoán bệnh, xác suất trúng sẽ trên 95%, mà có thể đồng thời đánh giá nhiều loại tật bệnh của cơ thể.
+- Phân tích suy luận: Quan quỷ làm Dụng thần hoặc Nguyên thần bị khắc hưu tù là bệnh, vượng tướng không là bệnh.
+- Trái lại Quan quỷ là Kị thần hoặc cừu thần, hưu tù không lấy xem bệnh, vượng tướng có thể lấy để xem bệnh.
+- Phân tích suy luận: Quan quỷ không phải là Dụng thần Nguyên thần cũng không phải Kị thần Cừu thần lúc, vượng tướng là bệnh, hưu tù không lấy làm bệnh.
+- Mặt khác, mộ khố của Quan quỷ cũng có thể lấy để xem bệnh.
+- Kị thần là bệnh, bị khắc, hóa thoái không là bệnh.
+- Dụng thần bị khắc cũng là bệnh, hóa thoái là bệnh.
+- Nguyên thần bị khắc, Nguyên thần không vong, động mà hóa thoái, bị hợp không thể sinh Dụng thần cũng là bệnh.
+- Dụng thần quá vượng cũng là bệnh.
+- Dụng thần phục dưới Quan quỷ, bệnh nhân bị bệnh tật tra tấn trường kỳ.
+- Dụng thần hưu tù hóa Quan quỷ là đại hung.
+- **Phụ mẫu:** chủ đầu, phần bụng, ngực, nguyên khí.
+- **Huynh đệ:** tay phải, chân, bả vai, dạ dày.
+- **Tử tôn:** chủ ngũ quan, bộ phận sinh dục, ruột, thực quản, đường hô hấp, nhũ phòng, mạch máu.
+- **Thê tài:** chủ huyết dịch, hô hấp, phân và nước tiểu, kinh nguyệt, cốt tủy, nước mắt, tinh trùng, trứng, rắm, mồ hôi, lông tóc.
+##### Lục thần đối ứng với cơ thể
+
+- Lục thần chủ yếu là dùng để xác định tính chất và nguyên nhân bệnh tật.
+- **Thanh Long:** Đau nhức, ngứa, hậu sản, trúng độc, say rượu, tính dục quá độ, bệnh lây qua đường sinh dục, thăm người bệnh mà nhiễm bệnh.
+- **Chu Tước:** Nói mê sảng, cuồng ngôn nói lung tung, chứng viêm, phát sốt, vì ăn uống mà nhiễm bệnh, cãi lộn tức giận đến bệnh, nước tiểu đỏ, ù tai.
+- **Câu Trần:** Khối u, ung thư, kết sỏi, ngã, nhiễm bệnh do phong thuỷ, trì độn, trí nhớ kém, phồng lên, hồ đồ, năng lực kém.
+- **Đằng Xà:** Ruột, quái bệnh, tạp chứng nghi nan, kinh hãi, ác mộng, thiếu máu, tà khí, phụ thể, tạng phủ không ổn, tinh thần không tốt.
+- **Bạch Hổ:** Sinh dục, huyết dịch, bị thương, tai nạn giao thông, ngoại thương, kinh nguyệt không đều, sẩy thay, gãy xương, nổi giận mà bị bệnh.
+- **Huyền Vũ:** Bệnh lây qua đường sinh dục, phụ khoa, bệnh khó nói, kết hạch, loét, phong hàn, phong thấp, u buồn.
+##### Lục thân đối ứng với hào vị
+
+- Dùng Lục hào dự đoán bệnh tật là từ nhiều phương diện rút ra tin tức, tìm ra chỗ giống nhau, tổng hợp mà phán đoán.
+- Nếu như từ mấy nguồn đều phản ánh cùng một thông tin, thông tin này sẽ là rất mạnh, có thể không chút do dự mà phán đoán.
+- Phán đoán cát hung là từ Dụng thần suy vượng phán đoán, nhưng muốn đọc được nguyên nhân, nguyên nhân chứng bệnh thì tin tức cặn kẽ nhất định phải rút ra từ quẻ cung, hào vị, lục thân, lục thần.
+- Mặc dù lục thân có rất nhiều hàm nghĩa, muốn rút được thông tin chính xác cần tham khảo hào vị.
+- Hào vị khác biệt, lục thân hàm nghĩa cũng theo đó biến hóa, mà người luận đoán cũng thêm sáng tỏ.
+##### Quan quỷ:
+
+- Phân tích suy luận: Quan quỷ tại sơ hào là bệnh mụn cơm, bệnh phù chân, đi lại không tiện, chân bị thương, chân đau.
+- Phân tích suy luận: Quan quỷ tại hào hai là bệnh chân, đầu gối, viêm khớp, bộ phận sinh dục, bệnh nam khoa, phụ khoa, ruột, hậu môn, tỳ, vị.
+- Phân tích suy luận: Quan quỷ tại hào ba là bệnh tỳ, vị, bụng, eo, rốn, dạ dày, thận, bàng quang, tử cung.
+- Phân tích suy luận: Quan quỷ tại hào bốn là bệnh gan, tim, thận, bàng quang, ngực, phổi, lưng, vú.
+- Phân tích suy luận: Quan quỷ tại hào năm là bệnh phổi, tim, đường hô hấp, thực quản, lỗ tai, mũi, lưng, yết hầu, răng, cổ, bả vai.
+- Phân tích suy luận: Quan quỷ tại hào sáu là bệnh đầu, chảy máu não, tắc máu não, cao huyết áp, huyết áp thấp, choáng đầu, thần kinh suy nhược, xơ cứng động mạch, tay, bả vai.
+##### Phụ mẫu:
+
+- Phân tích suy luận: Phụ mẫu tại sơ hào là bệnh do tai nạn giao thông, mệt nhọc đưa tới tật bệnh, do cổ mộ, thi cốt đưa tới bệnh, dưới mặt đất có vật phóng xạ gây bệnh.
+- Phân tích suy luận: Phụ mẫu tại hào hai là bệnh do việc nhà đưa tới bệnh, ngủ không đủ, phong thuỷ gây ra bệnh, dinh dưỡng không đầy đủ gây bệnh, gia đình không vui gây ra bệnh.
+- Phân tích suy luận: Phụ mẫu tại hào ba là ác mộng, bất an, đau bụng, kiết lỵ, khí không lưu thông.
+- Phân tích suy luận: Phụ mẫu tại hào bốn là bệnh do tuổi già, hoặc cảm lạnh do ăn mặc, hoặc ngực có bệnh, táo bón, đại tiểu tiện không thông.
+- Phân tích suy luận: Phụ mẫu tại hào năm là tai nạn giao thông, bên ngoài nhiễm bệnh, lữ hành nhiễm bệnh, bệnh phổi, hô hấp khó khăn.
+- Phân tích suy luận: Phụ mẫu tại hào sáu là đầu có bệnh, tâm tình buồn phiền, tính tình không tốt, bị kích thích dẫn phát bệnh.
+##### Huynh đệ:
+
+- Phân tích suy luận: Huynh đệ tại sơ hào là bệnh ở chân, bệnh mụn cơm, bệnh phù chân, đi lại không tiện, không vọng không thể xuống đất.
+- Phân tích suy luận: Huynh đệ tại hào hai là bệnh chân, đầu gối, tiêu hóa không tốt, kiết lỵ, sinh hoạt tình dục quá độ, đại tiểu tiện không tốt.
+- Phân tích suy luận: Huynh đệ tại hào ba là đùi, eo, tiêu hóa không tốt, dạ dày có bệnh.
+- Phân tích suy luận: Huynh đệ tại hào bốn là ngực, nách, cổ tay, dạ dày có bệnh.
+- Phân tích suy luận: Huynh đệ tại hào năm là tay, bả vai, ngũ quan có bệnh.
+- Phân tích suy luận: Huynh đệ tại hào sáu là cãi nhau đưa tới bệnh, ngoại thương, tay, bả vai có bệnh.
+##### Tử tôn:
+
+- Phân tích suy luận: Tử tôn tại sơ hào là bệnh gây ra do động vật, cước bộ huyết mạch không thông gây bệnh.
+- Phân tích suy luận: Tử tôn tại hào hai là bộ phận sinh dục, ruột, đại tiểu tiện có bệnh, bệnh liệt dương, mang thai, xuất tinh sớm, sẩy thai, kinh nguyệt không đều, bệnh sa nang, bệnh lây qua đường sinh dục.
+- Phân tích suy luận: Tử tôn tại hào ba là mang thai, sinh hoạt tình dục quá độ, bộ phận sinh dục, ruột có bệnh.
+- Phân tích suy luận: Tử tôn tại hào bốn là nhũ phòng, thực quản, đường hô hấp, khí quản có bệnh.
+- Phân tích suy luận: Tử tôn tại hào năm là lỗ tai, yết hầu, khoang miệng, mũi, mắt, thực quản, đường hô hấp có bệnh.
+- Phân tích suy luận: Tử tôn tại hào sáu là cung cấp máu không đủ, mạch máu, chảy máu não, tắc máu não, thiếu máu các phương diện có vấn đề.
+##### Thê tài:
+
+- Phân tích suy luận: Thê tài tại sơ hào là bộ hạ đưa tới bệnh, do thực vật, nước gây bệnh.
+- Phân tích suy luận: Thê tài tại hào hai là hậu môn, đại tiểu tiện, ẩm thực, ngộ độc thức ăn, kinh nguyệt có bệnh.
+- Phân tích suy luận: Thê tài tại hào ba là eo, bụng, hậu môn, dạ dày, kinh nguyệt, tinh nang có bệnh.
+- Phân tích suy luận: Thê tài tại hào bốn là thận, bàng quang, thận, vú, đường hô hấp, tiêu hóa có bệnh.
+- Phân tích suy luận: Thê tài tại hào năm là tiêu hóa không tốt, tức sữa, hô hấp không thoải mái, thở khò khè.
+- Phân tích suy luận: Thê tài tại háo sáu là huyết dịch tuần hoàn không tốt, tóc có bệnh.
+
+### Khối U Và Ung Thư
+
+- Ung thư có xác suất tử vong tương đối cao, đương nhiên tỷ lệ chữa trị thấp có nguyên nhân lớn là do không phát hiện sớm.
+- Phần lớn người phát hiện ung thư đã đến giai đoạn cuối, cũng không kịp trị liệu.
+- Mà Lục hào dự đoán lại có thể sớm dự đoán tật bệnh, phòng ngừa rắc rối có thể xuất hiện.
+- Phán đoán tính chất cùng triệu chứng bệnh thông qua Dụng thần suy vượng cùng trường sinh mười hai cung.
+- Câu Trần là sưng vù, sưng u, bởi vậy nó là tiêu chí ung thư cùng khối u.
+- Câu Trần lâm Dụng thần, Kị thần, Nguyên thần liền có khả năng dễ bị ung thư.
+- Bất quá không thể chỉ từ lục thần mà kết luận, còn nhất định phải nhìn Dụng thần cùng Nguyên thần suy vượng.
+- Dụng thần hưu tù, Dụng thần hoặc Nguyên thần gặp tử mộ tuyệt thì khả năng là ung thư, Dụng thần vượng tướng là khối u hoặc sưng bình thường.
+#### Ví dụ 1: ** ngày Nhâm Ngọ, tháng Tý, năm 1995, một người đàn ông đến xem cha bệnh được quẻ Thủy Hỏa Ký Tế biến Phong Lôi Ích.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Nhâm Ngọ, tháng Mậu Tý, năm Ất Hợi
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Đại tuyết Lệnh tháng:
+- Tý-Thủy
+- Phương pháp lập quẻ:
+- Lục hào
+##### THỦY HỎA KÝ TẾ | BIẾN QUÁI: PHONG LÔI ÍCH
+
+- Lấy Phụ mẫu làm Dụng thần.
+- Phân tích suy luận: Phụ mẫu Thân kim lâm Câu Trần, chẳng những không được Nhật Nguyệt sinh phù, còn bị Nhật khắc thương nên hưu tù.
+- Nguyệt kiến nhập quẻ là hào động Tý Thủy làm Dụng thần lâm tử địa, đây chính là thông tin cực mạnh về ung thư.
+- Ung thư gì lại phán đoán từ phương diện khác.
+- Quẻ tại Khảm cung, Khảm là bàng quang, thận, lỗ tai, hào ba Huynh đệ Hợi thủy phát động hóa xuất Quan quỷ Thìn thổ, Hợi thủy làm Dụng thần lâm bệnh địa, Quan quỷ lại chủ tật bệnh, nhất định chỗ này đem đối ứng với bệnh tật của thân thể.
+- Thủy tại hào ba chủ thận, bàng quang, Thìn là đập chứa nước, nước là nước tiểu, đập chứa nước là nơi chứa nước, liền có thể hiểu thành bàng quang.
+- Đó chính là ung thư bàng quang.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 237.** Chính quái Thủy Hỏa Ký Tế
+    - <img src="assets/page_0220_img_01.png" alt="Hình 237" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 238.** Biến quái Phong Lôi Ích
+    - <img src="assets/page_0220_img_02.png" alt="Hình 238" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Dụng thần không vong, ung thư đã lâu, bệnh lâu gặp không dễ chết, Dụng thần hưu tù không có cứu giúp, nên rất xấu.
+- Năm 1996 là Bính Tý, Dụng thần lâm tử địa, năm này rất xấu.
+- **Ứng nghiệm:** cha mất tháng Tị năm Bính Tý.
+##### Ví dụ 2: ** ngày Giáp Thân tháng Mão, một người phụ nữ đến xem bệnh được quẻ Trạch Sơn Hàm
+
+- Quẻ tuy là Vương Hổ Ứng gieo nhưng cô gái xem, lấy hào thế làm Dụng thần.
+- Thế tại hào ba lâm Câu Trần bị hào hai Quan quỷ Ngọ hỏa khắc chế, hào ba là hào vị tử cung, hào thế lại là đất trường sinh của Tử tôn, là nơi sinh con, nên thông tin tử cung rất mạnh.
+- Câu Trần là sưng lên, nhưng hào thế lâm Nhật vượng nên chỉ đoán là u tử cung.
+- Phân tích suy luận: Quan quỷ là Kị thần, Tử tôn khắc quan, gặp Thủy là Trung y, cho nên đoán chữa bằng Đông y được.
+- **Ứng nghiệm:** Quả nhiên hôm trước đau bụng đến bệnh viện khám thấy u tử cung, sau dùng thuốc Đông y khỏi.
+##### Ví dụ 3: ** ngày Canh Tuất tháng Thìn, một người đàn ông đến xem bệnh được quẻ Sơn Hỏa Bí biến Phong Lôi Ích.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 239.** Hình quẻ Trạch Sơn Hàm (Chính quái)
+    - <img src="assets/page_0221_img_01.png" alt="Hình 239" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 240.** Hình quẻ Trạch Sơn Hàm (Biến quái)
+    - <img src="assets/page_0221_img_02.png" alt="Hình 240" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Tự mình đến xem bệnh lấy hào thế làm Dụng thần.
+- Phân tích suy luận: Hào thế không được Nhật Nguyệt sinh phù lại không vong nên hưu tù.
+- Trong quẻ Nguyên thần lưỡng hiện, đều phát động, nhưng bị Nhật Nguyệt khắc thương, lực sinh hào thế không mạnh.
+- Hào năm Nguyên thần lâm Câu Trần động mà hóa tuyệt, Nguyệt kiến lại là mộ khố, ung thư không thể nghi ngờ.
+- Hào năm là hào vị ngũ quan, Sơn Hỏa Bí tại Cấn cung, Cấn là cái mũi, kết hợp hào phán đoán là mũi ung thư.
+- Phân tích suy luận: Thê tài tại hào năm động mà hóa tuyệt là nước mũi lưu không ra, hô hấp không được.
+- Hào ba Nguyên thần Thê tài Hợi thủy cũng bị Nhật Nguyệt khắc thương, động mà hóa mộ, không thể sinh dụng, Thê tài chủ nước tiểu, nhập mộ không sinh dụng, là tiểu tiện khó khăn.
+- Thế lâm Bạch Hổ, Bạch Hổ là mổ.
+- Nhưng Dụng thần hưu tù, rất khó chữa trị hoàn toàn.
+- **Ứng nghiệm:** Quả nhiên là ung thư mũi.
+- Mổ nhưng cũng không đỡ.
+##### Ví dụ 4: ** ngày Bính Thân tháng Sửu năm Canh Thìn, đến xem bệnh của chú được quẻ Địa Phong Thăng biến Lôi Sơn Tiểu Quá.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 241.** Hình quẻ Sơn Hỏa Bí (Chính quái)
+    - <img src="assets/page_0222_img_01.png" alt="Hình 241" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 242.** Hình quẻ Phong Lôi Ích (Biến quái)
+    - <img src="assets/page_0222_img_02.png" alt="Hình 242" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Đinh Dậu, ngày Bính Thân, tháng Kỷ Sửu, năm Canh Thìn
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Đại hàn          Lệnh tháng:
+- Sửu-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+##### ĐỊA PHONG THĂNG | BIẾN QUÁI: LÔI SƠN TIỂU QUÁ
+
+- Lấy Hào Phụ mẫu làm Dụng thần.
+- Dụng thần lưỡng hiện, lấy hào Phụ mẫu Hợi thủy phát động làm Dụng thần.
+- Dụng thần được Nguyệt sinh Nhật khắc, suy vượng lực lượng tương đương.
+- Nhưng Kị thần Thê tài Sửu thổ động đến khắc dụng, lại làm Nguyên thần nhập mộ, khắc nhiều sinh ít tất hung.
+- Dụng thần lâm Câu Trần, Nguyên thần nhập mộ, là tin tức ung thư.
+- Dụng thần bị hào lâm Bạch Hổ khắc thương, Bạch Hổ chủ máu, nhất định là bệnh từ máu.
+- Kim chủ xương cốt, Thủy chủ chất lỏng, ở đây hiểu thành cốt tủy, kim nhập mộ không thể thoát, là cốt tủy xảy ra vấn đề không thể tạo máu, là ung thư xương.
+- Sang năm Tân Tị, Dụng thần gặp xung, tất hung.
+- **Ứng nghiệm:** Bị ung thư xương chết ngày Bính Thìn tháng Dần năm Tân Tị.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 243.** Chính quái Địa Phong Thăng
+    - <img src="assets/page_0223_img_01.png" alt="Hình 243" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 244.** Biến quái Lôi Sơn Tiểu Quá
+    - <img src="assets/page_0223_img_02.png" alt="Hình 244" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+##### Ví dụ 5: ** ngày Canh Tý tháng Dậu năm 2001, một người đàn ông đến xem bệnh của mẹ được quẻ Phong Trạch Trung Phu biến Phong Thuỷ Hoán.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Ất Dậu, ngày Canh Tý, tháng Đinh Dậu, năm Tân Tỵ
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Thu phân          Lệnh tháng:
+- Dậu-Kim
+- Phương pháp lập quẻ:
+- Lục hào
+##### PHONG TRẠCH TRUNG PHU | BIẾN QUÁI: PHONG THỦY HOÁN
+
+- Lấy Phụ mẫu làm Dụng thần.
+- Phân tích suy luận: Phụ mẫu Tị hỏa lưỡng hiện, lấy hào động Phụ mẫu Tị hỏa làm Dụng thần.
+- Dụng thần mặc dù động hóa hồi đầu sinh, nhưng Dụng thần lâm không nên không nhận sinh, Nhật thần khắc thương, Nguyệt kiến lại làm Dụng thần lâm tử địa, lại thêm Bạch Hổ lâm Dụng thần là có ý tử vong, bệnh của mẹ rất xấu.
+- Dụng thần Tị hỏa lâm Thái Tuế, động mà hóa Quan quỷ, chính là năm này biến thành quỷ, năm nay sợ là xấu.
+- Tháng Hợi hợp Nguyên thần không sinh Dụng thần, Dụng thần gặp xung không tốt.
+- Phán đoán chứng bệnh, hai cái Dụng thần tương hỗ xem thêm.
+- Một dụng thần lâm Câu Trần, Nguyệt kiến làm Dụng thần tử địa, là thông tin ung thư.
+- Dụng thần tử tại Dậu kim, Kim là Tử tôn, bệnh đối ứng với Tử tôn là xấu.
+- Phân tích suy luận: Tử tôn là ruột, đường
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 245.** Chính quái Phong Trạch Trung Phu
+    - <img src="assets/page_0224_img_01.png" alt="Hình 245" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- hô hấp, thực quản, nhũ phòng các loại, kết hợp Dụng thần lâm hào năm tin tức, đoán mẹ bị ung thư thực quản.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 246.** Biến quái Phong Thủy Hoán
+    - <img src="assets/page_0224_img_02.png" alt="Hình 246" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **Ứng nghiệm:** Mẹ quả nhiên là ung thư thực quản, kết quả cuối cùng như thế nào, bởi không gặp lại nên không biết.
+
+### Phán Đoán Nguyên Nhân Bệnh
+
+- Dùng Lục hào phán đoán nguyên nhân bệnh đầu tiên từ Quan quỷ lâm lục thần, tiếp đến xem Kị thần, Cừu thần, đương nhiên cần kết hợp hào vị cùng quẻ cung, mới có thể phán đoán chính xác.
+- Thanh Long là uống rượu, chuyện phòng the, yến hội, thăm người thân, thăm bạn, sinh con, sẩy thai, trúng độc gây bệnh.
+- Chu Tước là nổi giận, miệng lưỡi, cãi nhau, tố tụng, tung tin đồn nhảm, phỉ báng, nhục mạ, hoả hoạn, nguyền rủa gây bệnh.
+- Câu Trần là kiến trúc, sửa chữa và chế tạo, tu sửa, té ngã, phong thuỷ gây ra bệnh.
+- Đằng Xà là hoảng sợ, ác mộng, quái sự, âm khí, tà khí, chấn kinh gây ra bệnh.
+- Bạch Hổ là sảy thai, ẩu đả, truyền máu, thụ thương, tai nạn giao thông, lợi khí gây ra bệnh.
+- Huyền Vũ là âm khí, bi thương, tính dục quá độ, đánh bạc, trộm cướp, tâm tình u buồn gây ra bệnh.
+- Phân tích suy luận: Quan quỷ phục dưới hào Phụ mẫu, hoặc Phụ mẫu động hóa Quan quỷ là bởi tâm tình không thoải mái, vất vả mệt nhọc, xe thuyền, kiến trúc, trang phục, nhà ở phong thuỷ gây ra bệnh.
+- Phân tích suy luận: Quan quỷ phục dưới Huynh đệ, hoặc Huynh đệ động mà hóa Quan quỷ là đánh bạc, rủi ro, ẩm thực, bằng hữu gây ra bệnh.
+- Phân tích suy luận: Quan quỷ phục dưới Thê Tài, hoặc Thê tài động mà hóa Quan quỷ là bởi là tiền tài, nữ nhân, truyền máu, ẩm thực, hoa cỏ gây ra bệnh.
+- Phân tích suy luận: Quan quỷ phục dưới Tử tôn, hoặc Tử tôn động hóa Quan quỷ là uống rượu, lữ hành, hài tử, động vật, binh sĩ, dược vật gây ra bệnh.
+#### Ví dụ 1: ** ngày Kỷ Tị, tháng Dậu, một người đàn ông đến xem bệnh của vợ được quẻ Sơn Thiên Đại Súc biến Bát Thuần Càn.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Quý Dậu, ngày Kỷ Hợi, tháng Đinh Dậu, năm Tân Tỵ
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Thu phân Lệnh tháng:
+- Dậu-Kim
+- Phương pháp lập quẻ:
+- Lục hào
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 247.** Đồ hình quẻ Sơn Thiên Đại Súc biến Bát Thuần Càn
+    - <img src="assets/page_0226_img_01.png" alt="Hình 247" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- **SƠN THIÊN ĐẠI SÚC** | **BÁT THUẦN CÀN**
+- Lấy Thê tài làm Dụng thần.
+- Trong quẻ Thê tài Tý Thủy lưỡng hiện, lấy hào phát động Thê tài Tý Thủy làm Dụng thần.
+- Phân tích suy luận: Thê tài được Nguyệt sinh phù, động hóa hồi đầu sinh là vượng tướng.
+- Kị thần Tuất thổ mặc dù động khắc Dụng, nhưng không vong, lực khắc Dụng thần yếu bớt, rất có hi vọng chữa khỏi.
+- Dụng thần là Thủy bị khắc, Thủy chủ huyết dịch, thận, nước tiểu, Quan quỷ tại hào hai, hào hai là vị trí bào thai, lâm Bạch Hổ, Bạch Hổ chủ lưu sinh, Kị thần lâm Thanh Long, Thanh Long chủ sẩy thai, tổng hợp phán đoán là sẩy thai khiến bệnh về nước tiểu.
+- **Ứng nghiệm:** Vợ chính là do sẩy thai dẫn phát bệnh tiểu đường.
+##### Ví dụ 2: ** ngày Tân Sửu tháng Dậu, một người đàn ông tự kiểm tra bệnh được quẻ Thiên Phong Cấu biến Thiên Sơn Độn.
+
+- Lấy hào thế làm Dụng thần.
+- Phân tích suy luận: Hào thế lâm Nhật, Nguyệt kiến không khắc là vượng tướng.
+- Nhưng Nguyên thần hưu tù, Cừu thần độc phát, bệnh tật khó chữa trị.
+- Cừu thần động mà hóa xuất quan quỷ, thần cơ tại hào động, đây là chỗ phán đoán nguyên nhân bệnh mấu chốt.
+- Hào hai là trạch, Hợi thủy là Tây Bắc, lâm Huyền Vũ, Huyền Vũ chủ âm khí, là nhà ở hướng tây bắc có âm khí nhập trạch.
+- Phán đoán cụ thể bệnh chứng, cừu thần động khắc nguyên thần, Nguyên thần tại hào bốn, hào bốn là hào vị trái tim, Ngọ hỏa cũng chủ tim, là hoảng hốt.
+- Phân tích suy luận: Thê tài phục, không muốn ăn.
+- **Ứng nghiệm:** Người này đầu u ám, cả ngày tức ngực buồn nôn, cảm xúc không tốt, hướng tây bắc nhà ở là bệnh viện.
+##### Ví dụ 3: ** ngày Canh Ngọ tháng Tị, một người đàn ông đến xem bệnh được quẻ Thủy Địa Tỷ biến Phong Địa Quán.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 248.** Thiên Phong Cấu biến Thiên Sơn Độn
+    - <img src="assets/page_0227_img_01.png" alt="Hình 248" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy hào thế làm Dụng thần.
+- Mặc dù Nhật Nguyệt không khắc hào thế, nhưng hào thế không được Nhật Nguyệt sinh phù nên hưu tù.
+- Trong quẻ Nguyên thần Thê tài Tý Thủy phát động, nhưng tuyệt tại Nguyệt, Nhật thần xung là Nhật phá, sinh Dụng thần lực lượng không lớn.
+- Phân tích suy luận: Thê tài chủ hô hấp, ẩm thực, phá mà khó sinh Dụng thần, cho nên không phải thở khò khè chính là khó nhai nuốt.
+- Đoán nguyên nhân, Quan quỷ lâm Thanh Long, Thanh Long chính là yến hội, uống rượu, là bởi là uống rượu gây ra bệnh.
+- Mặt khác Thê tài động hóa Quan quỷ cũng là biểu thị vì ăn uống mà nhiễm bệnh.
+- Cạnh hào ứng, ứng là chỗ khác, là đến nhà người khác uống rượu mà bị bệnh.
+- **Ứng nghiệm:** Năm 1993 người này đến nhà bạn uống rượu quá độ mà bị phổi sinh mủ, cuối cùng phát triển thành thở khò khè.
+##### Ví dụ 4: ** ngày Mậu Ngọ tháng Thìn năm 2002, Trần tiên sinh nói một người phụ nữ muốn xem bệnh của con, ông ta bảo cô gái đọc 1 dãy số để lên quẻ nhưng Vương Hổ Ứng không bao giờ lên quẻ theo số. Trần tiên sinh liền bảo để cô gái gieo một quẻ nhưng Vương Hổ Ứng nói chính Trần tiên sinh có thể gieo quẻ là được. Thế là Trần tiên sinh gieo được quẻ Thiên Trạch Lý biến Thiên Thủy Tụng.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 249.** Thủy Địa Tỷ biến Phong Địa Quán
+    - <img src="assets/page_0228_img_01.png" alt="Hình 249" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Tân Dậu, ngày Mậu Ngọ, tháng Giáp Thìn, năm Nhâm Ngọ
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Cốc vũ                    Lệnh tháng:
+- Thìn-Thổ
+- Phương pháp lập quẻ:
+- Lục hào
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 250.** Chính quái Thiên Trạch Lý
+    - <img src="assets/page_0229_img_01.png" alt="Hình 250" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+  - **Hình 251.** Biến quái Thiên Thủy Tụng
+    - <img src="assets/page_0229_img_02.png" alt="Hình 251" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Bất kể là ai gieo quẻ, ý niệm đầu tiên là từ cô gái kia phát ra, cho nên lấy Tử tôn làm Dụng thần.
+- Phân tích suy luận: Tử tôn Thân kim Nguyệt sinh Nhật khắc, lực lượng tương đương.
+- Trong quẻ Kị thần Phụ mẫu Tị hỏa độc phát, đứa con bệnh không nhẹ.
+- Trong quẻ Nguyên thần lưỡng hiện, một là Huynh đệ Sửu thổ tại hào ba không vong, hào ba là giường, không nên không thể sinh Dụng thần, con của cô gái ngủ không yên.
+- Một Nguyên thần Huynh đệ Tuất thổ tại háo sáu nguyệt phá, hào sáu là đầu, lâm Chu Tước, chủ hồ ngôn loạn ngữ, nói rõ con trai của cô gái đầu óc có vấn đề, hồ ngôn loạn ngữ.
+- Tra nguyên nhân bệnh, hào hai Quan quỷ lâm Đằng Xà, Đằng Xà chủ quái dị, hào hai trạch, là tượng gia đình bất an.
+- Sơ hào Phụ mẫu Tị hỏa là Kị thần, lâm Câu Trần động hóa Quan quỷ, Phụ mẫu là kiến trúc, Câu Trần chủ tu sửa, Tị hỏa đối ứng năm 2001 Tân Tị, năm này nhất định có cải tạo nhà cửa.
+- Chính là do phong thuỷ
+- biến hóa mà gây ra bệnh.
+- Phụ mẫu là nhà ở, lâm Hỏa, Hỏa là số 2, lưỡng hiện kết hợp thành số bốn, Phụ mẫu Ngọ hỏa tại hào bốn, thế tại hào năm, cho nên đoán nhà ở không phải tầng bốn thì là tầng năm.
+- Hào động hóa Dần mộc tăng cường lực của Kị thần, trong nhà hẳn có một con hổ hàng mỹ nghệ.
+- Trần tiên sinh cũng không biết tình huống thực tế của cô gái, nhưng có thể khẳng định một chút là có lần qua chỉnh sửa phong thủy cho nhà cô gái có để đó một con hổ mỹ nghệ, thế là yêu cầu hóa giải.
+- Vương Hổ Ứng đề nghị phải xác minh chính xác thông tin từ quẻ mới có thể hóa giải.
+- **Ứng nghiệm:** Nhà cô gái ở tầng bốn, năm 2001 dọn lên tầng năm, sau đó sửa chữa nhà cửa, tháng Mão năm nay đột nhiên con nổi điên, lảm nhảm một mình, nói mình là thần tiên hạ phàm.
+- Sau khi được Vương Hổ Ứng hóa giải đã khỏi bệnh.
+##### Ví dụ 5: ** ngày Đinh Dậu tháng Giáp Thân năm Canh Thìn, một ông lão xem bệnh được quẻ Trạch Thiên Quải biến Trạch Hỏa Cách.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Kỷ Dậu, ngày Đinh Dậu, tháng Giáp Thân, năm Canh Thìn
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Lập thu Lệnh tháng:
+- Thân-Kim
+- Phương pháp lập quẻ:
+- Lục hào
+- **CHÍNH QUÁI**
+- **TRẠCH THIÊN QUẢI**
+- **BIẾN QUÁI**
+- **TRẠCH HỎA CÁCH**
+- Lấy hào thế làm Dụng thần.
+- Phân tích suy luận: Hào thế được Nhật Nguyệt tỷ hòa nên vượng tướng, có bệnh không sao.
+- Phân tích suy luận: Quan quỷ Dần mộc độc phát, khắc thương hào sáu Nguyên thần Mùi thổ, hào sáu chủ đầu, lâm Thanh Long chủ đau nhức, đoán có bệnh nhức đầu.
+- Hào ba Thìn thổ Nguyên thần không nên không thể sinh thế, Thìn là đập chứa nước, là bàng quang, là thận, đoán thận hư, Quan quỷ Dần mộc tại hào hai lâm Câu Trần khắc nguyên thần, Câu Trần chủ sưng, hào hai là chân, đoán trên đùi bị sưng, chính là sưng thận.
+- Hiện nằm trên giường truyền dịch, truyền dịch là chất lỏng thuộc Thủy, Thủy sinh cừu thần Quan quỷ, không có lợi cho Dụng thần, đoán truyền dịch tại bệnh viện nhưng bệnh tình không khả quan ngược lại càng ngày càng nghiêm trọng.
+- Mỗi ngày rạng sáng 3~7 giờ là giờ Dần, Mão là lúc cừu thần vượng cũng là lúc bệnh tình nghiêm trọng nhất.
+- Giờ Thìn Nguyên thần xuất không, sinh trợ Dụng thần, đoán buổi sáng sau 7h sưng tự nhiên giảm bớt.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 252.** Trạch Thiên Quải (Chính quái)
+    - <img src="assets/page_0231_img_01.png" alt="Hình 252" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 253.** Trạch Hỏa Cách (Biến quái)
+    - <img src="assets/page_0231_img_02.png" alt="Hình 253" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Hào hai là trạch, Mộc quỷ lâm Câu trần động, chủ kiến tạo, Dần mộc đối ứng năm 98, đoán năm 98 sửa nhà.
+- Phân tích suy luận: Quan quỷ lâm Câu Trần tại trạch hào phát động, bệnh cùng phong thuỷ có quan hệ.
+- Mộc lâm hào hai, đoán trong nhà có cây, hóa Sửu thổ là Đông Bắc, cây tại hướng đông bắc.
+- Dần mộc Nguyệt phá, gặp thai địa của Dậu kim là Ngọ hỏa, đoán hướng đông bắc nhà cây vừa mọc liền phân chạc, tượng cái đùi người dựng ngược.
+- Bởi là đoán tại chỗ cực kỳ ứng nghiệm, bệnh nhân cực kỳ tin tưởng nên không truyền dịch nữa mà xuất viện.
+- Sau khi hóa giải, 1 tuần sau đã hết sưng.
+
+### Bệnh Tật Tổng Hợp Phán Đoán
+
+- Cơ thể con người rất phức tạp, có đủ loại bệnh.
+- Có người có một bệnh, có người lại nhiều bệnh.
+- Phán đoán bệnh tật cát hung, chỉ nhìn Dụng thần suy vượng là được, nhưng là muốn đánh giá xem người nào đó mang những bệnh gì và nguyên nhân gây bệnh cần trình độ dự đoán rất sâu.
+- Có thể nói phán đoán một quẻ cũng nói lên trình độ của người dự đoán thế nào.
+- Nếu như không có trình độ sâu sắc thì càng khó để hóa giải.
+#### Ví dụ 1: ngày Kỷ Sửu tháng Dậu, một người phụ nữ đến xem vận được quẻ Hỏa Thiên Đại Hữu biến Thiên Lôi Vô Vọng.**
+
+- **CHÍNH QUÁI**
+- **HỎA THIÊN ĐẠI HỮU**
+- **BIẾN QUÁI**
+- **THIÊN LÔI VÔ VỌNG**
+- Đầu tiên xem tài vận, bên trong quẻ Thê tài Dần mộc bị Nguyệt kiến khắc thương, hưu tù vô khí, tài vận không tốt.
+- Hôn nhân xem Quan quỷ, Quan quỷ Tị hỏa
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 254.** Hỏa Thiên Đại Hữu (Chính quái)
+    - <img src="assets/page_0232_img_01.png" alt="Hình 254" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- hưu tù lâm Câu Trần, chồng lười biếng.
+- Nguyên thần nhập mộ tại hào động Mùi thổ, không sinh Quan quỷ, quẻ nội phục ngâm, hôn nhân không tốt, vợ chồng bất hòa.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 255.** Thiên Lôi Vô Vọng (Biến quái)
+    - <img src="assets/page_0232_img_02.png" alt="Hình 255" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Sức khỏe nhìn hào thế.
+- Phân tích suy luận: Hào thế lâm hào ba, hào ba là mộ khố của Tử tôn, hào ba lại là hào vị tử cung, bị hào hai Dần mộc khắc thương, phụ khoa có bệnh, lâm Huyền Vũ cũng chủ bệnh phụ khoa.
+- Kị thần tại hào hai, là mộc chủ ruột, hào ba là thổ bị khắc, là dạ dày không tốt.
+- Hào năm phát động, Kị thần nhập mộ tại Mùi thổ, chính là bộ vị tương ứng Mùi thổ có bệnh.
+- Tài là ẩm thực, tại hào năm có thể nghĩa rộng là sữa, mộ khố của sữa tức là vú.
+- Cho nên dễ viêm tuyến sữa.
+- **Ứng nghiệm:** Hết thảy đều đúng.
+##### Ví dụ 2: ** Ngày Quý Sửu tháng Thìn, một người phụ nữ đến xem bệnh được quẻ Thiên Hỏa Đồng Nhân biến Trạch Thủy Khốn.
+
+##### THIÊN HỎA ĐỒNG NHÂN — BIẾN QUÁI: TRẠCH THỦY KHỐN
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 256.** Chính: Thiên Hỏa Đồng Nhân
+    - <img src="assets/page_0233_img_01.png" alt="Hình 256" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+  - **Hình 257.** Biến: Trạch Thủy Khốn
+    - <img src="assets/page_0233_img_02.png" alt="Hình 257" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lấy hào thế làm Dụng thần.
+- Phân tích suy luận: Hào thế bị Nhật Nguyệt khắc thương, hưu tù vô khí không tốt.
+- Kị thần lâm hào sáu động mà khắc thế, hào sáu là đầu, lâm Bạch Hổ chủ máu, Ly cung quẻ, là huyết áp thấp.
+- Một Kị thần khác là Tử tôn Sửu thổ lâm hào hai khắc Dụng thần, Sửu là mộ khố của Tài, Tài là cứt đái, mộ khố lâm Tử tôn là ruột, bộ phận sinh dục, thế lâm Chu Tước chủ chứng viêm, đoán có viêm ruột.
+- Lại Sửu là lá gan mà khắc thế, là gan có bệnh, hào thế Thủy bị khắc, có bệnh gan trướng nước.
+- Hào hai cũng chủ chân, lâm Thanh Long chủ đau nhức, có bệnh đau chân.
+- **Ứng nghiệm:** Chỗ đoán bệnh tật đều nghiệm, cô gái nói bệnh gan trướng nước đã tốt.
+- Cái khác bệnh còn chưa chữa khỏi.
+##### Ví dụ 3: ** ngày Ất Hợi tháng Sửu một phụ nữ hơn năm mươi tuổi hỏi sự tình được quẻ Thiên Lôi Vô Vọng biến Trạch Địa Tụy.
+
+##### THIÊN LÔI VÔ VỌNG — BIẾN QUÁI: TRẠCH ĐỊA TỤY
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 258.** Chính: Thiên Lôi Vô Vọng
+    - <img src="assets/page_0234_img_01.png" alt="Hình 258" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+  - **Hình 259.** Biến: Trạch Địa Tụy
+    - <img src="assets/page_0234_img_02.png" alt="Hình 259" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Trong quẻ Tài động hóa thoái, sơ hào là tâm tư, động mà hóa ra hào Tài, hẳn là hỏi về tiền tài.
+- Đáp:
+- Cô gái nguyên lai là người bán hàng, cho khách hàng nợ nhưng không trả, thế là cơ quan khấu trừ tiền lương để trả nợ.
+- Phân tích suy luận: Tử tôn trì thế, Quan quỷ không vong nhập mộ, chính là tượng về hưu, đoán đã về hưu.
+- Đáp:
+- Đã về hưu.
+- Phân tích suy luận: Hào thế Tử tôn tuyệt ở Nhật, lại bị Phụ mẫu Tý Thủy động mà khắc thương, bất lực sinh hào Tài, đoán rất khó lấy lại tiền lương.
+- Phân tích suy luận: Phụ mẫu Tý Thủy động hóa hồi đầu khắc, Nguyệt kiến lại khắc, hào sáu Thê tài Tuất thổ cũng động mà đến khắc, khắc nhiều sinh ít, dương hào chủ Bố, đoán bố đã không còn tại nhân thế.
+- Đáp:
+- Đã mất năm 1989.
+- Ta bổ sung nói năm 1989 là Tị, là đất tuyệt của Phụ mẫu.
+- Hào sáu Tuất thổ động làm hào thế nhập mộ, hào sáu là đầu, nhập mộ là tượng mê muội, thế lâm Ngọ hỏa bị Nhật khắc thương, Hỏa tại hào bốn là trái tim, lâm Xà
+- là hoảng hốt.
+- Hào hai là nguyên thần, bị Nhật hợp, không thể sinh dụng, Huynh đệ là mộc chủ gió, hào hai là chân, đoán chân bị run.
+- Đáp:
+- Bản thân có choáng đầu, cao huyết áp, hoảng hốt, trên đùi thỉnh thoảng bị run.
+- Cô gái lại muốn xem bệnh cho mẹ.
+- Vừa rồi đã lấy Phụ mẫu Tý Thủy xem về bố, trong quẻ chỉ có một hào Phụ mẫu, cho nên không thể lại dùng Hào Phụ mẫu xem cho mẹ.
+- Lấy lục thân chuyển đổi nguyên lý, Tử tôn Ngọ hỏa liền có thể xem như mẹ.
+- Tại chỗ có người phản đối nói, hào thế cùng mẫu thân cùng là một hào, đây không phải loạn luân sao?
+- Cô gái cũng là vợ của bố à?
+- Đối thoại thực tế: Ta nói, hào thế chuyển đổi tới mẫu thân hào vị giống nhau, vừa vặn nói rõ cô gái cùng mẹ có dáng dấp rất giống.
+- Đây đoán bệnh, không phải đoán hôn nhân, đoán hôn nhân lại không thể nhìn như vậy.
+- Hỏi ra, quả nhiên lớn lên giống mẫu thân.
+- Phân tích suy luận: Tử tôn Ngọ hỏa bị khắc, đoán mẹ có bệnh tim nghiêm trọng.
+- Dụng thần nhập mộ tại Tuất thổ, đoán mẹ từng nằm viện năm 1994 Giáp Tuất.
+- Hào hai Huynh đệ Dần mộc là nguyên thần, bị Nhật hợp không thể sinh dụng, đoán mẹ chân đã biến hình, không thể đi lại.
+- Năm 1992 Nhâm Thân, năm 1993 Quý Dậu, năm 1994 Giáp Tuất, năm 1995 Ất Hợi, năm 1996 Bính Tý, đều bất lợi đối với Dụng thần, cho nên đoán mẹ thân thể càng ngày càng tệ.
+- Đáp:
+- Đều đúng.
+##### Ví dụ 4: ** ngày Giáp Tý tháng Đinh Mão năm Kỷ Mão, có người đến xem bệnh của mình gieo được quẻ Trạch Thiên Quải biến Lôi Thiên Đại Tráng.
+
+- Bối cảnh chiêm đoán và thời gian: Can Chi:
+- Giờ Quý Dậu, ngày Giáp Tý, tháng Đinh Mão, năm Kỷ Mão
+- Bối cảnh chiêm đoán và thời gian: Tiết khí:
+- Kinh trập          Lệnh tháng:
+- Mão-Mộc
+- Phương pháp lập quẻ:
+- Lục hào
+- Lấy hào thế làm Dụng thần.
+- Phân tích suy luận: Hào thế Nguyệt phá, tử ở Nhật, hưu tù động mà hóa thoái, điềm dữ.
+- Bạch Hổ chủ bệnh cũng chủ tang.
+- Phân tích suy luận: Tử tôn là khoái hoạt chi thần, nay lâm hào thế phá mà hóa thoái, đoán bởi vì bị bệnh mà tâm tình ngột ngạt, không cao hứng, cảm xúc càng ngày càng sa sút, ta khuyên anh ta nên nghĩ thoáng chút, nếu không phi thường bất lợi.
+- Hào hai Quan quỷ Dần mộc lâm Chu Tước, mộc chủ tỳ vị, bởi là dương hào, dương là vị, Chu Tước chủ chứng viêm, đoán túi mật viêm.
+- Thế lâm Bạch Hổ động mà hóa thoái, Bạch Hổ chủ tổn thương, lấy thoái thần là ứng kỳ, đoán năm Nhâm Thân bị tổn thương.
+- Anh ta nói năm Nhâm Thân bị thương, năm ngoái viêm túi mật nên đến bệnh viện kiểm tra, bác sĩ chụp x quang, nói anh ta bị ung thư gan.
+- Đối thoại thực tế: Ta nói mộc mặc dù cũng có thể chủ gan, nhưng trong quẻ không có thông tin mạnh về gan, gan sẽ không có vấn đề.
+- Anh ta kể, về sau lại đến bệnh viện khác xét
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 260.** Trạch Thiên Quải (Chính quái)
+    - <img src="assets/page_0236_img_01.png" alt="Hình 260" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- nghiệm gan, không phát hiện có vấn đề gì, thế nhưng lời bác sĩ nói có ung thư gan luôn trong đầu anh ta, nửa năm qua cảm xúc ngày càng sa sút.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 261.** Lôi Thiên Đại Tráng (Biến quái)
+    - <img src="assets/page_0236_img_02.png" alt="Hình 261" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Lúc ấy vợ của anh ta thấy đoán cho chồng hết sức chính xác, cũng muốn gieo một quẻ xem sức khỏe của mình.
+- Đối thoại thực tế: Ta nói không cần gieo lại, dùng này quẻ đoán là đủ.
+- Cô gái hỏi:
+- Đây là đoán bệnh cho chồng, sao lại có thể.
+- Ta đáp:
+- Làm sao không được?
+- Ta dựa theo này quẻ xem có đúng hay không?
+- Bởi vì quẻ do chồng gieo nên lấy Thê tài làm dụng.
+- Trong quẻ Thê tài lưỡng hiện, lấy thê tài Hợi thủy không vong làm dụng.
+- Nguyên thần Tử tôn Dậu kim lâm Bạch Hổ Nguyệt phá, động mà hóa thoái, Bạch Hổ chủ máu, Tử tôn chủ mạch máu, phá mà hóa thoái không sinh dụng, Dụng thần không là không bị khắc cũng không được sinh, là cung cấp máu không đủ.
+- Phân tích suy luận: Quan quỷ Dần mộc tại hào hai, là nhàn thần vượng tướng, hào hai là ruột, lâm Chu Tước chủ chứng viêm, đoán có viêm ruột.
+- **Ứng nghiệm:** Năm Canh Thìn một vị hàng xóm đến nói năm ngoái người đàn ông kia đã chết năm Kỷ Mão.
+- Đến cùng không thể thoát khỏi cảm xúc bi quan, thật sự đáng tiếc.
+- Còn đối với người vợ thì đã chứng minh tại chỗ.
+##### Ví dụ 5: ngày Kỷ Hợi tháng Tý, một người phụ nữ đến xem vận làm quan của chồng được quẻ Trạch Lôi Tùy biến Hỏa Lôi Phệ Hạp.
+
+- Lấy Quan quỷ làm Dụng thần.
+- Phân tích suy luận: Quan quỷ mặc dù không được Nhật Nguyệt sinh phù nhưng hào ứng động sinh, Quan quỷ lại phát động hóa hồi đầu sinh, thần cơ tại hào động, có hi vọng thăng tiến.
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 262.** Trạch Lôi Tùy (Chính quái)
+    - <img src="assets/page_0237_img_01.png" alt="Hình 262" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ chính phản ánh tổng thể cục diện, nguyên nhân khởi phát và trạng thái hiện tại của sự việc.
+    - **Từ đâu mà thấy được**
+      - Xem xét hào Thế, hào Ứng, hào vị Dụng thần cùng trạng thái vượng suy, phục thần, tuần không.
+
+- Quái lệ chiêm đoán và đồ hình biến hóa:
+  - **Hình 263.** Hỏa Lôi Phệ Hạp (Biến quái)
+    - <img src="assets/page_0237_img_02.png" alt="Hình 263" />
+    - **Hình này chứng minh điều gì**
+      - Quẻ biến biểu thị xu thế chuyển biến của sự việc và kết quả ứng nghiệm cuối cùng.
+    - **Từ đâu mà thấy được**
+      - Quan sát hào biến, lục thân và hào động tương tác sinh khắc để xác định ứng kỳ.
+
+- Phân tích suy luận: Hào ứng phát động sinh quan quỷ, ứng là người khác, là có người muốn đề bạt chồng cô làm quan.
+- Nhưng hào thế không vong, thế là người đến xem, không vong biểu thị lo lắng, người đến xem có chút do dự, không muốn để cho chồng cô thăng tiến.
+- Phân tích suy luận: Hào ứng là tài, động mà hóa ra Tử tôn Tị hỏa, Tị hỏa bị Nguyệt khắc Nhật xung là Nhật phá.
+- Tài ở quẻ thượng lâm Ứng sinh Quan quỷ hóa Nhật phá, đây là sau khi thăng quan tiền sẽ cạn kiệt.
+- Cho nên ta đoán chồng hiện tại có quyền kinh tế nơi tay, thăng quan về sau, không nắm giữ quyền kinh tế, lo lắng tài vận chịu ảnh hưởng, cho nên có chút không muốn lên chức.
+- Hỏi ra, quả nhiên, lãnh đạo muốn đề bạt chồng cô gái lên chức, hiện tại chồng cô gái làm tại phòng mậu dịch, lên chức lại đến bộ phận hành chính.
+- Đối thoại thực tế: Ta nói thiên hạ chi tài rất nhiều, con người dục vọng không có tận cùng, vĩnh viễn cũng chả bao giờ đủ.
+- Tài là ảnh hưởng bởi vận khí.
+- Có mất tất có được, tài xoay qua chỗ khác sẽ còn quay lại.
+- Năm 2001 Tân Tị, Tử tôn Tị hỏa thực phá, quyền kinh tế sẽ còn quay lại.
+- Hiện tại chồng thân thể không tốt, lần này thăng quan tương đương anh ta từ hoàn cảnh khẩn trương giải thoát một chút, bồi dưỡng thân thể không phải rất tốt sao?
+- Cô gái này gật đầu nói phải, cười hỏi: "Ông biết chồng tôi có bệnh gì?" Đây rõ ràng là tại đánh đố.
+- Dự đoán tật bệnh, lấy Quan quỷ làm Dụng thần, bởi là Quan quỷ đại biểu người chồng.
+- Phân tích suy luận: Quan quỷ không bị Nhật Nguyệt khắc thương, cho nên không thể dùng Quan quỷ hào vị cùng ngũ hành để phán đoán.
+- Hào ba Thê tài Thìn thổ là nguyên thần, không nên không cách nào sinh dụng, hào ba là eo cùng bắp đùi, lâm Huyền Vũ, Huyền Vũ chủ phong hàn, cho nên đoán chồng có bệnh viêm khớp mãn tính, eo chân không tốt.
+- **Ứng nghiệm:** Suy đoán quả nhiên ứng nghiệm.

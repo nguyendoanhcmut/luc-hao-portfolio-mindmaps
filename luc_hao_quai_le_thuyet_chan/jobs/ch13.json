@@ -1,0 +1,225 @@
+{
+  "chunk_id": "ch13",
+  "title": "Chương 10: Bí Pháp 12 Cung Trường Sinh",
+  "start_heading_level": 2,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch13.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch13_chuong_10_bi_phap_12_cung_truong_sinh_branches.md",
+  "figure_ids": [
+    "fig_57",
+    "fig_58",
+    "fig_59",
+    "fig_60",
+    "fig_61",
+    "fig_62",
+    "fig_63",
+    "fig_64",
+    "fig_65",
+    "fig_66",
+    "fig_67",
+    "fig_68",
+    "fig_69",
+    "fig_70",
+    "fig_71"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_57",
+      "figure_number": "57",
+      "caption": "Quẻ Thiên Trạch Lý biến Thiên Thủy Tụng",
+      "rel_path": "assets/page_0103_img_01.png"
+    },
+    {
+      "id": "fig_58",
+      "figure_number": "58",
+      "caption": "Sơ đồ quẻ Hỏa Sơn Lữ biến Ly Vi Hỏa",
+      "rel_path": "assets/page_0105_img_01.png"
+    },
+    {
+      "id": "fig_59",
+      "figure_number": "59",
+      "caption": "Sơ đồ quẻ Địa Trạch Lâm",
+      "rel_path": "assets/page_0106_img_01.png"
+    },
+    {
+      "id": "fig_60",
+      "figure_number": "60",
+      "caption": "Quẻ Cấn Vi Sơn biến Sơn Địa Bác",
+      "rel_path": "assets/page_0107_img_01.png"
+    },
+    {
+      "id": "fig_61",
+      "figure_number": "61",
+      "caption": "Sơ đồ quẻ Phong Trạch Trung Phu biến Thiên Thủy Tụng",
+      "rel_path": "assets/page_0109_img_01.png"
+    },
+    {
+      "id": "fig_62",
+      "figure_number": "62",
+      "caption": "Sơ đồ quẻ Phong Hỏa Gia Nhân biến Tốn Vi Phong",
+      "rel_path": "assets/page_0110_img_01.png"
+    },
+    {
+      "id": "fig_63",
+      "figure_number": "63",
+      "caption": "Sơ đồ quẻ Lôi Thiên Đại Tráng biến Càn Vi Thiên",
+      "rel_path": "assets/page_0111_img_01.png"
+    },
+    {
+      "id": "fig_64",
+      "figure_number": "64",
+      "caption": "Sơ đồ quẻ Sơn Thủy Mông biến Địa Thủy Sư",
+      "rel_path": "assets/page_0112_img_01.png"
+    },
+    {
+      "id": "fig_65",
+      "figure_number": "65",
+      "caption": "Sơ đồ quẻ Trạch Sơn Hàm biến Hỏa Sơn Lữ",
+      "rel_path": "assets/page_0113_img_01.png"
+    },
+    {
+      "id": "fig_66",
+      "figure_number": "66",
+      "caption": "Sơ đồ quẻ Hỏa Trạch Khuê biến Càn Vi Thiên",
+      "rel_path": "assets/page_0114_img_01.png"
+    },
+    {
+      "id": "fig_67",
+      "figure_number": "67",
+      "caption": "Sơ đồ quẻ Địa Sơn Khiêm biến Lôi Thiên Đại Tráng",
+      "rel_path": "assets/page_0115_img_01.png"
+    },
+    {
+      "id": "fig_68",
+      "figure_number": "68",
+      "caption": "Quẻ Phong Thủy Hoán biến Trạch Thủy Khốn",
+      "rel_path": "assets/page_0117_img_01.png"
+    },
+    {
+      "id": "fig_69",
+      "figure_number": "69",
+      "caption": "Quẻ Cấn Vi Sơn biến Thủy Hỏa Ký Tế",
+      "rel_path": "assets/page_0119_img_01.png"
+    },
+    {
+      "id": "fig_70",
+      "figure_number": "70",
+      "caption": "Quẻ Phong Thủy Hoán",
+      "rel_path": "assets/page_0120_img_01.png"
+    },
+    {
+      "id": "fig_71",
+      "figure_number": "71",
+      "caption": "Quẻ Thiên Trạch Lý biến Lôi Hỏa Phong",
+      "rel_path": "assets/page_0121_img_01.png"
+    }
+  ],
+  "exercises": [
+    {
+      "line": 1750,
+      "exercise_id": "vd_057",
+      "title": "Ví dụ 1: Ngày Nhâm Thìn tháng Nhâm Tý năm Đinh Sửu, nam xem về việc thai sản của vợ, được Thiên Trạch Lý biến Thiên Thủy",
+      "start_page": 103,
+      "end_page": 103
+    },
+    {
+      "line": 1777,
+      "exercise_id": "vd_058",
+      "title": "Ví dụ 2: Ngày Tân Tị tháng Đinh Tị năm Mậu Dần, nam đoán vận khí lưu niên, được quẻ Hỏa Sơn Lữ biến Ly Vi Hỏa.",
+      "start_page": 105,
+      "end_page": 105
+    },
+    {
+      "line": 1801,
+      "exercise_id": "vd_059",
+      "title": "Ví dụ 3: Ngày Bính Ngọ tháng Mậu Ngọ năm Mậu Dần, nữ xem công việc, được quẻ Địa Trạch Lâm.",
+      "start_page": 106,
+      "end_page": 106
+    },
+    {
+      "line": 1822,
+      "exercise_id": "vd_060",
+      "title": "Ví dụ 4: Ngày Canh Ngọ tháng Mão năm Mậu Dần, La tiên sinh xem lưu niên của người bạn, được Cấn Vi Sơn biến Sơn Địa Bác.",
+      "start_page": 107,
+      "end_page": 107
+    },
+    {
+      "line": 1849,
+      "exercise_id": "vd_061",
+      "title": "Ví dụ 5: Ngày Canh Thìn tháng Kỷ Mùi năm Mậu Dần, một chủ công xưởng khai thác ...",
+      "start_page": 109,
+      "end_page": 109
+    },
+    {
+      "line": 1879,
+      "exercise_id": "vd_062",
+      "title": "Ví dụ 6: Ngày Quý Tị tháng Giáp Tý năm Mậu Dần, hỏi sức khỏe con nhỏ, được quẻ ...",
+      "start_page": 110,
+      "end_page": 110
+    },
+    {
+      "line": 1902,
+      "exercise_id": "vd_063",
+      "title": "Ví dụ 7: Ngày Ất Mùi tháng Giáp Tý năm Mậu Dần, nam đoán xem khi nào có con? Được quẻ Lôi Thiên Đại Tráng biến Càn Vi Th",
+      "start_page": 111,
+      "end_page": 111
+    },
+    {
+      "line": 1925,
+      "exercise_id": "vd_064",
+      "title": "Ví dụ 8: Ngày Bính Tý tháng Sửu năm Mậu Dần, hỏi bệnh, được quẻ Sơn Thủy Mông biến Địa Thủy Sư.",
+      "start_page": 112,
+      "end_page": 112
+    },
+    {
+      "line": 1944,
+      "exercise_id": "vd_065",
+      "title": "Ví dụ 9: Ngày Bính Thân tháng Bính Dần năm Kỷ Mão, nam xem lưu niên, được Trạch Sơn Hàm biến Hỏa Sơn Lữ.",
+      "start_page": 113,
+      "end_page": 113
+    },
+    {
+      "line": 1967,
+      "exercise_id": "vd_066",
+      "title": "Ví dụ 10: Ngày Mậu Thìn tháng Đinh Mão năm Mão, nam đoán cát hung của vợ con, được quẻ Hỏa Trạch Khuê biến Càn Vi Thiên.",
+      "start_page": 114,
+      "end_page": 114
+    },
+    {
+      "line": 1992,
+      "exercise_id": "vd_067",
+      "title": "Ví dụ 11: Ngày Giáp Tuất tháng Đinh Mão năm Kỷ Mão, nữ đoán vận khí lưu niên, đư...",
+      "start_page": 115,
+      "end_page": 115
+    },
+    {
+      "line": 2031,
+      "exercise_id": "vd_068",
+      "title": "Ví dụ 12: Ngày Ất Tị tháng Canh Ngọ năm Kỷ Mão, nam ở thành phố Trường Trị đoán hôn nhân, được quẻ Phong Thủy Hoán biến ",
+      "start_page": 117,
+      "end_page": 117
+    },
+    {
+      "line": 2062,
+      "exercise_id": "vd_069",
+      "title": "Ví dụ 13: Ngày Nhâm Tý tháng Canh Thìn năm Canh Thìn, có người bạn xem về việc vợ mang thai, được Cấn Vi Sơn biến Thủy H",
+      "start_page": 119,
+      "end_page": 119
+    },
+    {
+      "line": 2084,
+      "exercise_id": "vd_070",
+      "title": "Ví dụ 14: Ngày Ất Sửu tháng Tân Tị năm Canh Thìn, một người xưng là hiệu trưởng đoán sự nghiệp, được Phong Thủy Hoán.",
+      "start_page": 120,
+      "end_page": 120
+    },
+    {
+      "line": 2106,
+      "exercise_id": "vd_071",
+      "title": "Ví dụ 15: Ngày Nhâm Thân tháng Tân Tị năm Canh Thìn, nam đoán bệnh cháu trai (sinh năm 99), được Thiên Trạch Lý biến Lôi",
+      "start_page": 121,
+      "end_page": 121
+    }
+  ],
+  "parent_titles": []
+}

@@ -1,0 +1,130 @@
+{
+  "summary": {
+    "total_books": 1,
+    "total_pages": 44,
+    "total_worker_pairs": 22,
+    "total_chapters": 10,
+    "total_batches": 1,
+    "total_waves": 1,
+    "est_time_sec_min": 12,
+    "est_time_sec_max": 15,
+    "est_time_str": "12-15s (0.2-0.2 min)"
+  },
+  "books": [
+    {
+      "file": "VƯƠNG HỔ ỨNG - LỤC HÀO KỸ PHÁP VÀ ỨNG DỤNG.pdf",
+      "path": "C:\\Users\\Admin\\Downloads\\drive-download-20260908T061604Z-1-001\\VƯƠNG HỔ ỨNG - LỤC HÀO KỸ PHÁP VÀ ỨNG DỤNG.pdf",
+      "total_pages": 44,
+      "worker_pairs": 22,
+      "has_native_text": true,
+      "detection_tier": "Tier 1 (TOC Bookmarks)",
+      "chapters_count": 10,
+      "batches_count": 1,
+      "total_waves": 1,
+      "est_time_sec_min": 12,
+      "est_time_sec_max": 15,
+      "est_time_str": "12-15s",
+      "chapters": [
+        {
+          "title": "BÌA",
+          "start_page": 1,
+          "end_page": 1,
+          "id": 1,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "MỤC LỤC",
+          "start_page": 2,
+          "end_page": 2,
+          "id": 2,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "LỜI DỊCH GIẢ",
+          "start_page": 3,
+          "end_page": 4,
+          "id": 3,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "1. TRƯỜNG SINH 12 CUNG BÍ PHÁP",
+          "start_page": 5,
+          "end_page": 8,
+          "id": 4,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "2. BÍ MẬT CỦA PHI PHỤC",
+          "start_page": 9,
+          "end_page": 11,
+          "id": 5,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "3. KHÔNG VONG HOẠT DỤNG",
+          "start_page": 12,
+          "end_page": 13,
+          "id": 6,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "4. QUẺ DO AI ĐẾN GIEO",
+          "start_page": 14,
+          "end_page": 23,
+          "id": 7,
+          "pages": 10,
+          "pairs": 5
+        },
+        {
+          "title": "5. QUẺ GIÁN ĐOÁN MỘNG",
+          "start_page": 24,
+          "end_page": 25,
+          "id": 8,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "6. LỤC HÀO XẠ PHÚC",
+          "start_page": 26,
+          "end_page": 27,
+          "id": 9,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "7. LỤC HÀO ĐOÁN TƯỚNG MẠO",
+          "start_page": 28,
+          "end_page": 44,
+          "id": 10,
+          "pages": 17,
+          "pairs": 9
+        }
+      ],
+      "batches": [
+        {
+          "batch_id": 1,
+          "chapter_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "total_pairs": 24,
+          "waves": 1
+        }
+      ]
+    }
+  ]
+}

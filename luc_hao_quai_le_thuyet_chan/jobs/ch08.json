@@ -1,0 +1,127 @@
+{
+  "chunk_id": "ch08",
+  "title": "Chương 5: Nguyệt Phá Biện Nghĩa",
+  "start_heading_level": 2,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch08.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch08_chuong_5_nguyet_pha_bien_nghia_branches.md",
+  "figure_ids": [
+    "fig_26",
+    "fig_27",
+    "fig_28",
+    "fig_29",
+    "fig_30",
+    "fig_31",
+    "fig_32",
+    "fig_33"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_26",
+      "figure_number": "26",
+      "caption": "Quẻ Thủy Hỏa Ký Tế biến Thủy Lôi Truân",
+      "rel_path": "assets/page_0054_img_01.png"
+    },
+    {
+      "id": "fig_27",
+      "figure_number": "27",
+      "caption": "Sơ đồ quẻ Thiên Lôi Vô Vọng biến Phong Thủy Hoán",
+      "rel_path": "assets/page_0055_img_01.png"
+    },
+    {
+      "id": "fig_28",
+      "figure_number": "28",
+      "caption": "Sơ đồ quẻ Sơn Lôi Di",
+      "rel_path": "assets/page_0056_img_01.png"
+    },
+    {
+      "id": "fig_29",
+      "figure_number": "29",
+      "caption": "Sơ đồ quẻ Địa Thiên Thái biến Lôi Thiên Đại Tráng",
+      "rel_path": "assets/page_0057_img_01.png"
+    },
+    {
+      "id": "fig_30",
+      "figure_number": "30",
+      "caption": "Quẻ Trạch Thiên Quải biến Trạch Hỏa Cách",
+      "rel_path": "assets/page_0059_img_01.png"
+    },
+    {
+      "id": "fig_31",
+      "figure_number": "31",
+      "caption": "Sơ đồ quẻ Phong Thiên Tiểu Súc biến Thủy Thiên Nhu",
+      "rel_path": "assets/page_0061_img_01.png"
+    },
+    {
+      "id": "fig_32",
+      "figure_number": "32",
+      "caption": "Sơ đồ quẻ Trạch Hỏa Cách biến Trạch Thiên Quải",
+      "rel_path": "assets/page_0063_img_01.png"
+    },
+    {
+      "id": "fig_33",
+      "figure_number": "33",
+      "caption": "Sơ đồ quẻ Địa Lôi Phục biến Chấn Vi Lôi",
+      "rel_path": "assets/page_0065_img_01.png"
+    }
+  ],
+  "exercises": [
+    {
+      "line": 879,
+      "exercise_id": "vd_026",
+      "title": "Ví dụ 1: Ngày Đinh Mão tháng Quý Mùi năm Ất Hợi, mẹ đoán hôn nhân con gái, được Thủy Hỏa Ký Tế biến Thủy Lôi Truân.",
+      "start_page": 54,
+      "end_page": 54
+    },
+    {
+      "line": 908,
+      "exercise_id": "vd_027",
+      "title": "Ví dụ 2: Ngày Nhâm Ngọ tháng Bính Thân năm Bính Tý, tự đoán bệnh dạ dày, được Thiên Lôi Vô Vọng biến Phong Thủy Hoán.",
+      "start_page": 55,
+      "end_page": 55
+    },
+    {
+      "line": 931,
+      "exercise_id": "vd_028",
+      "title": "Ví dụ 3: Ngày Đinh Sửu tháng Giáp Thìn năm Đinh Sửu, nữ ôm bụng bầu to đến hỏi sinh con, được quẻ Sơn Lôi Di.",
+      "start_page": 56,
+      "end_page": 56
+    },
+    {
+      "line": 952,
+      "exercise_id": "vd_029",
+      "title": "Ví dụ 4: Ngày Đinh Tị tháng Ất Tị năm Đinh Sửu, nữ đoán về bán hàng trên vỉa hè...",
+      "start_page": 57,
+      "end_page": 57
+    },
+    {
+      "line": 975,
+      "exercise_id": "vd_030",
+      "title": "Ví dụ 5: Vào năm 2000, khi tôi vừa mới trở về từ Ngũ Đài Sơn, một người có mẹ nhập viện đến nhờ tôi đoán bệnh cho mẹ. Th",
+      "start_page": 59,
+      "end_page": 59
+    },
+    {
+      "line": 1002,
+      "exercise_id": "vd_031",
+      "title": "Ví dụ 6: Ngày Kỷ Dậu tháng Nhâm Ngọ năm Canh Thìn, bật lửa trong tay đột nhiên nổ tung, đoán cát hung, được Phong Thiên ",
+      "start_page": 61,
+      "end_page": 61
+    },
+    {
+      "line": 1029,
+      "exercise_id": "vd_032",
+      "title": "Ví dụ 7: Ngày Kỷ Tị tháng Kỷ Mùi năm Mậu Dần, tại lớp đào tạo Chu Dịch dự đoán cổ phiếu, một học viên họ Mã muốn nhân cơ",
+      "start_page": 63,
+      "end_page": 63
+    },
+    {
+      "line": 1078,
+      "exercise_id": "vd_033",
+      "title": "Ví dụ 8: Ngày Tân Mão tháng Canh Thân năm Mậu Dần, nữ chọn ngày dọn nhà, được quẻ Địa Lôi Phục biến Chấn Vi Lôi.",
+      "start_page": 65,
+      "end_page": 65
+    }
+  ],
+  "parent_titles": []
+}

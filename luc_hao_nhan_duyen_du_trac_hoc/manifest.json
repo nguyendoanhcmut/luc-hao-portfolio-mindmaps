@@ -1,0 +1,353 @@
+{
+  "summary": {
+    "total_books": 1,
+    "total_pages": 243,
+    "total_worker_pairs": 122,
+    "total_chapters": 34,
+    "total_batches": 2,
+    "total_waves": 2,
+    "est_time_sec_min": 24,
+    "est_time_sec_max": 30,
+    "est_time_str": "24-30s (0.4-0.5 min)"
+  },
+  "books": [
+    {
+      "file": "VƯƠNG HỔ ỨNG - LỤC HÀO NHÂN DUYÊN DỰ TRẮC HỌC.pdf",
+      "path": "C:\\Users\\Admin\\Downloads\\drive-download-20260908T061604Z-1-001\\VƯƠNG HỔ ỨNG - LỤC HÀO NHÂN DUYÊN DỰ TRẮC HỌC.pdf",
+      "total_pages": 243,
+      "worker_pairs": 122,
+      "has_native_text": true,
+      "detection_tier": "Tier 2 (Text Heading Scan)",
+      "chapters_count": 34,
+      "batches_count": 2,
+      "total_waves": 2,
+      "est_time_sec_min": 24,
+      "est_time_sec_max": 30,
+      "est_time_str": "24-30s",
+      "chapters": [
+        {
+          "title": "PHẦN CƠ SỞ",
+          "start_page": 1,
+          "end_page": 12,
+          "id": 1,
+          "pages": 12,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 2: CÁCH DÙNG HÀO VỊ",
+          "start_page": 13,
+          "end_page": 18,
+          "id": 2,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 3: Ý NGHĨA CỦA LỤC THÂN",
+          "start_page": 19,
+          "end_page": 24,
+          "id": 3,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 4: TƯỢNG LỤC THẦN",
+          "start_page": 25,
+          "end_page": 30,
+          "id": 4,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 5: TƯỢNG LỤC THÂN HỖ HÓA",
+          "start_page": 31,
+          "end_page": 36,
+          "id": 5,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 6: Ý NGHĨA CỦA DỤNG THẦN LƯỠNG HIỆN",
+          "start_page": 37,
+          "end_page": 41,
+          "id": 6,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 7: Ý NGHĨA CỦA DỤNG THẦN PHỤC TÀNG",
+          "start_page": 42,
+          "end_page": 47,
+          "id": 7,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 8: Ý NGHĨA CỦA TIẾN THẦN VÀ THOÁI THẦN",
+          "start_page": 48,
+          "end_page": 53,
+          "id": 8,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 9: Ý NGHĨA CỦA NGUYỆT PHÁ",
+          "start_page": 54,
+          "end_page": 58,
+          "id": 9,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 10: Ý NGHĨA CỦA KHÔNG VONG",
+          "start_page": 59,
+          "end_page": 64,
+          "id": 10,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 11: Ý NGHĨA CỦA LỤC HỢP VÀ LỤC XUNG",
+          "start_page": 65,
+          "end_page": 70,
+          "id": 11,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 12: Ý NGHĨA CỦA PHẢN NGÂM VÀ PHỤC NGÂM",
+          "start_page": 71,
+          "end_page": 75,
+          "id": 12,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 13: Ý NGHĨA CỦA DU HỒN VÀ QUY HỒN",
+          "start_page": 76,
+          "end_page": 81,
+          "id": 13,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 14: ỨNG DỤNG CỦA 12 CUNG TRƯỜNG SINH",
+          "start_page": 82,
+          "end_page": 88,
+          "id": 14,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "PHẦN KỸ THUẬT",
+          "start_page": 89,
+          "end_page": 94,
+          "id": 15,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 2: PHƯƠNG PHÁP PHÁN ĐOÁN TƯỚNG MẠO",
+          "start_page": 95,
+          "end_page": 104,
+          "id": 16,
+          "pages": 10,
+          "pairs": 5
+        },
+        {
+          "title": "CHƯƠNG 3: HƯƠNG KHUÊ VÀ SÀNG TRƯỚNG",
+          "start_page": 105,
+          "end_page": 110,
+          "id": 17,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 4: ĐÀO HOA VÀ DỊCH MÃ",
+          "start_page": 111,
+          "end_page": 117,
+          "id": 18,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 5: PHƯƠNG VỊ NHÂN DUYÊN",
+          "start_page": 118,
+          "end_page": 124,
+          "id": 19,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 6: KHOẢNG CÁCH NHÂN DUYÊN",
+          "start_page": 125,
+          "end_page": 132,
+          "id": 20,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 7: HÔN NHÂN SỚM HAY MUỘN",
+          "start_page": 133,
+          "end_page": 139,
+          "id": 21,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 8: ỨNG KỲ HÔN NHÂN",
+          "start_page": 140,
+          "end_page": 144,
+          "id": 22,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "PHẦN THỰC TẾ",
+          "start_page": 145,
+          "end_page": 157,
+          "id": 23,
+          "pages": 13,
+          "pairs": 7
+        },
+        {
+          "title": "CHƯƠNG 2: XEM MẶT",
+          "start_page": 158,
+          "end_page": 163,
+          "id": 24,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 3: VỊ HÔN ĐỒNG CƯ",
+          "start_page": 164,
+          "end_page": 171,
+          "id": 25,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 4: ĐỜI SỐNG VỢ CHỒNG",
+          "start_page": 172,
+          "end_page": 183,
+          "id": 26,
+          "pages": 12,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 5: NGOẠI TÌNH",
+          "start_page": 184,
+          "end_page": 198,
+          "id": 27,
+          "pages": 15,
+          "pairs": 8
+        },
+        {
+          "title": "CHƯƠNG 6: ĐỒNG TÍNH",
+          "start_page": 199,
+          "end_page": 201,
+          "id": 28,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 7: HÔN NHÂN BẤT HẠNH",
+          "start_page": 202,
+          "end_page": 206,
+          "id": 29,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 8: KẾT HÔN",
+          "start_page": 207,
+          "end_page": 217,
+          "id": 30,
+          "pages": 11,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 9: LY HÔN",
+          "start_page": 218,
+          "end_page": 224,
+          "id": 31,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 10: TÁI HÔN",
+          "start_page": 225,
+          "end_page": 228,
+          "id": 32,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 11: CÔ ĐỘC SUỐT ĐỜI",
+          "start_page": 229,
+          "end_page": 233,
+          "id": 33,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 12: PHÂN TÍCH LƯU NIÊN HÔN NHÂN",
+          "start_page": 234,
+          "end_page": 243,
+          "id": 34,
+          "pages": 10,
+          "pairs": 5
+        }
+      ],
+      "batches": [
+        {
+          "batch_id": 1,
+          "chapter_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "total_pairs": 76,
+          "waves": 1
+        },
+        {
+          "batch_id": 2,
+          "chapter_ids": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ],
+          "total_pairs": 53,
+          "waves": 1
+        }
+      ]
+    }
+  ]
+}

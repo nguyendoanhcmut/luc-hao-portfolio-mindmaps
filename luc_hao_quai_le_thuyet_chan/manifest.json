@@ -1,0 +1,263 @@
+{
+  "summary": {
+    "total_books": 1,
+    "total_pages": 259,
+    "total_worker_pairs": 130,
+    "total_chapters": 24,
+    "total_batches": 2,
+    "total_waves": 2,
+    "est_time_sec_min": 24,
+    "est_time_sec_max": 30,
+    "est_time_str": "24-30s (0.4-0.5 min)"
+  },
+  "books": [
+    {
+      "file": "VƯƠNG HỔ ỨNG - LỤC HÀO QUÁI LỆ THUYẾT CHÂN.pdf",
+      "path": "C:\\Users\\Admin\\Downloads\\drive-download-20260908T061604Z-1-001\\VƯƠNG HỔ ỨNG - LỤC HÀO QUÁI LỆ THUYẾT CHÂN.pdf",
+      "total_pages": 259,
+      "worker_pairs": 130,
+      "has_native_text": false,
+      "detection_tier": "Tier 1 (TOC Bookmarks)",
+      "chapters_count": 24,
+      "batches_count": 2,
+      "total_waves": 2,
+      "est_time_sec_min": 24,
+      "est_time_sec_max": 30,
+      "est_time_str": "24-30s",
+      "chapters": [
+        {
+          "title": "BÌA",
+          "start_page": 1,
+          "end_page": 3,
+          "id": 1,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "LỜI CẢM ƠN",
+          "start_page": 4,
+          "end_page": 5,
+          "id": 2,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "GIỚI THIỆU VỀ VƯƠNG HỔ ỨNG",
+          "start_page": 6,
+          "end_page": 7,
+          "id": 3,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "MỤC LỤC",
+          "start_page": 8,
+          "end_page": 11,
+          "id": 4,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "LỜI TỰA",
+          "start_page": 12,
+          "end_page": 13,
+          "id": 5,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 1. QUẺ DO AI ĐẾN GIEO",
+          "start_page": 14,
+          "end_page": 25,
+          "id": 6,
+          "pages": 12,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 2. TIẾN THẦN BIỆN Ý",
+          "start_page": 26,
+          "end_page": 31,
+          "id": 7,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 3. THOÁI THẦN BIỆN NGHĨA",
+          "start_page": 32,
+          "end_page": 39,
+          "id": 8,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 4. HOẠT DỤNG KHÔNG VONG",
+          "start_page": 40,
+          "end_page": 51,
+          "id": 9,
+          "pages": 12,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 5. NGUYỆT PHÁ BIỆN NGHĨA",
+          "start_page": 52,
+          "end_page": 65,
+          "id": 10,
+          "pages": 14,
+          "pairs": 7
+        },
+        {
+          "title": "CHƯƠNG 6. DIỆU DỤNG TAM HỢP CỤC",
+          "start_page": 66,
+          "end_page": 74,
+          "id": 11,
+          "pages": 9,
+          "pairs": 5
+        },
+        {
+          "title": "CHƯƠNG 7. BÁN HỢP BIỆN NGHĨA",
+          "start_page": 75,
+          "end_page": 81,
+          "id": 12,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 8. LỤC HỢP BIỆN NGHĨA",
+          "start_page": 82,
+          "end_page": 89,
+          "id": 13,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 9. LỤC XUNG BIỆN NGHĨA",
+          "start_page": 90,
+          "end_page": 99,
+          "id": 14,
+          "pages": 10,
+          "pairs": 5
+        },
+        {
+          "title": "CHƯƠNG 10. BÍ PHÁP 12 CUNG TRƯỜNG SINH",
+          "start_page": 100,
+          "end_page": 121,
+          "id": 15,
+          "pages": 22,
+          "pairs": 11
+        },
+        {
+          "title": "CHƯƠNG 11. CÁCH SƠN HÓA HÀO",
+          "start_page": 122,
+          "end_page": 129,
+          "id": 16,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 12. DU HỒN BIỆN NGHĨA",
+          "start_page": 130,
+          "end_page": 137,
+          "id": 17,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 13. QUY HỒN BIỆN NGHĨA",
+          "start_page": 138,
+          "end_page": 143,
+          "id": 18,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 14. BÍ MẬT CỦA PHI PHỤC",
+          "start_page": 144,
+          "end_page": 155,
+          "id": 19,
+          "pages": 12,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 15. TAM HÌNH BIỆN NGHĨA",
+          "start_page": 156,
+          "end_page": 167,
+          "id": 20,
+          "pages": 12,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 16. PHẢN NGÂM BIỆN NGHĨA",
+          "start_page": 168,
+          "end_page": 173,
+          "id": 21,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 17. PHỤC NGÂM BIỆN NGHĨA",
+          "start_page": 174,
+          "end_page": 179,
+          "id": 22,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 18. LUẬN PHƯƠNG CỤC TRONG LỤC HÀO",
+          "start_page": 180,
+          "end_page": 185,
+          "id": 23,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 19. CÂU CHUYỆN LỤC HÀO ĐẶC SẮC",
+          "start_page": 186,
+          "end_page": 259,
+          "id": 24,
+          "pages": 74,
+          "pairs": 37
+        }
+      ],
+      "batches": [
+        {
+          "batch_id": 1,
+          "chapter_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "total_pairs": 79,
+          "waves": 1
+        },
+        {
+          "batch_id": 2,
+          "chapter_ids": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "total_pairs": 52,
+          "waves": 1
+        }
+      ]
+    }
+  ]
+}

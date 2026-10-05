@@ -1,0 +1,235 @@
+{
+  "worker_id": "worker_06",
+  "total_chunks": 15,
+  "chunks": [
+    {
+      "chunk_id": "ch11_0",
+      "title": "Chương 10: THỦ TƯỢNG LỤC THẦN PHÁN ĐOÁN NHÂN QUẢ",
+      "start_heading_level": 2,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch11_0.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch11_0_chuong_10_thu_tuong_luc_than_phan_oan_nh_branches.md",
+      "figures": []
+    },
+    {
+      "chunk_id": "ch11_1",
+      "title": "Bạn cùng chơi lúc nhỏ đã thắt cổ chết",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch11_1.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch11_1_ban_cung_choi_luc_nho_a_that_co_chet_branches.md",
+      "figures": [
+        {
+          "id": "fig_63",
+          "figure_number": "63",
+          "caption": "Quẻ Sơn Thiên Đại Súc biến Địa Thiên Thái",
+          "rel_path": "assets/page_0106_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch11_2",
+      "title": "Trong nhà thiếu ánh sáng",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch11_2.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch11_2_trong_nha_thieu_anh_sang_branches.md",
+      "figures": [
+        {
+          "id": "fig_64",
+          "figure_number": "64",
+          "caption": "Quẻ Thủy Địa Tỷ biến Trạch Địa Tụy",
+          "rel_path": "assets/page_0107_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch11_3",
+      "title": "Họa từ chặt cây",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch11_3.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch11_3_hoa_tu_chat_cay_branches.md",
+      "figures": [
+        {
+          "id": "fig_65",
+          "figure_number": "65",
+          "caption": "Quẻ Sơn Thiên Đại Súc biến Địa Thiên Thái",
+          "rel_path": "assets/page_0108_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch11_4",
+      "title": "Đừng uống rượu nữa",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch11_4.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch11_4_ung_uong_ruou_nua_branches.md",
+      "figures": [
+        {
+          "id": "fig_66",
+          "figure_number": "66",
+          "caption": "Quẻ Thủy Địa Tỷ biến Trạch Địa Tụy",
+          "rel_path": "assets/page_0109_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch11_5",
+      "title": "Tại sao không lớn?",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch11_5.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch11_5_tai_sao_khong_lon_branches.md",
+      "figures": [
+        {
+          "id": "fig_67",
+          "figure_number": "67",
+          "caption": "Sơ đồ quẻ Địa Phong Thăng biến Địa Sơn Khiêm",
+          "rel_path": "assets/page_0110_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch11_6",
+      "title": "Do đã ăn đồ cúng gây ra",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch11_6.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch11_6_do_a_an_o_cung_gay_ra_branches.md",
+      "figures": [
+        {
+          "id": "fig_68",
+          "figure_number": "68",
+          "caption": "Sơ đồ quẻ Trạch Sơn Hàm biến Trạch Phong Đại Quá",
+          "rel_path": "assets/page_0111_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch11_7",
+      "title": "Ngày thường ăn đồ quá nóng",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch11_7.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch11_7_ngay_thuong_an_o_qua_nong_branches.md",
+      "figures": [
+        {
+          "id": "fig_69",
+          "figure_number": "69",
+          "caption": "Quẻ Sơn Trạch Tổn biến Phong Trạch Trung Phu",
+          "rel_path": "assets/page_0112_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch12_0",
+      "title": "Chương 11: THỦ TƯỢNG HÀO VỊ PHÁN ĐOÁN NHÂN QUẢ",
+      "start_heading_level": 2,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch12_0.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch12_0_chuong_11_thu_tuong_hao_vi_phan_oan_nhan_branches.md",
+      "figures": []
+    },
+    {
+      "chunk_id": "ch12_1",
+      "title": "Thượng thiên nhập địa",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch12_1.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch12_1_thuong_thien_nhap_ia_branches.md",
+      "figures": [
+        {
+          "id": "fig_70",
+          "figure_number": "70",
+          "caption": "Quẻ Thủy Sơn Kiển biến Phong Sơn Tiệm",
+          "rel_path": "assets/page_0115_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch12_2",
+      "title": "Nhất quái đồng đoán âm dương trạch",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch12_2.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch12_2_nhat_quai_ong_oan_am_duong_trach_branches.md",
+      "figures": [
+        {
+          "id": "fig_71",
+          "figure_number": "71",
+          "caption": "Quẻ Sơn Phong Cổ biến Sơn Thiên Đại Súc",
+          "rel_path": "assets/page_0117_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch12_3",
+      "title": "Bình an mới là việc khẩn trước mắt",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch12_3.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch12_3_binh_an_moi_la_viec_khan_truoc_mat_branches.md",
+      "figures": [
+        {
+          "id": "fig_72",
+          "figure_number": "72",
+          "caption": "Quẻ Khảm Vi Thủy biến Thủy Địa Tỷ",
+          "rel_path": "assets/page_0120_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch12_4",
+      "title": "Phụ mẫu song vong",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch12_4.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch12_4_phu_mau_song_vong_branches.md",
+      "figures": [
+        {
+          "id": "fig_73",
+          "figure_number": "73",
+          "caption": "Quẻ Cấn Vi Sơn biến Sơn Phong Cổ",
+          "rel_path": "assets/page_0121_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch12_5",
+      "title": "Nguyên nhân con gái bị cận thị",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch12_5.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch12_5_nguyen_nhan_con_gai_bi_can_thi_branches.md",
+      "figures": [
+        {
+          "id": "fig_74",
+          "figure_number": "74",
+          "caption": "Quẻ Địa Thủy Sư biến Khôn Vi Địa",
+          "rel_path": "assets/page_0122_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch13",
+      "title": "Chương 12: THỦ TƯỢNG QUÁI TƯỢNG PHÁN ĐOÁN NHÂN QUẢ",
+      "start_heading_level": 2,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch13.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch13_chuong_12_thu_tuong_quai_tuong_phan_oan_branches.md",
+      "figures": [
+        {
+          "id": "fig_75",
+          "figure_number": "75",
+          "caption": "Sơ đồ quẻ Lôi Sơn Tiểu Quá biến Hỏa Địa Tấn",
+          "rel_path": "assets/page_0124_img_01.png"
+        },
+        {
+          "id": "fig_76",
+          "figure_number": "76",
+          "caption": "Sơ đồ quẻ Sơn Hỏa Bí biến Cấn Vi Sơn",
+          "rel_path": "assets/page_0125_img_01.png"
+        },
+        {
+          "id": "fig_77",
+          "figure_number": "77",
+          "caption": "Sơ đồ quẻ Hỏa Thủy Vị Tế biến Lôi Thủy Giải",
+          "rel_path": "assets/page_0126_img_01.png"
+        },
+        {
+          "id": "fig_78",
+          "figure_number": "78",
+          "caption": "Sơ đồ quẻ Phong Hỏa Gia Nhân biến Thủy Địa Tỷ",
+          "rel_path": "assets/page_0127_img_01.png"
+        }
+      ]
+    }
+  ]
+}

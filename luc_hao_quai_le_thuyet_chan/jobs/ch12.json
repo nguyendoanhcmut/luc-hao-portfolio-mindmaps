@@ -1,0 +1,99 @@
+{
+  "chunk_id": "ch12",
+  "title": "Chương 9: Lục Xung Biện Nghĩa",
+  "start_heading_level": 2,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch12.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch12_chuong_9_luc_xung_bien_nghia_branches.md",
+  "figure_ids": [
+    "fig_51",
+    "fig_52",
+    "fig_53",
+    "fig_54",
+    "fig_55",
+    "fig_56"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_51",
+      "figure_number": "51",
+      "caption": "Quẻ Phong Trạch Trung Phu biến Tốn Vi Phong",
+      "rel_path": "assets/page_0091_img_01.png"
+    },
+    {
+      "id": "fig_52",
+      "figure_number": "52",
+      "caption": "Sơ đồ quẻ Thủy Địa Tỷ biến Khôn Vi Địa",
+      "rel_path": "assets/page_0093_img_01.png"
+    },
+    {
+      "id": "fig_53",
+      "figure_number": "53",
+      "caption": "Sơ đồ quẻ Địa Trạch Lâm biến Sơn Trạch Tổn",
+      "rel_path": "assets/page_0094_img_01.png"
+    },
+    {
+      "id": "fig_54",
+      "figure_number": "54",
+      "caption": "Sơ đồ quẻ Càn Vi Thiên biến Trạch Thiên Quải",
+      "rel_path": "assets/page_0095_img_01.png"
+    },
+    {
+      "id": "fig_55",
+      "figure_number": "55",
+      "caption": "Quẻ Ly Vi Hỏa biến Hỏa Thiên Đại Hữu",
+      "rel_path": "assets/page_0097_img_01.png"
+    },
+    {
+      "id": "fig_56",
+      "figure_number": "56",
+      "caption": "Quẻ Phong Trạch Trung Phu biến Tốn Vi Phong",
+      "rel_path": "assets/page_0098_img_01.png"
+    }
+  ],
+  "exercises": [
+    {
+      "line": 1549,
+      "exercise_id": "vd_051",
+      "title": "Ví dụ 1: Ngày Đinh Sửu tháng Quý Mùi năm Canh Thìn, Thái Thiết Vương tiên sinh đoán về công việc, được quẻ Phong Trạch T",
+      "start_page": 91,
+      "end_page": 91
+    },
+    {
+      "line": 1584,
+      "exercise_id": "vd_052",
+      "title": "Ví dụ 2: Ngày Tân Dậu tháng Kỷ Hợi năm Bính Tý, Lý tiên sinh ở Trường Trị đoán về phong thủy nhà chú, được Thủy Địa Tỷ b",
+      "start_page": 93,
+      "end_page": 93
+    },
+    {
+      "line": 1607,
+      "exercise_id": "vd_053",
+      "title": "Ví dụ 3: Ngày Ất Dậu tháng Tân Dậu năm Mậu Dần, nam đoán xem đến nơi giới thiệu hôn nhân có tìm được đối tượng hay không",
+      "start_page": 94,
+      "end_page": 94
+    },
+    {
+      "line": 1634,
+      "exercise_id": "vd_054",
+      "title": "Ví dụ 4: Ngày Kỷ Tị tháng Quý Tị năm Bính Tý, nam đoán về mối quan hệ với một cô gái, được Càn Vi Thiên biến Trạch Thiên",
+      "start_page": 95,
+      "end_page": 95
+    },
+    {
+      "line": 1661,
+      "exercise_id": "vd_055",
+      "title": "Ví dụ 5: Ngày Tân Tị tháng Đinh Mùi năm Đinh Sửu, nam đoán về tình huống đơn vị mất trộm, được Ly Vi Hỏa biến Hỏa Thiên ",
+      "start_page": 97,
+      "end_page": 97
+    },
+    {
+      "line": 1684,
+      "exercise_id": "vd_056",
+      "title": "Ví dụ 6: Ngày Bính Dần tháng Kỷ Hợi năm Bính Tý, nữ đoán phong thủy nhà cửa, được Phong Trạch Trung Phu biến Tốn Vi Phon",
+      "start_page": 98,
+      "end_page": 98
+    }
+  ],
+  "parent_titles": []
+}

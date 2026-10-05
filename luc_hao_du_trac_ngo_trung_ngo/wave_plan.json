@@ -1,0 +1,748 @@
+{
+  "wave1": [
+    {
+      "pair_id": 1,
+      "p1": 1,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0001.png",
+      "p2": 2,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0002.png"
+    },
+    {
+      "pair_id": 2,
+      "p1": 3,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0003.png",
+      "p2": 4,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0004.png"
+    },
+    {
+      "pair_id": 3,
+      "p1": 5,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0005.png",
+      "p2": 6,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0006.png"
+    },
+    {
+      "pair_id": 4,
+      "p1": 7,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0007.png",
+      "p2": 8,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0008.png"
+    },
+    {
+      "pair_id": 5,
+      "p1": 9,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0009.png",
+      "p2": 10,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0010.png"
+    },
+    {
+      "pair_id": 6,
+      "p1": 11,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0011.png",
+      "p2": 12,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0012.png"
+    },
+    {
+      "pair_id": 7,
+      "p1": 13,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0013.png",
+      "p2": 14,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0014.png"
+    },
+    {
+      "pair_id": 8,
+      "p1": 15,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0015.png",
+      "p2": 16,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0016.png"
+    },
+    {
+      "pair_id": 9,
+      "p1": 17,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0017.png",
+      "p2": 18,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0018.png"
+    },
+    {
+      "pair_id": 10,
+      "p1": 19,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0019.png",
+      "p2": 20,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0020.png"
+    },
+    {
+      "pair_id": 11,
+      "p1": 21,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0021.png",
+      "p2": 22,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0022.png"
+    },
+    {
+      "pair_id": 12,
+      "p1": 23,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0023.png",
+      "p2": 24,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0024.png"
+    },
+    {
+      "pair_id": 13,
+      "p1": 25,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0025.png",
+      "p2": 26,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0026.png"
+    },
+    {
+      "pair_id": 14,
+      "p1": 27,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0027.png",
+      "p2": 28,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0028.png"
+    },
+    {
+      "pair_id": 15,
+      "p1": 29,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0029.png",
+      "p2": 30,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0030.png"
+    },
+    {
+      "pair_id": 16,
+      "p1": 31,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0031.png",
+      "p2": 32,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0032.png"
+    },
+    {
+      "pair_id": 17,
+      "p1": 33,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0033.png",
+      "p2": 34,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0034.png"
+    },
+    {
+      "pair_id": 18,
+      "p1": 35,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0035.png",
+      "p2": 36,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0036.png"
+    },
+    {
+      "pair_id": 19,
+      "p1": 37,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0037.png",
+      "p2": 38,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0038.png"
+    },
+    {
+      "pair_id": 20,
+      "p1": 39,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0039.png",
+      "p2": 40,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0040.png"
+    },
+    {
+      "pair_id": 21,
+      "p1": 41,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0041.png",
+      "p2": 42,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0042.png"
+    },
+    {
+      "pair_id": 22,
+      "p1": 43,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0043.png",
+      "p2": 44,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0044.png"
+    },
+    {
+      "pair_id": 23,
+      "p1": 45,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0045.png",
+      "p2": 46,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0046.png"
+    },
+    {
+      "pair_id": 24,
+      "p1": 47,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0047.png",
+      "p2": 48,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0048.png"
+    },
+    {
+      "pair_id": 25,
+      "p1": 49,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0049.png",
+      "p2": 50,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0050.png"
+    },
+    {
+      "pair_id": 26,
+      "p1": 51,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0051.png",
+      "p2": 52,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0052.png"
+    },
+    {
+      "pair_id": 27,
+      "p1": 53,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0053.png",
+      "p2": 54,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0054.png"
+    },
+    {
+      "pair_id": 28,
+      "p1": 55,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0055.png",
+      "p2": 56,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0056.png"
+    },
+    {
+      "pair_id": 29,
+      "p1": 57,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0057.png",
+      "p2": 58,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0058.png"
+    },
+    {
+      "pair_id": 30,
+      "p1": 59,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0059.png",
+      "p2": 60,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0060.png"
+    },
+    {
+      "pair_id": 31,
+      "p1": 61,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0061.png",
+      "p2": 62,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0062.png"
+    },
+    {
+      "pair_id": 32,
+      "p1": 63,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0063.png",
+      "p2": 64,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0064.png"
+    },
+    {
+      "pair_id": 33,
+      "p1": 65,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0065.png",
+      "p2": 66,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0066.png"
+    },
+    {
+      "pair_id": 34,
+      "p1": 67,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0067.png",
+      "p2": 68,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0068.png"
+    },
+    {
+      "pair_id": 35,
+      "p1": 69,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0069.png",
+      "p2": 70,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0070.png"
+    },
+    {
+      "pair_id": 36,
+      "p1": 71,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0071.png",
+      "p2": 72,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0072.png"
+    },
+    {
+      "pair_id": 37,
+      "p1": 73,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0073.png",
+      "p2": 74,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0074.png"
+    },
+    {
+      "pair_id": 38,
+      "p1": 75,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0075.png",
+      "p2": 76,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0076.png"
+    },
+    {
+      "pair_id": 39,
+      "p1": 77,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0077.png",
+      "p2": 78,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0078.png"
+    },
+    {
+      "pair_id": 40,
+      "p1": 79,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0079.png",
+      "p2": 80,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0080.png"
+    },
+    {
+      "pair_id": 41,
+      "p1": 81,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0081.png",
+      "p2": 82,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0082.png"
+    },
+    {
+      "pair_id": 42,
+      "p1": 83,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0083.png",
+      "p2": 84,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0084.png"
+    },
+    {
+      "pair_id": 43,
+      "p1": 85,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0085.png",
+      "p2": 86,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0086.png"
+    },
+    {
+      "pair_id": 44,
+      "p1": 87,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0087.png",
+      "p2": 88,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0088.png"
+    },
+    {
+      "pair_id": 45,
+      "p1": 89,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0089.png",
+      "p2": 90,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0090.png"
+    },
+    {
+      "pair_id": 47,
+      "p1": 93,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0093.png",
+      "p2": 94,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0094.png"
+    },
+    {
+      "pair_id": 48,
+      "p1": 95,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0095.png",
+      "p2": 96,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0096.png"
+    },
+    {
+      "pair_id": 49,
+      "p1": 97,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0097.png",
+      "p2": 98,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0098.png"
+    },
+    {
+      "pair_id": 50,
+      "p1": 99,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0099.png",
+      "p2": 100,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0100.png"
+    },
+    {
+      "pair_id": 51,
+      "p1": 101,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0101.png",
+      "p2": 102,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0102.png"
+    },
+    {
+      "pair_id": 52,
+      "p1": 103,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0103.png",
+      "p2": 104,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0104.png"
+    },
+    {
+      "pair_id": 53,
+      "p1": 105,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0105.png",
+      "p2": 106,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0106.png"
+    },
+    {
+      "pair_id": 54,
+      "p1": 107,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0107.png",
+      "p2": 108,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0108.png"
+    },
+    {
+      "pair_id": 55,
+      "p1": 109,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0109.png",
+      "p2": 110,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0110.png"
+    },
+    {
+      "pair_id": 56,
+      "p1": 111,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0111.png",
+      "p2": 112,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0112.png"
+    },
+    {
+      "pair_id": 57,
+      "p1": 113,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0113.png",
+      "p2": 114,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0114.png"
+    },
+    {
+      "pair_id": 58,
+      "p1": 115,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0115.png",
+      "p2": 116,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0116.png"
+    },
+    {
+      "pair_id": 59,
+      "p1": 117,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0117.png",
+      "p2": 118,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0118.png"
+    },
+    {
+      "pair_id": 60,
+      "p1": 119,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0119.png",
+      "p2": 120,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0120.png"
+    },
+    {
+      "pair_id": 61,
+      "p1": 121,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0121.png",
+      "p2": 122,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0122.png"
+    },
+    {
+      "pair_id": 62,
+      "p1": 123,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0123.png",
+      "p2": 124,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0124.png"
+    },
+    {
+      "pair_id": 63,
+      "p1": 125,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0125.png",
+      "p2": 126,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0126.png"
+    },
+    {
+      "pair_id": 64,
+      "p1": 127,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0127.png",
+      "p2": 128,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0128.png"
+    },
+    {
+      "pair_id": 65,
+      "p1": 129,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0129.png",
+      "p2": 130,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0130.png"
+    },
+    {
+      "pair_id": 66,
+      "p1": 131,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0131.png",
+      "p2": 132,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0132.png"
+    },
+    {
+      "pair_id": 67,
+      "p1": 133,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0133.png",
+      "p2": 134,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0134.png"
+    },
+    {
+      "pair_id": 68,
+      "p1": 135,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0135.png",
+      "p2": 136,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0136.png"
+    },
+    {
+      "pair_id": 69,
+      "p1": 137,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0137.png",
+      "p2": 138,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0138.png"
+    },
+    {
+      "pair_id": 70,
+      "p1": 139,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0139.png",
+      "p2": 140,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0140.png"
+    },
+    {
+      "pair_id": 71,
+      "p1": 141,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0141.png",
+      "p2": 142,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0142.png"
+    },
+    {
+      "pair_id": 72,
+      "p1": 143,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0143.png",
+      "p2": 144,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0144.png"
+    },
+    {
+      "pair_id": 73,
+      "p1": 145,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0145.png",
+      "p2": 146,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0146.png"
+    },
+    {
+      "pair_id": 74,
+      "p1": 147,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0147.png",
+      "p2": 148,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0148.png"
+    },
+    {
+      "pair_id": 75,
+      "p1": 149,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0149.png",
+      "p2": 150,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0150.png"
+    },
+    {
+      "pair_id": 76,
+      "p1": 151,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0151.png",
+      "p2": 152,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0152.png"
+    },
+    {
+      "pair_id": 77,
+      "p1": 153,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0153.png",
+      "p2": 154,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0154.png"
+    },
+    {
+      "pair_id": 78,
+      "p1": 155,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0155.png",
+      "p2": 156,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0156.png"
+    },
+    {
+      "pair_id": 79,
+      "p1": 157,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0157.png",
+      "p2": 158,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0158.png"
+    },
+    {
+      "pair_id": 80,
+      "p1": 159,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0159.png",
+      "p2": 160,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0160.png"
+    },
+    {
+      "pair_id": 81,
+      "p1": 161,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0161.png",
+      "p2": 162,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0162.png"
+    }
+  ],
+  "wave2": [
+    {
+      "pair_id": 82,
+      "p1": 163,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0163.png",
+      "p2": 164,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0164.png"
+    },
+    {
+      "pair_id": 83,
+      "p1": 165,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0165.png",
+      "p2": 166,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0166.png"
+    },
+    {
+      "pair_id": 84,
+      "p1": 167,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0167.png",
+      "p2": 168,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0168.png"
+    },
+    {
+      "pair_id": 85,
+      "p1": 169,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0169.png",
+      "p2": 170,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0170.png"
+    },
+    {
+      "pair_id": 86,
+      "p1": 171,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0171.png",
+      "p2": 172,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0172.png"
+    },
+    {
+      "pair_id": 87,
+      "p1": 173,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0173.png",
+      "p2": 174,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0174.png"
+    },
+    {
+      "pair_id": 88,
+      "p1": 175,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0175.png",
+      "p2": 176,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0176.png"
+    },
+    {
+      "pair_id": 89,
+      "p1": 177,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0177.png",
+      "p2": 178,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0178.png"
+    },
+    {
+      "pair_id": 90,
+      "p1": 179,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0179.png",
+      "p2": 180,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0180.png"
+    },
+    {
+      "pair_id": 91,
+      "p1": 181,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0181.png",
+      "p2": 182,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0182.png"
+    },
+    {
+      "pair_id": 92,
+      "p1": 183,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0183.png",
+      "p2": 184,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0184.png"
+    },
+    {
+      "pair_id": 93,
+      "p1": 185,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0185.png",
+      "p2": 186,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0186.png"
+    },
+    {
+      "pair_id": 94,
+      "p1": 187,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0187.png",
+      "p2": 188,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0188.png"
+    },
+    {
+      "pair_id": 95,
+      "p1": 189,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0189.png",
+      "p2": 190,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0190.png"
+    },
+    {
+      "pair_id": 96,
+      "p1": 191,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0191.png",
+      "p2": 192,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0192.png"
+    },
+    {
+      "pair_id": 97,
+      "p1": 193,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0193.png",
+      "p2": 194,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0194.png"
+    },
+    {
+      "pair_id": 98,
+      "p1": 195,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0195.png",
+      "p2": 196,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0196.png"
+    },
+    {
+      "pair_id": 99,
+      "p1": 197,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0197.png",
+      "p2": 198,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0198.png"
+    },
+    {
+      "pair_id": 100,
+      "p1": 199,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0199.png",
+      "p2": 200,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0200.png"
+    },
+    {
+      "pair_id": 101,
+      "p1": 201,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0201.png",
+      "p2": 202,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0202.png"
+    },
+    {
+      "pair_id": 102,
+      "p1": 203,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0203.png",
+      "p2": 204,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0204.png"
+    },
+    {
+      "pair_id": 103,
+      "p1": 205,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0205.png",
+      "p2": 206,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0206.png"
+    },
+    {
+      "pair_id": 104,
+      "p1": 207,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0207.png",
+      "p2": 208,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0208.png"
+    },
+    {
+      "pair_id": 105,
+      "p1": 209,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0209.png",
+      "p2": 210,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0210.png"
+    },
+    {
+      "pair_id": 106,
+      "p1": 211,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0211.png",
+      "p2": 212,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0212.png"
+    },
+    {
+      "pair_id": 107,
+      "p1": 213,
+      "img1": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0213.png",
+      "p2": 214,
+      "img2": "C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_du_trac_ngo_trung_ngo/pages/page_0214.png"
+    }
+  ]
+}

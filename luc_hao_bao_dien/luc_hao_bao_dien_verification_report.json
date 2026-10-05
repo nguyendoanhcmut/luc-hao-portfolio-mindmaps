@@ -1,0 +1,32 @@
+{
+  "completeness_score": 1.0,
+  "pass": true,
+  "gate_scores": {
+    "section_coverage": {
+      "score": 1.0,
+      "observed": 144,
+      "expected": 144,
+      "missing": []
+    },
+    "depth": {
+      "score": 1.0,
+      "compliant": 43,
+      "total": 43,
+      "shallow": []
+    },
+    "grounding": {
+      "score": 0.998,
+      "grounded": 5806,
+      "total": 5806,
+      "vague": [],
+      "misplaced_figures": []
+    },
+    "lexicon": {
+      "score": 1.0,
+      "resolved": 45,
+      "declared": 45,
+      "unresolved": []
+    }
+  },
+  "remediation_directives": []
+}

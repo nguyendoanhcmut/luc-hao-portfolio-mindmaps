@@ -1,0 +1,99 @@
+{
+  "chunk_id": "ch09",
+  "title": "Chương 6: Diệu Dụng Tam Hợp Cục",
+  "start_heading_level": 2,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch09.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch09_chuong_6_dieu_dung_tam_hop_cuc_branches.md",
+  "figure_ids": [
+    "fig_34",
+    "fig_35",
+    "fig_36",
+    "fig_37",
+    "fig_38",
+    "fig_39"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_34",
+      "figure_number": "34",
+      "caption": "Sơ đồ quẻ Phong Thiên Tiểu Súc biến Phong Thủy Hoán",
+      "rel_path": "assets/page_0067_img_01.png"
+    },
+    {
+      "id": "fig_35",
+      "figure_number": "35",
+      "caption": "Quẻ Phong Hỏa Gia Nhân biến Phong Địa Quan",
+      "rel_path": "assets/page_0069_img_01.png"
+    },
+    {
+      "id": "fig_36",
+      "figure_number": "36",
+      "caption": "Quẻ Hỏa Phong Đỉnh biến Hỏa Lôi Phệ Hạp",
+      "rel_path": "assets/page_0070_img_01.png"
+    },
+    {
+      "id": "fig_37",
+      "figure_number": "37",
+      "caption": "Sơ đồ quẻ Địa Hỏa Minh Di biến Ly Vi Hỏa",
+      "rel_path": "assets/page_0071_img_01.png"
+    },
+    {
+      "id": "fig_38",
+      "figure_number": "38",
+      "caption": "Sơ đồ quẻ Hỏa Trạch Khuê biến Sơn Phong Cổ",
+      "rel_path": "assets/page_0072_img_01.png"
+    },
+    {
+      "id": "fig_39",
+      "figure_number": "39",
+      "caption": "Sơ đồ quẻ Trạch Địa Tụy biến Thiên Phong Cấu",
+      "rel_path": "assets/page_0073_img_01.png"
+    }
+  ],
+  "exercises": [
+    {
+      "line": 1128,
+      "exercise_id": "vd_034",
+      "title": "Ví dụ 1: Ngày Kỷ Hợi tháng Nhâm Thìn năm Bính Tý, nam hẹn hò với một cô gái, đoán xem phía nữ có đến nơi hẹn không? Được",
+      "start_page": 67,
+      "end_page": 67
+    },
+    {
+      "line": 1151,
+      "exercise_id": "vd_035",
+      "title": "Ví dụ 2: Ngày Giáp Thân tháng Bính Ngọ năm Đinh Sửu, bằng hữu Đoàn Kiến Nghiệp muốn đón thầy mệnh lý Hách Kim Dương đến ",
+      "start_page": 69,
+      "end_page": 69
+    },
+    {
+      "line": 1172,
+      "exercise_id": "vd_036",
+      "title": "Ví dụ 3: Ngày Giáp Tý tháng Bính Tuất năm Canh Thìn, một người Nhật Bản tại Bắc Kinh đoán sự nghiệp, được Hỏa Phong Đỉnh",
+      "start_page": 70,
+      "end_page": 70
+    },
+    {
+      "line": 1197,
+      "exercise_id": "vd_037",
+      "title": "Ví dụ 4: Ngày Giáp Thân tháng Kỷ Tị năm Kỷ Mão, nam đoán lưu niên vợ và sự nghiệp, được Địa Hỏa Minh Di biến Ly Vi Hỏa.",
+      "start_page": 71,
+      "end_page": 71
+    },
+    {
+      "line": 1220,
+      "exercise_id": "vd_038",
+      "title": "Ví dụ 5: Ngày Đinh Hợi tháng Bính Thìn năm Mậu Dần, cô Lý đoán xem cháu trai bị điếc có thể trị khỏi không? Có phương ph",
+      "start_page": 72,
+      "end_page": 72
+    },
+    {
+      "line": 1243,
+      "exercise_id": "vd_039",
+      "title": "Ví dụ 6: Ngày Ất Hợi tháng Đinh Tị năm Mậu Dần, đoán xem từ hôm nay đến tiết Tiểu Thử có động đất trên thế giới hay khôn",
+      "start_page": 73,
+      "end_page": 73
+    }
+  ],
+  "parent_titles": []
+}

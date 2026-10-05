@@ -1,0 +1,242 @@
+[
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0241-P0242",
+    "Prompt": "page_1_number: 241\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0241.png\npage_2_number: 242\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0242.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 241 and 242 verbatim into page_0241.json and page_0242.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0243-P0244",
+    "Prompt": "page_1_number: 243\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0243.png\npage_2_number: 244\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0244.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 243 and 244 verbatim into page_0243.json and page_0244.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0245-P0246",
+    "Prompt": "page_1_number: 245\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0245.png\npage_2_number: 246\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0246.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 245 and 246 verbatim into page_0245.json and page_0246.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0247-P0248",
+    "Prompt": "page_1_number: 247\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0247.png\npage_2_number: 248\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0248.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 247 and 248 verbatim into page_0247.json and page_0248.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0249-P0250",
+    "Prompt": "page_1_number: 249\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0249.png\npage_2_number: 250\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0250.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 249 and 250 verbatim into page_0249.json and page_0250.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0251-P0252",
+    "Prompt": "page_1_number: 251\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0251.png\npage_2_number: 252\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0252.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 251 and 252 verbatim into page_0251.json and page_0252.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0253-P0254",
+    "Prompt": "page_1_number: 253\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0253.png\npage_2_number: 254\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0254.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 253 and 254 verbatim into page_0253.json and page_0254.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0255-P0256",
+    "Prompt": "page_1_number: 255\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0255.png\npage_2_number: 256\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0256.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 255 and 256 verbatim into page_0255.json and page_0256.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0257-P0258",
+    "Prompt": "page_1_number: 257\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0257.png\npage_2_number: 258\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0258.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 257 and 258 verbatim into page_0257.json and page_0258.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0259-P0260",
+    "Prompt": "page_1_number: 259\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0259.png\npage_2_number: 260\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0260.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 259 and 260 verbatim into page_0259.json and page_0260.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0261-P0262",
+    "Prompt": "page_1_number: 261\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0261.png\npage_2_number: 262\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0262.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 261 and 262 verbatim into page_0261.json and page_0262.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0263-P0264",
+    "Prompt": "page_1_number: 263\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0263.png\npage_2_number: 264\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0264.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 263 and 264 verbatim into page_0263.json and page_0264.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0265-P0266",
+    "Prompt": "page_1_number: 265\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0265.png\npage_2_number: 266\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0266.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 265 and 266 verbatim into page_0265.json and page_0266.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0267-P0268",
+    "Prompt": "page_1_number: 267\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0267.png\npage_2_number: 268\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0268.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 267 and 268 verbatim into page_0267.json and page_0268.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0269-P0270",
+    "Prompt": "page_1_number: 269\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0269.png\npage_2_number: 270\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0270.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 269 and 270 verbatim into page_0269.json and page_0270.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0271-P0272",
+    "Prompt": "page_1_number: 271\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0271.png\npage_2_number: 272\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0272.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 271 and 272 verbatim into page_0271.json and page_0272.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0273-P0274",
+    "Prompt": "page_1_number: 273\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0273.png\npage_2_number: 274\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0274.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 273 and 274 verbatim into page_0273.json and page_0274.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0275-P0276",
+    "Prompt": "page_1_number: 275\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0275.png\npage_2_number: 276\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0276.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 275 and 276 verbatim into page_0275.json and page_0276.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0277-P0278",
+    "Prompt": "page_1_number: 277\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0277.png\npage_2_number: 278\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0278.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 277 and 278 verbatim into page_0277.json and page_0278.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0279-P0280",
+    "Prompt": "page_1_number: 279\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0279.png\npage_2_number: 280\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0280.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 279 and 280 verbatim into page_0279.json and page_0280.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0281-P0282",
+    "Prompt": "page_1_number: 281\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0281.png\npage_2_number: 282\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0282.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 281 and 282 verbatim into page_0281.json and page_0282.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0283-P0284",
+    "Prompt": "page_1_number: 283\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0283.png\npage_2_number: 284\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0284.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 283 and 284 verbatim into page_0283.json and page_0284.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0285-P0286",
+    "Prompt": "page_1_number: 285\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0285.png\npage_2_number: 286\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0286.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 285 and 286 verbatim into page_0285.json and page_0286.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0287-P0288",
+    "Prompt": "page_1_number: 287\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0287.png\npage_2_number: 288\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0288.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 287 and 288 verbatim into page_0287.json and page_0288.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0289-P0290",
+    "Prompt": "page_1_number: 289\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0289.png\npage_2_number: 290\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0290.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 289 and 290 verbatim into page_0289.json and page_0290.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0291-P0292",
+    "Prompt": "page_1_number: 291\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0291.png\npage_2_number: 292\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0292.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 291 and 292 verbatim into page_0291.json and page_0292.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0293-P0294",
+    "Prompt": "page_1_number: 293\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0293.png\npage_2_number: 294\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0294.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 293 and 294 verbatim into page_0293.json and page_0294.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0295-P0296",
+    "Prompt": "page_1_number: 295\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0295.png\npage_2_number: 296\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0296.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 295 and 296 verbatim into page_0295.json and page_0296.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0297-P0298",
+    "Prompt": "page_1_number: 297\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0297.png\npage_2_number: 298\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0298.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 297 and 298 verbatim into page_0297.json and page_0298.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0299-P0300",
+    "Prompt": "page_1_number: 299\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0299.png\npage_2_number: 300\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0300.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 299 and 300 verbatim into page_0299.json and page_0300.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0301-P0302",
+    "Prompt": "page_1_number: 301\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0301.png\npage_2_number: 302\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0302.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 301 and 302 verbatim into page_0301.json and page_0302.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0303-P0304",
+    "Prompt": "page_1_number: 303\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0303.png\npage_2_number: 304\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0304.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 303 and 304 verbatim into page_0303.json and page_0304.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0305-P0306",
+    "Prompt": "page_1_number: 305\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0305.png\npage_2_number: 306\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0306.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 305 and 306 verbatim into page_0305.json and page_0306.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0307-P0308",
+    "Prompt": "page_1_number: 307\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0307.png\npage_2_number: 308\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0308.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 307 and 308 verbatim into page_0307.json and page_0308.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0309-P0310",
+    "Prompt": "page_1_number: 309\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0309.png\npage_2_number: 310\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0310.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 309 and 310 verbatim into page_0309.json and page_0310.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0311-P0312",
+    "Prompt": "page_1_number: 311\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0311.png\npage_2_number: 312\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0312.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 311 and 312 verbatim into page_0311.json and page_0312.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0313-P0314",
+    "Prompt": "page_1_number: 313\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0313.png\npage_2_number: 314\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0314.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 313 and 314 verbatim into page_0313.json and page_0314.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0315-P0316",
+    "Prompt": "page_1_number: 315\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0315.png\npage_2_number: 316\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0316.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 315 and 316 verbatim into page_0315.json and page_0316.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0317-P0318",
+    "Prompt": "page_1_number: 317\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0317.png\npage_2_number: 318\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0318.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 317 and 318 verbatim into page_0317.json and page_0318.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0319-P0320",
+    "Prompt": "page_1_number: 319\npage_1_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0319.png\npage_2_number: 320\npage_2_image: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/pages/page_0320.png\noutput_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results\nTranscribe pages 319 and 320 verbatim into page_0319.json and page_0320.json in C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_bao_dien/page_results. Obey two_page_worker instructions.",
+    "Model": "inherit"
+  }
+]

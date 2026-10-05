@@ -1,0 +1,200 @@
+{
+  "summary": {
+    "total_books": 1,
+    "total_pages": 157,
+    "total_worker_pairs": 79,
+    "total_chapters": 17,
+    "total_batches": 2,
+    "total_waves": 2,
+    "est_time_sec_min": 24,
+    "est_time_sec_max": 30,
+    "est_time_str": "24-30s (0.4-0.5 min)"
+  },
+  "books": [
+    {
+      "file": "VƯƠNG HỔ ỨNG - LỤC HÀO XU CÁT TỊ HUNG (HÓA GIẢI) BÍ TRUYỀN.pdf",
+      "path": "C:\\Users\\Admin\\Downloads\\drive-download-20260908T061604Z-1-001\\VƯƠNG HỔ ỨNG - LỤC HÀO XU CÁT TỊ HUNG (HÓA GIẢI) BÍ TRUYỀN.pdf",
+      "total_pages": 157,
+      "worker_pairs": 79,
+      "has_native_text": true,
+      "detection_tier": "Tier 1 (TOC Bookmarks)",
+      "chapters_count": 17,
+      "batches_count": 2,
+      "total_waves": 2,
+      "est_time_sec_min": 24,
+      "est_time_sec_max": 30,
+      "est_time_str": "24-30s",
+      "chapters": [
+        {
+          "title": "BÌA",
+          "start_page": 1,
+          "end_page": 3,
+          "id": 1,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "MỤC LỤC",
+          "start_page": 4,
+          "end_page": 5,
+          "id": 2,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "LỜI TỰA",
+          "start_page": 6,
+          "end_page": 7,
+          "id": 3,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 1. MỤC ĐÍCH CỦA DỰ ĐOÁN LỤC HÀO",
+          "start_page": 8,
+          "end_page": 11,
+          "id": 4,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 2. 12 ĐỊA CHI TIẾT LỘ THIÊN CƠ",
+          "start_page": 12,
+          "end_page": 23,
+          "id": 5,
+          "pages": 12,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 3. Ý NGHĨA ẨN TÀNG CỦA BÁT QUÁI",
+          "start_page": 24,
+          "end_page": 34,
+          "id": 6,
+          "pages": 11,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 4. NẠP ÂM CỦA CAN CHI VÀ PHẠM VI SỬ DỤNG",
+          "start_page": 35,
+          "end_page": 42,
+          "id": 7,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 5. TRÍCH XUẤT THÔNG TIN NGŨ HÀNH",
+          "start_page": 43,
+          "end_page": 49,
+          "id": 8,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 6. HÌNH THỨC TỒN TẠI CỦA NGŨ HÀNH THEO PHƯƠNG VỊ",
+          "start_page": 50,
+          "end_page": 58,
+          "id": 9,
+          "pages": 9,
+          "pairs": 5
+        },
+        {
+          "title": "CHƯƠNG 7. HÌNH THỨC TỒN TẠI CỦA NGŨ HÀNH THEO THỜI GIAN",
+          "start_page": 59,
+          "end_page": 69,
+          "id": 10,
+          "pages": 11,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 8. HÌNH THỨC TỒN TẠI CỦA NGŨ HÀNH THEO MÀU SẮC",
+          "start_page": 70,
+          "end_page": 75,
+          "id": 11,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 9. HÌNH THỨC TỒN TẠI CỦA NGŨ HÀNH THEO CON SỐ",
+          "start_page": 76,
+          "end_page": 88,
+          "id": 12,
+          "pages": 13,
+          "pairs": 7
+        },
+        {
+          "title": "CHƯƠNG 10. HÌNH THỨC TỒN TẠI CỦA NGŨ HÀNH THEO ÂM THANH",
+          "start_page": 89,
+          "end_page": 94,
+          "id": 13,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 11. TRONG CHỮ VIẾT VÀ HOA VĂN CŨNG TÀNG TRỮ NGŨ HÀNH",
+          "start_page": 95,
+          "end_page": 102,
+          "id": 14,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 12. KHI CHẾ TÁC VẬT HÓA GIẢI CẦN PHẢI CHÚ Ý VẤN ĐỀ GÌ ?",
+          "start_page": 103,
+          "end_page": 105,
+          "id": 15,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 13. CÁC LOẠI HÓA GIẢI",
+          "start_page": 106,
+          "end_page": 149,
+          "id": 16,
+          "pages": 44,
+          "pairs": 22
+        },
+        {
+          "title": "CHƯƠNG 14. PHƯƠNG PHÁP CHỌN NGÀY TỐT BẰNG LỤC HÀO",
+          "start_page": 150,
+          "end_page": 157,
+          "id": 17,
+          "pages": 8,
+          "pairs": 4
+        }
+      ],
+      "batches": [
+        {
+          "batch_id": 1,
+          "chapter_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "total_pairs": 78,
+          "waves": 1
+        },
+        {
+          "batch_id": 2,
+          "chapter_ids": [
+            17
+          ],
+          "total_pairs": 4,
+          "waves": 1
+        }
+      ]
+    }
+  ]
+}

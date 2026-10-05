@@ -1,0 +1,85 @@
+{
+  "chunk_id": "ch19",
+  "title": "Chương 16: Phản Ngâm Biện Nghĩa",
+  "start_heading_level": 2,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch19.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch19_chuong_16_phan_ngam_bien_nghia_branches.md",
+  "figure_ids": [
+    "fig_103",
+    "fig_104",
+    "fig_105",
+    "fig_106",
+    "fig_107"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_103",
+      "figure_number": "103",
+      "caption": "Sơ đồ quẻ Lôi Địa Dự biến Lôi Phong Hằng",
+      "rel_path": "assets/page_0169_img_01.png"
+    },
+    {
+      "id": "fig_104",
+      "figure_number": "104",
+      "caption": "Sơ đồ quẻ Phong Hỏa Gia Nhân biến Địa Sơn Khiêm",
+      "rel_path": "assets/page_0170_img_01.png"
+    },
+    {
+      "id": "fig_105",
+      "figure_number": "105",
+      "caption": "Quẻ Phong Thiên Tiểu Súc biến Địa Thiên Thái",
+      "rel_path": "assets/page_0171_img_01.png"
+    },
+    {
+      "id": "fig_106",
+      "figure_number": "106",
+      "caption": "Quẻ Phong Lôi Ích biến Địa Trạch Lâm",
+      "rel_path": "assets/page_0172_img_01.png"
+    },
+    {
+      "id": "fig_107",
+      "figure_number": "107",
+      "caption": "Quẻ Thiên Phong Cấu biến Thiên Địa Bĩ",
+      "rel_path": "assets/page_0173_img_01.png"
+    }
+  ],
+  "exercises": [
+    {
+      "line": 2938,
+      "exercise_id": "vd_103",
+      "title": "Ví dụ 1: Ngày Mậu Tuất tháng Canh Tuất năm Đinh Sửu, nam đoán về tìm đối tượng, được Lôi Địa Dự biến Lôi Phong Hằng.",
+      "start_page": 169,
+      "end_page": 169
+    },
+    {
+      "line": 2967,
+      "exercise_id": "vd_104",
+      "title": "Ví dụ 2: Ngày Ất Mùi tháng Giáp Ngọ năm Bính Tý, đoán về tìm giám đốc nhà máy, được Phong Hỏa Gia Nhân biến Địa Sơn Khiê",
+      "start_page": 170,
+      "end_page": 170
+    },
+    {
+      "line": 2992,
+      "exercise_id": "vd_105",
+      "title": "Ví dụ 3: Ngày Nhâm Tuất tháng Tân Hợi năm Đinh Sửu, nữ đoán về mối quan hệ với một người đàn ông, được Phong Thiên Tiểu ",
+      "start_page": 171,
+      "end_page": 171
+    },
+    {
+      "line": 3015,
+      "exercise_id": "vd_106",
+      "title": "Ví dụ 4: Ngày Mậu Thân tháng Tân Hợi năm Nhâm Ngọ, nam gọi điện thoại đoán xem vợ sinh con vào ngày nào, được Phong Lôi ",
+      "start_page": 172,
+      "end_page": 172
+    },
+    {
+      "line": 3040,
+      "exercise_id": "vd_107",
+      "title": "Ví dụ 5: Ngày Tân Mùi tháng Canh Tuất năm Nhâm Ngọ, nam đoán bệnh cho cha, được Thiên Phong Cấu biến Thiên Địa Bĩ.",
+      "start_page": 173,
+      "end_page": 173
+    }
+  ],
+  "parent_titles": []
+}

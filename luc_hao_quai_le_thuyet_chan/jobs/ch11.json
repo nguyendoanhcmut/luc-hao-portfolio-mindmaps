@@ -1,0 +1,99 @@
+{
+  "chunk_id": "ch11",
+  "title": "Chương 8: Lục Hợp Biện Nghĩa",
+  "start_heading_level": 2,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch11.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch11_chuong_8_luc_hop_bien_nghia_branches.md",
+  "figure_ids": [
+    "fig_45",
+    "fig_46",
+    "fig_47",
+    "fig_48",
+    "fig_49",
+    "fig_50"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_45",
+      "figure_number": "45",
+      "caption": "Quẻ Hỏa Trạch Khuê biến Hỏa Lôi Phệ Hạp",
+      "rel_path": "assets/page_0082_img_01.png"
+    },
+    {
+      "id": "fig_46",
+      "figure_number": "46",
+      "caption": "Sơ đồ quẻ Thủy Sơn Kiển biến Cấn Vi Sơn",
+      "rel_path": "assets/page_0083_img_01.png"
+    },
+    {
+      "id": "fig_47",
+      "figure_number": "47",
+      "caption": "Quẻ Lôi Thiên Đại Tráng",
+      "rel_path": "assets/page_0085_img_01.png"
+    },
+    {
+      "id": "fig_48",
+      "figure_number": "48",
+      "caption": "Quẻ Sơn Trạch Tổn biến Phong Lôi Ích",
+      "rel_path": "assets/page_0087_img_01.png"
+    },
+    {
+      "id": "fig_49",
+      "figure_number": "49",
+      "caption": "Quẻ Thiên Trạch Lý biến Trạch Thủy Khốn",
+      "rel_path": "assets/page_0088_img_01.png"
+    },
+    {
+      "id": "fig_50",
+      "figure_number": "50",
+      "caption": "Quẻ Thủy Trạch Tiết",
+      "rel_path": "assets/page_0089_img_01.png"
+    }
+  ],
+  "exercises": [
+    {
+      "line": 1401,
+      "exercise_id": "vd_045",
+      "title": "Ví dụ 1: Ngày Giáp Thân tháng Mậu Thân năm Đinh Sửu, tại lớp Dịch học, khi nói đến vấn đề đoán vật bên trong bằng lục hà",
+      "start_page": 82,
+      "end_page": 82
+    },
+    {
+      "line": 1418,
+      "exercise_id": "vd_046",
+      "title": "Ví dụ 2: Ngày Bính Tuất tháng Tân Sửu năm Tân Tị, một người phụ nữ ở Ngũ Đài đoán sự nghiệp, được Thủy Sơn Kiển biến Cấn",
+      "start_page": 83,
+      "end_page": 83
+    },
+    {
+      "line": 1439,
+      "exercise_id": "vd_047",
+      "title": "Ví dụ 3: Ngày Ất Hợi tháng Kỷ Dậu năm Đinh Sửu, bởi vì bạn học ở quê nhà tụ họp...",
+      "start_page": 85,
+      "end_page": 85
+    },
+    {
+      "line": 1468,
+      "exercise_id": "vd_048",
+      "title": "Ví dụ 4: Ngày Đinh Tị tháng Nhâm Ngọ năm Canh Thìn, cô Vương ở cục bưu chính bị thiếu một khoản tiền trên sổ sách, đoán ",
+      "start_page": 87,
+      "end_page": 87
+    },
+    {
+      "line": 1489,
+      "exercise_id": "vd_049",
+      "title": "Ví dụ 5: Ngày Quý Dậu tháng Kỷ Hợi năm Bính Tý, cô Triệu làm ở bệnh viện đoán hôn nhân, được Thiên Trạch Lý biến Trạch T",
+      "start_page": 88,
+      "end_page": 88
+    },
+    {
+      "line": 1512,
+      "exercise_id": "vd_050",
+      "title": "Ví dụ 6: Ngày Quý Mùi tháng Quý Mùi năm Canh Thìn, cùng nghiên cứu Dịch với Dịch hữu Bắc Kinh Vương Khai Vũ, khi nói về ",
+      "start_page": 89,
+      "end_page": 89
+    }
+  ],
+  "parent_titles": []
+}

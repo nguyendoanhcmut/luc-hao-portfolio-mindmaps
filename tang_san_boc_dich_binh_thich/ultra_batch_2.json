@@ -1,0 +1,282 @@
+[
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch72",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch72.txt\n\nParameters:\n- chunk_id: ch72\n- section_title: Chương 70: XÂY DỰNG CÔNG TRÌNH\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch72_chuong_70_xay_dung_cong_trinh_branches.md\n- assigned_figures: [{\"num\": \"430\", \"cap\": \"Sơ đồ quẻ Khuê\", \"src\": \"assets/page_0364_img_01.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 70: XÂY DỰNG CÔNG TRÌNH' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch73",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch73.txt\n\nParameters:\n- chunk_id: ch73\n- section_title: Chương 71: SƯ SÃI, ĐẠO SĨ, THẦY THUỐC CÙNG CÁC CHỨC\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch73_chuong_71_su_sai_ao_si_thay_thuoc_cung_c_branches.md\n- assigned_figures: [{\"num\": \"431\", \"cap\": \"Sơ đồ quẻ Truân\", \"src\": \"assets/page_0365_img_01.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 71: SƯ SÃI, ĐẠO SĨ, THẦY THUỐC CÙNG CÁC CHỨC' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch74",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch74.txt\n\nParameters:\n- chunk_id: ch74\n- section_title: Chương 72: CẤP BẬC CÔNG DANH\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch74_chuong_72_cap_bac_cong_danh_branches.md\n- assigned_figures: [{\"num\": \"432\", \"cap\": \"Sơ đồ quẻ Tiểu Quá\", \"src\": \"assets/page_0366_img_01.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 72: CẤP BẬC CÔNG DANH' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch75",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch75.txt\n\nParameters:\n- chunk_id: ch75\n- section_title: Chương 73: CON XEM CÔNG DANH CHO CHA\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch75_chuong_73_con_xem_cong_danh_cho_cha_branches.md\n- assigned_figures: [{\"num\": \"433\", \"cap\": \"Sơ đồ quẻ Ngày Giáp Thân tháng Mão, xem được quẻ Tiết biến Kiển:\", \"src\": \"assets/page_0367_img_01.png\"}, {\"num\": \"434\", \"cap\": \"Sơ đồ quẻ Hoán\", \"src\": \"assets/page_0368_img_01.png\"}, {\"num\": \"435\", \"cap\": \"Sơ đồ quẻ Quan\", \"src\": \"assets/page_0368_img_02.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 73: CON XEM CÔNG DANH CHO CHA' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch76",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch76.txt\n\nParameters:\n- chunk_id: ch76\n- section_title: Chương 74: CẦU TÀI\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch76_chuong_74_cau_tai_branches.md\n- assigned_figures: [{\"num\": \"436\", \"cap\": \"Sơ đồ quẻ Ví dụ: Ngày Mậu Ngọ tháng Dậu, xem cầu tài, được quẻ Cách:\", \"src\": \"assets/page_0370_img_01.png\"}, {\"num\": \"437\", \"cap\": \"Sơ đồ quẻ Vị Tế\", \"src\": \"assets/page_0371_img_01.png\"}, {\"num\": \"438\", \"cap\": \"Sơ đồ quẻ Tấn\", \"src\": \"assets/page_0372_img_01.png\"}, {\"num\": \"439\", \"cap\": \"Sơ đồ quẻ Ký Tế\", \"src\": \"assets/page_0372_img_02.png\"}, {\"num\": \"440\", \"cap\": \"Sơ đồ quẻ Ly\", \"src\": \"assets/page_0373_img_01.png\"}, {\"num\": \"441\", \"cap\": \"Sơ đồ quẻ Sư\", \"src\": \"assets/page_0374_img_01.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 74: CẦU TÀI' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch77",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch77.txt\n\nParameters:\n- chunk_id: ch77\n- section_title: Chương 75: GẶP QUAN TRÊN ĐỂ CẦU TÀI\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch77_chuong_75_gap_quan_tren_e_cau_tai_branches.md\n- assigned_figures: [{\"num\": \"442\", \"cap\": \"Sơ đồ quẻ Đồng Nhân\", \"src\": \"assets/page_0375_img_01.png\"}, {\"num\": \"443\", \"cap\": \"Sơ đồ quẻ Phệ Hạp\", \"src\": \"assets/page_0376_img_01.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 75: GẶP QUAN TRÊN ĐỂ CẦU TÀI' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch78",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch78.txt\n\nParameters:\n- chunk_id: ch78\n- section_title: Chương 76: LÀM VIỆC CHO QUAN TRÊN ĐỂ CẦU TÀI\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch78_chuong_76_lam_viec_cho_quan_tren_e_cau_t_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 76: LÀM VIỆC CHO QUAN TRÊN ĐỂ CẦU TÀI' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch79",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch79.txt\n\nParameters:\n- chunk_id: ch79\n- section_title: Chương 77: MỞ CỬA HÀNG\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch79_chuong_77_mo_cua_hang_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 77: MỞ CỬA HÀNG' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch80",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch80.txt\n\nParameters:\n- chunk_id: ch80\n- section_title: Chương 78: ỦY THÁC VIỆC LÀM ĂN\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch80_chuong_78_uy_thac_viec_lam_an_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 78: ỦY THÁC VIỆC LÀM ĂN' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch81",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch81.txt\n\nParameters:\n- chunk_id: ch81\n- section_title: Chương 79: ĐẦU CƠ\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch81_chuong_79_au_co_branches.md\n- assigned_figures: [{\"num\": \"444\", \"cap\": \"Sơ đồ quẻ Di\", \"src\": \"assets/page_0381_img_01.png\"}, {\"num\": \"445\", \"cap\": \"Sơ đồ quẻ Quy Muội\", \"src\": \"assets/page_0382_img_01.png\"}, {\"num\": \"446\", \"cap\": \"Sơ đồ quẻ Phục\", \"src\": \"assets/page_0382_img_02.png\"}, {\"num\": \"447\", \"cap\": \"Sơ đồ quẻ Gia Nhân\", \"src\": \"assets/page_0383_img_01.png\"}, {\"num\": \"448\", \"cap\": \"Sơ đồ quẻ Bí\", \"src\": \"assets/page_0383_img_02.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 79: ĐẦU CƠ' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch82",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch82.txt\n\nParameters:\n- chunk_id: ch82\n- section_title: Chương 80: NƠI XUẤT HÀNG\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch82_chuong_80_noi_xuat_hang_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 80: NƠI XUẤT HÀNG' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch83",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch83.txt\n\nParameters:\n- chunk_id: ch83\n- section_title: Chương 81: TÌM NƠI BUÔN BÁN\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch83_chuong_81_tim_noi_buon_ban_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 81: TÌM NƠI BUÔN BÁN' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch84",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch84.txt\n\nParameters:\n- chunk_id: ch84\n- section_title: Chương 82: CHỦNG LOẠI HÀNG HOÁ\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch84_chuong_82_chung_loai_hang_hoa_branches.md\n- assigned_figures: [{\"num\": \"449\", \"cap\": \"Sơ đồ quẻ Lâm\", \"src\": \"assets/page_0385_img_01.png\"}, {\"num\": \"450\", \"cap\": \"Sơ đồ quẻ Lữ\", \"src\": \"assets/page_0386_img_01.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 82: CHỦNG LOẠI HÀNG HOÁ' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch85",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch85.txt\n\nParameters:\n- chunk_id: ch85\n- section_title: Chương 83: VAY MƯỢN\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch85_chuong_83_vay_muon_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 83: VAY MƯỢN' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch86",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch86.txt\n\nParameters:\n- chunk_id: ch86\n- section_title: Chương 84: CHO VAY\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch86_chuong_84_cho_vay_branches.md\n- assigned_figures: [{\"num\": \"451\", \"cap\": \"Sơ đồ quẻ Đoài\", \"src\": \"assets/page_0387_img_01.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 84: CHO VAY' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch87",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch87.txt\n\nParameters:\n- chunk_id: ch87\n- section_title: Chương 85: MUA BÁN GIA SÚC\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch87_chuong_85_mua_ban_gia_suc_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 85: MUA BÁN GIA SÚC' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch88",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch88.txt\n\nParameters:\n- chunk_id: ch88\n- section_title: Chương 86: ĐẤU TÀI, ĐẤU SỨC\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch88_chuong_86_au_tai_au_suc_branches.md\n- assigned_figures: [{\"num\": \"452\", \"cap\": \"Sơ đồ quẻ Đỉnh\", \"src\": \"assets/page_0388_img_01.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 86: ĐẤU TÀI, ĐẤU SỨC' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch89",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch89.txt\n\nParameters:\n- chunk_id: ch89\n- section_title: Chương 87: XIN HỤI\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch89_chuong_87_xin_hui_branches.md\n- assigned_figures: [{\"num\": \"453\", \"cap\": \"Sơ đồ quẻ Tiệm\", \"src\": \"assets/page_0389_img_01.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 87: XIN HỤI' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch90",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch90.txt\n\nParameters:\n- chunk_id: ch90\n- section_title: Chương 88: HÀNH HIỂM CẦU TÀI\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch90_chuong_88_hanh_hiem_cau_tai_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 88: HÀNH HIỂM CẦU TÀI' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch91",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch91.txt\n\nParameters:\n- chunk_id: ch91\n- section_title: Chương 89: HÔN NHÂN\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch91_chuong_89_hon_nhan_branches.md\n- assigned_figures: [{\"num\": \"454\", \"cap\": \"Sơ đồ quẻ Lâm\", \"src\": \"assets/page_0390_img_01.png\"}, {\"num\": \"455\", \"cap\": \"Sơ đồ quẻ Minh Di\", \"src\": \"assets/page_0391_img_01.png\"}, {\"num\": \"456\", \"cap\": \"Sơ đồ quẻ Hằng\", \"src\": \"assets/page_0392_img_01.png\"}, {\"num\": \"457\", \"cap\": \"Sơ đồ quẻ Lâm\", \"src\": \"assets/page_0392_img_02.png\"}, {\"num\": \"458\", \"cap\": \"Sơ đồ quẻ Tổn\", \"src\": \"assets/page_0393_img_01.png\"}, {\"num\": \"459\", \"cap\": \"Sơ đồ quẻ Hằng\", \"src\": \"assets/page_0394_img_01.png\"}, {\"num\": \"460\", \"cap\": \"Sơ đồ quẻ Nhu\", \"src\": \"assets/page_0395_img_01.png\"}, {\"num\": \"461\", \"cap\": \"Sơ đồ quẻ Khốn\", \"src\": \"assets/page_0396_img_01.png\"}, {\"num\": \"462\", \"cap\": \"Sơ đồ quẻ Thái\", \"src\": \"assets/page_0397_img_01.png\"}, {\"num\": \"463\", \"cap\": \"Sơ đồ quẻ Khôn\", \"src\": \"assets/page_0397_img_02.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 89: HÔN NHÂN' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch92",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch92.txt\n\nParameters:\n- chunk_id: ch92\n- section_title: Chương 90: XEM HÔN NHÂN CÓ CON CÁI\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch92_chuong_90_xem_hon_nhan_co_con_cai_branches.md\n- assigned_figures: [{\"num\": \"464\", \"cap\": \"Sơ đồ quẻ Cách\", \"src\": \"assets/page_0399_img_01.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 90: XEM HÔN NHÂN CÓ CON CÁI' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch93",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch93.txt\n\nParameters:\n- chunk_id: ch93\n- section_title: Chương 91: XEM HÔN NHÂN CÓ HỢP VỚI CHA MẸ KHÔNG\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch93_chuong_91_xem_hon_nhan_co_hop_voi_cha_me_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 91: XEM HÔN NHÂN CÓ HỢP VỚI CHA MẸ KHÔNG' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch94",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch94.txt\n\nParameters:\n- chunk_id: ch94\n- section_title: Chương 92: LẤY VỢ LẼ\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch94_chuong_92_lay_vo_le_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 92: LẤY VỢ LẼ' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch95",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch95.txt\n\nParameters:\n- chunk_id: ch95\n- section_title: Chương 93: LẤY TỲ THIẾP\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch95_chuong_93_lay_ty_thiep_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 93: LẤY TỲ THIẾP' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch96",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch96.txt\n\nParameters:\n- chunk_id: ch96\n- section_title: Chương 94: LẤY ĐÀN BÀ BỎ CHỒNG, LẤY CA KỸ\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch96_chuong_94_lay_an_ba_bo_chong_lay_ca_ky_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 94: LẤY ĐÀN BÀ BỎ CHỒNG, LẤY CA KỸ' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch97",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch97.txt\n\nParameters:\n- chunk_id: ch97\n- section_title: Chương 95: THAI SẢN\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch97_chuong_95_thai_san_branches.md\n- assigned_figures: [{\"num\": \"465\", \"cap\": \"Sơ đồ quẻ Tiểu Quá\", \"src\": \"assets/page_0402_img_01.png\"}, {\"num\": \"466\", \"cap\": \"Sơ đồ quẻ Cấn\", \"src\": \"assets/page_0403_img_01.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 95: THAI SẢN' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch98",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch98.txt\n\nParameters:\n- chunk_id: ch98\n- section_title: Chương 96: XEM VỀ SỰ AN NGUY CỦA SẢN PHỤ\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch98_chuong_96_xem_ve_su_an_nguy_cua_san_phu_branches.md\n- assigned_figures: [{\"num\": \"467\", \"cap\": \"Sơ đồ quẻ Phong\", \"src\": \"assets/page_0404_img_01.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 96: XEM VỀ SỰ AN NGUY CỦA SẢN PHỤ' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch99",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch99.txt\n\nParameters:\n- chunk_id: ch99\n- section_title: Chương 97: THỜI ĐIỂM SINH NỞ\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch99_chuong_97_thoi_iem_sinh_no_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 97: THỜI ĐIỂM SINH NỞ' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch100",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch100.txt\n\nParameters:\n- chunk_id: ch100\n- section_title: Chương 98: XUẤT HÀNH\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch100_chuong_98_xuat_hanh_branches.md\n- assigned_figures: [{\"num\": \"468\", \"cap\": \"Sơ đồ quẻ Di\", \"src\": \"assets/page_0406_img_01.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 98: XUẤT HÀNH' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch101",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch101.txt\n\nParameters:\n- chunk_id: ch101\n- section_title: Chương 99: ĐI THUYỀN\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch101_chuong_99_i_thuyen_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 99: ĐI THUYỀN' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch102",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch102.txt\n\nParameters:\n- chunk_id: ch102\n- section_title: Chương 100: BẠN ĐỒNG HÀNH\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch102_chuong_100_ban_ong_hanh_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 100: BẠN ĐỒNG HÀNH' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch103",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch103.txt\n\nParameters:\n- chunk_id: ch103\n- section_title: Chương 101: NGƯỜI ĐI XA\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch103_chuong_101_nguoi_i_xa_branches.md\n- assigned_figures: [{\"num\": \"469\", \"cap\": \"Sơ đồ quẻ Lữ\", \"src\": \"assets/page_0409_img_01.png\"}, {\"num\": \"470\", \"cap\": \"Sơ đồ quẻ Cách\", \"src\": \"assets/page_0410_img_01.png\"}, {\"num\": \"471\", \"cap\": \"Sơ đồ quẻ Truân\", \"src\": \"assets/page_0410_img_02.png\"}, {\"num\": \"472\", \"cap\": \"Sơ đồ quẻ Lý\", \"src\": \"assets/page_0411_img_01.png\"}, {\"num\": \"473\", \"cap\": \"Sơ đồ quẻ Đại Hữu\", \"src\": \"assets/page_0411_img_02.png\"}, {\"num\": \"474\", \"cap\": \"Sơ đồ quẻ Quan\", \"src\": \"assets/page_0412_img_01.png\"}, {\"num\": \"475\", \"cap\": \"Sơ đồ quẻ Trung Phu\", \"src\": \"assets/page_0412_img_02.png\"}, {\"num\": \"476\", \"cap\": \"Sơ đồ quẻ Khảm\", \"src\": \"assets/page_0413_img_01.png\"}, {\"num\": \"477\", \"cap\": \"Sơ đồ quẻ Đại Tráng\", \"src\": \"assets/page_0413_img_02.png\"}, {\"num\": \"478\", \"cap\": \"Sơ đồ quẻ Tiệm\", \"src\": \"assets/page_0414_img_01.png\"}, {\"num\": \"479\", \"cap\": \"Sơ đồ quẻ Sư\", \"src\": \"assets/page_0414_img_02.png\"}, {\"num\": \"480\", \"cap\": \"Sơ đồ quẻ Cổ\", \"src\": \"assets/page_0415_img_01.png\"}, {\"num\": \"481\", \"cap\": \"Sơ đồ quẻ Thăng\", \"src\": \"assets/page_0415_img_02.png\"}, {\"num\": \"482\", \"cap\": \"Sơ đồ quẻ Phong\", \"src\": \"assets/page_0416_img_01.png\"}, {\"num\": \"483\", \"cap\": \"Sơ đồ quẻ Vị Tế\", \"src\": \"assets/page_0416_img_02.png\"}, {\"num\": \"484\", \"cap\": \"Sơ đồ quẻ Khôn\", \"src\": \"assets/page_0417_img_01.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 101: NGƯỜI ĐI XA' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch104",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch104.txt\n\nParameters:\n- chunk_id: ch104\n- section_title: Chương 102: ĐỀ PHÒNG KIỆN TỤNG\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch104_chuong_102_e_phong_kien_tung_branches.md\n- assigned_figures: [{\"num\": \"485\", \"cap\": \"Sơ đồ quẻ Ngày Quý Tị, lại xem về gió, được quẻ Cấu biến Tiểu Súc:\", \"src\": \"assets/page_0418_img_01.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 102: ĐỀ PHÒNG KIỆN TỤNG' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch105",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch105.txt\n\nParameters:\n- chunk_id: ch105\n- section_title: Chương 103: CẠNH TRANH\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch105_chuong_103_canh_tranh_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 103: CẠNH TRANH' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch106",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch106.txt\n\nParameters:\n- chunk_id: ch106\n- section_title: Chương 104: ĐÂM ĐƠN KHỞI KIỆN\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch106_chuong_104_am_on_khoi_kien_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 104: ĐÂM ĐƠN KHỞI KIỆN' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch107",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch107.txt\n\nParameters:\n- chunk_id: ch107\n- section_title: Chương 105: BỊ XỬ TRỌNG TỘI\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch107_chuong_105_bi_xu_trong_toi_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 105: BỊ XỬ TRỌNG TỘI' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch108",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch108.txt\n\nParameters:\n- chunk_id: ch108\n- section_title: Chương 106: BỆNH TẬT\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch108_chuong_106_benh_tat_branches.md\n- assigned_figures: [{\"num\": \"486\", \"cap\": \"Sơ đồ quẻ Hằng\", \"src\": \"assets/page_0421_img_01.png\"}, {\"num\": \"487\", \"cap\": \"Sơ đồ quẻ Độn\", \"src\": \"assets/page_0422_img_01.png\"}, {\"num\": \"488\", \"cap\": \"Sơ đồ quẻ Truân\", \"src\": \"assets/page_0423_img_01.png\"}, {\"num\": \"489\", \"cap\": \"Sơ đồ quẻ Vị Tế\", \"src\": \"assets/page_0424_img_01.png\"}, {\"num\": \"490\", \"cap\": \"Sơ đồ quẻ Vị Tế\", \"src\": \"assets/page_0425_img_01.png\"}, {\"num\": \"491\", \"cap\": \"Sơ đồ quẻ Quải\", \"src\": \"assets/page_0425_img_02.png\"}, {\"num\": \"492\", \"cap\": \"Sơ đồ quẻ Thăng\", \"src\": \"assets/page_0426_img_01.png\"}, {\"num\": \"493\", \"cap\": \"Sơ đồ quẻ Ích\", \"src\": \"assets/page_0426_img_02.png\"}, {\"num\": \"494\", \"cap\": \"Sơ đồ quẻ Đại Tráng\", \"src\": \"assets/page_0427_img_01.png\"}, {\"num\": \"495\", \"cap\": \"Sơ đồ quẻ Đại Tráng\", \"src\": \"assets/page_0427_img_02.png\"}, {\"num\": \"496\", \"cap\": \"Sơ đồ quẻ Cấn\", \"src\": \"assets/page_0428_img_01.png\"}, {\"num\": \"497\", \"cap\": \"Sơ đồ quẻ Tỷ\", \"src\": \"assets/page_0429_img_01.png\"}, {\"num\": \"498\", \"cap\": \"Sơ đồ quẻ Trung Phu\", \"src\": \"assets/page_0429_img_02.png\"}, {\"num\": \"499\", \"cap\": \"Sơ đồ quẻ Khôn\", \"src\": \"assets/page_0430_img_01.png\"}, {\"num\": \"500\", \"cap\": \"Sơ đồ quẻ Tiết\", \"src\": \"assets/page_0430_img_02.png\"}, {\"num\": \"501\", \"cap\": \"Sơ đồ quẻ Đoài\", \"src\": \"assets/page_0431_img_01.png\"}, {\"num\": \"502\", \"cap\": \"Sơ đồ quẻ Hôm sau ngày Bính Thân xem lại, được quẻ Đại Quá biến Hoán:\", \"src\": \"assets/page_0431_img_02.png\"}, {\"num\": \"503\", \"cap\": \"Sơ đồ quẻ Lâm\", \"src\": \"assets/page_0432_img_01.png\"}, {\"num\": \"504\", \"cap\": \"Sơ đồ quẻ Giải\", \"src\": \"assets/page_0432_img_02.png\"}]\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 106: BỆNH TẬT' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch109",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch109.txt\n\nParameters:\n- chunk_id: ch109\n- section_title: Chương 107: ĐẬU, SỞI\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch109_chuong_107_au_soi_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 107: ĐẬU, SỞI' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch110",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch110.txt\n\nParameters:\n- chunk_id: ch110\n- section_title: Chương 108: CĂN NGUYÊN BỆNH TẬT\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch110_chuong_108_can_nguyen_benh_tat_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 108: CĂN NGUYÊN BỆNH TẬT' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch111",
+    "Model": "flash",
+    "Prompt": "READ-SCOPE RULE: Read ONLY your assigned section_text_file:\nC:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments\\src\\ch111.txt\n\nParameters:\n- chunk_id: ch111\n- section_title: Chương 109: QUỶ THẦN\n- start_level: 2\n- max_heading_level: 5\n- output_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\tang_san_boc_dich_binh_thich\\fragments/ch111_chuong_109_quy_than_branches.md\n- assigned_figures: []\n\nTuân thủ triệt để system prompt branch_driller:\n- Tiêu đề 'Chương 109: QUỶ THẦN' ở cấp ##, các mục con sâu hơn (max cấp 5 #####), claim bullets (- ...) dưới headings.\n- BỎ 100% bảng vẽ hào markdown.\n- Nhúng ảnh assets/ dưới anchor bullet: **Hình N.** {Tên/Caption}, <img src=\"assets/...\" alt=\"Hình N\" />, 2 câu hỏi (chứng minh gì, từ đâu thấy), block <= 10 dòng.\n- Bảo toàn trọn vẹn luồng đối thoại thực tế Dã Hạc/Vương Hổ Ứng, lập luận Căn cứ - Nhìn vào, lời bình và ứng nghiệm thực tế.\n- Ghi output_file (Overwrite=true), send_message báo hoàn thành.",
+    "Workspace": "inherit"
+  }
+]

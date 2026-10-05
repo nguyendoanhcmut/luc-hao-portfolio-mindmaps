@@ -1,0 +1,197 @@
+{
+  "worker_id": "worker_02",
+  "total_chunks": 10,
+  "chunks": [
+    {
+      "chunk_id": "ch03_0",
+      "title": "Chương 2: ÁN LỆ CHIÊM BỐC THỜI CỔ VỀ NHÂN QUẢ",
+      "start_heading_level": 2,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch03_0.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch03_0_chuong_2_an_le_chiem_boc_thoi_co_ve_nhan_branches.md",
+      "figures": []
+    },
+    {
+      "chunk_id": "ch03_1",
+      "title": "Quạ kêu luận cát hung",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch03_1.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch03_1_qua_keu_luan_cat_hung_branches.md",
+      "figures": [
+        {
+          "id": "fig_07",
+          "figure_number": "7",
+          "caption": "Quẻ Lục Hào: Quạ kêu luận cát hung",
+          "rel_path": "assets/page_0024_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch03_2",
+      "title": "Ông nội đã chết đang tác quái",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch03_2.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch03_2_ong_noi_a_chet_ang_tac_quai_branches.md",
+      "figures": [
+        {
+          "id": "fig_08",
+          "figure_number": "8",
+          "caption": "Sơ đồ quẻ Thiên Phong Cấu biến Tốn Vi Phong",
+          "rel_path": "assets/page_0025_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch03_3",
+      "title": "Hài tử bị câm, họa do xương trắng",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch03_3.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch03_3_hai_tu_bi_cam_hoa_do_xuong_trang_branches.md",
+      "figures": [
+        {
+          "id": "fig_09",
+          "figure_number": "9",
+          "caption": "Sơ đồ quẻ Phong Thiên Tiểu Súc biến Tốn Vi Phong",
+          "rel_path": "assets/page_0026_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch03_4",
+      "title": "Sức khỏe vợ chồng đột nhiên không tốt là do nguyên nhân gì?",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch03_4.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch03_4_suc_khoe_vo_chong_ot_nhien_khong_tot_la_branches.md",
+      "figures": [
+        {
+          "id": "fig_10",
+          "figure_number": "10",
+          "caption": "Sơ đồ quẻ Thiên Lôi Vô Vọng biến Trạch Lôi Tùy",
+          "rel_path": "assets/page_0027_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch04",
+      "title": "Chương 3: CẤU TRÚC CỦA CON NGƯỜI VÀ TỰ NHIÊN GIỐNG NHAU",
+      "start_heading_level": 2,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch04.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch04_chuong_3_cau_truc_cua_con_nguoi_va_tu_nh_branches.md",
+      "figures": [
+        {
+          "id": "fig_11",
+          "figure_number": "11",
+          "caption": "Sơ đồ quẻ Lục Hào: Lôi Trạch Quy Muội biến Địa Hỏa Minh Di",
+          "rel_path": "assets/page_0030_img_01.png"
+        },
+        {
+          "id": "fig_12",
+          "figure_number": "12",
+          "caption": "Sơ đồ quẻ Lục Hào: Sơn Lôi Di biến Bát Thuần Ly",
+          "rel_path": "assets/page_0031_img_01.png"
+        },
+        {
+          "id": "fig_13",
+          "figure_number": "13",
+          "caption": "Sơ đồ quẻ Thiên Địa Bĩ biến Trạch Địa Tụy",
+          "rel_path": "assets/page_0033_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch05",
+      "title": "Chương 4: ĐỒNG KHÍ TƯƠNG CẦU",
+      "start_heading_level": 2,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch05.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch05_chuong_4_ong_khi_tuong_cau_branches.md",
+      "figures": [
+        {
+          "id": "fig_14",
+          "figure_number": "14",
+          "caption": "Sơ đồ quẻ Bát Thuần Tốn",
+          "rel_path": "assets/page_0036_img_01.png"
+        },
+        {
+          "id": "fig_15",
+          "figure_number": "15",
+          "caption": "Quẻ Thủy Phong Tỉnh biến Địa Sơn Khiêm",
+          "rel_path": "assets/page_0037_img_01.png"
+        },
+        {
+          "id": "fig_16",
+          "figure_number": "16",
+          "caption": "Sơ đồ quẻ Sơn Địa Bác biến Hỏa Địa Tấn",
+          "rel_path": "assets/page_0038_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch06",
+      "title": "Chương 5: MỐI LIÊN HỆ GIỮA CON NGƯỜI VÀ TỰ NHIÊN THÔNG QUA TƯỢNG",
+      "start_heading_level": 2,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch06.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch06_chuong_5_moi_lien_he_giua_con_nguoi_va_t_branches.md",
+      "figures": [
+        {
+          "id": "fig_17",
+          "figure_number": "17",
+          "caption": "Quẻ Tốn Vi Phong biến Phong Sơn Tiệm",
+          "rel_path": "assets/page_0040_img_01.png"
+        },
+        {
+          "id": "fig_18",
+          "figure_number": "18",
+          "caption": "Quẻ Thiên Phong Cấu biến Lôi Phong Hằng",
+          "rel_path": "assets/page_0042_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch07",
+      "title": "Chương 6: QUÁI TƯỢNG ĐỒNG LÝ VỚI CUỘC SỐNG",
+      "start_heading_level": 2,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch07.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch07_chuong_6_quai_tuong_ong_ly_voi_cuoc_song_branches.md",
+      "figures": [
+        {
+          "id": "fig_19",
+          "figure_number": "19",
+          "caption": "Quẻ Chấn Vi Lôi biến Lôi Hỏa Phong",
+          "rel_path": "assets/page_0045_img_01.png"
+        },
+        {
+          "id": "fig_20",
+          "figure_number": "20",
+          "caption": "Quẻ Phong Hỏa Gia Nhân",
+          "rel_path": "assets/page_0046_img_01.png"
+        },
+        {
+          "id": "fig_21",
+          "figure_number": "21",
+          "caption": "Quẻ Trạch Phong Đại Quá biến Lôi Phong Hằng",
+          "rel_path": "assets/page_0047_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch08",
+      "title": "Chương 7: SỐ VÀ CÁT HUNG CŨNG CÓ SỰ ĐỐI ỨNG",
+      "start_heading_level": 2,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch08.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch08_chuong_7_so_va_cat_hung_cung_co_su_oi_un_branches.md",
+      "figures": [
+        {
+          "id": "fig_22",
+          "figure_number": "22",
+          "caption": "Quẻ Phong Sơn Tiệm biến Thủy Phong Tỉnh",
+          "rel_path": "assets/page_0050_img_01.png"
+        },
+        {
+          "id": "fig_23",
+          "figure_number": "23",
+          "caption": "Sơ đồ quẻ Trạch Sơn Hàm biến Trạch Hỏa Cách",
+          "rel_path": "assets/page_0052_img_01.png"
+        }
+      ]
+    }
+  ]
+}

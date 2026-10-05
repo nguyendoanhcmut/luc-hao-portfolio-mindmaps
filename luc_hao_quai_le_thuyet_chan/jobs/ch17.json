@@ -1,0 +1,113 @@
+{
+  "chunk_id": "ch17",
+  "title": "Chương 14: Bí Mật Của Phi Phục",
+  "start_heading_level": 2,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch17.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch17_chuong_14_bi_mat_cua_phi_phuc_branches.md",
+  "figure_ids": [
+    "fig_89",
+    "fig_90",
+    "fig_91",
+    "fig_92",
+    "fig_93",
+    "fig_94",
+    "fig_95"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_89",
+      "figure_number": "89",
+      "caption": "Quẻ Hỏa Sơn Lữ biến Cấn Vi Sơn",
+      "rel_path": "assets/page_0145_img_01.png"
+    },
+    {
+      "id": "fig_90",
+      "figure_number": "90",
+      "caption": "Sơ đồ quẻ Thiên Sơn Độn",
+      "rel_path": "assets/page_0147_img_01.png"
+    },
+    {
+      "id": "fig_91",
+      "figure_number": "91",
+      "caption": "Quẻ Thiên Sơn Độn biến Thiên Địa Bĩ",
+      "rel_path": "assets/page_0149_img_01.png"
+    },
+    {
+      "id": "fig_92",
+      "figure_number": "92",
+      "caption": "Quẻ Địa Hỏa Minh Di",
+      "rel_path": "assets/page_0151_img_01.png"
+    },
+    {
+      "id": "fig_93",
+      "figure_number": "93",
+      "caption": "Sơ đồ quẻ Lôi Sơn Tiểu Quá biến Lôi Phong Hằng",
+      "rel_path": "assets/page_0153_img_01.png"
+    },
+    {
+      "id": "fig_94",
+      "figure_number": "94",
+      "caption": "Sơ đồ quẻ Lôi Thủy Giải biến Trạch Thủy Khốn",
+      "rel_path": "assets/page_0155_img_01.png"
+    },
+    {
+      "id": "fig_95",
+      "figure_number": "95",
+      "caption": "Sơ đồ quẻ Thủy Phong Tỉnh biến Thiên Thủy Tụng",
+      "rel_path": "assets/page_0156_img_01.png"
+    }
+  ],
+  "exercises": [
+    {
+      "line": 2571,
+      "exercise_id": "vd_089",
+      "title": "Ví dụ 1: Ngày Ất Dậu tháng Nhâm Thìn năm Bính Tý, cô Thôi đoán xem ngày nào chồng trở về? Được quẻ Hỏa Sơn Lữ biến Cấn V",
+      "start_page": 145,
+      "end_page": 145
+    },
+    {
+      "line": 2596,
+      "exercise_id": "vd_090",
+      "title": "Ví dụ 2: Ngày Nhâm Tý tháng Ất Tị năm Đinh Sửu, Trương tiên sinh đoán về điện thoại di động bị mất, được Thiên Sơn Độn.",
+      "start_page": 147,
+      "end_page": 147
+    },
+    {
+      "line": 2617,
+      "exercise_id": "vd_091",
+      "title": "Ví dụ 3: Ngày Canh Thìn tháng Kỷ Tị năm Kỷ Mão, đoán xem thịt dê có ăn được khô...",
+      "start_page": 149,
+      "end_page": 149
+    },
+    {
+      "line": 2652,
+      "exercise_id": "vd_092",
+      "title": "Ví dụ 4: Ngày Ất Hợi tháng Kỷ Dậu năm Đinh Sửu, Lý tiên sinh ở huyện Trung Dương đoán gia trạch, được Địa Hỏa Minh Di.",
+      "start_page": 151,
+      "end_page": 151
+    },
+    {
+      "line": 2675,
+      "exercise_id": "vd_093",
+      "title": "Ví dụ 5: Ngày Tân Mão tháng Mậu Tý năm Ất Hợi, Tô tiên sinh đoán hôn nhân, được Lôi Sơn Tiểu Quá biến Lôi Phong Hằng.",
+      "start_page": 153,
+      "end_page": 153
+    },
+    {
+      "line": 2704,
+      "exercise_id": "vd_094",
+      "title": "Ví dụ 6: Ngày Canh Dần tháng Bính Tuất năm Ất Hợi, một vũ cảnh ở đơn vị tôi đoán về xe đạp bị mất, được Lôi Thủy Giải bi",
+      "start_page": 155,
+      "end_page": 155
+    },
+    {
+      "line": 2729,
+      "exercise_id": "vd_095",
+      "title": "Ví dụ 7: Ngày Giáp Thìn tháng Giáp Thìn năm Đinh Sửu, một đồng hương làm việc cùng nơi với mình đã mấy ngày không thấy m",
+      "start_page": 156,
+      "end_page": 156
+    }
+  ],
+  "parent_titles": []
+}

@@ -1,0 +1,71 @@
+{
+  "chunk_id": "ch04",
+  "title": "Chương 1: Quẻ Do Ai Đến Gieo?",
+  "start_heading_level": 2,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch04.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch04_chuong_1_que_do_ai_en_gieo_branches.md",
+  "figure_ids": [
+    "fig_01",
+    "fig_02",
+    "fig_03",
+    "fig_04"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_01",
+      "figure_number": "1",
+      "caption": "Quẻ Thiên Trạch Lý",
+      "rel_path": "assets/page_0017_img_01.png"
+    },
+    {
+      "id": "fig_02",
+      "figure_number": "2",
+      "caption": "Sơ đồ quẻ Phong Lôi Ích biến Thủy Trạch Tiết",
+      "rel_path": "assets/page_0019_img_01.png"
+    },
+    {
+      "id": "fig_03",
+      "figure_number": "3",
+      "caption": "Sơ đồ quẻ Thiên Phong Cấu biến Phong Địa Quan",
+      "rel_path": "assets/page_0021_img_01.png"
+    },
+    {
+      "id": "fig_04",
+      "figure_number": "4",
+      "caption": "Quẻ Thiên Hỏa Đồng Nhân biến Hỏa Phong Đỉnh",
+      "rel_path": "assets/page_0025_img_01.png"
+    }
+  ],
+  "exercises": [
+    {
+      "line": 188,
+      "exercise_id": "vd_001",
+      "title": "Ví dụ 1: Ngày Kỷ Mão tháng Đinh Sửu năm Kỷ Mão, một người bạn thời đại học của tôi đột nhiên gọi điện thoại đến mời tôi ",
+      "start_page": 17,
+      "end_page": 17
+    },
+    {
+      "line": 225,
+      "exercise_id": "vd_002",
+      "title": "Ví dụ 2: Ngày Đinh Dậu tháng Canh Thân năm Mậu Dần, Hàn tiên sinh gọi đến mời t...",
+      "start_page": 19,
+      "end_page": 19
+    },
+    {
+      "line": 250,
+      "exercise_id": "vd_003",
+      "title": "Ví dụ 3: Ngày Ất Dậu tháng Quý Hợi năm Mậu Dần, khi tôi và ông bạn Đoàn Kiến Nghiệp đang tán gẫu ở nhà một người bạn khá",
+      "start_page": 21,
+      "end_page": 21
+    },
+    {
+      "line": 293,
+      "exercise_id": "vd_004",
+      "title": "Ví dụ 4: Ngày Tân Mão tháng Kỷ Mão năm Canh Thìn, trên ti vi phát sóng tin tức thủ tướng Nhật Bản Obuchi Keizo ngã bệnh,",
+      "start_page": 25,
+      "end_page": 25
+    }
+  ],
+  "parent_titles": []
+}

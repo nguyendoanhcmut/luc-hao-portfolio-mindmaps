@@ -1,0 +1,69 @@
+{
+  "completeness_score": 1.0,
+  "pass": true,
+  "gate_scores": {
+    "section_coverage": {
+      "score": 1.0,
+      "observed": 49,
+      "expected": 49,
+      "missing": []
+    },
+    "depth": {
+      "score": 1.0,
+      "compliant": 23,
+      "total": 23,
+      "shallow": []
+    },
+    "grounding": {
+      "score": 1.0,
+      "grounded": 161,
+      "total": 161,
+      "vague": [],
+      "misplaced_figures": []
+    },
+    "lexicon": {
+      "score": 1.0,
+      "resolved": 28,
+      "declared": 28,
+      "unresolved": []
+    }
+  },
+  "audit_metadata": {
+    "doc_slug": "luc_hao_quai_le_thuyet_chan",
+    "doc_title": "Lục Hào Quái Lệ Thuyết Chân",
+    "timestamp": "2026-10-04T08:03:18.025578+00:00",
+    "total_headings": 497,
+    "heading_distribution": {
+      "H1": 1,
+      "H2": 23,
+      "H3": 165,
+      "H4": 294,
+      "H5": 14,
+      "H6": 0
+    },
+    "total_lines": 6600,
+    "total_bullets": 5288,
+    "bullet_depth_distribution": {
+      "depth_0": 1332,
+      "depth_1": 2827,
+      "depth_2": 758,
+      "depth_3": 341,
+      "depth_4": 30
+    },
+    "figures_audit": {
+      "total_figures_manifest": 161,
+      "embedded_figures": 161,
+      "anchor_claims": 161,
+      "proof_blocks": 161,
+      "deduction_blocks": 161,
+      "missing_figures": []
+    },
+    "lexicon_audit": {
+      "key_terms_count": 24,
+      "key_entities_count": 4,
+      "resolved_terms_count": 24,
+      "resolved_entities_count": 4
+    }
+  },
+  "remediation_directives": []
+}

@@ -1,0 +1,1069 @@
+{
+  "summary": {
+    "total_books": 1,
+    "total_pages": 476,
+    "total_worker_pairs": 238,
+    "total_chapters": 112,
+    "total_batches": 4,
+    "total_waves": 4,
+    "est_time_sec_min": 48,
+    "est_time_sec_max": 60,
+    "est_time_str": "48-60s (0.8-1.0 min)"
+  },
+  "books": [
+    {
+      "file": "VƯƠNG HỔ ỨNG - TĂNG SAN BỐC DỊCH BÌNH THÍCH.pdf",
+      "path": "C:\\Users\\Admin\\Downloads\\drive-download-20260908T061604Z-1-001\\VƯƠNG HỔ ỨNG - TĂNG SAN BỐC DỊCH BÌNH THÍCH.pdf",
+      "total_pages": 476,
+      "worker_pairs": 238,
+      "has_native_text": true,
+      "detection_tier": "Tier 1 (TOC Bookmarks)",
+      "chapters_count": 112,
+      "batches_count": 4,
+      "total_waves": 4,
+      "est_time_sec_min": 48,
+      "est_time_sec_max": 60,
+      "est_time_str": "48-60s",
+      "chapters": [
+        {
+          "title": "BÌA",
+          "start_page": 1,
+          "end_page": 3,
+          "id": 1,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "MỤC LỤC",
+          "start_page": 4,
+          "end_page": 8,
+          "id": 2,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "LỜI TỰA",
+          "start_page": 9,
+          "end_page": 10,
+          "id": 3,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 1. BÁT QUÁI / CHƯƠNG 2. QUÁI TƯỢNG ĐỒ",
+          "start_page": 11,
+          "end_page": 12,
+          "id": 4,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 3. 8 CUNG VÀ 64 QUẺ DỊCH",
+          "start_page": 13,
+          "end_page": 33,
+          "id": 5,
+          "pages": 21,
+          "pairs": 11
+        },
+        {
+          "title": "CHƯƠNG 4. HỖN THIÊN GIÁP TÝ",
+          "start_page": 34,
+          "end_page": 34,
+          "id": 6,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 5. LỤC THÂN CA",
+          "start_page": 35,
+          "end_page": 35,
+          "id": 7,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 6. THẾ ỨNG / CHƯƠNG 7. ĐỘNG BIẾN",
+          "start_page": 36,
+          "end_page": 36,
+          "id": 8,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 8. DỤNG THẦN",
+          "start_page": 37,
+          "end_page": 38,
+          "id": 9,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 9. DỤNG THẦN, NGUYÊN THẦN, KỴ THẦN, CỪU THÂN",
+          "start_page": 39,
+          "end_page": 40,
+          "id": 10,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 10. SỰ VƯỢNG SUY CỦA NGUYÊN THẦN, KỴ THẦN",
+          "start_page": 41,
+          "end_page": 46,
+          "id": 11,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 11. NGŨ HÀNH TƯƠNG SINH",
+          "start_page": 47,
+          "end_page": 48,
+          "id": 12,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 12. NGŨ HÀNH TƯƠNG KHẮC",
+          "start_page": 49,
+          "end_page": 50,
+          "id": 13,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 13. KHẮC XỨ PHÙNG SINH",
+          "start_page": 51,
+          "end_page": 51,
+          "id": 14,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 14. ĐỘNG TĨNH SINH KHẮC",
+          "start_page": 52,
+          "end_page": 53,
+          "id": 15,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 15. ĐỘNG BIẾN SINH KHẮC XUNG HỢP / CHƯƠNG 16. TỨ THỜI VƯỢNG TƯỚNG",
+          "start_page": 54,
+          "end_page": 54,
+          "id": 16,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 17. NGUYỆT TƯỚNG",
+          "start_page": 55,
+          "end_page": 62,
+          "id": 17,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 18. NHẬT THẦN",
+          "start_page": 63,
+          "end_page": 66,
+          "id": 18,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 19. LỤC THẦN",
+          "start_page": 67,
+          "end_page": 70,
+          "id": 19,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 20. LỤC HỢP",
+          "start_page": 71,
+          "end_page": 80,
+          "id": 20,
+          "pages": 10,
+          "pairs": 5
+        },
+        {
+          "title": "CHƯƠNG 21. LỤC XUNG",
+          "start_page": 81,
+          "end_page": 86,
+          "id": 21,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 22. TAM HÌNH",
+          "start_page": 87,
+          "end_page": 87,
+          "id": 22,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 23. ÁM ĐỘNG",
+          "start_page": 88,
+          "end_page": 89,
+          "id": 23,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 24. ĐỘNG TÁN",
+          "start_page": 90,
+          "end_page": 90,
+          "id": 24,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 25. QUẺ BIẾN SINH KHẮC MỘ TUYỆT",
+          "start_page": 91,
+          "end_page": 93,
+          "id": 25,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 26. PHẢN PHỤC",
+          "start_page": 94,
+          "end_page": 97,
+          "id": 26,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 27. TUẦN KHÔNG",
+          "start_page": 98,
+          "end_page": 102,
+          "id": 27,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 28. SINH VƯỢNG MỘT TUYỆT",
+          "start_page": 103,
+          "end_page": 106,
+          "id": 28,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 29. CHÚ THÍCH CHUNG VỀ CÁC THUẬT NGỮ TRONG ĐỀ MỤC CÁC CHƯƠNG",
+          "start_page": 107,
+          "end_page": 107,
+          "id": 29,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 30. ỨNG KỲ",
+          "start_page": 108,
+          "end_page": 109,
+          "id": 30,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 31. QUY HỒN, DU HỒN",
+          "start_page": 110,
+          "end_page": 110,
+          "id": 31,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 32. NGUYỆT PHÁ",
+          "start_page": 111,
+          "end_page": 115,
+          "id": 32,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 33. PHI THẦN, PHỤC THẦN",
+          "start_page": 116,
+          "end_page": 125,
+          "id": 33,
+          "pages": 10,
+          "pairs": 5
+        },
+        {
+          "title": "CHƯƠNG 34. TIẾN THẦN, THOÁI THẦN",
+          "start_page": 126,
+          "end_page": 137,
+          "id": 34,
+          "pages": 12,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 35. TÙY QUỶ NHẬP MỘ",
+          "start_page": 138,
+          "end_page": 143,
+          "id": 35,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 36. ĐỘC PHÁT, ĐỘC TĨNH",
+          "start_page": 144,
+          "end_page": 148,
+          "id": 36,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 37. LƯỠNG HIỆN",
+          "start_page": 149,
+          "end_page": 151,
+          "id": 37,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 38. TINH SÁT (THẦN SÁT)",
+          "start_page": 152,
+          "end_page": 154,
+          "id": 38,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 39. HOÀNG KIM SÁCH VÀ THIÊN KIM PHÚ TĂNG SAN",
+          "start_page": 155,
+          "end_page": 224,
+          "id": 39,
+          "pages": 70,
+          "pairs": 35
+        },
+        {
+          "title": "CHƯƠNG 40. THIÊN THỜI",
+          "start_page": 225,
+          "end_page": 261,
+          "id": 40,
+          "pages": 37,
+          "pairs": 19
+        },
+        {
+          "title": "CHƯƠNG 41. THÂN MỆNH / CHƯƠNG 42. CHUNG THÂN TÀI PHÚC",
+          "start_page": 262,
+          "end_page": 278,
+          "id": 41,
+          "pages": 17,
+          "pairs": 9
+        },
+        {
+          "title": "CHƯƠNG 43. CHUNG THÂN CÔNG DANH",
+          "start_page": 279,
+          "end_page": 284,
+          "id": 42,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 44. THỌ NGUYÊN",
+          "start_page": 285,
+          "end_page": 291,
+          "id": 43,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 45. XU CÁT TỊ HUNG",
+          "start_page": 292,
+          "end_page": 300,
+          "id": 44,
+          "pages": 9,
+          "pairs": 5
+        },
+        {
+          "title": "CHƯƠNG 46. TUỔI THỌ CỦA CHA MẸ",
+          "start_page": 301,
+          "end_page": 305,
+          "id": 45,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 47. HUYNH ĐỆ",
+          "start_page": 306,
+          "end_page": 307,
+          "id": 46,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 48. PHU PHỤ (VỢ CHỒNG)",
+          "start_page": 308,
+          "end_page": 311,
+          "id": 47,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 49. TỬ TỰ (CON CÁI)",
+          "start_page": 312,
+          "end_page": 320,
+          "id": 48,
+          "pages": 9,
+          "pairs": 5
+        },
+        {
+          "title": "CHƯƠNG 50. HỌC NGHIỆP",
+          "start_page": 321,
+          "end_page": 321,
+          "id": 49,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 51. NGHIÊN CỨU KINH ĐIỂN",
+          "start_page": 322,
+          "end_page": 322,
+          "id": 50,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 52. MỜI THẦY",
+          "start_page": 323,
+          "end_page": 325,
+          "id": 51,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 53. CẦU DANH",
+          "start_page": 326,
+          "end_page": 326,
+          "id": 52,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 54. ĐỒNG THÍ (SƠ KHẢO)",
+          "start_page": 327,
+          "end_page": 329,
+          "id": 53,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 55. TUẾ KHẢO (KỲ THI HÀNG NĂM)",
+          "start_page": 330,
+          "end_page": 331,
+          "id": 54,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 56. TĂNG LƯƠNG",
+          "start_page": 332,
+          "end_page": 332,
+          "id": 55,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 57. THI DI TÀI / CHƯƠNG 58. YẾT BẢNG ĐỀ DANH / CHƯƠNG 59. THI ĐÌNH",
+          "start_page": 333,
+          "end_page": 333,
+          "id": 56,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 60. THI HƯƠNG, THI HỘI",
+          "start_page": 334,
+          "end_page": 340,
+          "id": 57,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 61. THĂNG QUAN, BỔ NHIỆM",
+          "start_page": 341,
+          "end_page": 346,
+          "id": 58,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 62. THUYÊN CHUYỂN",
+          "start_page": 347,
+          "end_page": 348,
+          "id": 59,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 63. TẠI NHIỆM CÁT HUNG",
+          "start_page": 349,
+          "end_page": 352,
+          "id": 60,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 64. DÙNG TIỀN MUA QUAN TƯỚC",
+          "start_page": 353,
+          "end_page": 353,
+          "id": 61,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 65. THI VÕ",
+          "start_page": 354,
+          "end_page": 354,
+          "id": 62,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 66. NHẬP NGŨ, TÒNG QUÂN, NHẬP TRƯỜNG QUÂN SỰ / CHƯƠNG 67. NHỜ NGƯỜI MUA CHỨC QUAN / CHƯƠNG 68. TẤU SỚ, KÊU OAN, ĐIỀU TRẦN, HẠCH TỘI",
+          "start_page": 355,
+          "end_page": 362,
+          "id": 63,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 69. CÁO LÃO TỪ QUAN / CHƯƠNG 70. XÂY DỰNG CÔNG TRÌNH",
+          "start_page": 363,
+          "end_page": 364,
+          "id": 64,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 71. SƯ SÃI, ĐẠO SĨ, THẦY THUỐC",
+          "start_page": 365,
+          "end_page": 365,
+          "id": 65,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 72. CẤP BẬC CÔNG DANH",
+          "start_page": 366,
+          "end_page": 366,
+          "id": 66,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 73. CON XEM CÔNG DANH CHO CHA",
+          "start_page": 367,
+          "end_page": 368,
+          "id": 67,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 74. CẦU TÀI",
+          "start_page": 369,
+          "end_page": 374,
+          "id": 68,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 75. GẶP QUAN TRÊN ĐỂ CẦU TÀI",
+          "start_page": 375,
+          "end_page": 376,
+          "id": 69,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 76. LÀM VIỆC CHO QUAN TRÊN ĐỂ CẦU TÀI",
+          "start_page": 377,
+          "end_page": 377,
+          "id": 70,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 77. MỞ CỬA HÀNG",
+          "start_page": 378,
+          "end_page": 378,
+          "id": 71,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 78. ỦY THÁC VIỆC LÀM ĂN",
+          "start_page": 379,
+          "end_page": 379,
+          "id": 72,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 79. ĐẦU CƠ",
+          "start_page": 380,
+          "end_page": 383,
+          "id": 73,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 80. NƠI XUẤT HÀNG",
+          "start_page": 384,
+          "end_page": 384,
+          "id": 74,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 81. TÌM NƠI BUÔN BÁN / CHƯƠNG 82. CHỦNG LOẠI HÀNG HÓA",
+          "start_page": 385,
+          "end_page": 386,
+          "id": 75,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 83. VAY MƯỢN / CHƯƠNG 84. CHO VAY",
+          "start_page": 387,
+          "end_page": 387,
+          "id": 76,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 85. MUA BÁN GIA SÚC / CHƯƠNG 86. ĐẤU TÀI, ĐẤU SỨC",
+          "start_page": 388,
+          "end_page": 388,
+          "id": 77,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 87. XIN HỤI",
+          "start_page": 389,
+          "end_page": 389,
+          "id": 78,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 88. HÀNH HIỂM CẦU TÀI / CHƯƠNG 89. HÔN NHÂN",
+          "start_page": 390,
+          "end_page": 398,
+          "id": 79,
+          "pages": 9,
+          "pairs": 5
+        },
+        {
+          "title": "CHƯƠNG 90. XEM HÔN NHÂN CÓ CON CÁI THỪA TỰ HAY KHÔNG",
+          "start_page": 399,
+          "end_page": 399,
+          "id": 80,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 91. XEM HÔN NHÂN CÓ HỢP VỚI CHA MẸ KHÔNG / CHƯƠNG 92. LẤY VỢ LẼ / CHƯƠNG 93. LẤY TỲ THIẾP / CHƯƠNG 94. LẤY ĐÀN BÀ BỎ CHỒNG, LẤY CA KỸ",
+          "start_page": 400,
+          "end_page": 400,
+          "id": 81,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 95. THAI SẢN",
+          "start_page": 401,
+          "end_page": 403,
+          "id": 82,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 96. XEM VỀ SỰ AN NGUY CỦA SẢN PHỤ",
+          "start_page": 404,
+          "end_page": 404,
+          "id": 83,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 97. THỜI ĐIỂM SINH NỞ / CHƯƠNG 98. XUẤT HÀNH",
+          "start_page": 405,
+          "end_page": 406,
+          "id": 84,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 99. ĐI THUYỀN",
+          "start_page": 407,
+          "end_page": 407,
+          "id": 85,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 100. BẠN ĐỒNG HÀNH / CHƯƠNG 101. NGƯỜI ĐI XA",
+          "start_page": 408,
+          "end_page": 417,
+          "id": 86,
+          "pages": 10,
+          "pairs": 5
+        },
+        {
+          "title": "CHƯƠNG 102. ĐỀ PHÒNG KIỆN TỤNG",
+          "start_page": 418,
+          "end_page": 418,
+          "id": 87,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 103. CẠNH TRANH / CHƯƠNG 104. ĐÂM ĐƠN KHỞI KIỆN / CHƯƠNG 105. BỊ XỬ TRỌNG TỘI",
+          "start_page": 419,
+          "end_page": 419,
+          "id": 88,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 106. BỆNH TẬT",
+          "start_page": 420,
+          "end_page": 432,
+          "id": 89,
+          "pages": 13,
+          "pairs": 7
+        },
+        {
+          "title": "CHƯƠNG 107. ĐẬU, SỞI / CHƯƠNG 108. CĂN NGUYÊN BỆNH TẬT",
+          "start_page": 433,
+          "end_page": 433,
+          "id": 90,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 109. QUỶ THẦN",
+          "start_page": 434,
+          "end_page": 434,
+          "id": 91,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 110. MỜI THẦY CHỮA BỆNH",
+          "start_page": 435,
+          "end_page": 437,
+          "id": 92,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 111. THẦY THUỐC TỰ XEM VỀ ĐIỀU TRỊ",
+          "start_page": 438,
+          "end_page": 445,
+          "id": 93,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 112. GIA TRẠCH",
+          "start_page": 446,
+          "end_page": 446,
+          "id": 94,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 113. XÂY DỰNG, MUA NHÀ, THUÊ NHÀ",
+          "start_page": 447,
+          "end_page": 447,
+          "id": 95,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 114. XÂY DỰNG CUNG ĐIỆN / CHƯƠNG 115. ĐỘNG THỔ TU TẠO / CHƯƠNG 116. CHUYỂN NHÀ NHẬP TRẠCH",
+          "start_page": 448,
+          "end_page": 448,
+          "id": 96,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 117. NHẬP TRẠCH / CHƯƠNG 118. LỤC THÂN NHẬP TRẠCH CÁT HUNG",
+          "start_page": 449,
+          "end_page": 450,
+          "id": 97,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 119. CHUỒNG GIA SÚC",
+          "start_page": 451,
+          "end_page": 451,
+          "id": 98,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 120. NHÀ CŨ",
+          "start_page": 452,
+          "end_page": 456,
+          "id": 99,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 121. Ở CHUNG",
+          "start_page": 457,
+          "end_page": 457,
+          "id": 100,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 122. XÂY DỰNG PHỦ QUAN / CHƯƠNG 123. NHA MÔN",
+          "start_page": 458,
+          "end_page": 458,
+          "id": 101,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 124. XÂY CHÙA MIẾU",
+          "start_page": 459,
+          "end_page": 459,
+          "id": 102,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 125. PHẦN MỘ / CHƯƠNG 126. TÌM ĐẤT TỐT",
+          "start_page": 460,
+          "end_page": 464,
+          "id": 103,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 127. HÌNH THẾ ĐẤT",
+          "start_page": 465,
+          "end_page": 466,
+          "id": 104,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 128. XEM KHI NÀO CÓ ĐẤT",
+          "start_page": 467,
+          "end_page": 467,
+          "id": 105,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 129. XEM ĐƯỢC ĐẤT TẠI PHƯƠNG NÀO",
+          "start_page": 468,
+          "end_page": 468,
+          "id": 106,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 130. XEM VỀ THẦY ĐỊA LÝ / CHƯƠNG 131. ĐỊNH HUYỆT",
+          "start_page": 469,
+          "end_page": 469,
+          "id": 107,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 132. TRANH ĐẤT CHÔN MỘ",
+          "start_page": 470,
+          "end_page": 470,
+          "id": 108,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 133. PHẦN MỘ TỔ TIÊN",
+          "start_page": 471,
+          "end_page": 471,
+          "id": 109,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 134. NGUYÊN NHÂN ĐỘNG MỘ",
+          "start_page": 472,
+          "end_page": 473,
+          "id": 110,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 135. BÍ QUYẾT TU BỔ",
+          "start_page": 474,
+          "end_page": 474,
+          "id": 111,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 136. TU BỔ CÁT HUNG / CHƯƠNG 137. BỒI TÁNG BÊN MỘ TỔ",
+          "start_page": 475,
+          "end_page": 476,
+          "id": 112,
+          "pages": 2,
+          "pairs": 1
+        }
+      ],
+      "batches": [
+        {
+          "batch_id": 1,
+          "chapter_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ],
+          "total_pairs": 79,
+          "waves": 1
+        },
+        {
+          "batch_id": 2,
+          "chapter_ids": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+          ],
+          "total_pairs": 77,
+          "waves": 1
+        },
+        {
+          "batch_id": 3,
+          "chapter_ids": [
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88
+          ],
+          "total_pairs": 79,
+          "waves": 1
+        },
+        {
+          "batch_id": 4,
+          "chapter_ids": [
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112
+          ],
+          "total_pairs": 38,
+          "waves": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "total_books": 20,
+  "completed_books": 18,
+  "current_batch_index": 18,
+  "pipeline_state": "completed",
+  "batches": [
+    {
+      "batch_id": 1,
+      "name": "Batch 1: Single Book (Kickoff)",
+      "total_pairs": 10,
+      "status": "completed",
+      "books": [
+        {
+          "id": 1,
+          "file": "VƯƠNG HỔ ỨNG - LỤC HÀO NHẬP MÔN.pdf",
+          "slug": "luc_hao_nhap_mon",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - LỤC HÀO NHẬP MÔN.pdf",
+          "pages": 20,
+          "pairs": 10,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "batch_id": 2,
+      "name": "Batch 2: Bin-Packed Multi-Book Wave (58 workers <= 80)",
+      "total_pairs": 58,
+      "status": "completed",
+      "books": [
+        {
+          "id": 2,
+          "file": "VƯƠNG HỔ ỨNG - KHÔNG VONG, NGUYỆT PHÁ, 12 CUNG TRƯỜNG SINH BÍ LUẬN.pdf",
+          "slug": "khong_vong_nguyet_pha",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - KHÔNG VONG, NGUYỆT PHÁ, 12 CUNG TRƯỜNG SINH BÍ LUẬN.pdf",
+          "pages": 25,
+          "pairs": 13,
+          "status": "completed"
+        },
+        {
+          "id": 3,
+          "file": "VƯƠNG HỔ ỨNG - LỤC HÀO KỸ PHÁP VÀ ỨNG DỤNG.pdf",
+          "slug": "luc_hao_ky_phap_va_ung_dung",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - LỤC HÀO KỸ PHÁP VÀ ỨNG DỤNG.pdf",
+          "pages": 44,
+          "pairs": 22,
+          "status": "completed"
+        },
+        {
+          "id": 4,
+          "file": "VƯƠNG HỔ ỨNG - GIẢI ĐÁP NGHI VẤN TRONG TĂNG SAN BỐC DỊCH BÌNH THÍCH.pdf",
+          "slug": "giai_dap_nghi_van",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - GIẢI ĐÁP NGHI VẤN TRONG TĂNG SAN BỐC DỊCH BÌNH THÍCH.pdf",
+          "pages": 46,
+          "pairs": 23,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "batch_id": 3,
+      "name": "Batch 3: Single Book Medium (79 workers <= 80)",
+      "total_pairs": 79,
+      "status": "completed",
+      "books": [
+        {
+          "id": 5,
+          "file": "VƯƠNG HỔ ỨNG - LỤC HÀO XU CÁT TỊ HUNG (HÓA GIẢI) BÍ TRUYỀN.pdf",
+          "slug": "luc_hao_xu_cat_ti_hung",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - LỤC HÀO XU CÁT TỊ HUNG (HÓA GIẢI) BÍ TRUYỀN.pdf",
+          "pages": 157,
+          "pairs": 79,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "batch_id": 4,
+      "name": "Batch 4: Single Book Medium (97 workers)",
+      "total_pairs": 97,
+      "status": "completed",
+      "books": [
+        {
+          "id": 6,
+          "file": "VƯƠNG HỔ ỨNG - LỤC HÀO QUÁI TƯỢNG GIẢI MẬT.pdf",
+          "slug": "luc_hao_quai_tuong_giai_mat",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - LỤC HÀO QUÁI TƯỢNG GIẢI MẬT.pdf",
+          "pages": 194,
+          "pairs": 97,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "batch_id": 5,
+      "name": "Batch 5: Single Book Medium (107 workers)",
+      "total_pairs": 107,
+      "status": "completed",
+      "books": [
+        {
+          "id": 7,
+          "file": "VƯƠNG HỔ ỨNG - LỤC HÀO DỰ TRẮC NGỘ TRUNG NGỘ.pdf",
+          "slug": "luc_hao_du_trac_ngo_trung_ngo",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - LỤC HÀO DỰ TRẮC NGỘ TRUNG NGỘ.pdf",
+          "pages": 214,
+          "pairs": 107,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "batch_id": 6,
+      "name": "Batch 6: Single Book Medium (108 workers)",
+      "total_pairs": 108,
+      "status": "completed",
+      "books": [
+        {
+          "id": 8,
+          "file": "VƯƠNG HỔ ỨNG - LỤC HÀO NGHI HOẶC CHỈ MÊ.pdf",
+          "slug": "luc_hao_nghi_hoac_chi_me",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - LỤC HÀO NGHI HOẶC CHỈ MÊ.pdf",
+          "pages": 216,
+          "pairs": 108,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "batch_id": 7,
+      "name": "Batch 7: Book 9 - Chiêm Nghiệm Bí Pháp (Ver 1) (119 workers)",
+      "total_pairs": 119,
+      "status": "completed",
+      "books": [
+        {
+          "id": 9,
+          "file": "VƯƠNG HỔ ỨNG - LỤC HÀO CHIÊM NGHIỆM BÍ PHÁP (VER 1).pdf",
+          "slug": "luc_hao_chiem_nghiem_bi_phap_ver1",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - LỤC HÀO CHIÊM NGHIỆM BÍ PHÁP (VER 1).pdf",
+          "pages": 238,
+          "pairs": 119,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "batch_id": 8,
+      "name": "Batch 8: Book 10 - Chiêm Nghiệm Bí Pháp (120 workers)",
+      "total_pairs": 120,
+      "status": "deferred_duplicate",
+      "books": [
+        {
+          "id": 10,
+          "file": "VƯƠNG HỔ ỨNG - LỤC HÀO CHIÊM NGHIỆM BÍ PHÁP.pdf",
+          "slug": "luc_hao_chiem_nghiem_bi_phap",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - LỤC HÀO CHIÊM NGHIỆM BÍ PHÁP.pdf",
+          "pages": 239,
+          "pairs": 120,
+          "status": "deferred_duplicate"
+        }
+      ]
+    },
+    {
+      "batch_id": 9,
+      "name": "Batch 9: Book 11 - Nhân Duyên Dự Trắc Học (122 workers)",
+      "total_pairs": 122,
+      "status": "completed",
+      "books": [
+        {
+          "id": 11,
+          "file": "VƯƠNG HỔ ỨNG - LỤC HÀO NHÂN DUYÊN DỰ TRẮC HỌC.pdf",
+          "slug": "luc_hao_nhan_duyen_du_trac_hoc",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - LỤC HÀO NHÂN DUYÊN DỰ TRẮC HỌC.pdf",
+          "pages": 243,
+          "pairs": 122,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "batch_id": 10,
+      "name": "Batch 10: Book 12 - Thế Giới Nhân Quả (123 workers)",
+      "total_pairs": 123,
+      "status": "completed",
+      "books": [
+        {
+          "id": 12,
+          "file": "VƯƠNG HỔ ỨNG - THẾ GIỚI NHÂN QUẢ TRONG DỰ ĐOÁN LỤC HÀO.pdf",
+          "slug": "the_gioi_nhan_qua",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - THẾ GIỚI NHÂN QUẢ TRONG DỰ ĐOÁN LỤC HÀO.pdf",
+          "pages": 245,
+          "pairs": 123,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "batch_id": 11,
+      "name": "Batch 11: Book 13 - Tật Bệnh Dự Trắc Học (126 workers)",
+      "total_pairs": 126,
+      "status": "completed",
+      "books": [
+        {
+          "id": 13,
+          "file": "VƯƠNG HỔ ỨNG - LỤC HÀO TẬT BỆNH DỰ TRẮC HỌC.pdf",
+          "slug": "luc_hao_tat_benh_du_trac_hoc",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - LỤC HÀO TẬT BỆNH DỰ TRẮC HỌC.pdf",
+          "pages": 251,
+          "pairs": 126,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "batch_id": 12,
+      "name": "Batch 12: Book 14 - Quái Lệ Thuyết Chân (1) (130 workers)",
+      "total_pairs": 130,
+      "status": "deferred_duplicate",
+      "books": [
+        {
+          "id": 14,
+          "file": "VƯƠNG HỔ ỨNG - LỤC HÀO QUÁI LỆ THUYẾT CHÂN(1).pdf",
+          "slug": "luc_hao_quai_le_thuyet_chan_1",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - LỤC HÀO QUÁI LỆ THUYẾT CHÂN(1).pdf",
+          "pages": 259,
+          "pairs": 130,
+          "status": "deferred_duplicate"
+        }
+      ]
+    },
+    {
+      "batch_id": 13,
+      "name": "Batch 13: Book 15 - Quái Lệ Thuyết Chân (130 workers)",
+      "total_pairs": 130,
+      "status": "completed",
+      "books": [
+        {
+          "id": 15,
+          "file": "VƯƠNG HỔ ỨNG - LỤC HÀO QUÁI LỆ THUYẾT CHÂN.pdf",
+          "slug": "luc_hao_quai_le_thuyet_chan",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - LỤC HÀO QUÁI LỆ THUYẾT CHÂN.pdf",
+          "pages": 259,
+          "pairs": 130,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "batch_id": 14,
+      "name": "Batch 14: Book 16 - Phong Thủy Dự Trắc Học (174 workers)",
+      "total_pairs": 174,
+      "status": "completed",
+      "books": [
+        {
+          "id": 16,
+          "file": "VƯƠNG HỔ ỨNG - LỤC HÀO PHONG THỦY DỰ TRẮC HỌC.pdf",
+          "slug": "luc_hao_phong_thuy_du_trac_hoc",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - LỤC HÀO PHONG THỦY DỰ TRẮC HỌC.pdf",
+          "pages": 348,
+          "pairs": 174,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "batch_id": 15,
+      "name": "Batch 15: Book 17 - Lục Hào Bảo Điển (177 workers)",
+      "total_pairs": 177,
+      "status": "completed",
+      "books": [
+        {
+          "id": 17,
+          "file": "VƯƠNG HỔ ỨNG - LỤC HẢO BẢO ĐIỂN.pdf",
+          "slug": "luc_hao_bao_dien",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - LỤC HẢO BẢO ĐIỂN.pdf",
+          "pages": 353,
+          "pairs": 177,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "batch_id": 16,
+      "name": "Batch 16: Book 18 - Tế Thuyết Lục Hào Dự Trắc Học (177 workers)",
+      "total_pairs": 177,
+      "status": "completed",
+      "books": [
+        {
+          "id": 18,
+          "file": "VƯƠNG HỔ ỨNG - TẾ THUYẾT LỤC HÀO DỰ TRẮC HỌC.pdf",
+          "slug": "te_thuyet_luc_hao_du_trac_hoc",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - TẾ THUYẾT LỤC HÀO DỰ TRẮC HỌC.pdf",
+          "pages": 354,
+          "pairs": 177,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "batch_id": 17,
+      "name": "Batch 17: Book 19 - Kinh Tế Dự Trắc Học (186 workers)",
+      "total_pairs": 186,
+      "status": "completed",
+      "books": [
+        {
+          "id": 19,
+          "file": "VƯƠNG HỔ ỨNG - LỤC HÀO KINH TẾ DỰ TRẮC HỌC.pdf",
+          "slug": "luc_hao_kinh_te_du_trac_hoc",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - LỤC HÀO KINH TẾ DỰ TRẮC HỌC.pdf",
+          "pages": 371,
+          "pairs": 186,
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "batch_id": 18,
+      "name": "Batch 18: Book 20 - Tăng San Bốc Dịch Bình Thích (238 workers)",
+      "total_pairs": 238,
+      "status": "completed",
+      "books": [
+        {
+          "id": 20,
+          "file": "VƯƠNG HỔ ỨNG - TĂNG SAN BỐC DỊCH BÌNH THÍCH.pdf",
+          "slug": "tang_san_boc_dich_binh_thich",
+          "path": "C:/Users/Admin/Downloads/drive-download-20260908T061604Z-1-001/VƯƠNG HỔ ỨNG - TĂNG SAN BỐC DỊCH BÌNH THÍCH.pdf",
+          "pages": 476,
+          "pairs": 238,
+          "status": "completed"
+        }
+      ]
+    }
+  ]
+}

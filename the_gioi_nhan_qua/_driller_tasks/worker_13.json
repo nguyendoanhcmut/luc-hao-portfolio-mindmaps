@@ -1,0 +1,172 @@
+{
+  "worker_id": "worker_13",
+  "total_chunks": 12,
+  "chunks": [
+    {
+      "chunk_id": "ch18_1",
+      "title": "Nơi có ma không được chơi đùa",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch18_1.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch18_1_noi_co_ma_khong_uoc_choi_ua_branches.md",
+      "figures": [
+        {
+          "id": "fig_168",
+          "figure_number": "168",
+          "caption": "Sơ đồ quẻ Phong Địa Quan",
+          "rel_path": "assets/page_0229_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch18_2",
+      "title": "Chúng thần đang tác quái",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch18_2.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch18_2_chung_than_ang_tac_quai_branches.md",
+      "figures": []
+    },
+    {
+      "chunk_id": "ch18_3",
+      "title": "Hồn ma về nhà quấy rầy",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch18_3.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch18_3_hon_ma_ve_nha_quay_ray_branches.md",
+      "figures": []
+    },
+    {
+      "chunk_id": "ch18_4",
+      "title": "Niệm Phật đã dẫn ma quỷ đến",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch18_4.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch18_4_niem_phat_a_dan_ma_quy_en_branches.md",
+      "figures": [
+        {
+          "id": "fig_169",
+          "figure_number": "169",
+          "caption": "Sơ đồ quẻ Lôi Trạch Quy Muội biến Lôi Thủy Giải",
+          "rel_path": "assets/page_0232_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch18_5",
+      "title": "Tổ tiên sát nghiệp quá nhiều",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch18_5.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch18_5_to_tien_sat_nghiep_qua_nhieu_branches.md",
+      "figures": [
+        {
+          "id": "fig_170",
+          "figure_number": "170",
+          "caption": "Sơ đồ quẻ Trạch Hỏa Cách biến Trạch Lôi Tùy",
+          "rel_path": "assets/page_0233_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch18_6",
+      "title": "Con trai đã chết làm hại chồng",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch18_6.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch18_6_con_trai_a_chet_lam_hai_chong_branches.md",
+      "figures": [
+        {
+          "id": "fig_171",
+          "figure_number": "171",
+          "caption": "Sơ đồ quẻ Thiên Hỏa Đồng Nhân biến Sơn Thiên Đại Súc",
+          "rel_path": "assets/page_0235_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch18_7",
+      "title": "Con trai khóc lóc mỗi ngày do nguyên nhân gì?",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch18_7.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch18_7_con_trai_khoc_loc_moi_ngay_do_nguyen_nha_branches.md",
+      "figures": [
+        {
+          "id": "fig_172",
+          "figure_number": "172",
+          "caption": "Sơ đồ quẻ Khảm Vi Thủy biến Trạch Phong Đại Quá",
+          "rel_path": "assets/page_0236_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch18_8",
+      "title": "Con gái và bạn học không hòa hợp phải xử lý thế nào?",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch18_8.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch18_8_con_gai_va_ban_hoc_khong_hoa_hop_phai_xu_branches.md",
+      "figures": [
+        {
+          "id": "fig_173",
+          "figure_number": "173",
+          "caption": "Sơ đồ quẻ Hỏa Lôi Phệ Hạp biến Khôn Vi Địa",
+          "rel_path": "assets/page_0237_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch18_9",
+      "title": "Hồn ma đã đến nhà anh",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch18_9.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch18_9_hon_ma_a_en_nha_anh_branches.md",
+      "figures": [
+        {
+          "id": "fig_174",
+          "figure_number": "174",
+          "caption": "Quẻ Khôn Vi Địa biến Địa Thủy Sư",
+          "rel_path": "assets/page_0238_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch18_10",
+      "title": "Đã ngủ trong nhà người chết",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch18_10.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch18_10_a_ngu_trong_nha_nguoi_chet_branches.md",
+      "figures": [
+        {
+          "id": "fig_175",
+          "figure_number": "175",
+          "caption": "Quẻ Thủy Phong Tỉnh biến Thủy Sơn Kiển",
+          "rel_path": "assets/page_0239_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch18_11",
+      "title": "Đốt cho cha một ít tiền giấy nhé",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch18_11.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch18_11_ot_cho_cha_mot_it_tien_giay_nhe_branches.md",
+      "figures": [
+        {
+          "id": "fig_176",
+          "figure_number": "176",
+          "caption": "Quẻ Địa Phong Thăng biến Địa Thiên Thái",
+          "rel_path": "assets/page_0240_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch18_12",
+      "title": "Nhân quả của phá thai",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch18_12.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch18_12_nhan_qua_cua_pha_thai_branches.md",
+      "figures": [
+        {
+          "id": "fig_177",
+          "figure_number": "177",
+          "caption": "Quẻ Địa Thủy Sư biến Lôi Trạch Quy Muội",
+          "rel_path": "assets/page_0241_img_01.png"
+        }
+      ]
+    }
+  ]
+}

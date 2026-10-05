@@ -1,0 +1,113 @@
+{
+  "chunk_id": "ch15",
+  "title": "Chương 12: Du Hồn Biện Nghĩa",
+  "start_heading_level": 2,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch15.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch15_chuong_12_du_hon_bien_nghia_branches.md",
+  "figure_ids": [
+    "fig_78",
+    "fig_79",
+    "fig_80",
+    "fig_81",
+    "fig_82",
+    "fig_83",
+    "fig_84"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_78",
+      "figure_number": "78",
+      "caption": "Sơ đồ quẻ Sơn Lôi Di biến Ly Vi Hỏa",
+      "rel_path": "assets/page_0131_img_01.png"
+    },
+    {
+      "id": "fig_79",
+      "figure_number": "79",
+      "caption": "Sơ đồ quẻ Thiên Phong Cấu biến Trạch Phong Đại Quá",
+      "rel_path": "assets/page_0132_img_01.png"
+    },
+    {
+      "id": "fig_80",
+      "figure_number": "80",
+      "caption": "Sơ đồ quẻ Thủy Lôi Truân biến Trạch Phong Đại Quá",
+      "rel_path": "assets/page_0133_img_01.png"
+    },
+    {
+      "id": "fig_81",
+      "figure_number": "81",
+      "caption": "Sơ đồ quẻ Phong Thủy Hoán biến Thiên Thủy Tụng",
+      "rel_path": "assets/page_0134_img_01.png"
+    },
+    {
+      "id": "fig_82",
+      "figure_number": "82",
+      "caption": "Sơ đồ quẻ Thiên Thủy Tụng biến Phong Thủy Hoán",
+      "rel_path": "assets/page_0135_img_01.png"
+    },
+    {
+      "id": "fig_83",
+      "figure_number": "83",
+      "caption": "Sơ đồ quẻ Càn Vi Thiên biến Thủy Thiên Nhu",
+      "rel_path": "assets/page_0136_img_01.png"
+    },
+    {
+      "id": "fig_84",
+      "figure_number": "84",
+      "caption": "Quẻ Phong Trạch Trung Phu",
+      "rel_path": "assets/page_0137_img_01.png"
+    }
+  ],
+  "exercises": [
+    {
+      "line": 2297,
+      "exercise_id": "vd_078",
+      "title": "Ví dụ 1: Ngày Kỷ Tị tháng Quý Sửu năm Đinh Sửu, nam (22 tuổi) đoán hôn nhân, được quẻ Sơn Lôi Di biến Ly Vi Hỏa.",
+      "start_page": 131,
+      "end_page": 131
+    },
+    {
+      "line": 2318,
+      "exercise_id": "vd_079",
+      "title": "Ví dụ 2: Ngày Đinh Tị tháng Ất Mão năm Mậu Dần, nam yêu một cô gái, đoán xem sau này có thể thành vợ chồng hay không? Đư",
+      "start_page": 132,
+      "end_page": 132
+    },
+    {
+      "line": 2339,
+      "exercise_id": "vd_080",
+      "title": "Ví dụ 3: Ngày Bính Thìn tháng Quý Sửu năm Đinh Sửu, trên báo đăng tin Hoa Kỳ phóng máy thăm dò vào ngày 8/1, đoán mặt tr",
+      "start_page": 133,
+      "end_page": 133
+    },
+    {
+      "line": 2358,
+      "exercise_id": "vd_081",
+      "title": "Ví dụ 4: Ngày Kỷ Dậu tháng Giáp Dần năm Mậu Dần, con gái của một người bạn biến mất, đoán tình hình cát hung, được Phong",
+      "start_page": 134,
+      "end_page": 134
+    },
+    {
+      "line": 2381,
+      "exercise_id": "vd_082",
+      "title": "Ví dụ 5: Ngày Ất Dậu tháng Ngọ, nữ đoán đi xem mặt ra sao? Được quẻ Thiên Thủy Tụng biến Phong Thủy Hoán.",
+      "start_page": 135,
+      "end_page": 135
+    },
+    {
+      "line": 2404,
+      "exercise_id": "vd_083",
+      "title": "Ví dụ 6: Ngày Bính Ngọ tháng Mậu Thìn năm Kỷ Mão, vẹt nuôi bị bay mất, đoán xem có về không? Được Càn Vi Thiên biến Thủy",
+      "start_page": 136,
+      "end_page": 136
+    },
+    {
+      "line": 2423,
+      "exercise_id": "vd_084",
+      "title": "Ví dụ 7: Ngày Đinh Tị tháng Nhâm Tý năm Nhâm Ngọ, người bạn đoán xem đến một nơi nào đó để mở khóa học sẽ ra sao? Được P",
+      "start_page": 137,
+      "end_page": 137
+    }
+  ],
+  "parent_titles": []
+}

@@ -1,0 +1,29 @@
+You are branch_driller for chunk 'ch35_1' of 'Tăng San Bốc Dịch Bình Thích'.
+Follow branch_driller_prompt.md strictly.
+
+READ-SCOPE RULE: Read ONLY your assigned section_text_file:
+C:\Users\Admin\.gemini\antigravity\scratch\luc_hao_portfolio_ocr\tang_san_boc_dich_binh_thich\fragments\src\ch35_1.txt
+
+Parameters:
+- section_title: Phục thần hữu dụng trong sáu trường hợp sau
+- start_level: 3
+- max_heading_level: 5
+- output_file: C:\Users\Admin\.gemini\antigravity\scratch\luc_hao_portfolio_ocr\tang_san_boc_dich_binh_thich\fragments/ch35_1_phuc_than_huu_dung_trong_sau_truong_hop_branches.md
+- assigned_figures: []
+
+YÊU CẦU CỐT LÕI BẮT BUỘC:
+1. Viết tiêu đề 'Phục thần hữu dụng trong sáu trường hợp sau' ở cấp ###. Các mục con sâu hơn 1 cấp (tối đa cấp 5 #####).
+2. Dưới mỗi heading là các claim bullet (- ...).
+3. BỎ 100% bảng chữ vẽ hào dạng bảng Markdown (| Hào | Thế/Ứng | ...) và KHÔNG dùng tiêu đề con ##### để chèn bảng hào.
+4. BẮT BUỘC PHẢI lấy ảnh từ assets/ chèn trực tiếp vào file dưới claim bullet hỗ trợ bằng cú pháp:
+   - {Anchor claim bullet mô tả luận điểm của hình/quẻ}
+     - **Hình N.** {Tên quẻ hoặc Caption}
+       - <img src="assets/..." alt="Hình N" />
+       - **Hình này chứng minh điều gì**
+         - ...
+       - **Từ đâu mà thấy được**
+         - ...
+   Lưu ý: Figure block (**Hình N.**) tối đa 10 dòng và BẮT BUỘC phải thụt lề dưới 1 anchor claim bullet.
+5. Bảo toàn luồng đối thoại thực tế giữa tác giả và người coi bói, các bước suy luận (Căn cứ - Nhìn vào) và ứng nghiệm thực tế.
+6. Ghi kết quả hoàn chỉnh vào output_file: C:\Users\Admin\.gemini\antigravity\scratch\luc_hao_portfolio_ocr\tang_san_boc_dich_binh_thich\fragments/ch35_1_phuc_than_huu_dung_trong_sau_truong_hop_branches.md
+7. Báo cáo hoàn tất bằng send_message về cho orchestrator.

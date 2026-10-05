@@ -1,0 +1,37 @@
+{
+  "chunk_id": "ch22_23",
+  "title": "Dự đoán con đi lính, đoán ra chồng gặp hung",
+  "start_heading_level": 3,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch22_23.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch22_23_du_oan_con_i_linh_oan_ra_chong_gap_hung_branches.md",
+  "figure_ids": [
+    "fig_149",
+    "fig_150",
+    "fig_151"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_149",
+      "figure_number": "149",
+      "caption": "Sơ đồ quẻ Thiên Lôi Vô Vọng biến Thủy Lôi Truân",
+      "rel_path": "assets/page_0240_img_01.png"
+    },
+    {
+      "id": "fig_150",
+      "figure_number": "150",
+      "caption": "Quẻ Trạch Sơn Hàm biến Lôi Sơn Tiểu Quá",
+      "rel_path": "assets/page_0242_img_01.png"
+    },
+    {
+      "id": "fig_151",
+      "figure_number": "151",
+      "caption": "Sơ đồ quẻ Lôi Phong Hằng biến Địa Phong Thăng",
+      "rel_path": "assets/page_0243_img_01.png"
+    }
+  ],
+  "exercises": [],
+  "parent_titles": [
+    "Chương 19: Câu Chuyện Lục Hào Đặc Sắc"
+  ]
+}

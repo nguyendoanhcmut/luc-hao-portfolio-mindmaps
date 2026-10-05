@@ -1,0 +1,1379 @@
+# GIẢI ĐÁP NGHI VẤN TRONG TĂNG SAN BỐC DỊCH BÌNH THÍCH
+
+**NGUYÊN TÁC:** VƯƠNG HỔ ỨNG LÃO SƯ  
+**NGƯỜI DỊCH:** TRẦN PHƯƠNG
+
+## ☯ Chương 3 Tăng San Bốc Dịch Bình Thích – trang 19.
+
+Ngày Bính Ngọ tháng Dần.
+
+| | Quy Muội | Phục thần | Càn | Lục thú |
+| :---: | :--- | :---: | :--- | :--- |
+| Ư | ▅▅ ▅▅ Phụ Mẫu Tuất thổ | | ▅▅▅▅▅ Phụ Mẫu Tuất thổ | Thanh Long |
+| | ▅▅ ▅▅ Huynh Đệ Thân kim | | ▅▅▅▅▅ Huynh Đệ Thân kim | Huyền Vũ |
+| | ▅▅▅▅▅ Quan Quỷ Ngọ hỏa | Tử-Hợi | ▅▅▅▅▅ Quan Quỷ Ngọ hỏa | Bạch Hổ |
+| T | ▅▅ ▅▅ Phụ Mẫu Sửu thổ | | ▅▅▅▅▅ Phụ Mẫu Thìn thổ | Đằng Xà |
+| | ▅▅▅▅▅ Thê Tài Mão mộc | | ▅▅▅▅▅ Thê Tài Dần mộc | Câu Trần |
+| | ▅▅▅▅▅ Quan Quỷ Tị hỏa | | ▅▅▅▅▅ Tử Tôn Tý thủy | Chu Tước |
+
+KIM &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Không Vong: Dần, Mão
+
+Một người cầm quẻ lưu niên này hỏi cát hung con cái, hơn 80 dự trắc sư lục hào nổi tiếng đều đoán hung, mà chỉ riêng mình Vương lão sư đoán cát.
+
+Trong sách đoán: Tử Tôn có Nguyệt hợp là vượng, tuy có hai tầng Phụ Mẫu đến khắc nhưng được Huynh động thông quan (tạo thành thế liên tục tương sinh), vì vậy không sao.
+
+**Hỏi:** Tử Tôn hợp vượng có thể hiểu, nhưng hai thổ đến khắc, một Huynh sao có thể thông quan? Hơn nữa Huynh Đệ ở mùa xuân hưu tù, Nguyệt phá, Nhật khắc, đã bị tổn thương gốc rễ, sao có thể thông quan?
+
+Tôi có thể hiểu như thế này hay không: Quẻ niên vận, khi xem vượng suy biểu thị tình trạng ngay lúc đó, ngay lúc gieo quẻ người không sao, như vậy tình trạng của Nguyên thần cho biết sẽ tốt đẹp, do đó mà không sao?
+
+**Đáp:** Quẻ này mấu chốt là Tử Tôn được Nguyệt hợp mà được vượng, nếu không biết thuyết Nguyệt hợp vượng thì rất khó lý giải điểm này.
+
+**Hỏi:** Nguyệt hợp là vượng thì tôi có thể hiểu. Nhưng đoán con cháu là chuyện lâu dài, vẫn phải xem Nguyên thần chứ, có phải là tôi phân tích về Nguyên thần không thích hợp? Hơn nữa Dụng thần vượng tướng, nhưng Nguyên thần bị thương, đó cũng là không cát chứ?
+
+Ở tình huống kiêm đoán, chỉ xem Dụng thần, những cái khác như Nguyên thần có thể lấy tượng phải không?
+
+**Đáp:** Đây không phải là tình huống đoán suốt đời của con cái, mà là đoán từ trong quẻ lưu niên. Vì vậy trọng điểm tại Dụng thần, nếu chỉ chuyên dự đoán bệnh tật của con cái thì Nguyên thần rất quan trọng.
+
+**Hỏi:** Thân kim động mà thông quan hào Phụ Mẫu khắc Tử Tôn, trong quẻ Phụ Mẫu lưỡng động mà chỉ có một Thân kim thông quan, xin hỏi một Thân kim này có thể thông quan hai thổ khắc thủy hay không?
+
+![Sơ đồ quẻ Quy Muội biến Càn](assets/page_0002_img_01.png)
+
+**Đáp:** Vấn đề này đã có người hỏi, đây là quẻ lưu niên, quẻ lưu niên lấy cát hung của hào Thế làm trung tâm, không phải là hào Tử Tôn, nhưng lúc đó người xem quẻ nói con ông ta sắp gặp hung, do đó mới bảo tôi phán đoán. Nếu quẻ này chỉ chuyên đoán cát hung của đứa con thì cách xem sẽ khác. Mức độ phán đoán của chuyên đoán và kiêm đoán là khác nhau. Chỉ cần Dụng thần có khí thì có thể chống lại thiên binh vạn mã, nhưng nếu hỏi cát hung của con cái mà Dụng thần vô khí, khắc nhiều sinh ít thì Nguyên thần cũng không thể cứu.
+
+Phán đoán của lần gieo quẻ thứ nhất và lần gieo quẻ thứ hai có sự khác biệt vi diệu. Một quẻ đoán nhiều việc, việc chính có sự khác biệt về mức độ so với việc kiêm hỏi. Hỏi xong một việc, lại hỏi một việc khác, phán đoán Dụng thần suy vượng của quẻ gieo ra cũng có sự khác biệt.
+
+## ☯ Chương 9 – trang 36.
+
+Ngày Mậu Thân Tháng Thìn, xem cha bệnh gần, được Càn biến Phong Thiên Tiểu Súc.
+
+| | Càn | | Tiểu Súc | | Lục Thú |
+| :---: | :---: | :--- | :---: | :--- | :--- |
+| T | ━━ | Phụ Mẫu Tuất thổ | ━━ | Thê Tài Mão mộc | Chu Tước |
+| | ━━ | Huynh Đệ Thân kim | ━━ | Quan Quỷ Tị hỏa | Thanh Long |
+| | ━━ | Quan Quỷ Ngọ hỏa | ━ ━ | Phụ Mẫu Mùi thổ | Huyền Vũ |
+| Ư | ━━ | Phụ Mẫu Thìn thổ | ━━ | Phụ Mẫu Thìn thổ | Bạch Hổ |
+| | ━━ | Thê Tài Dần mộc | ━━ | Thê Tài Dần mộc | Đằng Xà |
+| | ━━ | Tử Tôn Tý thủy | ━━ | Tử Tôn Tý thủy | Câu Trần |
+
+KIM  
+Không Vong: Dần, Mão
+
+Có người mang quẻ này đến hỏi ta rằng: "Bệnh gần gặp xung sẽ khỏi, quẻ này là quẻ lục xung, thế nhưng cha tôi bệnh rất nặng, nhờ ông xem giúp đến ngày nào sẽ khỏi bệnh?"
+
+Ta đáp rằng: "Quẻ này có tổng cộng ba hào Phụ Mẫu Thìn thổ, Mùi thổ, Tuất thổ, cần chọn hào vượng tướng làm Dụng thần. Nay có Phụ Mẫu Thìn thổ gặp Nguyệt kiến, vậy lấy hào Thìn thổ làm Dụng thần. Bệnh đang rất nặng, là vì Nhật thần xung Dần mộc khiến Dần mộc ám động khắc Thìn thổ."
+
+Người này bèn hỏi: "Trong quẻ này Ngọ hỏa phát động, Dần mộc tuy ám động nhưng lại sinh ra Ngọ hỏa, để Ngọ hỏa sinh thổ. Trong sách xưa có viết: Kỵ thần và Nguyên thần cùng động, thì sẽ được hai sinh. Nhưng nay ông chỉ quan tâm đến Dần mộc khắc Thìn thổ, mà không nói đến Ngọ hỏa sinh Thìn thổ, là tại sao?"
+
+Ta bèn đáp rằng: "Ngọ hỏa tuy động hóa thành Mùi thổ, nhưng Ngọ lại hợp với Mùi, Ngọ hỏa tham hợp mà quên không sinh Thìn thổ, nên ở đây Thìn thổ chỉ bị khắc
+
+![Sơ đồ quẻ Càn biến Phong Thiên Tiểu Súc](assets/page_0003_img_01.png) bởi Dần mộc, mà không được Ngọ hỏa tương sinh. Bởi vậy mà bệnh tình trầm trọng, cần đợi đến ngày Sửu xung mất Mùi thổ, khi đó Ngọ hỏa không còn hợp để tham hợp, nên sẽ sinh mộc, tai họa sẽ lui."
+
+Quả nhiên đến ngày Sửu khỏi bệnh.
+
+**Hỏi:** Quẻ này Vương tiên sinh chủ yếu phân tích thuyết tham hợp quên sinh.
+
+1. "Thiên kim phú" có nói: Tham sinh tham hợp, hình xung khắc hại đều vong. Thuyết tham hợp quên sinh dường như từ đây mà ra, nhưng ý nghĩa có sự trái ngược.
+
+2. Hào biến có thể sinh khắc xung hợp hào động ra nó, mà hào động không thể sinh khắc xung hợp hào biến, vì vậy thực chất của động mà hóa hợp là hào biến hợp trú hào động, khiến cho nó không thể phát huy tác dụng, quẻ này hào động Ngọ hỏa là hào bị động. Mà theo phép tham hợp quên sinh thì hào động Ngọ hỏa là chủ động.
+
+3. Một số phiên bản Tăng San Bốc Dịch khác có sự né tránh loại ý kiến này.
+
+Nói chung, tôi không nghi ngờ cách lý giải sâu sắc của thầy Vương đối với quẻ này, nhưng theo thiển ý của tôi thì "bị hợp không sinh" có vẻ thỏa đáng hơn là "tham hợp quên sinh".
+
+**Đáp:** Bị hợp không sinh và tham hợp quên sinh là sự khác nhau về cách biểu đạt. Hợp là vướng chân, bị vướng chân thì không thể sinh Dụng, xung khai liền có thể. Dùng "tham hợp quên sinh" là bởi vì sách cổ lưu truyền như vậy, nó đã là danh từ chuyên môn.
+
+**Hỏi:** Xem bệnh của cha, chọn Dụng thần Thìn thổ, tại sao không chọn Tuất thổ Nguyệt phá? Trong Tế Thuyết Lục Hào Dự Trắc Học, thầy có nói là nếu hai Dụng thần an tĩnh thì chọn Nguyệt phá, xin thầy giải thích.
+
+**Đáp:** Thông thường phải chọn hào Nguyệt phá. Nhưng quẻ này thuộc về một hào độc phát, vì vậy tiêu điểm ứng kỳ nằm ở hào độc phát, không dùng hào Nguyệt phá để xác định ứng kỳ. Điều này là vấn đề thần triệu cơ ở động.
+
+## ☯ Chương 10 – trang 38.
+
+**Hỏi:** Trong Tăng San Bốc Dịch có nói:
+
+Có năm loại Nguyên thần có thể sinh Dụng thần:
+
+1. Nguyên thần vượng tướng, hoặc lâm Nhật Nguyệt, hoặc được Nhật Nguyệt hào động sinh phù.
+2. Nguyên thần động hóa hồi đầu sinh, hoặc động hóa Tiến thần.
+3. Nguyên thần gặp Trường Sinh, Đế Vượng tại Nhật thần.
+4. Nguyên thần và Kỵ thần đều động.
+5. Nguyên thần vượng động, nhưng gặp Tuần Không, hóa Tuần Không.
+
+Tôi có thắc mắc về câu đầu tiên. Ý nghĩa của câu này phải là ba trường hợp: Một là Nguyên thần tự thân vượng tướng. Hai là Nguyên thần lâm Nhật Nguyệt. Ba là Nguyên thần được Nhật Nguyệt hoặc hào động sinh phù. Hai trường hợp sau thì tương đối dễ hiểu. Nhưng ở trường hợp đầu tiên, tại sao Nguyên thần lại có thể tự thân vượng tướng được nhỉ? Tôi cho rằng người xưa luôn viết sách rất cẩn thận, tuyệt đối không viết ra những lời vô ích. Nhưng Dụng thần, Kỵ thần viết trong Tăng San cũng tương tự như vậy. Trong Bốc Phệ Chính Tông cũng nói giống như thế. Tất cả đều không có giải thích rõ ràng. Xin hỏi Vương lão sư, có phải là người xưa đã viết sai hay không, hay là trong đó vẫn còn giấu giễm huyền cơ?
+
+**Đáp:** Cách biểu đạt như vậy là hơi thiếu chặt chẽ. Ở đây, Nguyên thần tự thân vượng tướng là chỉ Nguyên thần lâm Nhật Nguyệt.
+
+☯ Một quẻ của Vương lão sư: Ngày Bính Ngọ tháng Dần, học trò của tôi ở Nhật Bản muốn đến Trung Quốc, nhờ tôi dự đoán cát hung, được Giải biến Quy Muội.
+
+| | Giải | Quy Muội | |
+| :---: | :--- | :--- | :--- |
+| | ▅▅ ▅▅ Thê Tài Tuất thổ | ▅▅ ▅▅ Thê Tài Tuất thổ | Thanh Long |
+| Ứ | ▅▅ ▅▅ Quan Quỷ Thân kim | ▅▅ ▅▅ Quan Quỷ Thân kim | Huyền Vũ |
+| | ▅▅▅▅▅ Tử Tôn Ngọ hỏa | ▅▅▅▅▅ Tử Tôn Ngọ hỏa | Bạch Hổ |
+| | ▅▅ ▅▅ Tử Tôn Ngọ hỏa | ▅▅ ▅▅ Thê Tài Sửu thổ | Đằng Xà |
+| T | ▅▅▅▅▅ Thê Tài Thìn thổ | ▅▅▅▅▅ Huynh Đệ Mão mộc | Câu Trần |
+| | ▅▅ ▅▅ Huynh Đệ Dần mộc Phụ-Tý | ▅▅▅▅▅ Tử Tôn Tị hỏa | Chu Tước |
+
+MỘC Không Vong: Dần, Mão
+
+Lấy hào Thế làm Dụng thần. Hào Thế Nguyệt khắc Nhật sinh, suy vượng tương đương. Hào sơ Dần mộc Huynh Đệ lâm Chu Tước động mà khắc Thế, hào sơ là cước lực, giữa đường đến Trung Quốc tất có chuyện khẩu thiệt, Dần mộc Không mà không khắc hào Thế, không phải là mình và người ta phát sinh khẩu thiệt, mà là giữa đường gặp phải người khác phát sinh khẩu thiệt. Hào Thế Tài bị khắc, tất có đồ vật bị tổn hại.
+
+Kết quả: Khi ngồi taxi từ sân bay vào trong thành phố, tài xế taxi xảy ra khẩu thiệt với người khác, trong thời gian ở Trung Quốc laptop mang theo đã bị hỏng.
+
+Thầy nói Dần mộc Không mà không khắc hào Thế, phải là mình và người ta phát sinh khẩu thiệt, mà là giữa đường gặp phải người khác phát sinh khẩu thiệt.
+
+**Hỏi:** Tôi chưa hiểu chỗ Huynh Đệ Không mà không khắc hào Thế, hiện tại Không không khắc hào Thế, nhưng xuất Không thì khắc hào Thế chứ?
+
+![Sơ đồ quẻ Giải biến Quy Muội](assets/page_0005_img_01.png)
+
+**Đáp:** Huynh Đệ lâm Chu Tước động, biểu thị khẩu thiệt, khắc Thế thì có khả năng phát sinh xung đột với mình, nhưng Không Vong nên không thể khắc, Không lại biểu thị sợ bóng sợ gió, vì vậy không phải là chuyện của mình.
+
+☯ Ngày Quý Mão tháng Sửu, xem bệnh của vợ uống thuốc có khỏi được không, được quẻ Lâm biến Thái:
+
+| | Lâm | Thái | |
+| :---: | :--- | :--- | :--- |
+| | ▅▅ ▅▅ Tử Tôn Dậu Kim | ▅▅ ▅▅ Tử Tôn Dậu kim | Bạch Hổ |
+| Ứ | ▅▅ ▅▅ Thê Tài Hợi Thủy | ▅▅ ▅▅ Thê Tài Hợi thủy | Đằng Xà |
+| | ▅▅ ▅▅ Huynh Đệ Sửu Thổ | ▅▅ ▅▅ Huynh Đệ Sửu thổ | Câu Trần |
+| | ▅▅ ▅▅ Huynh Đệ Sửu Thổ | ▅▅▅▅▅ Huynh Đệ Thìn thổ | Chu Tước |
+| T | ▅▅▅▅▅ Quan Quỷ Mão Mộc | ▅▅▅▅▅ Quan Quỷ Dần mộc | Thanh Long |
+| | ▅▅▅▅▅ Phụ Mẫu Tị Hỏa | ▅▅▅▅▅ Thê Tài Tý thủy | Huyền Vũ |
+
+THỔ Không Vong: Thìn, Tị
+
+Ta đoán rằng: Hào Huynh Đệ động mà hóa Tiến thần, dù có thuốc tiên cũng khó cứu, người vợ ắt sẽ chết vào ngày Giáp Thìn. Trong quẻ này hào Huynh Đệ động, gặp Nguyệt kiến mà hóa Tuần Không, nhưng cũng không thể cho rằng là không tiến.
+
+**Hỏi:** Thê Tài Nguyệt khắc, Tử ở Nhật, bệnh bất trị, theo thầy thì có thông tin ung thư hay không?
+
+Kỵ thần độc phát, lâm Nguyệt phát động khắc Dụng, tượng không thể cứu chữa, sách dùng Tiến thần, ở đây hóa ra Thìn thổ là Tuần Không phải chăng là chủ ứng kỳ? Bởi vì Thìn cũng là Mộ khố của Dụng thần?
+
+**Đáp:** Khi phán đoán, trước tiên phải xem căn cơ của Dụng thần, sau đó lại xem cát hung. Dụng thần lâm hào Ứng, Ứng là y dược, chứng tỏ đã uống thuốc. Nhưng Dụng thần Nguyệt khắc, Nhật không sinh phù, Tử ở Nhật, đồng thời Huynh Đệ phát động khắc Dụng thần, Kỵ thần độc phát, thần triệu cơ ở động, nhất định không tốt đẹp. Huynh Đệ Sửu thổ lâm Nguyệt nhập hào có thể ứng ngay trong tháng đó, Huynh Đệ hóa Không tạm thời không thể khắc, cần phải xuất Không mới có thể khắc được Tài, vì vậy phải ứng tại ngày Thìn, đương nhiên ngày Thìn cũng là lúc Tài nhập Mộ. Khi phán đoán cát hung của một vấn đề hay phán đoán ứng kỳ, không phải chỉ xem một điểm mà phải kết hợp nhiều tổ hợp thông tin, nếu không thì tỷ lệ chính xác không cao.
+
+![Sơ đồ quẻ Lâm biến Thái](assets/page_0006_img_01.png)
+
+☯ Ngày Quý Dậu tháng Mão, xem về bệnh gần của cha, được quẻ Tụy hóa Bĩ:
+
+| | Tụy | Bĩ | |
+| :---: | :--- | :--- | :--- |
+| | ▅▅  ▅▅ Phụ Mẫu Mùi thổ | ▅▅▅▅▅ Phụ Mẫu Tuất thổ | Bạch Hổ |
+| Ư | ▅▅▅▅▅ Huynh Đệ Dậu kim | ▅▅▅▅▅ Huynh Đệ Thân kim | Đằng Xà |
+| | ▅▅▅▅▅ Tử Tôn Hợi thủy | ▅▅▅▅▅ Quan Quỷ Ngọ hỏa | Câu Trần |
+| | ▅▅  ▅▅ Thê Tài Mão mộc | ▅▅  ▅▅ Thê Tài Mão mộc | Chu Tước |
+| T | ▅▅  ▅▅ Quan Quỷ Tị hỏa | ▅▅  ▅▅ Quan Quỷ Tị hỏa | Thanh Long |
+| | ▅▅  ▅▅ Phụ Mẫu Mùi thổ | ▅▅  ▅▅ Phụ Mẫu Mùi thổ | Huyền Vũ |
+
+KIM Không Vong: Tuất, Hợi
+
+Ví dụ này Dã Hạc nói: Mùi thổ Phụ Mẫu động hóa Tiến thần, Tuất trị Tuần Không, bệnh gần gặp Không liền khỏi bệnh, nếu ở Giáp Tuất xuất Không liền khỏi bệnh.
+
+**Hỏi:** Quẻ này hóa lục hợp, hào 3 Mão mộc ám động khắc Phụ Mẫu, bệnh này về sau phải nặng thêm chứ?
+
+**Đáp:** Bệnh gần gặp Không thì không lấy sinh khắc để phán đoán cát hung, mà là dùng tượng để phán đoán. Dụng thần Không, hoặc hóa Không đều là thông tin tốt đẹp, không cần xem suy vượng của Dụng thần.
+
+Ví dụ của Vương lão sư: Ngày Đinh Sửu tháng Dậu, nữ xem bệnh đồng nghiệp, được quẻ Địa Thiên Thái biến Lôi Trạch Quy Muội.
+
+| | Thái | Quy Muội | |
+| :---: | :--- | :--- | :--- |
+| Ư | ▅▅  ▅▅ Tử Tôn Dậu kim | ▅▅  ▅▅ Huynh Đệ Tuất thổ | Thanh Long |
+| | ▅▅  ▅▅ Thê Tài Hợi thủy | ▅▅  ▅▅ Tử Tôn Thân kim | Huyền Vũ |
+| | ▅▅  ▅▅ Huynh Đệ Sửu thổ | ▅▅▅▅▅ Phụ Mẫu Ngọ hỏa | Bạch Hổ |
+| T | ▅▅▅▅▅ Huynh Đệ Thìn thổ | ▅▅  ▅▅ Huynh Đệ Sửu thổ | Đằng Xà |
+| | ▅▅▅▅▅ Quan Quỷ Dần mộc Phụ-Tị | ▅▅▅▅▅ Quan Quỷ Mão mộc | Câu Trần |
+| | ▅▅▅▅▅ Thê Tài Tý thủy | ▅▅▅▅▅ Phụ Mẫu Tị hỏa | Chu Tước |
+
+THỔ Không Vong: Thân, Dậu
+
+Đoán bệnh đồng nghiệp thì lấy hào Ứng làm Dụng thần, hào Ứng nhập Mộ, tượng nhập viện, Dụng thần vượng tướng Tuần Không, bệnh gần không sao. Hào 4 Huynh Đệ Sửu thổ là Mộ khố của Dụng thần, lâm Bạch Hổ động mà hóa ra Phụ Mẫu Ngọ hỏa, quẻ tại cung Khôn, Khôn chủ dạ dày, hào 4 cũng chủ dạ dày, Bạch Hổ chủ máu, Phụ Mẫu chủ bệnh viện, là bởi vì xuất huyết dạ dày nhập viện, quẻ chính lục hợp bệnh gần không nên. Càng không nên Nguyên thần Huynh Đệ Thìn thổ động mà hóa thoái. Sau này tất thành bệnh mãn tính, cơ thể dần dần suy yếu. Cừu thần Quan Quỷ
+
+![Quẻ Tụy hóa Bĩ](assets/page_0007_img_01.png)
+
+
+
+![Quẻ Thái biến Quy Muội](assets/page_0007_img_02.png)
+
+Dần mộc lâm Câu Trần ở hào 2, Dần mộc chủ gan mật, Câu Trần chủ sưng trướng, người đó có bệnh như gan to, xơ gan hoặc sỏi mật.
+
+Tình hình ứng nghiệm: Đồng nghiệp của cô ấy phải nhập viện vì xuất huyết dạ dày, sau khi điều trị có chuyển biến tốt đã xuất viện, vào tháng Mão năm Đinh Sửu, bởi vì gan to mà chết. Ứng năm Sửu, là năm Dụng thần nhập Mộ và Nguyên thần hóa thoái. Ứng tháng Mão, là vì Dụng thần gặp tháng xung.
+
+Đây cũng là Dụng thần vượng mà liền khỏi bệnh, bệnh gần gặp hợp, gặp tháng xung mà chết.
+
+**Hỏi:** Quẻ này cũng là bệnh gần gặp Không, thì khỏi bệnh. Nhưng bởi vì Nguyên thần hóa thoái, lại quẻ chính lục hợp, sau này tất thành bệnh mãn tính, cơ thể từ từ suy nhược. Kết quả là ở tháng Mão năm Sửu qua đời vì chứng gan to. Ví dụ của Dã Hạc tuy không phải là Nguyên thần hóa thoái, lại có Kỵ thần ám động đến khắc, chẳng lẽ không nghiêm trọng bằng quẻ này ư?
+
+**Đáp:** Quẻ đó của Dã Hạc cũng hóa lục hợp, kết quả sau đó ra sao thì chúng ta không được biết, nhưng hóa lục hợp thông thường sẽ xuất hiện vấn đề. Bệnh gần gặp Không, xung và hợp là vấn đề mâu thuẫn.
+
+☯ Ngày Tân Hợi tháng Dậu, xem yết kiến quý nhân để cầu tài, được quẻ Đoài Vi Trạch biến Lôi Thủy Giải:
+
+| | Đoài | Giải | |
+| :---: | :--- | :--- | :--- |
+| T | ▅▅  ▅▅ Phụ Mẫu Mùi thổ | ▅▅  ▅▅ Phụ Mẫu Tuất thổ | Đằng Xà |
+| | ▅▅▅▅▅ Huynh Đệ Dậu kim | ▅▅  ▅▅ Huynh Đệ Thân kim | Câu Trần |
+| | ▅▅▅▅▅ Tử Tôn Hợi thủy | ▅▅▅▅▅ Quan Quỷ Ngọ hỏa | Chu Tước |
+| Ư | ▅▅  ▅▅ Phụ Mẫu Sửu thổ | ▅▅  ▅▅ Quan Quỷ Ngọ hỏa | Thanh Long |
+| | ▅▅▅▅▅ Thê Tài Mão mộc | ▅▅  ▅▅ Phụ Mẫu Thìn thổ | Huyền Vũ |
+| | ▅▅▅▅▅ Quan Quỷ Tị hỏa | ▅▅  ▅▅ Thê Tài Dần mộc | Bạch Hổ |
+
+KIM Không Vong: Dần, Mão
+
+Đoán rằng: "Ngày Giáp Dần sẽ được của, cũng được như ý". Có người hỏi rằng: "Hào Thê Tài Mão mộc gặp Tuần Không, Nguyệt phá, lại bị hào động Dậu kim khắc; hào sơ Tị hỏa tuy sinh hào Thế, nhưng lại bị Nhật thần Hợi xung tán, hóa Tuần Không, vậy cát lợi ở chỗ nào?"
+
+Ta bèn đáp rằng: "Thần hé lộ thiên cơ ở chỗ động, ta trước nay không hề nói đến khái niệm tán. Chính vì Tị hỏa hóa Tuần Không, nên trước mắt vẫn chưa thấy ứng nghiệm, đợi đến ngày Giáp Dần xuất Không sẽ đắc tài. Hào Tài Dần mộc sinh ra Quan, Quan sẽ sinh ra Thế". Quả nhiên đến sáng ngày Dần được của.
+
+![Quẻ Đoài biến Giải](assets/page_0008_img_01.png)
+
+**Hỏi:** Hào Tài bị tháng Mão phá, ứng trong tháng không có tài, tại sao lấy hào biến Dần mộc làm Dụng thần??
+
+**Đáp:** Lấy quan để cầu tài thì cần xem Quan, Quan sinh Thế là quan giúp ta, Quan hóa Tài chính là nhờ vào quan mà được tài.
+
+☯ Ví dụ của Vương lão sư: Ngày Ất Hợi tháng Mão, một người phụ nữ muốn thuê một quầy hàng, xem buôn bán thế nào? Được quẻ Tốn.
+
+### Tốn
+
+| Thế/Ứng | Hào | Lục thân | Can Chi | Ngũ hành | Lục thú |
+| :---: | :---: | :--- | :--- | :--- | :--- |
+| T | — | Huynh Đệ | Mão | mộc | Huyền Vũ |
+| | — | Tử Tôn | Tị | hỏa | Bạch Hổ |
+| | - - | Thê Tài | Mùi | thổ | Đằng Xà |
+| Ứ | — | Quan Quỷ | Dậu | kim | Câu Trần |
+| | — | Phụ Mẫu | Hợi | thủy | Chu Tước |
+| | - - | Thê Tài | Sửu | thổ | Thanh Long |
+
+Lấy Thê Tài làm Dụng thần. Dụng thần mặc dù Tử Tôn ám động đến sinh, nhưng Nguyệt kiến khắc, Huynh Đệ trì Thế lại khắc, quẻ lục xung, tượng không lâu dài, không nên thuê quầy hàng, nếu thuê thì mở không được lâu dài.
+
+Nghe lời tôi không thuê. Một tháng sau, quầy hàng đó đã bị tháo dỡ.
+
+**Hỏi:** Quẻ này Tài lưỡng hiện, chọn lựa như thế nào?
+
+**Đáp:** Thông thường lấy hào Tài gần Thế, bởi vì đây mới là tiền của mình.
+
+**Hỏi:** Tử Tôn ám động sinh Tài, đây là quẻ tĩnh, hào động yếu cũng có lực hơn hào tĩnh, tại sao không thể có tài?
+
+**Đáp:** Quẻ này lục xung Huynh Đệ trì Thế, Nguyệt khắc Nhật không sinh phù Tài, một lực ám động không mạnh. Nếu là minh động độc phát thì đã có tài.
+
+![Sơ đồ quẻ Tốn](assets/page_0009_img_01.png)
+
+☯ Ngày Mậu Thìn tháng Ngọ, xem em gái sinh nở lành dữ ra sao, được quẻ Hỏa Địa Tấn:
+
+### Tấn
+
+| Thế/Ứng | Hào | Lục thân | Can Chi | Ngũ hành | Phục thần | Lục thú |
+| :---: | :---: | :--- | :--- | :--- | :--- | :--- |
+| | — | Quan Quỷ | Tị | hỏa | | Chu Tước |
+| | - - | Phụ Mẫu | Mùi | thổ | | Thanh Long |
+| T | — | Huynh Đệ | Dậu | kim | | Huyền Vũ |
+| | - - | Thê Tài | Mão | mộc | | Bạch Hổ |
+| | - - | Quan Quỷ | Tị | hỏa | | Đằng Xà |
+| Ứ | - - | Phụ Mẫu | Mùi | thổ | Tử-Tý | Câu Trần |
+
+KIM Không Vong: Tuất, Hợi
+
+Lấy hào Huynh Đệ Dậu kim làm Dụng thần, bị Nguyệt lệnh khắc, được Nhật kiến sinh, nên vô sự, vào giờ Mão ngày hôm sau sẽ sinh. Quả nhiên sinh vào giờ Mão ngày hôm sau, được mẹ tròn con vuông. Ứng vào giờ Mão, là vì Dụng thần Dậu kim và Nhật thần Thìn tương hợp. Trong "Hoàng kim sách" có viết: "Nếu gặp hợp, phải đợi xung khai". Đây chính là trường hợp bị Nguyệt kiến khắc, được Nhật thần sinh, mà không bị hào khác khắc chế hay phù trợ thêm.
+
+**Hỏi:** Xem sinh sản, cũng phải xem hào Tử Tôn chứ? Tử Tôn Tý thủy Nguyệt phá, Nhật khắc, Phi thần khắc, tại sao lại rút ra kết luận là mẹ con bình an? Tại sao không đoán ứng kỳ là lúc Tử Tôn xuất phục?
+
+**Đáp:** Huynh Đệ cũng là Nguyên thần của Tử Tôn, hợp mà không thể sinh Tử Tôn, xung khai mới có thể sinh.
+
+☯ Ngày Canh Tuất tháng Dần, xem cầu tài, được quẻ Hỏa Thiên Đại Hữu:
+
+### Đại Hữu
+
+| Thế/Ứng | Hào | Lục thân | Can Chi | Ngũ hành | Lục thú |
+| :---: | :---: | :--- | :--- | :--- | :--- |
+| Ứ | — | Quan Quỷ | Tị | hỏa | Đằng Xà |
+| | - - | Phụ Mẫu | Mùi | thổ | Câu Trần |
+| | — | Huynh Đệ | Dậu | kim | Chu Tước |
+| T | — | Phụ Mẫu | Thìn | thổ | Thanh Long |
+| | — | Thê Tài | Dần | mộc | Huyền Vũ |
+| | — | Tử Tôn | Tý | thủy | Bạch Hổ |
+
+KIM Không Vong: Dần, Mão
+
+Dã Hạc đoán: Hào Tài Dần mộc là Dụng thần, hào Tài khắc hào Thế, nên tiền tài sẽ được. Thế nhưng trước mắt vẫn là Tuần Không, phải đợi đến tháng Giáp Dần, xuất Không sẽ đắc tài. Quả nhiên đến ngày Giáp Dần được của.
+
+![Sơ đồ quẻ Hỏa Địa Tấn](assets/page_0010_img_01.png)
+
+
+
+![Sơ đồ quẻ Hỏa Thiên Đại Hữu](assets/page_0010_img_02.png)
+
+**Hỏi:** Quẻ này hào Thế Nhật phá, vì sao còn có thể cầu được tài? Thế Phá cho biết điều gì?
+
+**Đáp:** Phụ Mẫu trì Thế Nhật phá là tương đối vất vả. Nếu là xem tài trong mấy ngày sắp tới thì không sợ Tài khắc Thế, cũng không sợ Thế Phá. Nếu là đoán tài vận suốt đời thì quẻ này không tốt đẹp, là mệt mỏi vì tiền bạc, hơn nữa đoản mệnh.
+
+### ☯ Ngày Tân Dậu tháng Dần, xem về việc mở cửa hàng, được quẻ Cấn biến Minh Di:
+
+| | Cấn | Minh Di | |
+| :---: | :--- | :--- | :--- |
+| T | ━━━ Quan Quỷ Dần mộc | ━ ━ Tử Tôn Dậu kim | Đằng Xà |
+| | ━ ━ Thê Tài Tý thủy | ━ ━ Thê Tài Hợi thủy | Câu Trần |
+| | ━ ━ Huynh Đệ Tuất thổ | ━ ━ Huynh Đệ Sửu thổ | Chu Tước |
+| Ư | ━━━ Tử Tôn Thân kim | ━━━ Thê Tài Hợi thủy | Thanh Long |
+| | ━ ━ Phụ Mẫu Ngọ hỏa | ━ ━ Huynh Đệ Sửu thổ | Huyền Vũ |
+| | ━ ━ Huynh Đệ Thìn thổ | ━━━ Quan Quỷ Mão mộc | Bạch Hổ |
+
+THỔ &emsp;&emsp;&emsp;&emsp; Không Vong: Tý, Sửu
+
+Hào Thế tại Dần mộc, đắc lệnh đương quyền, nếu mở cửa hàng trong lúc này, việc buôn bán sẽ cực kỳ phát đạt. Nhưng hiễm nỗi Nhật thần Thìn khắc hào Thế, Dần mộc động hóa Dậu kim, hồi đầu khắc Thế, khiến đại tượng sinh ít khắc nhiều. Lại là quẻ lục xung, lục xung thì không được lâu.
+
+Người xem liền hỏi rằng: "Là người làm không đồng lòng, hay là bởi nguyên do khác?" Ta bèn đáp rằng: "Quỷ ở bên mình (tức Quỷ trì Thế), nên phòng bệnh tật, người làm cũng bởi đó mà thay lòng, ắt phải chịu liên lụy." Về sau, người này quả nhiên tháng sáu mắc bệnh lỵ, đến tháng tám vẫn chưa khỏi. Người làm bèn lấy trộm sạch, người này kêu lên quan, nhưng cũng không lấy được đồng nào. Như vậy chính là được thời vượng tướng thì vô sự, hết thời sẽ chịu tổn hại.
+
+Sở dĩ ứng nghiệm vào tháng sáu, là vì mộc gặp Mộ ở Mùi; người làm thay lòng đổi dạ, vì hào Ứng tại Thân kim, đến mùa thu được thời mà xung hào Thế; của cải bị lấy trộm, vì hào Tài Tý thủy gặp Không Vong.
+
+**Tân bình thích:** Quẻ này giải thích dễ dẫn tới hiểu lầm, khi mở cửa hàng lấy Tài làm Dụng thần, nếu lại hỏi thêm cát hung của bản thân, thì mới xem hào Thế. Hiện nay phát đạt, là vì Nhật thần sinh hào Tài. Nhưng hào Tài gặp Không, bị Huynh Đệ Thìn thổ phát động khắc chế, Nguyên thần Nguyệt phá, lại là quẻ lục xung, do đó kinh doanh không được lâu dài. Tài lâm Huyền Vũ mà Không, Huyền Vũ là trộm cắp, cho nên bị ăn trộm. Hào sơ là người làm thuê, Huynh Đệ là nhóm, lâm Chu Tước động khắc hào Tài, hóa ra Quan Quỷ, Chu Tước là quan ti (kiện tụng), khẩu thiệt, Quan
+
+![Sơ đồ quẻ Cấn biến Minh Di](assets/page_0011_img_01.png)
+
+Quỷ là quan ti, cho nên là do nhóm người làm thuê trộm cắp tài sản trong cửa hàng mà phát sinh quan ti khẩu thiệt.
+
+Bị kiết lỵ, là vì Kỵ thần tại hào 3 động mà khắc Thế. Hào 3 là hào vị bụng, Tài là phân và nước tiểu, Tử Tôn là Nguyên thần của hào Tài, vì vậy là ruột, có kiết lỵ.
+
+**Hỏi:** Vương lão sư đoán hiện nay kinh doanh phát đạt là bởi vì hào Tài được Nhật sinh. Hào Tài Không Vong thì còn có thể được sinh hay không? Bởi vì bên dưới có thuyết minh, Tài Không bị khắc nhập Mộ, bởi vậy mà bị trộm.
+
+**Đáp:** Tài Không Vong có thể được sinh hay không là một khái niệm cơ bản nhập môn. Nhật sinh Tài, Nhật là hiện nay, là hiện nay kinh doanh phát đạt. Nhưng Tài Không nhập Mộ, Mộ biểu thị kết thúc, Không biểu thị không được tài, vì vậy không thể lâu dài.
+
+### ☯ Ngày Giáp Thìn tháng Thân, xem bệnh anh trai, được Truân biến Chấn:
+
+| | Truân | Chấn | |
+| :---: | :--- | :--- | :--- |
+| | ━ ━ Huynh Đệ Tý thủy | ━ ━ Quan Quỷ Tuất thổ | Huyền Vũ |
+| Ư | ━━━ Quan Quỷ Tuất thổ | ━ ━ Phụ Mẫu Thân kim | Bạch Hổ |
+| | ━ ━ Phụ Mẫu Thân kim | ━━━ Thê Tài Ngọ hỏa | Đằng Xà |
+| | ━ ━ Quan Quỷ Thìn thổ Tài-Ngọ | ━ ━ Quan Quỷ Thìn thổ | Câu Trần |
+| T | ━ ━ Tử Tôn Dần mộc | ━ ━ Tử Tôn Dần mộc | Chu Tước |
+| | ━━━ Huynh Đệ Tý thủy | ━━━ Huynh Đệ Tý thủy | Thanh Long |
+
+Hào Huynh Đệ Tý thủy là Dụng thần, các hào Kỵ thần, Nguyên thần trong quẻ này đều động, Tuất thổ động sinh Thân; Thân kim động sinh Tý thủy; Nguyệt kiến (Thân) lại sinh Tý thủy, đến ngày Mậu Thân, bệnh nặng sẽ thuyên giảm, như vậy sao có thể nói rằng "Đằng Xà động sẽ chết, Bạch Hổ động có tang"!
+
+**Tân bình thích:** Bạch Hổ có ý nghĩa bệnh tật, lâm Ứng lâm Quan Quỷ động mà khắc Dụng, Ứng là nơi khác, chính là bệnh nhiễm từ nơi khác, Dụng thần nhập Mộ ở Nhật, là tượng nằm bệnh trên giường, Phụ Mẫu lâm Đằng Xà động đến sinh Dụng, Đằng Xà chủ triền miên, là đã bị bệnh trong thời gian rất dài mới được hồi phục. Tại sao chẳng lý giải là sẽ chết?
+
+**Hỏi:** Dụng thần Tý thủy là hào tĩnh, nếu Tý thủy là hào động thì có thể kết hợp với Nhật Nguyệt tạo thành tam hợp Thân Tý Thìn hay không?
+
+**Đáp:** Quẻ này tam hợp không thành, tam hợp cục ít nhất là trong quẻ có hai hào động, mà hai hào động này lại nhất định phải là địa chi trong tam hợp cục. Địa chi ở giữa cũng cần phải phát động. Quẻ này Tý thủy bất động, vì vậy không phải là tam hợp cục.
+
+![Sơ đồ quẻ Truân biến Chấn](assets/page_0012_img_01.png)
+
+**Hỏi:** Quan Quỷ Tuất thổ lâm Bạch Hổ khắc Dụng, do đó bị bệnh rất nặng. Nếu Dụng thần lâm Đằng Xà, mà giải thích là bị bệnh trong thời gian rất dài, thì nghe cũng thuận. Nhưng quẻ này Phụ Mẫu lâm Đằng Xà mà giải thích là bệnh lâu, nghe có vẻ không thuận cho lắm?
+
+**Đáp:** Khi xem bệnh, không nhất định là phải xem Quan Quỷ, có nhiều trường hợp phải xem Dụng thần, Nguyên thần, hoặc Kỵ thần. Quẻ này Nguyên thần Phụ Mẫu hóa hồi đầu khắc, vì vậy có thể xem đây là bệnh, mà Quan Quỷ là Kỵ thần cho nên cũng có thể xem Quan Quỷ là bệnh.
+
+**Hỏi:** Phụ Mẫu hóa hồi đầu khắc thì có thể sinh Dụng thần hay không?
+
+Hào cách sơn hóa hào, có thể hiểu là Quan hóa hồi đầu sinh hay không?
+
+Quan động Nhật xung là Nhật phá hay là xung tán?
+
+**Đáp:** Khi Ngọ hỏa nhược bị xung mất thì Phụ Mẫu có thể sinh Huynh Đệ. Nhật xung Quan có thể là xung động mạnh hơn, ở đây có Phụ Mẫu động cho nên có thể tạo thế liên tục tương sinh.
+
+☯ Ngày Canh Thân tháng Dần, xem về con trai bị bệnh đậu mùa, được quẻ Phong Hỏa Gia Nhân biến Ly:
+
+| | | Gia Nhân | | Ly | |
+| :---: | :---: | :--- | :---: | :--- | :--- |
+| | — | Huynh Đệ Mão mộc | — | Tử Tôn Tị hỏa | Đằng Xà |
+| Ứ | — | Tử Tôn Tị hỏa | - - | Thê Tài Mùi thổ | Câu Trần |
+| | - - | Thê Tài Mùi thổ | — | Quan Quỷ Dậu kim | Chu Tước |
+| | — | Phụ Mẫu Hợi thủy Quan-Dậu | — | Phụ Mẫu Hợi thủy | Thanh Long |
+| T | - - | Thê Tài Sửu thổ | - - | Thê Tài Sửu thổ | Huyền Vũ |
+| | — | Huynh Đệ Mão mộc | — | Huynh Đệ Mão mộc | Bạch Hổ |
+
+MỘC &emsp;&emsp;&emsp;&emsp; Không Vong: Tý, Sửu
+
+Dã Hạc lão nhân phán đoán: Hào Tử Tôn Tị hỏa, tại mùa xuân là đương lệnh, Tử Tôn là vượng tướng, nên bệnh có thể chữa được. Nhưng sau lại chết vào giờ Dần ngày Dần, lúc này mới ngộ ra rằng, do Nguyệt kiến tại Dần, Nhật kiến tại Thân, cùng với hào Tị tạo thành tam hình. Chỉ có quẻ này ứng nghiệm, vì không bị các hào khác tổn thương. Còn Tý Mão Thìn Tuất Sửu Mùi, cũng có ứng nghiệm, đều có tác dụng phụ trợ cho điều hung.
+
+**Hỏi:** Quẻ này có phải là tượng "Tử Tôn hóa Thê Tài + Thê Tài hóa Quan Quỷ = Tử Tôn cách Thê Tài biến Quỷ"?
+
+Có phải là người xưa không biết cách chữa trị đậu mùa mà dùng sai phương pháp, khiến cho đứa con tử vong?
+
+![Sơ đồ quẻ Phong Hỏa Gia Nhân biến Ly](assets/page_0013_img_01.png)
+
+Quẻ này có liên quan đến việc dùng tam hình để luận cát hung hay không?
+
+**Đáp:** Tam hình chỉ xem một phần thôi, ở quẻ này thì tác dụng của cách sơn hóa hào là rất lớn. Cái này giống như A = B, B = C, vì thế A có thể trực tiếp bằng C. Tử Tôn cách Tài hóa Quỷ, Tài lâm Chu Tước, có thể biểu thị bởi vì sốt mà chết, hoặc bởi vì không thể ăn uống mà chết,...
+
+☯ Ngày Ất Mùi tháng Dần, xem con gái lên đậu, được quẻ Khôn biến Sư:
+
+| | | Khôn | | Sư | |
+| :---: | :---: | :--- | :---: | :--- | :--- |
+| T | - - | Tử Tôn Dậu kim | - - | Tử Tôn Dậu kim | Huyền Vũ |
+| | - - | Thê Tài Hợi thủy | - - | Thê Tài Hợi thủy | Bạch Hổ |
+| | - - | Huynh Đệ Sửu thổ | - - | Huynh Đệ Sửu thổ | Đằng Xà |
+| Ứ | - - | Quan Quỷ Mão mộc | - - | Phụ Mẫu Ngọ hỏa | Câu Trần |
+| | - - | Phụ Mẫu Tị hỏa | — | Huynh Đệ Thìn thổ | Chu Tước |
+| | - - | Huynh Đệ Mùi thổ | - - | Quan Quỷ Dần mộc | Thanh Long |
+
+THỔ &emsp;&emsp;&emsp;&emsp; Không Vong: Thìn, Tị
+
+Tử Tôn Dậu kim hưu tù vì xem quẻ vào mùa xuân, nhưng may được Nhật thần Mùi tương sinh. Hào 2 Tị hỏa động mà khắc kim, Nhật thần Mùi xung động hào Sửu thổ; hỏa động sinh thổ, thổ động sinh kim, đậu mùa tuy đã lên dày nhưng vẫn được sống. Người kia bèn nói: "Bệnh hiện rất nguy cấp." Ta bèn đáp rằng: "Không đáng lo! Vào giờ Mùi, giờ Thân hôm nay sẽ được cứu." Quả nhiên đến giờ Thân, gặp thầy thuốc giỏi cứu sống.
+
+**Hỏi:** Quẻ này nằm trong chương Ám động. Nhưng điều kiện ám động là hào tĩnh vượng tướng bị Nhật xung. Nếu hào tĩnh hưu tù bị Nhật xung là Nhật phá. Trong quẻ này Sửu thổ tại tháng Dần, phải là hưu tù Nhật phá chứ? Mà Phụ Mẫu Tị hỏa phải là trực tiếp khắc Tử Tôn Dậu kim không sinh Huynh Đệ Sửu thổ. Mong lão sư chỉ điểm.
+
+**Đáp:** Đây là quẻ độc phát, chỉ cần Dụng thần có khí được Trường Sinh thì là cát, không phải là nhờ ám động. Bởi vì độc phát lấy tượng làm chủ. Dụng thần là Tử Tôn được Nhật sinh, hào động Tị hỏa độc phát là đất Trường Sinh của Tử Tôn, vì vậy là cát.
+
+![Sơ đồ quẻ Khôn biến Sư](assets/page_0014_img_01.png)
+
+☯ Ngày Kỷ Hợi tháng Mão, xem thăng tiến, được quẻ Lâm biến Trung Phu:
+
+| | Lâm | Trung Phu | |
+| :---: | :--- | :--- | :--- |
+| | - - Tử Tôn Dậu kim | — Quan Quỷ Mão mộc | Câu Trần |
+| Ư | - - Thê Tài Hợi thủy | — Phụ Mẫu Tị hỏa | Chu Tước |
+| | - - Huynh Đệ Sửu thổ | - - Huynh Đệ Mùi thổ | Thanh Long |
+| | - - Huynh Đệ Sửu thổ | - - Huynh Đệ Sửu thổ | Huyền Vũ |
+| T | — Quan Quỷ Mão mộc | — Quan Quỷ Mão mộc | Bạch Hổ |
+| | — Phụ Mẫu Tị hỏa | — Phụ Mẫu Tị hỏa | Đằng Xà |
+
+THỔ Không Vong: Thìn, Tị
+
+Ta bèn đoán rằng: Hào Thế tại Mão mộc Quan Quỷ, gặp Nguyệt kiến, lại gặp Trường Sinh tại Nhật thần Hợi, nên Thế và Quan đều là vượng tướng, ắt sẽ được thăng chức. Quả nhiên trong tháng đó được bổ nhiệm, từ Giang Tây lên chức đi trấn nhậm Sơn Đông. Nhưng chưa được một năm, thì lại bị thuyên chuyển trở lại Giang Tây. Ứng ở tháng Mão vì hào Quan Mão mộc gặp Nguyệt kiến. Được thăng chức đi Sơn Đông, vì hào Quan Quỷ tại Mão mộc. Thăng chức rồi lại bị thuyên chuyển trở lại Giang Tây, là do quẻ ngoại Phản ngâm, khiến cho đi rồi lại quay về.
+
+**Hỏi:** Trong quẻ này hào Ứng Nguyên thần Hợi thủy có phải là Nhật hóa Tuyệt địa? Lại Dậu kim Tử Tôn Nguyệt phá thêm phản xung, càng vô lực sinh thủy. Vì vậy tôi cho rằng Hợi thủy không có Tuyệt xứ phùng sinh. Như vậy bây giờ hào Thế Mão mộc hoàn toàn dựa vào sức mạnh của Nhật Nguyệt làm cho quái chủ thăng chức? Hào Thế có quan hệ sinh khắc gì với hai hào động không? Xin lão sư chỉ điểm.
+
+**Đáp:** Anh phân tích rất đúng, chủ yếu được quan là bởi vì Thế được Nguyệt phù Nhật sinh, chứ không phải là nhờ vào hào Tài đến sinh, nếu như Quan không trì Thế thì có thể đã không được thăng chức, đó gọi là trong mệnh không có quan thì khó cầu được Quan Quỷ trì Thế. Ngoại quái phản ngâm chỉ cung cấp thông tin đi rồi lại về.
+
+![Sơ đồ quẻ Lâm biến Trung Phu](assets/page_0015_img_01.png)
+
+☯ Ngày Quý Mão tháng Ngọ, xem về công danh hậu vận, được quẻ Cấn biến Quan:
+
+| | Cấn | Quan | |
+| :---: | :--- | :--- | :--- |
+| T | — Quan Quỷ Dần mộc | — Quan Quỷ Mão mộc | Bạch Hổ |
+| | - - Thê Tài Tý thủy | — Phụ Mẫu Tị hỏa | Đằng Xà |
+| | - - Huynh Đệ Tuất thổ | - - Huynh Đệ Mùi thổ | Câu Trần |
+| Ư | — Tử Tôn Thân kim | - - Quan Quỷ Mão mộc | Chu Tước |
+| | - - Phụ Mẫu Ngọ hỏa | - - Phụ Mẫu Tị hỏa | Thanh Long |
+| | - - Huynh Đệ Thìn thổ | - - Huynh Đệ Mùi thổ | Huyền Vũ |
+
+THỔ Không Vong: Thìn, Tị
+
+Ta bèn đoán rằng: Hào Quan tinh Dần mộc trì Thế, bị hào động Thân kim khắc, đến tháng bảy trong năm sẽ gặp chuyện không may. Người đó bèn hỏi ta là việc gì? Ta bèn đáp: "Hào Ứng động khắc hào Thế, hẳn có kẻ thù." Người đó bèn hỏi, có trở ngại đến công danh không? Ta đáp rằng: "Nếu không có hào Tý thủy động, chắc chắn sẽ mất chức. Nhưng may còn có hào Tý thủy động tương sinh nối tiếp, nên chỉ bị giáng chức hay thuyên nhiệm mà không bị miễn chức."
+
+Hôm sau, người này gọi ta đến phủ thự, có một môn khách hiểu về Dịch lý hỏi ta rằng: "Đã được hào Tý thủy tương sinh nối tiếp, trong sách xưa có viết: Nếu Kỵ thần và Nguyên thần cùng động, hào Quan và hào Thế được hai sinh, là điềm mùa đông trong năm sẽ được thăng quan, tại sao ông lại cho là bị giáng chức?"
+
+Ta bèn trả lời: "Hào Tý thủy gặp Nguyệt phá mà hóa thành Tị hỏa Tuần Không, trong sách xưa có viết: tuy có cũng như không, có Nguyên thần cũng là vô dụng. Ta không đoán theo phép cổ. Thần linh hé lộ cơ trời tại hào động, động ắt có nguyên nhân, nên ta chỉ đoán là giáng cấp mà thôi, về thời gian bị giáng cấp, nếu tại tháng Đông chí, mới ứng nghiệm. Nếu tại tháng khác, Tý thủy chưa được điền thực, vẫn chưa biết được.
+
+Quả nhiên vào tháng bảy, giữa các quan lại xảy ra đấu đá, đàn hặc lẫn nhau, kết thành thị phi. Đến tháng Đông chí sự việc kết thúc, bị giáng chức điều nhiệm sang nơi khác.
+
+Tân bình thích: Tử Tôn động mà hóa Quan, chính là tượng mất quan lại được quan. Ứng là người khác, lâm Chu Tước khắc Thế Quan, Chu Tước chủ khẩu thiệt thị phi, vì vậy mới xuất hiện người hạch tội hạ bệ mình. Phụ Mẫu là công văn kết luận, Tý thủy động mà hóa ra Phụ Mẫu, cho nên ứng tháng Tý kết án. Tý thủy tại hào 5, hào 5 là hào vị cấp trên, Nguyệt phá không sinh Thế Quan tinh, là bị người vạch tội nhưng không được cấp trên giúp đỡ. Tóm lại là do người khác gây nên rắc rối mà quan vận bị ảnh hưởng.
+
+![Sơ đồ quẻ Cấn biến Quan](assets/page_0016_img_01.png)
+
+"Thần linh hé lộ cơ trời tại hào động, động ắt có nguyên nhân, nên ta chỉ đoán là giáng cấp mà thôi, về thời gian bị giáng cấp, nếu tại tháng Đông chí, mới ứng nghiệm. Nếu tại tháng khác, Tý thủy chưa được điền thực, vẫn chưa biết được." Đoạn này hơi khó hiểu, mong thầy giải thích một chút!
+
+**Đáp:** Đây là nói khi dự đoán ở mùa đông thì Tý thủy vượng tướng, có lực dẫn hóa Kỵ thần, những tháng khác thì Tý thủy yếu, so với tháng dự đoán hiện tại thì Tý thủy Nguyệt phá, không có khả năng hóa giải tất cả năng lượng bất lợi, vì vậy bị trừng phạt. Nếu Tý thủy bất động thì đến chức quan cũng không còn.
+
+☯ Ví dụ của Vương lão sư: Ngày Quý Hợi tháng Đinh Mùi năm Đinh Mùi, một người nam sinh năm Canh Tý đoán hôn nhân, được quẻ Thiên Trạch Lý biến Hỏa Thiên Đại Hữu.
+
+| | Lý | Phục thần | | Đại Hữu | Lục thú |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| | ▅▅▅▅▅ Huynh Đệ Tuất thổ | | ▅▅▅▅▅ | Phụ Mẫu Tị hỏa | Bạch Hổ |
+| T | ▅▅▅▅▅ Tử Tôn Thân kim | Tài-Tý | ▅▅ ▅▅ | Huynh Đệ Mùi thổ | Đằng Xà |
+| | ▅▅▅▅▅ Phụ Mẫu Ngọ hỏa | | ▅▅▅▅▅ | Tử Tôn Dậu kim | Câu Trần |
+| | ▅▅ ▅▅ Huynh Đệ Sửu thổ | | ▅▅▅▅▅ | Huynh Đệ Thìn thổ | Chu Tước |
+| Ư | ▅▅▅▅▅ Quan Quỷ Mão mộc | | ▅▅▅▅▅ | Quan Quỷ Dần mộc | Thanh Long |
+| | ▅▅▅▅▅ Phụ Mẫu Tị hỏa | | ▅▅▅▅▅ | Thê Tài Tý thủy | Huyền Vũ |
+
+THỔ  
+Không Vong: Tý, Sửu
+
+Theo phương pháp của Dã Hạc, trong quẻ không có Thê Tài, Nhật thần là Tài tinh, khỏi cần tìm phục, lấy Nhật thần Hợi thủy làm Dụng. Trong quẻ Huynh Đệ Sửu thổ mặc dù động mà hóa tiến, nhưng Sửu thổ Nguyệt phá, lại gặp Không vong, vô lực khắc Dụng, trong khi Nhật là Dụng thần, sách nói: "Hào gây tổn thương đến Nhật Nguyệt, chỉ là nói suông", Sửu thổ không thể khắc Nhật, hôn nhân phải đoán là cát. Nhưng không khớp với thực tế.
+
+Theo phương pháp của tôi, quẻ không có Thê Tài thì tìm phục tàng. Thê Tài Tý thủy phục tại hào 5, Thê Tài Tý thủy chính là Dụng thần. Dụng thần được Nhật thần trợ giúp, lại được hào Thế phát động tới sinh là vượng. Phục thần là Tý thủy, phục tàng ứng xuất hiện, năm Giáp Tý người này tròn 24 tuổi, chính là độ tuổi lập gia đình, đoán là kết hôn vào năm Giáp Tý. Bởi vì Huynh Đệ Sửu thổ động mà khắc Dụng thần, tuy nhiên Không Phá, năm Ất Sửu thực Không thực Phá, Nguyên thần Tử Tôn nhập Mộ không thể sinh Dụng thần, đoán là năm này đã phát sinh mâu thuẫn với vợ. Hào Thế sinh Dụng thần, anh ta rất yêu vợ. Năm Bính Dần xung mất Nguyên thần, bản thân cũng mất đi ái ý với vợ, tình cảm rạn nứt. Sửu thổ Huynh Đệ đối với Dụng thần trong khắc có hợp, vợ bị người ta cướp đi. Năm Bính Tý Dụng thần lại là phục tàng gặp xuất hiện, lại có bạn gái. Năm Đinh Sửu Huynh Đệ cũng lại xuất Không thực Phá,
+
+![Quẻ Thiên Trạch Lý biến Hỏa Thiên Đại Hữu](assets/page_0017_img_01.png)
+
+Nguyệt kiến khắc Dụng, khi dự đoán là lúc quan hệ hai người đang căng thẳng, mâu thuẫn chồng chất. Phụ Mẫu Tị hỏa lâm Huyền Vũ ám động, tương hợp với hào Thế, hai người đã ở chung. Tôi đoán tháng Sửu thế nào cũng chia tay. Kết quả đúng như vậy.
+
+Từ ví dụ này có thể thấy, Dụng thần lâm Nhật Nguyệt vẫn cần phải tìm phục tàng. Vợ anh ta và bạn gái năm Bính Tý đều là bị người ta cướp đi, đây chính là ứng nghiệm Huynh Đệ Sửu thổ hợp Dụng thần Tý thủy, nếu lấy Nhật thần Hợi thủy làm Dụng thì đã không có ý nghĩa này. Hai cơ hội hôn nhân của anh ta đều ứng tại năm Tý, điều này cũng có quan hệ rất lớn với Phục thần.
+
+**Hỏi:** Thân kim vượng động sẽ nhập Mộ?
+
+**Đáp:** Sẽ nhập, Sửu luôn là Mộ của kim, nhưng có phân biệt lý tượng, không hẳn cứ Mộ là xấu.
+
+**Hỏi:** Thân kim vượng động sẽ sợ Dần xung?
+
+**Đáp:** Nhật Nguyệt trong quẻ không có Dần mộc, không cần quan tâm đến sợ xung.
+
+**Hỏi:** Sửu thổ có thể Mộ Thân kim không?
+
+**Đáp:** Đây giống như cấp bậc lãnh đạo, cấp trên quản cấp dưới, không thể nói là đại đội trưởng bị trung đoàn trưởng quản lý.
+
+**Hỏi:** Sửu thổ có thể xem là hóa Tiến thần?
+
+**Đáp:** Tiến thần.
+
+**Hỏi:** Trong sách có nói: "Năm Bính Dần xung mất Nguyên thần". Thân kim đã nhập Sửu Mộ, tại sao lại gặp năm Dần không nói là xung xuất mà nói là xung mất?
+
+**Đáp:** Đó là phương thức biểu đạt ứng kỳ, không phải là vấn đề có thể xung hay không.
+
+☯ Ngày Đinh Mão tháng Mùi, xem về công danh, xem có được ra làm quan hay không. Được quẻ Thiên Hỏa Đồng Nhân biến Cách:
+
+| | Đồng Nhân | | Cách | | |
+| :---: | :---: | :--- | :---: | :--- | :--- |
+| Ứ | — | Tử Tôn Tuất thổ | - - | Tử Tôn Mùi thổ | Thanh Long |
+| | — | Thê Tài Thân kim | — | Thê Tài Dậu kim | Huyền Vũ |
+| | — | Huynh Đệ Ngọ hỏa | — | Quan Quỷ Hợi thủy | Bạch Hổ |
+| T | — | Quan Quỷ Hợi thủy | — | Quan Quỷ Hợi thủy | Đằng Xà |
+| | - - | Tử Tôn Sửu thổ | - - | Tử Tôn Sửu thổ | Câu Trần |
+| | — | Phụ Mẫu Mão mộc | — | Phụ Mẫu Mão mộc | Chu Tước |
+
+HỎA  
+Không Vong: Tuất, Hợi
+
+Ta bèn đoán rằng: Nếu đoán theo phép cũ, thì hào Tử Tôn động mà khắc hào Quan, tức suốt đời không được làm quan. Thế nhưng theo cách suy đoán của ta, thì đến năm Thìn sẽ được làm quan. Tại sao lại như vậy? Vì hào Tuất thổ Tử Tôn tuy động, nhưng lại hóa thành Thoái thần, nên không thể khắc được Quan. Đến năm Thìn xung mất Tuất thổ, nên ta mới đoán vào năm Thìn. Quả nhiên đến năm Thìn được trúng tuyển làm quan. Như vậy sao có thể cho rằng hào động gặp Không, hóa Nhật hóa Nguyệt thì không thoái?
+
+Tân bình thích: Quan Quỷ trì Thế là có tượng quan, Tử Tôn động mà khắc Quan, hóa thoái tuy là không khắc, nhưng bởi vì Tử Tôn hợp Nhật mà không thoái, năm Thìn xung khai cái hợp này thì Tử Tôn được thoái, vì vậy năm Thìn được quan. Ở đây lấy tượng pháp mà luận, không lấy Quan Quỷ suy vượng mà luận. Nếu lấy vượng suy để luận thì Quan Quỷ hưu tù là suốt đời không có quan. Tử Tôn động hợp Nhật chính là thông tin để xác định ứng kỳ.
+
+**Hỏi:** Kỵ thần tuy hóa thoái, nhưng độc phát khắc Quan, mà Quan Quỷ trì Thế hưu tù Tuần Không, quan nhược làm sao có quan? Có phải là dựa vào Quan quá nhược mà đoán ngược lại?
+
+**Đáp:** Quẻ này không phải là Quan quá nhược, cũng không phải là Tử Tôn quá vượng, mà là Tử Tôn độc phát hóa thoái, Quan lại trì Thế. Quan trì Thế là quan lâm thân, nhưng Tử Tôn khắc, lại không thể được quan. Mấu chốt ở đây là Tử Tôn hóa thoái, Tử Tôn là lục thân gây bất lợi cho Quan, hóa thoái chính là tình trạng này sẽ biến mất, nhưng Nhật hợp không thể thoái, năm Thìn xung khai Tuất sẽ thoái. Nếu Tử Tôn này động không phải hóa thoái, mà là hóa địa chi khác, hóa hồi đầu sinh, thì nhất định là không được làm quan.
+
+**Hỏi:** Ứng tại hào 6 động hóa thoái, khắc Thế Quan, có thể hiểu là đến lúc người khác thoái vị hoặc nghỉ hưu thì mới đến lượt người hỏi quẻ được quan hay không?
+
+**Đáp:** Có thể.
+
+![Sơ đồ quẻ Thiên Hỏa Đồng Nhân biến Cách](assets/page_0019_img_01.png)
+
+☯ Ngày Quý Tị tháng Tuất, xem mùa đông năm đấy có nhận được chức quan sai hay không, được quẻ Thủy Trạch Tiết biến Nhu:
+
+| | Tiết | | Nhu | | |
+| :---: | :---: | :--- | :---: | :--- | :--- |
+| | - - | Huynh Đệ Tý thủy | - - | Huynh Đệ Tý thủy | Bạch Hổ |
+| | — | Quan Quỷ Tuất thổ | — | Quan Quỷ Tuất thổ | Đằng Xà |
+| Ứ | - - | Phụ Mẫu Thân kim | - - | Phụ Mẫu Thân kim | Câu Trần |
+| | - - | Quan Quỷ Sửu thổ Tài-Ngọ | — | Quan Quỷ Thìn thổ | Chu Tước |
+| | — | Tử Tôn Mão mộc | — | Tử Tôn Dần mộc | Thanh Long |
+| T | — | Thê Tài Tị hỏa | — | Huynh Đệ Tý thủy | Huyền Vũ |
+
+THỦY  
+Không Vong: Ngọ, Mùi
+
+Hào Quan Sửu thổ động mà hóa Tiến thần, nên đoán vào tháng Sửu sẽ được chức quan, sau quả nhiên đúng như vậy. Theo phép xưa, cho rằng Nhật thần, Nguyệt kiến, hào động hóa Phá hóa Không thì không thể tiến. Thế nhưng trong quẻ này, hào động không gặp Nhật thần, Nguyệt kiến lại hóa Phá, nhưng vẫn có thể tiến.
+
+**Hỏi:** Vương lão sư, "Nhật thần, Nguyệt kiến, hào động hóa Phá hóa Không thì không thể tiến" là gì vậy?
+
+**Đáp:** Những điều kiện này tồn tại đồng thời, hóa Không có tượng hóa Không, hóa Phá có tượng hóa Phá. Nếu Dụng thần vượng tướng thì khi Thực Không Thực Phá là ứng nghiệm sự việc, nếu hưu tù thì biểu thị ngày càng xấu.
+
+☯ Ngày Ất Mùi tháng Thìn, xem về bệnh của con, được Đại Hữu biến Khuê:
+
+| | Đại Hữu | | Khuê | | |
+| :---: | :---: | :--- | :---: | :--- | :--- |
+| Ư | — | Quan Quỷ Tị hỏa | — | Quan Quỷ Tị hỏa | Huyền Vũ |
+| | - - | Phụ Mẫu Mùi thổ | - - | Phụ Mẫu Mùi thổ | Bạch Hổ |
+| | — | Huynh Đệ Dậu kim | — | Huynh Đệ Dậu kim | Đằng Xà |
+| T | — | Phụ Mẫu Thìn thổ | - - | Phụ Mẫu Sửu thổ | Câu Trần |
+| | — | Thê Tài Dần mộc | — | Thê Tài Mão mộc | Chu Tước |
+| | — | Tử Tôn Tý thủy | — | Quan Quỷ Tị hỏa | Thanh Long |
+
+KIM  
+Không Vong: Thìn, Tị
+
+Hào Phụ Mẫu gặp Nguyệt kiến, động hóa Thoái thần, đứa bé chết vào hôm sau.
+
+**Hỏi:** Quẻ này Thìn thổ Nhật Nguyệt song khắc, Mộ khố độc phát là hung. Thìn thổ hóa thoái có ý nghĩa gì, không thể là Mộ hóa thoái thì vô dụng, như vậy có nên luận là hóa ám động hay không, chính là tăng tốc ứng kỳ sự việc? Bởi vì mặc dù là
+
+![Sơ đồ quẻ Thủy Trạch Tiết biến Nhu](assets/page_0020_img_01.png)
+
+
+
+![Sơ đồ quẻ Đại Hữu biến Khuê](assets/page_0020_img_02.png)
+
+
+
+---
+
+# Part 2 (Pages 21-40)
+
+độc phát lấy tượng làm chủ, nhưng hóa thoái vẫn phải có tượng nhất định, vì vậy xin hỏi thầy là Thìn thổ hóa thoái phải chăng luận hóa ám động mà ứng kỳ hung đến sớm?
+
+**Đáp:** Ở đây nếu không phải là Phụ Mẫu hóa thoái thì chính là Dụng thần quá nhược, bởi vì hóa thoái cho nên thuộc về Kỵ thần vượng, Dụng thần nhược, khắc nhiều sinh ít, gặp Trường Sinh là hung.
+
+☯ Ngày Ất Sửu tháng Mão, xem việc hôn nhân có thành không, được quẻ Phệ Hạp biến Tỷ:
+
+| | Phệ Hạp | | Tỷ | | |
+| :---: | :---: | :--- | :---: | :--- | :--- |
+| | — | Tử Tôn Tị hỏa | - - | Phụ Mẫu Tý thủy | Huyền Vũ |
+| T | - - | Thê Tài Mùi thổ | — | Thê Tài Tuất thổ | Bạch Hổ |
+| | — | Quan Quỷ Dậu kim | - - | Quan Quỷ Thân kim | Đằng Xà |
+| | - - | Thê Tài Thìn thổ | - - | Huynh Đệ Mão mộc | Câu Trần |
+| Ư | - - | Huynh Đệ Dần mộc | - - | Tử Tôn Tị hỏa | Chu Tước |
+| | — | Phụ Mẫu Tý thủy | - - | Thê Tài Mùi thổ | Thanh Long |
+
+MỘC &emsp;&emsp;&emsp;&emsp; Không Vong: Tuất, Hợi
+
+Hào Tài trì Thế hóa thành Tiến thần; hào Tử Tị hỏa động mà sinh hào Thế. Nhưng vì Tị hỏa hóa Tý thủy hồi đầu khắc, cần phải đợi đến ngày Ngọ xung mất Tý thủy. Ngọ hỏa lại hợp với hào Thế, nên hôn sự ắt thành. Quả nhiên vào ngày Ngọ, hôn sự được chấp thuận.
+
+Có người hỏi: "Còn có hào Quỷ Dậu kim động, chẳng lẽ không gây trở ngại ư?" Ta bèn đáp rằng: "Hào Quỷ động hóa thành Thoái thần, nên tuy có cản trở, nhưng cũng không đủ sức."
+
+Quẻ này hào Thế tại Tài Mùi thổ động mà hóa Tuần Không, nếu theo phép xem cổ, thì hào Tài hóa Tuần Không, thuộc trường hợp hào động, Nhật thần, Nguyệt kiến hóa Không, không tiến được. Nhưng ở đây động tán hóa Không, vẫn có thể tiến được.
+
+**Hỏi:** Xưa lấy Tài hóa Tuần Không gọi là động Nhật Nguyệt mà hóa Không tạm thời không thể tiến, vô lực động tán mà hóa Không cũng có thể tiến. Câu này nên được hiểu như thế nào? Có đúng là câu này là sai?
+
+**Đáp:** Không phải, xem quẻ phải linh hoạt, không thể rập khuôn máy móc.
+
+**Hỏi:** Trong quẻ này ngoại quái tam hợp kim cục nên hiểu thế nào mới đúng?
+
+**Đáp:** Tam hợp và Dụng thần không có quan hệ, có thể không xem.
+
+![Quẻ Phệ Hạp biến Tỷ](assets/page_0021_img_01.png)
+
+☯ Ngày Giáp Thìn tháng Dậu, có người bị luận tội, xem tự biện tội có kết quả không, được quẻ Sư biến Minh Di:
+
+| | Sư | | Minh Di | | |
+| :---: | :---: | :--- | :---: | :--- | :--- |
+| Ư | - - | Phụ Mẫu Dậu kim | - - | Phụ Mẫu Dậu kim | Huyền Vũ |
+| | - - | Huynh Đệ Hợi thủy | - - | Huynh Đệ Hợi thủy | Bạch Hổ |
+| | - - | Quan Quỷ Sửu thổ | - - | Quan Quỷ Sửu thổ | Đằng Xà |
+| T | - - | Thê Tài Ngọ hỏa | — | Huynh Đệ Hợi thủy | Câu Trần |
+| | — | Quan Quỷ Thìn thổ | - - | Quan Quỷ Sửu thổ | Chu Tước |
+| | - - | Tử Tôn Dần mộc | — | Tử Tôn Mão mộc | Thanh Long |
+
+THỦY &emsp;&emsp;&emsp;&emsp; Không Vong: Dần, Mão
+
+Ta bèn đoán rằng: Hào Thế hóa hồi đầu khắc, hào Quan hóa thành Thoái thần, hào Tử Tôn hóa thành Tiến thần, ba hào động này đều không phải là điềm tốt, nên là tượng đại hung. Quả nhiên vào tháng hai năm sau, bị cách chức bắt hỏi tội.
+
+Theo phép xưa, Nhật thần, Nguyệt kiến, hào động hóa Không Phá, là không bị thoái. Trong quẻ này, hào Quan động gặp Nhật thần. Sách xưa lại nói: Nhật thần, Nguyệt kiến, hào động hóa Không Phá, là không tiến. Trong quẻ này, hào Tử Tôn động, hưu tù, lại hóa Không, Phá, nhưng tiến vẫn là tiến, mà thoái vẫn phải thoái.
+
+**Hỏi:** Trong sách lấy Quan hóa thoái, Tử hóa tiến mà định không cát. Đại khái là lấy quan là chức vụ, Tử Tôn là cái khắc quan mà định không cát. Tại sao không lấy Quan là kiện tụng, Tử Tôn là thần giải ưu? Ngoài ra, trong quẻ Dần Ngọ bán cục khắc hào Ứng, cũng có ý nghĩa là ta thắng. Có điều là kim vượng cần phải đợi khi hỏa vượng.
+
+**Đáp:** Đây không phải là kiện tụng mà giống với song quy (bắt để điều tra) hiện nay. Tự thanh minh cho mình thì có liên quan đến chức quan có được giữ lại hay không.
+
+![Quẻ Sư biến Minh Di](assets/page_0022_img_01.png)
+
+☯ Ngày Giáp Dần tháng Tuất, xem thi Hội có đỗ không, được quẻ Tiểu Quá biến Cấn:
+
+| | Tiểu Quá | Cấn | |
+| :---: | :--- | :--- | :--- |
+| | ▅▅  ▅▅ Phụ Mẫu Tuất thổ | ▅▅▅▅▅ Thê Tài Dần mộc | Huyền Vũ |
+| | ▅▅  ▅▅ Huynh Đệ Thân kim | ▅▅  ▅▅ Tử Tôn Tý thủy | Bạch Hổ |
+| T | ▅▅▅▅▅ Quan Quỷ Ngọ hỏa Tử-Hợi | ▅▅  ▅▅ Phụ Mẫu Tuất thổ | Đằng Xà |
+| | ▅▅▅▅▅ Huynh Đệ Thân kim | ▅▅▅▅▅ Huynh Đệ Thân kim | Câu Trần |
+| | ▅▅  ▅▅ Quan Quỷ Ngọ hỏa Tài-Mão | ▅▅  ▅▅ Quan Quỷ Ngọ hỏa | Chu Tước |
+| Ư | ▅▅  ▅▅ Phụ Mẫu Thìn thổ | ▅▅  ▅▅ Phụ Mẫu Thìn thổ | Thanh Long |
+
+KIM Không Vong: Tý, Sửu
+
+Ta đoán rằng: Hào Thế theo Quan nhập Tam Mộ, tức động Mộ (gặp Mộ tại hào động Tuất thổ), hóa Mộ, lại nhập Mộ tại Nguyệt kiến (Tuất). Năm sau là năm Thìn, sẽ xung khai Mộ khố, là lúc đề danh thi đỗ. Lại gặp tháng Thìn, xung khai Tam Mộ, không những thi đỗ, mà còn đỗ vào hàng Giáp (thứ nhất). Nhật thần, Nguyệt kiến hợp thành Quan cục, vượng tướng đương thời. Quẻ này rất đẹp, như viên ngọc không tỳ vết. Quả nhiên sau được đề danh bảng vàng.
+
+Trong chương Tam hợp có nói: "Như xem về công danh, được tam hợp Quan cục sinh hào Thế, sẽ có lợi cho bản thân; nếu hợp cục sinh hào Ứng, sẽ lợi cho người khác. Xem về tiền tài, được Tài cục sinh hào Thế, sẽ có lợi cho bản thân; nếu Tài cục sinh hào Ứng, sẽ có lợi cho người khác."
+
+Nói cách khác: Quy luật Tam hợp cục sinh Thế Ứng chỉ thích hợp cho chuyện công danh và tiền tài, không hợp cho thi cử (mặc dù thời xưa cũng gọi là thi công danh)? Có phải quy luật ngũ hành trong trời đất chỉ được áp dụng cho một số sự việc (đều liên quan đến Thế Ứng)? Mong Vương lão sư chỉ giáo!
+
+**Đáp:** Quẻ này hào Ứng Nguyệt phá, mà hào Thế không có vấn đề, vì vậy lợi Thế mà bất lợi Ứng, ngoài ra Dụng thần sinh Ứng thông thường là đề cập đến một việc nào đó, nói chung dự đoán không sợ Dụng sinh hào Ứng. Ví như dự đoán quan vận bản thân không sợ Dụng thần sinh Ứng, mà sợ Dụng thần hưu tù. Nếu hỏi lần này thăng chức ra sao thì sợ sinh Ứng.
+
+![Sơ đồ quẻ Tiểu Quá biến Cấn](assets/page_0023_img_01.png)
+
+☯ Ngày Nhâm Thân tháng Hợi, em gái đoán anh trai và chị dâu bất hòa, có ly hôn không? Được quẻ Địa Thiên Thái biến Địa Phong Thăng.
+
+| | Thái | Thăng | |
+| :---: | :--- | :--- | :--- |
+| Ư | ▅▅  ▅▅ Tử Tôn Dậu kim | ▅▅  ▅▅ Tử Tôn Dậu kim | Bạch Hổ |
+| | ▅▅  ▅▅ Thê Tài Hợi thủy | ▅▅  ▅▅ Thê Tài Hợi thủy | Đằng Xà |
+| | ▅▅  ▅▅ Huynh Đệ Sửu thổ | ▅▅  ▅▅ Huynh Đệ Sửu thổ | Câu Trần |
+| T | ▅▅▅▅▅ Huynh Đệ Thìn thổ | ▅▅▅▅▅ Tử Tôn Dậu kim | Chu Tước |
+| | ▅▅▅▅▅ Quan Quỷ Dần mộc Phụ-Tị | ▅▅▅▅▅ Thê Tài Hợi thủy | Thanh Long |
+| | ▅▅▅▅▅ Thê Tài Tý thủy | ▅▅  ▅▅ Huynh Đệ Sửu thổ | Huyền Vũ |
+
+THỔ Không Vong: Tuất, Hợi
+
+Mặc dù là quẻ lục hợp, nhưng Dụng thần độc phát hóa hồi đầu khắc, chắc chắn sẽ ly hôn. Về sau ly hôn ở ngày Đinh Sửu, là ngày hợp hào độc phát, cũng là ngày trị hào biến Dụng thần bị khắc.
+
+**Hỏi:** Theo chương Lục hợp, Tý Sửu tác hợp, trong ngày tháng Thìn Tuất Sửu Mùi thì hào Tý không được sinh phù, nói khắc không nói hợp. Nhưng hiện tại là trong tháng Hợi thủy, lại là ngày Thân kim, Tý thủy vượng đấy chứ, vì sao ở đây lại nói Sửu thổ khắc Tý thủy?
+
+**Đáp:** Tý động hóa Sửu là vừa khắc vừa hợp, người xưa không thể giải quyết vấn đề này cho nên mới nói Sửu vượng là khắc, không luận là hợp. Ở đây Tài thể hiện chị dâu cô ấy, hóa hợp là có ngoại tình, hóa khắc biểu thị sẽ chia ly.
+
+☯ Ngày Nhâm Thân tháng Tị, xem về mở tiệm buôn bán, được quẻ Khôn biến Bác:
+
+| | Khôn | Bác | |
+| :---: | :--- | :--- | :--- |
+| T | ▅▅  ▅▅ Tử Tôn Dậu kim | ▅▅▅▅▅ Quan Quỷ Dần mộc | Bạch Hổ |
+| | ▅▅  ▅▅ Thê Tài Hợi thủy | ▅▅  ▅▅ Thê Tài Tý thủy | Đằng Xà |
+| | ▅▅  ▅▅ Huynh Đệ Sửu thổ | ▅▅  ▅▅ Huynh Đệ Tuất thổ | Câu Trần |
+| Ư | ▅▅  ▅▅ Quan Quỷ Mão mộc | ▅▅  ▅▅ Quan Quỷ Mão mộc | Chu Tước |
+| | ▅▅  ▅▅ Phụ Mẫu Tị hỏa | ▅▅  ▅▅ Phụ Mẫu Tị hỏa | Thanh Long |
+| | ▅▅  ▅▅ Huynh Đệ Mùi thổ | ▅▅  ▅▅ Huynh Đệ Mùi thổ | Huyền Vũ |
+
+THỔ Không Vong: Tuất, Hợi
+
+Đoán rằng: Xem về việc làm ăn cần xem hào Tài. Trong quẻ này, hào Tài gặp Nguyệt phá, tuy được hào Tử động sinh Tài, nhưng không sinh được. Lại thêm hào Thế và Tử Tôn biến Quỷ, không những việc kinh doanh không hy vọng, mà đến mùa
+
+![Sơ đồ quẻ Địa Thiên Thái biến Địa Phong Thăng](assets/page_0024_img_01.png)
+
+
+
+![Sơ đồ quẻ Khôn biến Bác](assets/page_0024_img_02.png) thu trong năm, con cái còn vướng vào kiện tụng. Quả nhiên đến tháng tám, con trai đánh bạc bị bắt giải lên quan, phạt trượng mà chết. Ấy là ứng với hào Tử Tôn Dậu kim biến Quỷ.
+
+**Hỏi:** Quẻ này Tử Tôn và hào Thế đồng thời hóa Quỷ, nếu có tai họa xuất hiện thì phải ứng cả hào Thế và Tử Tôn chứ, tại sao chỉ có Tử Tôn hóa Quỷ mà chết, mà hào Thế không chết?
+
+**Đáp:** Quẻ này Thế lâm Tử Tôn hóa Quỷ, Quỷ là kiện tụng, Tử Tôn là con cái, chính là bởi vì chuyện con cái mà gặp quan. Thông tin quẻ thể hiện chính là như vậy. Nhưng sau cùng ứng con trai ông ta bị trượng mà chết, là Tử Tôn Tuyệt tại mộc, mộc là Quỷ. Bản thân ông ta không chết, không thể dựa vào phân tích trong quẻ, có quẻ bản thân và con cái đồng thời đều ứng hung, có quẻ ứng bản thân, có quẻ chỉ ứng con cái. Loại ví dụ này có trong Tăng San.
+
+**Hỏi:** Quẻ này Thế lâm Tử Tôn hóa Quỷ, Quỷ là kiện tụng, Tử Tôn là con cái, chính là bởi vì con cái chuyện con cái??
+
+Hào Thế đã lâm Tử Tôn thì hào này có thông tin Tử Tôn, đồng thời cũng có thông tin bản thân hào Thế, tại sao quẻ này chỉ ứng Tử Tôn hóa Quỷ mà không ứng hào Thế hóa Quỷ? Ngoài ra, Dã Hạc đã sớm biết quẻ này chỉ ứng Tử Tôn mà không ứng hào Thế, ông ấy dựa vào góc độ nào mà rút ra được kết luận như vậy? Nếu như gặp lại quẻ như vậy, thì từ góc độ nào để đoán là ứng bản thân, hay là ứng con cái, hay là ứng bản thân và con cái đều hung?
+
+**Đáp:** Dã Hạc cũng chỉ phán đoán là bởi vì con cái mà có quan phi, hoàn toàn không đoán là con trai phải chết. Nhưng quẻ này Tử Tôn độc phát hóa Tuyệt, ứng chết. Dự đoán đôi khi cũng không thể hoàn toàn cứng nhắc về lý, phải có yếu tố linh cảm trong đó. Quẻ này nếu muốn xác định là bản thân hay là người khác thì có thể lấy hào biến chuyển đến trong quẻ, hào biến là Quỷ, trong quẻ lâm hào Ứng, Ứng là người khác, có thể hiểu là thông tin không tốt ứng trên người khác. Phương pháp phán đoán như vậy được gọi là biện hào pháp, gọi là biến động hào. Chỉ có như vậy mới có thể giải thích hợp lý.
+
+☯ Ngày Canh Tý tháng Sửu, xem có được chức quan hay không, được quẻ Thái biến Minh Di:
+
+| | Thái | | | Minh Di | | |
+| :---: | :---: | :--- | :---: | :---: | :--- | :--- |
+| Ư | -- -- | Tử Tôn Dậu kim | | -- -- | Tử Tôn Dậu kim | Đằng Xà |
+| | -- -- | Thê Tài Hợi thủy | | -- -- | Thê Tài Hợi thủy | Câu Trần |
+| | -- -- | Huynh Đệ Sửu thổ | | -- -- | Huynh Đệ Sửu thổ | Chu Tước |
+| T | —— | Huynh Đệ Thìn thổ | | —— | Thê Tài Hợi thủy | Thanh Long |
+| | —— | Quan Quỷ Dần mộc | Phụ-Tị | -- -- | Huynh Đệ Sửu thổ | Huyền Vũ |
+| | —— | Thê Tài Tý thủy | | —— | Quan Quỷ Mão mộc | Bạch Hổ |
+
+THỔ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Không Vong: Thìn, Tị
+
+Xem về quan tước, lấy hào Quan Quỷ làm Dụng thần. Quẻ này Thìn thổ trì Thế, Dần mộc Quan Quỷ khắc Thế. Hào Thế lại lâm Không, đến ngày Nhâm Dần sẽ được chức quan sai. Đến tháng ba năm sau thì chết ở dọc đường. Như vậy, không thể nhất loạt cho rằng hào Dụng khắc hào Thế chớ coi là hung.
+
+**Hỏi:** Lão sư, quẻ này là tạm thời được quan?
+
+**Đáp:** Quan vượng, Thế lâm Thanh Long, là có quan, nhưng Quan khắc Thế, Thế Không mà không được, Thìn thổ Không, xuất Không bị khắc mà hung.
+
+☯ Ngày Kỷ Dậu tháng Ngọ, xem về cầu tài, được quẻ Vị Tế biến Khuê:
+
+| | Vị Tế | | | Khuê | | |
+| :---: | :---: | :--- | :---: | :---: | :--- | :--- |
+| Ư | —— | Huynh Đệ Tị hỏa | | —— | Huynh Đệ Tị hỏa | Câu Trần |
+| | -- -- | Tử Tôn Mùi thổ | | -- -- | Tử Tôn Mùi thổ | Chu Tước |
+| | —— | Thê Tài Dậu kim | | —— | Thê Tài Dậu kim | Thanh Long |
+| T | -- -- | Huynh Đệ Ngọ hỏa | Quan-Hợi | -- -- | Tử Tôn Sửu thổ | Huyền Vũ |
+| | —— | Tử Tôn Thìn thổ | | —— | Phụ Mẫu Mão mộc | Bạch Hổ |
+| | -- -- | Phụ Mẫu Dần mộc | | —— | Huynh Đệ Tị hỏa | Đằng Xà |
+
+HỎA &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Không Vong: Dần, Mão
+
+Phàm là xem về cầu tài, tối kỵ Huynh Đệ trì Thế. Trong quẻ này, Kỵ thần nằm tại hào Thế, vốn chủ về không có tiền của. Nhưng may được hào Phụ Mẫu Dần mộc động mà sinh Thế, không gặp vàng bạc, cũng gặp được của cải. Cầu vàng bạc không được, ắt được của cải. Quả nhiên đến ngày Dần, có được các đồ vải lụa, cốc chén, sở dĩ ứng vào ngày Dần, vì đó là ngày hào Phụ Mẫu xuất Không.
+
+![Quẻ Thái biến Minh Di](assets/page_0026_img_01.png)
+
+
+
+![Quẻ Vị Tế biến Khuê](assets/page_0026_img_02.png)
+
+**Hỏi:** Quẻ này Tài mặc dù lâm Nhật, nhưng Huynh Đệ trì Thế, Dần mộc độc phát Tuyệt Dụng thần, sao có thể có tài?
+
+**Đáp:** Quẻ này nếu theo hào Tài thì không được, nhưng Phụ Mẫu độc phát sinh Thế, tất có chỗ được, vì vậy lấy Phụ Mẫu là chỗ được.
+
+**Hỏi:** Quẻ này theo lý ngũ hành sinh khắc thì có thể được tài, mà thầy nói quẻ độc phát lấy tượng làm chủ, hào độc phát này là Tuyệt địa của Tài, theo đó thì phải là không được tài chứ, tôi cảm thấy rất mâu thuẫn, xin thầy chỉ giáo!
+
+**Đáp:** Độc phát là lấy tượng làm chủ, nhưng tôi không nói là vứt bỏ ngũ hành sinh khắc, quẻ này Phụ Mẫu sinh Thế, hào Tài lâm Nhật, độc phát sinh Thế, tôi đoán là chắc chắn có lợi, do đó phải xem là ứng với chuyện gì.
+
+☯ Ngày Canh Dần tháng Mùi, xem về vận làm quan, được quẻ Cách biến Ký Tế:
+
+| Thế/Ứng | Cách | Phục thần | Ký Tế | Lục thú |
+| :---: | :--- | :---: | :--- | :--- |
+| | ▅▅ ▅▅ Quan Quỷ Mùi thổ | | ▅▅ ▅▅ Huynh Đệ Tý thủy | Đằng Xà |
+| | ▅▅▅▅▅ Phụ Mẫu Dậu kim | | ▅▅▅▅▅ Quan Quỷ Tuất thổ | Câu Trần |
+| T | ▅▅▅▅▅ Huynh Đệ Hợi thủy | | ▅▅ ▅▅ Phụ Mẫu Thân kim | Chu Tước |
+| | ▅▅▅▅▅ Huynh Đệ Hợi thủy | Tài-Ngọ | ▅▅▅▅▅ Huynh Đệ Hợi thủy | Thanh Long |
+| | ▅▅ ▅▅ Quan Quỷ Sửu thổ | | ▅▅ ▅▅ Quan Quỷ Sửu thổ | Huyền Vũ |
+| Ư | ▅▅▅▅▅ Tử Tôn Mão mộc | | ▅▅▅▅▅ Tử Tôn Mão mộc | Bạch Hổ |
+
+Đoán rằng: Hào Thế tại Hợi thủy, năm nay Thái Tuế ở Tý, nên được Thái Tuế nâng đỡ. Hào 5 là Dậu kim tuy không động nhưng cũng có ý sinh hào Thế. Hào Thế động hóa hồi đầu sinh, lại được Nhật thần (Dần) tương hợp. Hào 6 Mùi thổ là Quan tinh, đang đắc vị (là Nguyệt kiến), nên đường hoạn lộ thênh thang, thuận buồm xuôi gió. Nhưng Huynh Đệ trì Thế, hào Tài phục dưới Hợi thủy lại bị khắc, nên quẻ không được trọn vẹn.
+
+Người này bèn hỏi: "Ngày sau sẽ ra sao?" Ta đáp rằng: "Nên đề phòng năm Tị, Thái Tuế xung Hợi, hình Thân, không những không được thăng chức vinh quy, mà còn mất mát sạch không." Quả nhiên đến năm Tị bị luận tội, nghiệp quan chấm dứt. Ấy là do hào Thế gặp hợp bị ràng buộc, trước mắt vẫn không có gì đáng ngại, nhưng đến năm tháng xung khai, việc hung sẽ đến.
+
+**Hỏi:** Trong sách lấy Thế làm Dụng, tại sao không lấy Quan làm Dụng? Trong quẻ Dụng thần lưỡng hiện đều bị thương, chọn Dụng thần như thế nào? Trong sách nói hào 5 có ý sinh Thế. Hào tĩnh có thể sinh hào động à?
+
+**Đáp:** Quẻ này Thế lâm Chu Tước độc phát, hóa văn thư quay lại sinh, xem quẻ cần linh hoạt, tình huống cá biệt không câu nệ Dụng thần. Bởi vì Phụ Mẫu là tin mừng, cũng là lệnh trạng.
+
+![Sơ đồ quẻ Cách biến Ký Tế](assets/page_0027_img_01.png)
+
+**Hỏi:** Xin hỏi Vương lão sư, tình huống nào không câu nệ Dụng thần? Ngoài ra hào tĩnh có thể sinh hào động hay không?
+
+**Đáp:** Về tình huống không câu nệ hào Dụng thì phải xem quẻ có biến hóa không, không có công thức cụ thể. Thông thường hào tĩnh không thể sinh khắc hào động.
+
+☯ Ngày Mậu Thìn tháng Mùi, xem niên vận, được quẻ Phục biến Khiêm:
+
+| Thế/Ứng | Phục | Phục thần | Khiêm | Lục thú |
+| :---: | :--- | :---: | :--- | :--- |
+| | ▅▅ ▅▅ Tử Tôn Dậu kim | | ▅▅ ▅▅ Tử Tôn Dậu kim | Chu Tước |
+| | ▅▅ ▅▅ Thê Tài Hợi thủy | | ▅▅ ▅▅ Thê Tài Hợi thủy | Thanh Long |
+| Ư | ▅▅ ▅▅ Huynh Đệ Sửu thổ | | ▅▅ ▅▅ Huynh Đệ Sửu thổ | Huyền Vũ |
+| | ▅▅ ▅▅ Huynh Đệ Thìn thổ | | ▅▅▅▅▅ Tử Tôn Thân kim | Bạch Hổ |
+| | ▅▅ ▅▅ Quan Quỷ Dần mộc | Phụ-Tị | ▅▅ ▅▅ Phụ Mẫu Ngọ hỏa | Đằng Xà |
+| T | ▅▅▅▅▅ Thê Tài Tý thủy | | ▅▅ ▅▅ Huynh Đệ Thìn thổ | Câu Trần |
+
+THỔ Không Vong: Tuất, Hợi
+
+Đoán rằng: Hào Thế tại Tý thủy, tuy có Thân, Tý, Thìn hình thành tam hợp thủy cục, nhưng hiềm vì có Nhật thần Thìn thổ, Nguyệt kiến Mùi thổ khắc Thế. Hào Thế động hóa Thìn thổ, là hóa Mộ, cũng là hóa hồi đầu khắc, lại thêm hào động Thìn thổ tương khắc, như vậy là hào Thế hưu tù vô khí. Năm Mão xem quẻ, đến năm Ngọ thì chết, ứng vào năm Ngọ, vì là năm hào Thế gặp Tuế phá. Trong quẻ này, hào Thế nhập Mộ, nhưng sao có thể cho là "người trong Mộ không xung không phát"?
+
+**Hỏi:** Tam hợp cục sao lại nói hào động khắc Thế. Dụng thần nhập Mộ?
+
+**Đáp:** Đây không phải là tam hợp đúng chuẩn, huống hồ lý tượng trong quẻ rắc rối, cùng tồn tại song song.
+
+**Hỏi:** Xin hỏi Vương lão sư, tam hợp cục đúng chuẩn là gì? Khi ứng dụng thực tế có gì khác nhau?
+
+**Đáp:** Tam hợp cục đúng chuẩn có trình bày trong sách. Khi sử dụng, ba địa chi coi như một ngũ hành.
+
+**Hỏi:** Quẻ này hào sơ Tý thủy hóa Thìn thổ, hào 3 Thìn thổ hóa Thân kim, có thể coi là cách sơn hóa hào Tý thủy hóa Thân kim hay không?
+
+**Đáp:** Cách sơn hóa hào thông thường là nói cho Dụng thần. Trong quẻ hiếm khi có một quy luật nào đó độc lập tồn tại, tất cả đều đan xen lẫn nhau, trong âm có dương, trong dương có âm, vì vậy lý tượng cũng tồn tại đồng thời.
+
+![Sơ đồ quẻ Phục biến Khiêm](assets/page_0028_img_01.png)
+
+☯ Ngày Giáp Ngọ Tháng Ngọ, xem bị thuyên chuyển đi nơi nào, được Địa Trạch Lâm biến Thủy Trạch Tiết.
+
+| | Lâm | | Tiết | | |
+| :---: | :---: | :--- | :---: | :--- | :--- |
+| | ▅▅ ▅▅ | Tử Tôn Dậu Kim | ▅▅ ▅▅ | Thê Tài Tý thủy | Huyền Vũ |
+| Ư | ▅▅ ▅▅ | Thê Tài Hợi Thủy | ▅▅▅▅▅ | Huynh Đệ Tuất thổ | Bạch Hổ |
+| | ▅▅ ▅▅ | Huynh Đệ Sửu Thổ | ▅▅ ▅▅ | Tử Tôn Thân kim | Đằng Xà |
+| | ▅▅ ▅▅ | Huynh Đệ Sửu Thổ | ▅▅ ▅▅ | Huynh Đệ Sửu thổ | Câu Trần |
+| T | ▅▅▅▅▅ | Quan Quỷ Mão Mộc | ▅▅▅▅▅ | Quan Quỷ Mão mộc | Chu Tước |
+| | ▅▅▅▅▅ | Phụ Mẫu Tị Hỏa | ▅▅▅▅▅ | Phụ Mẫu Tị hỏa | Thanh Long |
+
+THỔ Không Vong:
+
+Hào Tài Hợi thủy hóa Tuất thổ hồi đầu khắc, không chỉ khó đến được nơi nhậm chức, mà còn phải đề phòng mùa thu sẽ gặp tai ương.
+
+**Hỏi:** hào Tài Hợi thủy bị hồi đầu khắc, không thể sinh Mão mộc, nhưng vì sao nói đề phòng mùa thu nguy hiểm, tháng 7 chết? Xin thầy nói nguyên lý ở chỗ nào?
+
+**Đáp:** Tháng 7 hào Thế lâm Tuyệt bị khắc.
+
+☯ Ngày Ất Dậu tháng Mão, một bà cụ xem cháu trai bị lạc ngày nào có thể tìm lại được? Được Hoán biến Tốn.
+
+| | Hoán | | | Tốn | | |
+| :---: | :---: | :--- | :---: | :---: | :--- | :--- |
+| | ▅▅▅▅▅ | Phụ Mẫu Mão mộc | | ▅▅▅▅▅ | Phụ Mẫu Mão mộc | Huyền Vũ |
+| T | ▅▅▅▅▅ | Huynh Đệ Tị hỏa | | ▅▅▅▅▅ | Huynh Đệ Tị hỏa | Bạch Hổ |
+| | ▅▅ ▅▅ | Tử Tôn Mùi thổ | Tài-Dậu | ▅▅ ▅▅ | Tử Tôn Mùi thổ | Đằng Xà |
+| | ▅▅ ▅▅ | Huynh Đệ Ngọ hỏa | Quan-Hợi | ▅▅▅▅▅ | Thê Tài Dậu kim | Câu Trần |
+| Ư | ▅▅▅▅▅ | Tử Tôn Thìn thổ | | ▅▅▅▅▅ | Quan Quỷ Hợi thủy | Chu Tước |
+| | ▅▅ ▅▅ | Phụ Mẫu Dần mộc | | ▅▅ ▅▅ | Tử Tôn Sửu thổ | Thanh Long |
+
+HỎA Không Vong: Ngọ, Mùi
+
+Lấy Tử Tôn làm Dụng thần, Tử Tôn lưỡng hiện, lấy Mùi thổ Không Vong làm Dụng. Nguyệt kiến khắc, hào 6 Mão mộc ám động lại khắc, không cát. Chỗ hy vọng là Nguyên thần ngọ phát động, hào 6 Mão mộc tham sinh quên khắc, ngày Ngọ xuất Không có thể tìm được.
+
+Ngày Ngọ xuất Không, đã tìm thấy cháu, nhưng lại là thi thể.
+
+**Hỏi:** Quẻ này cháu chết có phải vì Nguyên thần Không Vong?
+
+![Sơ đồ quẻ Địa Trạch Lâm biến Thủy Trạch Tiết](assets/page_0029_img_01.png)
+
+
+
+![Sơ đồ quẻ Phong Thủy Hoán biến Phong Tốn](assets/page_0029_img_02.png)
+
+**Đáp:** Bản thân Dụng thần không có khí, Nguyên thần Không không thể dẫn hóa, vì vậy chết.
+
+**Hỏi:** Xin hỏi, cái gì là dẫn hóa?
+
+**Đáp:** Kỵ thần ám động, Nguyên thần động tạo thành liên tục tương sinh chính là dẫn hóa.
+
+**Hỏi:** Xem ra xem sinh vật, đồ vật và sự việc có sự khác nhau. Có đúng vậy không, Vương lão sư?
+
+**Đáp:** Đương nhiên khác nhau, động vật xem Tử Tôn, đồ vật xem Tài, quần áo xe thuyền xem Phụ Mẫu,...
+
+**Hỏi:** Lão sư, chẳng phải động không là Không, vượng không là Không? Lúc điền thực tại sao không thể dẫn hóa?
+
+**Đáp:** Nhưng cũng phải xem Dụng thần bản thân nữa. Nếu Ngọ hỏa này bất động, sợ là ngay cả xác chết cũng không tìm được.
+
+☯ Ngày Mậu Dần tháng Tý, xem về quan chức, được quẻ Khốn biến Đoài:
+
+| | Khốn | | Đoài | | |
+| :---: | :---: | :--- | :---: | :--- | :--- |
+| | ▅▅ ▅▅ | Phụ Mẫu Mùi thổ | ▅▅ ▅▅ | Phụ Mẫu Mùi thổ | Chu Tước |
+| | ▅▅▅▅▅ | Huynh Đệ Dậu kim | ▅▅▅▅▅ | Huynh Đệ Dậu kim | Thanh Long |
+| Ư | ▅▅▅▅▅ | Tử Tôn Hợi thủy | ▅▅▅▅▅ | Tử Tôn Hợi thủy | Huyền Vũ |
+| | ▅▅ ▅▅ | Quan Quỷ Ngọ hỏa | ▅▅ ▅▅ | Phụ Mẫu Sửu thổ | Bạch Hổ |
+| | ▅▅▅▅▅ | Phụ Mẫu Thìn thổ | ▅▅▅▅▅ | Thê Tài Mão mộc | Đằng Xà |
+| T | ▅▅ ▅▅ | Thê Tài Dần mộc | ▅▅▅▅▅ | Quan Quỷ Tị hỏa | Câu Trần |
+
+KIM Không Vong:
+
+Sách đó đoán rằng: Phi thần tại hào Quan Ngọ hỏa, gặp Nguyệt phá. Phục thần là Tị hỏa Quan Quỷ phục tại Dần, gặp Trường Sinh tại Dần, đến tháng mạnh xuân (tháng giêng) sẽ được thăng chức. Nhưng theo phương pháp suy đoán của ta, như "Hoàng kim sách" đã viết: Hào Phi và hào biến đều không có Dụng thần mới cần tìm Phục thần. Trong quẻ này, hào sơ là Dần mộc động biến thành Tị hỏa là Quan tinh. Tháng Dần thì Quan tinh gặp Trường Sinh. Trong quẻ đã có hào Tài động mà sinh Quan, tại sao không dùng hào biến Quan tinh, mà lại phải đi tìm Phục thần? Cũng may trong quẻ này, Phục thần và hào biến đều là Tị hỏa. Nếu người sau gặp quẻ khác, thì biết nên dùng hào biến hay Phục thần? Bởi vậy, không thể coi đây là phương pháp để lưu truyền hậu thế, dạy dỗ người sau.
+
+**Hỏi:** Xem quan lấy Quan làm Dụng, trong quẻ Quan Quỷ Ngọ hỏa hiển hiện. Tại sao trong sách lại tìm Phục thần, lại xem hào biến. Không hiểu ý nghĩa ở đây là gì?
+
+![Sơ đồ quẻ Trạch Thủy Khốn biến Bát Thuần Đoài](assets/page_0030_img_01.png)
+
+**Đáp:** Anh không xem kỹ à, tìm Phục thần là không đúng và đã bị Dã Hạc phê bình. Thiên cơ tại hào động, Thế động hóa Quan mà gặp Quan, cái này quan trọng hơn Quan trong quẻ.
+
+☯ Ngày Tân Mùi tháng Dậu, xem về tài phúc suốt đời, được quẻ Di:
+
+### Di
+
+| Thế/Ứng | Hào | Quẻ Di | Phục thần | Lục thú |
+| :---: | :---: | :--- | :---: | :--- |
+| | ▅▅▅▅▅ | Huynh Đệ Dần mộc | | Đằng Xà |
+| | ▅▅  ▅▅ | Phụ Mẫu Tý thủy | Tử-Tị | Câu Trần |
+| T | ▅▅  ▅▅ | Thê Tài Tuất thổ | | Chu Tước |
+| | ▅▅  ▅▅ | Thê Tài Thìn thổ | Quan-Dậu | Thanh Long |
+| | ▅▅  ▅▅ | Huynh Đệ Dần mộc | | Huyền Vũ |
+| Ư | ▅▅▅▅▅ | Phụ Mẫu Tý thủy | | Bạch Hổ |
+
+MỘC Không Vong: Tuất, Hợi
+
+Sách nói: Tài trì Thế tuy có ngày Mùi phù củng, nhưng không nên Tuần Không, quẻ vô hỏa sinh trợ, chẳng làm nên trò trống gì!
+
+**Hỏi:** Nếu là tháng Mùi ngày Dậu ( Tuất Hợi Không Vong) thì có thành tựu gì hay không? Nhật Nguyệt ở đây có khác biệt gì không?
+
+**Đáp:** Nhật Nguyệt biến hóa, đương nhiên có sự khác biệt, nhưng chỉ dựa vào Thế Không mà phán đoán không có thành tựu thì cũng không đúng, cần xem Tài Quan..., chủ yếu là Tài, bởi vì Tài là nguồn dưỡng mệnh. Không có tiền sinh hoạt phát triển thì tương đối gian nan, hơn nữa phải Nguyên thần có khí mới được.
+
+☯ Ngày Bính Dần tháng Mão, xem về tuổi thọ của bà, được quẻ Trung Phu:
+
+### Trung Phu
+
+| Thế/Ứng | Hào | Quẻ Trung Phu | Phục thần | Lục thú |
+| :---: | :---: | :--- | :---: | :--- |
+| | ▅▅▅▅▅ | Quan Quỷ Mão mộc | | Thanh Long |
+| | ▅▅▅▅▅ | Phụ Mẫu Tị hỏa | Tài-Tý | Huyền Vũ |
+| T | ▅▅  ▅▅ | Huynh Đệ Mùi thổ | | Bạch Hổ |
+| | ▅▅  ▅▅ | Huynh Đệ Sửu thổ | Tử-Thân | Đằng Xà |
+| | ▅▅▅▅▅ | Quan Quỷ Mão mộc | | Câu Trần |
+| Ư | ▅▅▅▅▅ | Phụ Mẫu Tị hỏa | | Chu Tước |
+
+THỔ Không Vong: Tuất, Hợi
+
+Sách đoán rằng: Hào Tị hỏa Phụ Mẫu, được Nhật thần, Nguyệt kiến tương sinh, nên hưởng đại thọ. Về sau hưởng thọ thêm 14 năm.
+
+![Sơ đồ quẻ Di](assets/page_0031_img_01.png)
+
+
+
+![Sơ đồ quẻ Trung Phu](assets/page_0031_img_02.png)
+
+**Hỏi:** Phụ Mẫu lưỡng hiện, Nguyên thần lâm Nhật Nguyệt, trong quẻ còn có hai Mão mộc. Xin hỏi Dụng thần Phụ Mẫu này tại sao không là quá vượng?
+
+**Đáp:** Đây là xem tuổi thọ, không phải là hỏi cát hung, chỉ khi hỏi cát hung mà xuất hiện quẻ quá vượng thì mới xem như vậy. Nếu như mẹ bị bệnh mà hỏi kết quả thế nào thì đoán là không sống lâu.
+
+☯ Giác Tử nói: Mặc dù Tử Tôn trì Thế, khó là điềm lành, nếu gặp Nguyệt phá, thì phải ra khỏi tháng mới tránh được lo âu. Nếu Thế lâm Không, đợi sang tuần xuất Không mới hết tai họa. Khi chưa xuất Không thì vẫn còn phải lo lắng không yên.
+
+Ví dụ: Ngày Canh Thìn tháng Tị, xem về đề phòng tai họa, được quẻ Quải:
+
+### Quải
+
+| Thế/Ứng | Hào | Quẻ Quải | Phục thần | Lục thú |
+| :---: | :---: | :--- | :---: | :--- |
+| | ▅▅  ▅▅ | Huynh Đệ Mùi thổ | | Đằng Xà |
+| T | ▅▅▅▅▅ | Tử Tôn Dậu kim | | Câu Trần |
+| | ▅▅▅▅▅ | Thê Tài Hợi thủy | | Chu Tước |
+| | ▅▅▅▅▅ | Huynh Đệ Thìn thổ | | Thanh Long |
+| Ư | ▅▅▅▅▅ | Quan Quỷ Dần mộc | Phụ-Tị | Huyền Vũ |
+| | ▅▅▅▅▅ | Thê Tài Tý thủy | | Bạch Hổ |
+
+THỔ Không Vong: Thân, Dậu
+
+Hào Thế ở Tử Tôn gặp Tuần Không, nên sự việc lo âu vẫn chưa kết thúc, nên còn phải lo lắng không yên.
+
+Lại đến ngày Ất Dậu, xem được quẻ Vô Vọng:
+
+### Vô Vọng
+
+| Thế/Ứng | Hào | Quẻ Vô Vọng | Lục thú |
+| :---: | :---: | :--- | :--- |
+| | ▅▅▅▅▅ | Thê Tài Tuất thổ | Huyền Vũ |
+| | ▅▅▅▅▅ | Quan Quỷ Thân kim | Bạch Hổ |
+| T | ▅▅▅▅▅ | Tử Tôn Ngọ hỏa | Đằng Xà |
+| | ▅▅  ▅▅ | Thê Tài Thìn thổ | Câu Trần |
+| | ▅▅  ▅▅ | Huynh Đệ Dần mộc | Chu Tước |
+| Ư | ▅▅▅▅▅ | Phụ Mẫu Tý thủy | Thanh Long |
+
+MỘC Không Vong: Ngọ, Mùi
+
+Hào Thế tại Ngọ hỏa Tử Tôn, lại gặp Tuần Không, nên sự việc còn trăn trở chưa kết thúc.
+
+Đến ngày Kỷ Dậu, lại xem, được quẻ Tiết biến Khảm:
+
+![Sơ đồ quẻ Quải](assets/page_0032_img_01.png)
+
+
+
+![Sơ đồ quẻ Vô Vọng](assets/page_0032_img_02.png)
+
+| | Tiết | | | | Khảm | | | |
+| :---: | :---: | :--- | :--- | :---: | :---: | :--- | :--- | :--- |
+| | - - | Huynh Đệ | Tý thủy | | - - | Huynh Đệ | Tý thủy | Câu Trần |
+| | — | Quan Quỷ | Tuất thổ | | — | Quan Quỷ | Tuất thổ | Chu Tước |
+| Ư | - - | Phụ Mẫu | Thân kim | | - - | Phụ Mẫu | Thân kim | Thanh Long |
+| | - - | Quan Quỷ | Sửu thổ | Tài-Ngọ | - - | Thê Tài | Ngọ hỏa | Huyền Vũ |
+| | — | Tử Tôn | Mão mộc | | — | Quan Quỷ | Thìn thổ | Bạch Hổ |
+| T | — | Thê Tài | Tị hỏa | | - - | Tử Tôn | Dần mộc | Đằng Xà |
+
+THỦY Không Vong: Dần, Mão
+
+Ta đoán rằng: "Đến ngày Giáp Dần sự việc sẽ kết thúc." Người xem hỏi nguyên nhân, ta bèn đáp: "Hào Thế Tị hỏa động biến ra Tử Tôn Dần mộc, nhưng Dần lâm Không, may nhờ quẻ biến lục xung, nên sự việc sẽ kết thúc." Quả nhiên sự việc được giải quyết vào ngày Giáp Dần.
+
+**Hỏi:** "Giác Tử nói: Mặc dù Tử Tôn trì Thế, khó là điềm lành..." Câu này biểu đạt ý nghĩa gì? Tử Tôn trì Thế không cát? Hay là Tử Tôn trì Thế tuy là cát, nhưng cũng có quẻ không tốt?
+
+**Đáp:** Đây là nói không thể chỉ dựa vào Tử Tôn trì Thế thì đoán không lo âu, còn phải xem tình hình Không, Phá, suy, vượng,... Thông thường Thế Không, hoặc lâm Đằng Xà đều là thông tin lo âu, cho dù là Tử Tôn hay lục thân khác đều có thể dựa vào Không lâm Xà để phán đoán có phiền não. Ý nghĩa của Tử Tôn là không lo lắng, vui vẻ, bị khắc Không Phá thì trái lại là phiền não.
+
+**Hỏi:** Quẻ thứ hai và quẻ thứ ba giống nhau, cũng là lục xung, Thế Không, tại sao quẻ thứ hai lại đoán sự việc chưa kết thúc? Chẳng lẽ quẻ thứ ba giải thích không đầy đủ?
+
+**Đáp:** Bởi vì dự trắc sư không nắm bắt được nên mới bảo người ta gieo liên tiếp ba quẻ. Một quẻ là có thể phán đoán, không cần phải gieo thêm quẻ thứ hai. Quẻ thứ nhất không những là Tử Tôn Không mà còn bị hợp không thể khắc mất Quan Quỷ, nhất định là kéo dài thời gian. Có thể ứng ngày Dần, Thế được Trường Sinh xung mất Quan Quỷ, nhưng dự trắc sư không dám đoán như vậy.
+
+![Quẻ Tiết biến Khảm](assets/page_0033_img_01.png)
+
+☯ Ngày Đinh Mão tháng Dần, xem về lưu niên, được quẻ Phệ Hạp biến Khuê:
+
+| | Phệ Hạp | | | | Khuê | | | |
+| :---: | :---: | :--- | :--- | :---: | :---: | :--- | :--- | :--- |
+| | — | Tử Tôn | Tị hỏa | | — | Tử Tôn | Tị hỏa | Thanh Long |
+| T | - - | Thê Tài | Mùi thổ | | - - | Thê Tài | Mùi thổ | Huyền Vũ |
+| | — | Quan Quỷ | Dậu kim | | — | Quan Quỷ | Dậu kim | Bạch Hổ |
+| | - - | Thê Tài | Thìn thổ | | - - | Thê Tài | Sửu thổ | Đằng Xà |
+| Ư | - - | Huynh Đệ | Dần mộc | | — | Huynh Đệ | Mão mộc | Câu Trần |
+| | — | Phụ Mẫu | Tý thủy | | — | Tử Tôn | Tị hỏa | Chu Tước |
+
+MỘC Không Vong: Tuất, Hợi
+
+Ta đoán rằng: "Mùa thu năm nay ắt gặp nguy hiểm. Hào Dần mộc động lâm Nguyệt kiến hóa Tiến thần khắc Thế, lúc này là thời điểm mộc đang thịnh, nên chưa bị khắc hại. Tháng sáu (Mùi) và bảy (Thân) là lúc mộc gặp Mộ, Tuyệt, nên đề phòng tai ách về thổ mộc." Người xem hỏi: "Liệu có tránh được không?" Ta đáp: "Nên đi ra ngoài, sẽ tránh được." Người này lại hỏi: "Đi về phương nào thì tốt?" Ta đáp: "Bây giờ nên đi về hướng tây, sang tháng sáu tháng bảy, hãy đi về phía đông, vì tháng sáu tháng bảy mộc suy nhược, nên đi về hướng đông Chấn mộc."
+
+Nhưng người này không ra khỏi nhà, cho đến ngày 7 tháng bảy, mơ thấy ác mộng, sang mồng 8 liền đi về hướng đông. Đến ngày 28 có động đất, nhà sập, mọi người đều bị thương, chỉ có người này tránh được.
+
+**Hỏi:** Đoán mùa thu ắt gặp nguy hiểm. Tại sao ứng kỳ là tháng 6 và tháng 7? Thông thường động gặp Trị, gặp Hợp.
+
+Ngày Bính Tý tháng Mùi, xem kẻ nô bộc có gây họa hay không, được quẻ Giải biến Chấn:
+
+| | Giải | | | | Chấn | | | |
+| :---: | :---: | :--- | :--- | :---: | :---: | :--- | :--- | :--- |
+| | - - | Thê Tài | Tuất thổ | | - - | Thê Tài | Tuất thổ | Thanh Long |
+| Ư | - - | Quan Quỷ | Thân kim | | - - | Quan Quỷ | Thân kim | Huyền Vũ |
+| | — | Tử Tôn | Ngọ hỏa | | — | Tử Tôn | Ngọ hỏa | Bạch Hổ |
+| | - - | Tử Tôn | Ngọ hỏa | | - - | Thê Tài | Thìn thổ | Đằng Xà |
+| T | — | Thê Tài | Thìn thổ | | - - | Huynh Đệ | Dần mộc | Câu Trần |
+| | - - | Huynh Đệ | Dần mộc | Phụ-Tý | — | Phụ Mẫu | Tý thủy | Chu Tước |
+
+Người xem biết có kẻ nô bộc thay lòng đổi dạ, muốn xử tội mà không có chứng cứ, nên mới đến xem quẻ. Trong quẻ này, nếu lấy hào Tài làm nô bộc để suy đoán là sai lầm, vì người xem có ý phòng ngừa lo lắng, nên chỉ xem Kỵ thần. Quẻ này hào Thế tại Thìn thổ, bị hai hào Dần mộc khắc thương, nên đoán rằng: "Không chỉ có
+
+![Quẻ Phệ Hạp biến Khuê](assets/page_0034_img_01.png)
+
+
+
+![Quẻ Giải biến Chấn](assets/page_0034_img_02.png) người này, mà còn có đồng phạm khác." Người xem bèn hỏi: "Phải xử trí ra sao?" Ta nói: "Không có chứng cứ cụ thể, làm sao xử trí được! Nhưng mộc gặp Mộ tại tháng Mùi, gặp Tuyệt tại tháng Thân, nên chúng sẽ phải bại lộ vào hai tháng đó, ông nên đi ra khỏi nhà để tránh tai họa."
+
+Người này nghe theo kế của ta, bỏ ra ngoài ở nửa tháng, thì hai nô bộc bỏ trốn, có một người đàn bà bỏ đi theo. Hỏi người đàn bà không bỏ đi, thì đáp: "Hai người kia có ý muốn hại chủ rồi bỏ trốn, do chủ nhà bỏ ra ngoài, nên không hại được."
+
+Đó chẳng phải là phép tránh dữ hay sao?
+
+Quẻ này giống với quẻ trên, ứng kỳ cũng là tháng 6 và tháng 7.
+
+**Đáp:** Tình huống của hai quẻ này khác nhau. Quẻ thứ nhất là bởi vì Kỵ thần quá vượng, khi nhập Mộ hoặc bị khắc mới khởi tác dụng, vì vậy ứng tháng Mùi nhập Mộ hoặc tháng Thân xung khắc Huynh Đệ. Đây gọi là "thái quá giả tổn chi tư thành" (thái quá thì giảm bớt đi sẽ thành). Quẻ tương tự như vậy cũng có trong sách của tôi. Khi Dụng thần quá vượng, lại được sinh trợ mà chết, bị khắc trái lại là cát, nếu là Kỵ thần quá vượng, khi Kỵ vượng là bình an, khi hưu tù thì hung.
+
+Quẻ thứ hai, cái khắc Thế chính là nô bộc sắp làm hại mình. Huynh Đệ khắc Thế, nhưng khi Huynh Đệ bị khắc hoặc nhập Mộ thì chính là lúc chúng nó lộ diện hoặc là dễ dàng nắm được điểm sơ hở của chúng nó. Vì vậy cũng ứng tháng Mùi hoặc tháng Thân.
+
+☯ Ngày Nhâm Dần tháng Mão, xem đòi nợ có được không, được quẻ Ích biến Trung Phu:
+
+| | | Ích | Phục thần | | Trung Phu | Lục thú |
+| :---: | :---: | :--- | :---: | :---: | :--- | :--- |
+| Ư | — | Huynh Đệ Mão mộc | | — | Huynh Đệ Mão mộc | Bạch Hổ |
+| | — | Tử Tôn Tị hỏa | | — | Tử Tôn Tị hỏa | Đằng Xà |
+| | - - | Thê Tài Mùi thổ | | - - | Thê Tài Mùi thổ | Câu Trần |
+| T | - - | Thê Tài Thìn thổ | Quan-Dậu | - - | Thê Tài Sửu thổ | Chu Tước |
+| | - - | Huynh Đệ Dần mộc | | — | Huynh Đệ Mão mộc | Thanh Long |
+| | — | Phụ Mẫu Tý thủy | | — | Tử Tôn Tị hỏa | Huyền Vũ |
+
+MỘC  
+Không Vong: Thìn, Tị
+
+Người này muốn qua sông đòi nợ, do đã đòi nhiều lần mà chưa được, nên muốn làm ầm ĩ sự việc lên. Nay đến xem có đòi được nợ không?
+
+Ta xem quẻ này, thấy Nhật thần Dần động hóa Tiến thần khắc Thế, mà hào Thế lâm Không, đến giờ Thìn sẽ xuất Không bị Nhật thần, Nguyệt kiến cùng hào động tương khắc, ắt sẽ có tai họa chết người. Nên giữ anh ta lại ăn sáng, đợi quá giờ Thìn rồi đi cũng chưa muộn. Anh ta rất muốn đi ngay, nhưng ta nhất quyết giữ lại. Đến khi
+
+![Sơ đồ quẻ Ích biến Trung Phu](assets/page_0035_img_01.png) ăn cơm xong, anh ta đến bên bờ sông, rồi vội vàng quay trở về tạ ơn cứu mạng. Ta hỏi: "Có chuyện gì vậy?" Anh ta đáp: "Sáng nay có bốn chiếc thuyền lớn sang sông, đến giữa dòng bỗng nhiên gió lớn nổi lên, các thuyền đều bị lật chìm, lúc này xác chết đầy sông. Nếu không nhờ ông kiên quyết giữ lại, chắc mạng này cũng hết rồi."
+
+**Hỏi:** Quẻ này Nhật, Nguyệt, động, biến đều là Huynh Đệ, lại Huynh Đệ đa hiện, lại động mà hóa Tiến thần, không phải là quá vượng à?
+
+Căn cứ để đoán người đó gặp hung có phải là Kỵ thần độc phát hay không? Qua quẻ này có thể rút ra Kỵ thần độc phát lấy tượng làm chủ, chứ không luận quá vượng?
+
+**Đáp:** Ở đây, mấu chốt tại hào Thế Không, nếu Thế bất Không, thì trái lại không sao. Kỵ thần lâm Nhật động hóa tiến, hôm đó có nguy hiểm, giờ Thìn xuất Không, vì vậy ứng giờ Thìn. Dã Hạc đã nhìn thấu điểm này cho nên mới giữ người kia lại, nếu không thì giờ Thìn là xuất Không bị khắc chết ngay. Đây chính là mục đích và công dụng của dự đoán.
+
+☯ Ngày Đinh Mùi tháng Tị, xem vợ chồng có được chung sống đến bạc đầu không, được quẻ Vô Vọng biến Quan:
+
+| | | Vô Vọng | | Quan | Lục thú |
+| :---: | :---: | :--- | :---: | :--- | :--- |
+| | — | Thê Tài Tuất thổ | — | Huynh Đệ Mão mộc | Thanh Long |
+| | — | Quan Quỷ Thân kim | — | Tử Tôn Tị hỏa | Huyền Vũ |
+| T | — | Tử Tôn Ngọ hỏa | - - | Thê Tài Mùi thổ | Bạch Hổ |
+| | - - | Thê Tài Thìn thổ | - - | Huynh Đệ Mão mộc | Đằng Xà |
+| | - - | Huynh Đệ Dần mộc | - - | Tử Tôn Tị hỏa | Câu Trần |
+| Ư | — | Phụ Mẫu Tý thủy | - - | Thê Tài Mùi thổ | Chu Tước |
+
+MỘC  
+Không Vong: Dần, Mão
+
+Trong quẻ xuất hiện rất nhiều hào Tài, hào Thê Mùi thổ biến ra từ hào Thế tương hợp với Thế, nên hào Thê Tài Mùi thổ chỉ vợ chính, lâm Nhật thần, được Nguyệt kiến tương sinh, không những chung sống đến bạc đầu, mà còn hiền thục đức hạnh.
+
+Quả thực người này có đến mười mấy tỳ thiếp trẻ đẹp, nhưng vợ cả hiền thục không ghen tuông. Vợ chồng cùng tuổi, bà thọ 81 tuổi, ông thọ 85 tuổi.
+
+Quẻ này nếu căn cứ Thế Ứng tương xung tương khắc mà suy đoán, sẽ mắc sai lầm lớn.
+
+**Hỏi:** Ở đây vì sao phủ định nhân tố Thế Ứng tương xung tương khắc? Có phải vì nguyên nhân hào Ứng hưu tù hóa hồi đầu khắc không thể khắc Thế?
+
+![Sơ đồ quẻ Vô Vọng biến Quan](assets/page_0036_img_01.png)
+
+**Đáp:** Đoán quẻ cần phải linh hoạt, Thế Ứng không phải là mẫu chốt để xem vợ chồng, Tài mới là Dụng thần chủ yếu. Tài vượng, Thế và Tài hợp, Tài lại lâm Nhật, đây gọi là duyên trời tác hợp.
+
+☯ Ngày Mậu Thân tháng Mùi, xem về việc quân lương chậm trễ bị hạch tội, được quẻ Phong biến Lữ:
+
+| | Phong | | | | Lữ | | | | |
+|---|---|---|---|---|---|---|---|---|---|
+| | -- | Quan Quỷ | Tuất | thổ | — | Thê Tài | Tị | hỏa | Chu Tước |
+| T | -- | Phụ Mẫu | Thân | kim | -- | Quan Quỷ | Mùi | thổ | Thanh Long |
+| | — | Thê Tài | Ngọ | hỏa | — | Phụ Mẫu | Dậu | kim | Huyền Vũ |
+| | — | Huynh Đệ | Hợi | thủy | — | Phụ Mẫu | Thân | kim | Bạch Hổ |
+| Ư | -- | Quan Quỷ | Sửu | thổ | -- | Thê Tài | Ngọ | hỏa | Đằng Xà |
+| | — | Tử Tôn | Mão | mộc | -- | Quan Quỷ | Thìn | thổ | Câu Trần |
+
+THỦY &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Không Vong: Dần, Mão
+
+Đoán rằng: Hào Thế lâm Nhật thần, được Nguyệt kiến tương sinh, lại được hào Quan động tương sinh, chức vị không có gì đáng lo. Mọi người đều không tin. Nào ngờ sau đó, nhờ lập công lớn, nên công danh được bảo toàn.
+
+Có người hỏi rằng: "Hào Tử Tôn Mão mộc động, tại sao không khắc Quan? Ta đáp: "Mão mộc gặp Tuyệt ở Thân, nên không khắc nổi Quan vượng."
+
+Tân bình thích: Tử Tôn tham hợp quên khắc, lại bị Không Vong cũng là một trong những nguyên nhân không mất quan.
+
+**Hỏi:** Thầy nói Tử Mão và Quan Tuất là tham hợp quên khắc, tôi lại cho rằng đây là trong khắc có hợp?
+
+**Đáp:** Lý giải của anh cũng chấp nhận được, Quan bị hợp mà không thể sinh Thế, nhưng trong khắc Quan lại hóa ra Quan, đây là mất chỗ này mà được chỗ khác.
+
+![Quẻ Phong biến Lữ](assets/page_0037_img_01.png)
+
+☯ Ví dụ của Vương lão sư: Ngày Đinh Hợi tháng Hợi, một người xem xây dựng đập chứa nước có thể thuận lợi hoàn thành hay không? Được Khuê biến Đại Hữu.
+
+| | Khuê | | | | | Đại Hữu | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|
+| | — | Phụ Mẫu | Tị | hỏa | | — | Phụ Mẫu | Tị | hỏa | Thanh Long |
+| | -- | Huynh Đệ | Mùi | thổ | Tài-Tý | -- | Huynh Đệ | Mùi | thổ | Huyền Vũ |
+| T | — | Tử Tôn | Dậu | kim | | — | Tử Tôn | Dậu | kim | Bạch Hổ |
+| | -- | Huynh Đệ | Sửu | thổ | | — | Huynh Đệ | Thìn | thổ | Đằng Xà |
+| | — | Quan Quỷ | Mão | mộc | | — | Quan Quỷ | Dần | mộc | Câu Trần |
+| Ư | — | Phụ Mẫu | Tị | hỏa | | — | Thê Tài | Tý | thủy | Chu Tước |
+
+THỔ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Không Vong: Ngọ, Mùi
+
+Tử Tôn trì Thế, tuy không được Nhật Nguyệt sinh phù, nhưng Huynh Đệ Sửu thổ động mà sinh Thế, Quan Quỷ tĩnh mà không động, tất có thể thuận lợi hoàn thành. Quả như dự đoán.
+
+**Hỏi:** Ví dụ này, tuy Tử Tôn trì Thế, Huynh Đệ tuy sinh Thế, nhưng Thế cũng nhập Mộ ở Huynh Đệ, vả lại một hào độc phát, là Mộ địa của Thế cũng không cát. Lại xem công trình, Huynh Đệ động phải có trở ngại mới đúng chứ, sao có thể đoán là "thuận lợi hoàn thành"?
+
+**Đáp:** Khi phán đoán cần phải xem tư duy và góc độ của người hỏi quẻ, người này sợ xảy ra vấn đề về chất lượng, hoặc giữa chừng xuất hiện công nhân tử vong, vì vậy là lo lắng mà hỏi. Gặp tình huống như vậy thì phải xem tác dụng của hào động ra sao, Huynh Đệ động mà sinh Thế là bạn bè giúp đỡ, Mộ khố cũng là bạn bè chủ sự, bị bạn bè kiềm chế. Bởi vì người này nhận thầu công trình cho bạn của anh ta, rất sợ xảy ra vấn đề không tốt mà mất chức vụ. Vì vậy tùy theo góc độ của người đến hỏi khác nhau mà đoán quẻ cũng khác nhau.
+
+![Quẻ Khuê biến Đại Hữu](assets/page_0038_img_01.png)
+
+☯ Ngày Bính Thìn tháng Sửu, một Tăng quan xem về công danh, được quẻ Truân biến Ký Tế:
+
+| | Truân | | | Ký Tế | |
+| :---: | :---: | :--- | :---: | :--- | :--- |
+| | ▅▅ ▅▅ | Huynh Đệ Tý thủy | ▅▅ ▅▅ | Huynh Đệ Tý thủy | Thanh Long |
+| Ứ | ▅▅▅▅▅ | Quan Quỷ Tuất thổ | ▅▅▅▅▅ | Quan Quỷ Tuất thổ | Huyền Vũ |
+| | ▅▅ ▅▅ | Phụ Mẫu Thân kim | ▅▅ ▅▅ | Phụ Mẫu Thân kim | Bạch Hổ |
+| | ▅▅ ▅▅ | Quan Quỷ Thìn thổ Tài-Ngọ | ▅▅▅▅▅ | Huynh Đệ Hợi thủy | Đằng Xà |
+| T | ▅▅ ▅▅ | Tử Tôn Dần mộc | ▅▅ ▅▅ | Quan Quỷ Sửu thổ | Câu Trần |
+| | ▅▅▅▅▅ | Huynh Đệ Tý thủy | ▅▅▅▅▅ | Tử Tôn Mão mộc | Chu Tước |
+
+THỦY &emsp;&emsp;&emsp;&emsp; Không Vong: Tý, Sửu
+
+Vì vị Tăng quan này vướng chuyện kiện tụng, sợ bị cách chức nên mới xem quẻ.
+
+Đoán rằng: Hào Tử Tôn trì Thế, là thần khắc Quan. Quan lại lâm hào Ứng, nên chức quan này sẽ về tay người khác. Quả nhiên sau bị cách chức.
+
+**Hỏi:** Quẻ này lấy Quan Quỷ Thìn thổ làm Dụng, Nhật Nguyệt củng phù mà vượng. Tuy Tử Tôn trì Thế, hưu tù an tĩnh. Có phải Tử Tôn vô lực khắc Dụng? Tại sao quan thuộc người khác?
+
+**Đáp:** Đây là lo lắng mất chức mà đoán, Quan vượng mà phát động, tượng lo âu, vì vậy nhất định mất quan. Nhiều Quỷ thì nhiều phiền não.
+
+☯ Ngày Mậu Thìn tháng Thìn, xem mang thai con trai hay con gái.
+
+| | Tiểu Quá | | | Dự | |
+| :---: | :---: | :--- | :---: | :--- | :--- |
+| | ▅▅ ▅▅ | Phụ Mẫu Tuất thổ | ▅▅ ▅▅ | Phụ Mẫu Tuất thổ | Chu Tước |
+| | ▅▅ ▅▅ | Huynh Đệ Thân kim | ▅▅ ▅▅ | Huynh Đệ Thân kim | Thanh Long |
+| T | ▅▅▅▅▅ | Quan Quỷ Ngọ hỏa Tử-Hợi | ▅▅▅▅▅ | Quan Quỷ Ngọ hỏa | Huyền Vũ |
+| | ▅▅▅▅▅ | Huynh Đệ Thân kim | ▅▅ ▅▅ | Thê Tài Mão mộc | Bạch Hổ |
+| | ▅▅ ▅▅ | Quan Quỷ Ngọ hỏa Tài-Mão | ▅▅ ▅▅ | Quan Quỷ Tị hỏa | Đằng Xà |
+| Ứ | ▅▅ ▅▅ | Phụ Mẫu Thìn thổ | ▅▅ ▅▅ | Phụ Mẫu Mùi thổ | Câu Trần |
+
+KIM &emsp;&emsp;&emsp;&emsp; Không Vong: Tuất, Hợi
+
+Ta bèn hỏi: Ý của ông là muốn biết vợ mang thai có được bình an không, hay là muốn hỏi xem con trai hay con gái? Người xem đáp: Cả hai việc đều muốn hỏi. Ta nói: Sau này nhất định phải chia ra hai quẻ xem riêng, không được hỏi chung. May mà trong quẻ này, cả hai sự việc đều hiển hiện. Hào Huynh tuy động, nhưng không khắc hào biến Thê Tài, nên việc thai nghén của vợ ông không có điều gì đáng ngại.
+
+![Sơ đồ quẻ Truân biến Ký Tế](assets/page_0039_img_01.png)
+
+
+
+![Sơ đồ quẻ Tiểu Quá biến Dự](assets/page_0039_img_02.png)
+
+Trong quẻ hào dương động biến âm, nên sẽ sinh con gái. Người xem bèn hỏi: Tôi xem được quẻ Tiểu Quá là âm bao dương, tại sao lại sinh con gái? Ta bèn đáp: Thần mách bảo cơ trời tại quẻ động, nên phải xem trọng hào động hơn. Sau quả nhiên đến ngày Nhâm Thân sinh con gái, mẹ tròn con vuông.
+
+**Hỏi:** Tại sao quẻ này lại lấy "Hào Huynh tuy động, nhưng không khắc hào biến Thê Tài" để kết luận vợ bình an? Tại sao không lấy Phục thần Mão mộc?
+
+**Đáp:** Quẻ này thuộc về quẻ độc phát, Dụng thần vẫn là Tử Tôn và Thê Tài. Tử Tôn mặc dù bị Nhật Nguyệt khắc, nhưng bởi vì là độc phát, độc phát gặp sinh được sinh, cho dù Dụng thần vô căn cũng có thể xoay chuyển.
+
+Mà xem vợ thì lấy phục tàng làm Dụng. Quẻ kiêm đoán và quẻ riêng biệt có sự khác nhau về mức độ phán đoán cát hung. Quẻ này là dự đoán sinh con, việc dự đoán cát hung của vợ giống như hỏi thêm, nếu như quẻ này chỉ dự đoán cát hung của vợ thì đúng là hung. Lại thêm Kỵ thần hóa ra địa chi giống Dụng thần, tổ hợp như vậy sẽ giảm nguy hiểm.
+
+Trong Tăng San có rất nhiều quẻ Dụng thần hưu tù, Nguyên thần độc phát mà ứng cát, trong thực tế tôi cũng được nghiệm một số quẻ như vậy.
+
+**Hỏi:** Người này đến gieo quẻ, vừa hỏi con trai hay con gái, vừa hỏi vợ mang thai có được bình an không. Dã Hạc trực tiếp lấy hào biến Mão mộc làm Dụng, nói là hào Huynh tuy động nhưng không khắc hào biến Thê Tài, có thể chọn Dụng thần như vậy hay không? Nếu như lấy Phục thần làm Dụng thì chắc chắn là hung. Đương nhiên trong sách vẫn còn chỗ khác lấy hào biến làm Dụng, như xem thuận gió gì đó, nhưng những quẻ đó cho dù có lấy Phục hay lấy hào biến thì tôi thấy kết luận giống nhau. Nhưng ở quẻ này tôi lại có thắc mắc, trong sách của Vương lão sư không có trình bày lấy hào biến làm Dụng thần, xin Vương lão sư chỉ điểm!
+
+**Đáp:** Đây là quẻ Kỵ thần động hóa Dụng thần. Phần dự đoán bệnh tật trong sách cổ có nói đến, Kỵ thần và Dụng thần biến hóa lẫn nhau là hung. Trên thực tế không đúng, Dụng hóa Kỵ thần thông thường không tốt, mà Kỵ thần hóa Dụng, đặc biệt là độc phát, không coi là hung, đồng thời cũng là biểu thị ứng kỳ, cái này mặc dù tôi chưa nói qua, nhưng có quẻ tương tự trong sách. Ví như đoán mất con mèo khi nào trở về, Phụ Mẫu Tý thủy hóa Tử Tôn, ngày Tý trở về. Còn có quẻ dự đoán thư từ, Tài động hóa Phụ Mẫu, dự đoán thư khi nào đến, Ngọ hỏa Tài động hóa Phụ Mẫu, mà giờ Ngọ thư đến.
+
+---
+
+# Part 3 (Pages 41-46)
+
+☯ Ngày Canh Thìn tháng Tuất, xem về bệnh gần của cha, được quẻ Ly:
+
+| | Ly | | |
+| :---: | :---: | :--- | :--- |
+| T | ▅▅▅ | Huynh Đệ Tị hỏa | Đằng Xà |
+| | ▅ ▅ | Tử Tôn Mùi thổ | Câu Trần |
+| | ▅▅▅ | Thê Tài Dậu kim | Chu Tước |
+| Ư | ▅▅▅ | Quan Quỷ Hợi thủy | Thanh Long |
+| | ▅ ▅ | Tử Tôn Sửu thổ | Huyền Vũ |
+| | ▅▅▅ | Phụ Mẫu Mão mộc | Bạch Hổ |
+
+HỎA Không Vong: Thân, Dậu
+
+Ta đoán rằng: Bệnh gần gặp xung sẽ khỏi. Người xem bèn hỏi: "Bao giờ sẽ khỏi?" Ta bảo anh ta xem tiếp, được quẻ Đại Quá biến Khốn:
+
+| | Đại Quá | | Khốn | |
+| :---: | :---: | :--- | :---: | :--- | :--- |
+| | ▅ ▅ | Thê Tài Mùi thổ | ▅ ▅ | Thê Tài Mùi thổ | Đằng Xà |
+| | ▅▅▅ | Quan Quỷ Dậu kim | ▅▅▅ | Quan Quỷ Dậu kim | Câu Trần |
+| T | ▅▅▅ | Phụ Mẫu Hợi thủy Tử-Ngọ | ▅▅▅ | Phụ Mẫu Hợi thủy | Chu Tước |
+| | ▅▅▅ | Quan Quỷ Dậu kim | ▅ ▅ | Tử Tôn Ngọ hỏa | Thanh Long |
+| | ▅▅▅ | Phụ Mẫu Hợi thủy Huynh-Dần | ▅▅▅ | Thê Tài Thìn thổ | Huyền Vũ |
+| Ư | ▅ ▅ | Thê Tài Sửu thổ | ▅ ▅ | Huynh Đệ Dần mộc | Bạch Hổ |
+
+MỘC Không Vong: Thân, Dậu
+
+Đoán rằng: Đến ngày Ất Dậu bệnh sẽ thuyên giảm. Hào Quan Dậu kim gặp Tuần Không, đến ngày xuất Không sẽ sinh Hợi thủy. Quả nhiên đến ngày Giáp Thân thì ngồi dậy được, đến ngày Ất Dậu thì khỏi hẳn.
+
+**Hỏi:** Ứng kỳ của quẻ thứ hai nghĩ không thông, Nguyên thần Dậu kim phát động Tuần Không, nhưng bị Thìn thổ hợp cản trở, lại bị Ngọ hỏa hồi đầu khắc, khi Dậu kim xuất Không vẫn bị Ngọ hỏa khắc, tại sao ngày đó khỏi bệnh?
+
+**Đáp:** Thứ nhất là hoàn toàn không cần gieo lại quẻ, tĩnh thì ứng gặp xung, Không thì ứng xung thực, từ đó biết ngay là ứng ngày Dậu. Hào quẻ thứ hai phải ăn khớp với tình huống đầu tiên. Dậu lâm Không phát động, vì vậy xuất Không là ứng kỳ, khắc và hợp không phải là chủ yếu. Nếu không có quẻ thứ nhất thì không thể xem như vậy.
+
+![Sơ đồ quẻ Ly](assets/page_0041_img_01.png)
+
+
+
+![Sơ đồ quẻ Đại Quá biến Khốn](assets/page_0041_img_02.png)
+
+☯ Ngày Đinh Mão tháng Mão, xem ngày nhập trạch có hợp với con cái hay không, được quẻ Cách biến Phong:
+
+| | Cách | | Phong | |
+| :---: | :---: | :--- | :---: | :--- | :--- |
+| | ▅ ▅ | Quan Quỷ Mùi thổ | ▅ ▅ | Quan Quỷ Tuất thổ | Thanh Long |
+| | ▅▅▅ | Phụ Mẫu Dậu kim | ▅ ▅ | Phụ Mẫu Thân kim | Huyền Vũ |
+| T | ▅▅▅ | Huynh Đệ Hợi thủy | ▅▅▅ | Thê Tài Ngọ hỏa | Bạch Hổ |
+| | ▅▅▅ | Huynh Đệ Hợi thủy Tài-Ngọ | ▅▅▅ | Huynh Đệ Hợi thủy | Đằng Xà |
+| | ▅ ▅ | Quan Quỷ Sửu thổ | ▅ ▅ | Quan Quỷ Sửu thổ | Câu Trần |
+| Ư | ▅▅▅ | Tử Tôn Mão mộc | ▅▅▅ | Tử Tôn Mão mộc | Chu Tước |
+
+THỦY Không Vong: Tuất, Hợi
+
+Nguyên văn: "Nên chuyển nhà vào ngày Hợi, Tý, đặt giường cho con ở phía nam, về sau sẽ được hiển quý. Người này làm theo, quả nhiên về sau con trai cả thi đậu khoa Mão."
+
+**Hỏi:** Tử Tôn vượng tướng, Phụ Mẫu độc phát đến khắc, Nguyên thần Không, ngày Hợi có thể hóa Dậu kim, điền thực Nguyên thần, sinh Tử Tôn, đúng là ngày tốt. Nhưng tại sao lại đặt giường ở phía nam? Tại sao sau này đứa con sẽ được hiển quý?
+
+**Đáp:** Xem cát hung cho con cái thì phải xem tác dụng của các hào trong quẻ đối với Tử Tôn. Quẻ này Phụ Mẫu phát động vốn là bất lợi, nhưng Phụ Mẫu Nguyệt phá, động mà hóa thoái, vì vậy không tạo thành ảnh hưởng lớn. Phụ Mẫu bị Tử Tôn xung phá, chứng tỏ con cái có thể ở nơi này. Nội quái là Ly, Tử Tôn tại quẻ Ly, Tử Tôn lâm Nhật Nguyệt xung phá hào Phụ Mẫu, vì vậy đặt tại vị trí Ly. Chọn ngày Hợi Nguyên thần xuất Không, lại có thể liên tục tương sinh, dẫn hóa hào Phụ Mẫu. Còn về hiển quý, Tử Tôn lâm Nhật Nguyệt, lâm Chu Tước xung phá hào 5, Chu Tước là văn thư, hào 5 là tôn vị. Nhật Nguyệt như trời, vượng thì cương cường.
+
+☯ **Hỏi:** Thầy nói dự đoán lục hào chia thành lý và tượng, điều này đã tháo gỡ cho tôi rất nhiều thắc mắc. Nhưng những kết luận như "xem Tài mà Dụng thần khắc Thế là có tài", "bệnh gần gặp Không gặp lục xung khỏi bệnh", "Tử Quỷ hỗ hóa",... hiển nhiên không thể quy vào lý, mà tượng không chủ cát hung, nếu quy vào tượng cũng không ổn. Vậy thì phải nhìn nhận như thế nào?
+
+**Đáp:** Tôi không nói là tượng không chủ cát hung, mà là nói lý chủ cát hung chiếm 70%, tượng chủ cát hung 30%, đây là tỷ lệ ước chừng, không phải là tuyệt đối. Tăng San Bốc Dịch là cuốn sách giai đoạn manh nha của lý tượng lục hào, bệnh gần gặp Không thì khỏi bệnh, bệnh lâu gặp xung thì chết,... chính là tượng chủ cát hung. Đối với quẻ một hào độc phát, gặp Tử Mộ Tuyệt, đặc biệt là Tử Tuyệt, cho dù Dụng thần vượng cũng không cát.
+
+![Sơ đồ quẻ Cách biến Phong](assets/page_0042_img_01.png)
+
+☯ Thầy nói: "Người xưa đã coi 12 cung trường sinh là căn cứ để phán đoán cát hung, trên thực tế đó là một nhận thức sai lầm. Vai trò của 12 cung trường sinh là dùng để thể hiện "tượng", việc sử dụng để xem cát hung chỉ chiếm một phần rất nhỏ, chỉ có một hai phần trăm mà thôi. "
+
+1. Xin thầy nêu ra ví dụ 12 cung trường sinh chủ cát hung cho kẻ hậu học được tăng thêm kiến thức. Hóa Tuyệt hóa Mộ thì tôi đã gặp, còn Trường Sinh Đế Vượng thì chưa.
+
+2. Đối với Sinh Vượng Mộ Tuyệt, cho dù không chủ cát hung của sự việc, nhưng nó có thể ảnh hưởng đến cát hung hay không? Ví dụ như xem tiền có tiền, đáng lẽ là được 100 nguyên, có phải là bởi vì hào Tài nhập Nhật Mộ mà chỉ được 80 nguyên? Hay là bởi vì hào Tài gặp Trường Sinh mà lại được 120 nguyên?
+
+3. Đối với Sinh Vượng Mộ Tuyệt, ví dụ chủ cát hung sự việc tuy không nhiều, nhưng quẻ có ứng kỳ sự việc tại Sinh Vượng Mộ Tuyệt lại không ít, bởi lẽ "cát đoán ứng cát, hung đoán ứng hung", đây có phải là mặt trái của Sinh Vượng Mộ Tuyệt đối với vượng suy của hào hay không, cát hung của sự việc cũng phải có ảnh hưởng chứ?
+
+**Đáp:** Tình huống mười hai cung trường sinh chủ cát hung thường thể hiện nhiều trong quẻ độc phát. Trường Sinh, Mộc Dục, Đế Vượng chủ cát; Tử, Mộ, Tuyệt chủ hung. Trong đó Mộ là ít xấu nhất, phải phối hợp với suy vượng của Dụng thần, Tử Tuyệt tương đối đáng sợ, khi Dụng thần vượng cũng không tốt.
+
+☯ Trong Tăng San Bốc Dịch Bình Thích nói: "Quẻ có quẻ biến, hào có hào biến. Quẻ biến, nội ngoại động mà phản ngâm, thuộc cùng một quẻ. Như quẻ Càn biến quẻ Khôn là vậy."
+
+Trong Bốc Phệ Chính Tông lại là Càn Tốn hỗ biến là quẻ biến phản ngâm. Như vậy rốt cuộc quẻ biến phản ngâm định nghĩa như thế nào?
+
+**Đáp:** Quẻ biến phản ngâm không có tỷ lệ ứng nghiệm cao bằng hào biến phản ngâm. Quẻ biến phản ngâm có hai phương diện. Một là xem từ quẻ tiên thiên, hai là từ quẻ hậu thiên, hễ là quẻ đối lập về phương vị chính là quẻ biến phản ngâm.
+
+Càn biến Khôn là phản ngâm, bởi vì Càn Khôn đối lập, Khảm biến Ly cũng vậy, đây đều là xem từ quẻ tiên thiên. Quẻ hậu thiên, Càn đối ứng Tốn, bởi vì Tây Bắc và Đông Nam đối lập, vì vậy Càn biến Tốn cũng là phản ngâm.
+
+**Hỏi:** Quẻ biến phản ngâm và hào động phản ngâm, có phải đều biểu thị tình trạng lặp đi lặp lại hay không? Tăng San có đề cập đến quẻ biến hồi đầu khắc, loại tình huống này có phán đoán là hung tượng hay không?
+
+**Đáp:** Quẻ biến phản ngâm chỉ là biểu thị sự việc lặp đi lặp lại mà thôi, hào biến phản ngâm lại chủ thông tin không tốt đẹp. Quẻ biến hồi đầu khắc thường chủ hung.
+
+☯ **Hỏi:** Sửu hóa Mùi có phải là hóa Tiến thần? Tuất hóa Sửu là hóa Tiến thần hay là Thoái thần?
+
+**Đáp:** Sửu hóa Mùi không phải là Tiến thần, bởi vì ở giữa cách Thìn thổ, là quan hệ tương xung, có điều là trong lục hào cũng không tồn tại Sửu hóa Mùi thổ, vĩnh viễn sẽ không xuất hiện tổ hợp này. Tuất hóa Sửu là Tiến thần.
+
+☯ Tăng San nói Phục thần không xuất ra trong năm trường hợp sau:
+1. Phục thần hưu tù, vô khí.
+2. Phục thần bị Nhật, Nguyệt xung khắc.
+3. Phục thần bị Phi thần vượng tướng khắc hại.
+4. Phục thần gặp Mộ, Tuyệt tại hào Phi thần, Nhật thần, Nguyệt kiến.
+5. Phục thần hưu tù gặp Tuần Không, Nguyệt phá.
+
+**Hỏi:** Nếu Phục thần bị Nhật Nguyệt hợp thì có thể xuất ra hay không? Trong sách không nói. Tôi nghĩ, Nguyệt hợp là vượng, dựa vào đó thì Dụng thần hữu dụng; nhưng Nhật hợp là vướng chân, rốt cuộc là hữu dụng hay vô dụng? Xin thầy kiến giải?
+
+**Đáp:** Nhật hợp đương nhiên không thể xuất, nhưng đúng lúc Nhật lại xung Phi thần thì lại có thể xuất ra.
+
+**Hỏi:** Ngoài ra còn một vấn đề nữa là phân biệt Dụng thần vô căn và Dụng thần quá nhược, hai cái này tôi luôn mập mờ, mong thầy chỉ giáo!
+
+**Đáp:** Dụng thần Nguyệt khắc Nhật không sinh thì có thể nói là vô căn, mà Nhật khắc Nguyệt không sinh phù cũng có thể là vô căn. Tình huống quá nhược nhất định phải là Nhật Nguyệt đồng thời khắc Dụng thần. Khắc thần trong quẻ lại hiện nhiều. Khắc thần chỉ có một thì hưu tù là hung, không thể là quá nhược.
+
+☯ **Hỏi:** Tăng San nói: "Nếu hào Tử Tôn hoặc hào Thê Tài trì Thế, hoặc động trong quẻ, là tượng thi rớt." Xin hỏi, trong quẻ có hào động, Tử Tôn trì Thế bất động, thì cầu quan có thành hay không?
+
+**Đáp:** Đây là chỉ khẩu quyết phán đoán hướng dẫn cho người mới học, trong dự đoán thực tế thì quẻ còn có nhiều chỗ vi diệu. Có nhiều trường hợp Tử Tôn trì Thế vẫn đoán thăng chức.
+
+**Hỏi:** Hào tĩnh, Nhật xung là Nhật phá; nếu hào này phát động, thì Nhật xung là Nhật phá, hay là xung tán, hay là xung động mạnh hơn?
+
+**Đáp:** Cần phải xem suy vượng của hào, tĩnh vượng gặp xung là ám động, vượng động bị xung là xung động mạnh hơn, hưu tù động mà bị xung là tán.
+
+☯ Chương 63 Tại nhiệm cát hung: Hào Huynh, hào Quỷ động trong quẻ là điềm hạn, lụt, thiên tai, nơi nhiệm chức nhiễu nhương bất ổn. Thầy nói là có thể phán đoán hiệu quả kinh tế của đơn vị đó không tốt.
+
+Chương 64 Viện lệ: Huynh Đệ phát động, nếu được Quan tinh động thì có thể làm.
+
+Chương 74 Cầu tài: Hào Huynh phát động, mừng được Quỷ động để chế Huynh.
+
+Câu đầu tiên có vẻ mâu thuẫn với hai câu sau?
+
+**Đáp:** Khi cầu tài, Huynh Đệ là hào khắc Tài, Quan thể thể hiện lãnh đạo, người có chức vụ, hoặc chính phủ giúp đỡ, khi đoán tuổi thọ thì thể hiện tai họa. Huynh Đệ thể hiện không có thu hoạch. Không phải trong tất cả các quẻ cầu tài thì Quan đều chế phục Huynh Đệ, có nhiều trường hợp vừa phá tài lại thêm quan tai. Cần phải xem một cách linh hoạt.
+
+☯ **Hỏi:** Tăng San nói Hợi Tý tại tháng Sửu có dư khí. Hào Hợi trong quẻ tĩnh, ngày Tị tháng Sửu, hào Hợi ám động hay là Nhật phá?
+
+**Đáp:** Ở đây cần xem biến hóa trong quẻ, mùa đông là thủy, theo mùa thì có thể luận là thủy có dư khí, nhưng tác dụng của dư khí không lớn, cuối cùng Nguyệt cũng khắc thủy.
+
+☯ Tăng San Bốc Dịch Bình Thích – chương 29 – trang 104.
+
+**Hỏi:** Dụng thần hóa cát, hóa Nhật Nguyệt, cách dùng như thế nào?
+
+**Đáp:** Hào hóa Nhật Nguyệt, có thuyết nói là hóa vượng, nhưng điều này không thể vứt bỏ ngũ hành sinh khắc. Ví như Nguyệt là Tý thủy, thổ hóa Tý, kim hóa Tý, có thể xem là vượng. Nhưng Tị hóa Tý thủy, mặc dù là Nhật Nguyệt nhưng cũng là hồi đầu khắc.
+
+☯ Ngày Mậu Tý tháng Canh Tý, hôm nay tài vận ra sao?
+
+| | Tốn | | Cổ | | |
+|---|---|---|---|---|---|
+| T | — | Huynh Đệ Mão mộc | — | Huynh Đệ Dần mộc | Chu Tước |
+| | — | Tử Tôn Tị hỏa | - - | Phụ Mẫu Tý thủy | Thanh Long |
+| | - - | Thê Tài Mùi thổ | - - | Thê Tài Tuất thổ | Huyền Vũ |
+| Ư | — | Quan Quỷ Dậu kim | — | Quan Quỷ Dậu kim | Bạch Hổ |
+| | — | Phụ Mẫu Hợi thủy | — | Phụ Mẫu Hợi thủy | Đằng Xà |
+| | - - | Thê Tài Sửu thổ | - - | Thê Tài Sửu thổ | Câu Trần |
+
+MỘC
+
+Không Vong: Ngọ, Mùi
+
+**Hỏi:** Tử Tôn Tị hỏa động hóa Phụ Mẫu Tý thủy là hóa hồi đầu khắc phải không?
+
+**Đáp:** Là hồi đầu khắc.
+
+**Hỏi:** Thê Tài Mùi thổ là Tuyệt ở hào động phải không?
+
+**Đáp:** Tuyệt, cái này có ý nghĩa tượng.
+
+**Hỏi:** Nếu như xem phòng ốc, lấy Phụ Mẫu Hợi thủy làm Dụng, Dụng thần được Nhật Nguyệt phù thì không Tuyệt ở hào động Tị hỏa phải không?
+
+**Đáp:** Phụ Mẫu vẫn bị Tuyệt, tôi đã được nghiệm quẻ Dụng thần rất vượng, độc phát mà Tuyệt, cuối cùng đã ứng hung.
+
+**Hỏi:** Trong Tăng San có nói Dụng thần hóa Nhật Nguyệt là Dụng thần hóa cát, quẻ này Tử Tôn Tị hỏa hóa Phụ Mẫu Tý thủy có phải là hóa cát hay không?
+
+**Đáp:** Không thể lý luận như vậy, phải tùy vào trường hợp, không phải cứ hóa Nhật Nguyệt là hóa cát.
+
+![Sơ đồ quẻ Tốn biến Cổ](assets/page_0046_img_01.png)
+
+

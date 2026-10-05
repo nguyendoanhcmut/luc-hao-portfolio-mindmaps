@@ -1,0 +1,99 @@
+{
+  "chunk_id": "ch14",
+  "title": "Chương 11: Cách Sơn Hóa Hào",
+  "start_heading_level": 2,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch14.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch14_chuong_11_cach_son_hoa_hao_branches.md",
+  "figure_ids": [
+    "fig_72",
+    "fig_73",
+    "fig_74",
+    "fig_75",
+    "fig_76",
+    "fig_77"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_72",
+      "figure_number": "72",
+      "caption": "Quẻ Hỏa Địa Tấn biến Trạch Địa Tụy",
+      "rel_path": "assets/page_0123_img_01.png"
+    },
+    {
+      "id": "fig_73",
+      "figure_number": "73",
+      "caption": "Sơ đồ quẻ Phong Thiên Tiểu Súc biến Hỏa Thiên Đại Hữu",
+      "rel_path": "assets/page_0125_img_01.png"
+    },
+    {
+      "id": "fig_74",
+      "figure_number": "74",
+      "caption": "Sơ đồ quẻ Phong Sơn Tiệm biến Hỏa Thủy Vị Tế",
+      "rel_path": "assets/page_0126_img_01.png"
+    },
+    {
+      "id": "fig_75",
+      "figure_number": "75",
+      "caption": "Sơ đồ quẻ Hỏa Thủy Vị Tế biến Sơn Phong Cổ",
+      "rel_path": "assets/page_0127_img_01.png"
+    },
+    {
+      "id": "fig_76",
+      "figure_number": "76",
+      "caption": "Sơ đồ quẻ Phong Thủy Hoán biến Thiên Sơn Độn",
+      "rel_path": "assets/page_0128_img_01.png"
+    },
+    {
+      "id": "fig_77",
+      "figure_number": "77",
+      "caption": "Sơ đồ quẻ Hỏa Phong Đỉnh biến Trạch Phong Đại Quá",
+      "rel_path": "assets/page_0129_img_01.png"
+    }
+  ],
+  "exercises": [
+    {
+      "line": 2149,
+      "exercise_id": "vd_072",
+      "title": "Ví dụ 1: Ngày Kỷ Dậu tháng Canh Thìn năm Canh Thìn, đoán bệnh, được Hỏa Địa Tấn biến Trạch Địa Tụy.",
+      "start_page": 123,
+      "end_page": 123
+    },
+    {
+      "line": 2174,
+      "exercise_id": "vd_073",
+      "title": "Ví dụ 2: Ngày Bính Thân tháng Nhâm Ngọ năm Canh Thìn, một người nam xem về thai sản. Được Phong Thiên Tiểu Súc biến Hỏa ",
+      "start_page": 125,
+      "end_page": 125
+    },
+    {
+      "line": 2195,
+      "exercise_id": "vd_074",
+      "title": "Ví dụ 3: Ngày Tân Hợi tháng Nhâm Ngọ năm Canh Thìn, nam đoán về tài vận trong mấy ngày tới, được Phong Sơn Tiệm biến Hỏa",
+      "start_page": 126,
+      "end_page": 126
+    },
+    {
+      "line": 2220,
+      "exercise_id": "vd_075",
+      "title": "Ví dụ 4: Ngày Đinh Tị tháng Quý Tị năm Bính Tý, nữ đoán kết quả thi cử, được Hỏa Thủy Vị Tế biến Sơn Phong Cổ.",
+      "start_page": 127,
+      "end_page": 127
+    },
+    {
+      "line": 2239,
+      "exercise_id": "vd_076",
+      "title": "Ví dụ 5: Ngày Nhâm Ngọ tháng Bính Thân năm Bính Tý, đoán sắp tới có động đất hay không, được Phong Thủy Hoán biến Thiên ",
+      "start_page": 128,
+      "end_page": 128
+    },
+    {
+      "line": 2260,
+      "exercise_id": "vd_077",
+      "title": "Ví dụ 6: Ngày Ất Mão tháng Giáp Thìn Nhâm Ngọ, đoán về hợp tác cầu tài, được Hỏa Phong Đỉnh biến Trạch Phong Đại Quá.",
+      "start_page": 129,
+      "end_page": 129
+    }
+  ],
+  "parent_titles": []
+}

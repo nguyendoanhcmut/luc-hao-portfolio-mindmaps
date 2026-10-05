@@ -1,0 +1,85 @@
+{
+  "chunk_id": "ch05",
+  "title": "Chương 2: Tiến Thần Biện Ý",
+  "start_heading_level": 2,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch05.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch05_chuong_2_tien_than_bien_y_branches.md",
+  "figure_ids": [
+    "fig_05",
+    "fig_06",
+    "fig_07",
+    "fig_08",
+    "fig_09"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_05",
+      "figure_number": "5",
+      "caption": "Sơ đồ quẻ Hỏa Trạch Khuê biến Hỏa Thiên Đại Hữu",
+      "rel_path": "assets/page_0027_img_01.png"
+    },
+    {
+      "id": "fig_06",
+      "figure_number": "6",
+      "caption": "Sơ đồ quẻ Lôi Địa Dự biến Trạch Thủy Khốn",
+      "rel_path": "assets/page_0029_img_01.png"
+    },
+    {
+      "id": "fig_07",
+      "figure_number": "7",
+      "caption": "Sơ đồ quẻ Lôi Thủy Giải biến Trạch Thủy Khốn",
+      "rel_path": "assets/page_0030_img_01.png"
+    },
+    {
+      "id": "fig_08",
+      "figure_number": "8",
+      "caption": "Quẻ Trạch Phong Đại Quá biến Càn Vi Thiên",
+      "rel_path": "assets/page_0031_img_01.png"
+    },
+    {
+      "id": "fig_09",
+      "figure_number": "9",
+      "caption": "Quẻ Lôi Trạch Quy Muội biến Đoài Vi Trạch",
+      "rel_path": "assets/page_0032_img_01.png"
+    }
+  ],
+  "exercises": [
+    {
+      "line": 337,
+      "exercise_id": "vd_005",
+      "title": "Ví dụ 1: Ngày Kỷ Mùi tháng Đinh Tị năm Mậu Dần, một người đàn ông khoảng 50 tuổi là hiệu trưởng của một trường trung học",
+      "start_page": 27,
+      "end_page": 27
+    },
+    {
+      "line": 363,
+      "exercise_id": "vd_006",
+      "title": "Ví dụ 2: Ngày Kỷ Tị tháng Đinh Tị năm Mậu Dần, cô Mã (sinh năm Kỷ Dậu) đoán hôn...",
+      "start_page": 29,
+      "end_page": 29
+    },
+    {
+      "line": 386,
+      "exercise_id": "vd_007",
+      "title": "Ví dụ 3: Ngày Nhâm Thân tháng Quý Mùi năm Canh Thìn, bằng hữu Đoàn Kiến Nghiệp ...",
+      "start_page": 30,
+      "end_page": 30
+    },
+    {
+      "line": 409,
+      "exercise_id": "vd_008",
+      "title": "Ví dụ 4: Ngày Ất Tị tháng Quý Tị năm Bính Tý, nam đoán hôn nhân, tự gieo được quẻ Trạch Phong Đại Quá biến Càn Vi Thiên.",
+      "start_page": 31,
+      "end_page": 31
+    },
+    {
+      "line": 436,
+      "exercise_id": "vd_009",
+      "title": "Ví dụ 5: Ngày Đinh Mùi tháng Bính Tý năm Kỷ Mão, nữ xem chiếc nhẫn vàng bị mất có thể tìm được không? Được Lôi Trạch Quy",
+      "start_page": 32,
+      "end_page": 32
+    }
+  ],
+  "parent_titles": []
+}

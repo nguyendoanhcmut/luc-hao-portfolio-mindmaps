@@ -1,0 +1,231 @@
+{
+  "worker_id": "worker_10",
+  "total_chunks": 15,
+  "chunks": [
+    {
+      "chunk_id": "ch15_31",
+      "title": "Nuôi lợn lỗ vốn",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_31.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_31_nuoi_lon_lo_von_branches.md",
+      "figures": [
+        {
+          "id": "fig_120",
+          "figure_number": "120",
+          "caption": "Quẻ Địa Thiên Thái biến Thủy Hỏa Ký Tế",
+          "rel_path": "assets/page_0173_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_32",
+      "title": "Con trai đau bụng, nguyên nhân do căn nhà",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_32.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_32_con_trai_au_bung_nguyen_nhan_do_can_nha_branches.md",
+      "figures": [
+        {
+          "id": "fig_121",
+          "figure_number": "121",
+          "caption": "Quẻ Trạch Thủy Khốn biến Trạch Địa Tụy",
+          "rel_path": "assets/page_0174_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_33",
+      "title": "Tiểu nhân là người thoái ngũ",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_33.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_33_tieu_nhan_la_nguoi_thoai_ngu_branches.md",
+      "figures": [
+        {
+          "id": "fig_122",
+          "figure_number": "122",
+          "caption": "Quẻ Trạch Phong Đại Quá biến Trạch Thiên Quải",
+          "rel_path": "assets/page_0175_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_34",
+      "title": "Kinh nguyệt không bình thường",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_34.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_34_kinh_nguyet_khong_binh_thuong_branches.md",
+      "figures": [
+        {
+          "id": "fig_123",
+          "figure_number": "123",
+          "caption": "Quẻ Thiên Phong Cấu biến Hỏa Sơn Lữ",
+          "rel_path": "assets/page_0176_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_35",
+      "title": "Nhà chị đã không tìm được tổ phần",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_35.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_35_nha_chi_a_khong_tim_uoc_to_phan_branches.md",
+      "figures": [
+        {
+          "id": "fig_124",
+          "figure_number": "124",
+          "caption": "Quẻ Càn Vi Thiên biến Phong Trạch Trung Phu",
+          "rel_path": "assets/page_0177_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_36",
+      "title": "Tổ phần ảnh hưởng đến việc sinh con trai",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_36.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_36_to_phan_anh_huong_en_viec_sinh_con_trai_branches.md",
+      "figures": [
+        {
+          "id": "fig_125",
+          "figure_number": "125",
+          "caption": "Sơ đồ quẻ Khôn Vi Địa",
+          "rel_path": "assets/page_0179_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_37",
+      "title": "Phong thủy là chất xúc tác của bệnh tật",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_37.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_37_phong_thuy_la_chat_xuc_tac_cua_benh_tat_branches.md",
+      "figures": [
+        {
+          "id": "fig_126",
+          "figure_number": "126",
+          "caption": "Sơ đồ quẻ Thiên Sơn Độn biến Thiên Phong Cấu",
+          "rel_path": "assets/page_0180_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_38",
+      "title": "Đau thắt lưng bởi vì tu bổ tường",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_38.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_38_au_that_lung_boi_vi_tu_bo_tuong_branches.md",
+      "figures": [
+        {
+          "id": "fig_127",
+          "figure_number": "127",
+          "caption": "Sơ đồ quẻ Cấn Vi Sơn biến Sơn Phong Cổ",
+          "rel_path": "assets/page_0181_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_39",
+      "title": "Nhà vệ sinh ở Đông Bắc ảnh hưởng đến tài vận",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_39.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_39_nha_ve_sinh_o_ong_bac_anh_huong_en_tai_v_branches.md",
+      "figures": [
+        {
+          "id": "fig_128",
+          "figure_number": "128",
+          "caption": "Sơ đồ quẻ Địa Thiên Thái",
+          "rel_path": "assets/page_0182_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_40",
+      "title": "Bệnh do tu tạo gây nên",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_40.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_40_benh_do_tu_tao_gay_nen_branches.md",
+      "figures": [
+        {
+          "id": "fig_129",
+          "figure_number": "129",
+          "caption": "Sơ đồ quẻ Thủy Địa Tỷ biến Thủy Lôi Truân",
+          "rel_path": "assets/page_0183_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_41",
+      "title": "Hóa ra là nhà đối diện đang cải tạo",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_41.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_41_hoa_ra_la_nha_oi_dien_ang_cai_tao_branches.md",
+      "figures": [
+        {
+          "id": "fig_130",
+          "figure_number": "130",
+          "caption": "Quẻ Địa Thủy Sư biến Thủy Thiên Nhu",
+          "rel_path": "assets/page_0184_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_42",
+      "title": "Tại sao hài tử của hàng xóm đột nhiên không thể đi lại?",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_42.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_42_tai_sao_hai_tu_cua_hang_xom_ot_nhien_kho_branches.md",
+      "figures": [
+        {
+          "id": "fig_131",
+          "figure_number": "131",
+          "caption": "Quẻ Hỏa Thủy Vị Tế biến Hỏa Trạch Khuê",
+          "rel_path": "assets/page_0185_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_43",
+      "title": "Phong thủy có thể phản suy",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_43.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_43_phong_thuy_co_the_phan_suy_branches.md",
+      "figures": [
+        {
+          "id": "fig_132",
+          "figure_number": "132",
+          "caption": "Sơ đồ quẻ Trạch Sơn Hàm biến Thủy Phong Tỉnh",
+          "rel_path": "assets/page_0186_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_44",
+      "title": "Hàng xóm tu tạo cũng ảnh hưởng đến anh",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_44.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_44_hang_xom_tu_tao_cung_anh_huong_en_anh_branches.md",
+      "figures": [
+        {
+          "id": "fig_133",
+          "figure_number": "133",
+          "caption": "Sơ đồ quẻ Hỏa Lôi Phệ Hạp biến Thiên Địa Bĩ",
+          "rel_path": "assets/page_0187_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_45",
+      "title": "Đất lún thì tài không vượng",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_45.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_45_at_lun_thi_tai_khong_vuong_branches.md",
+      "figures": [
+        {
+          "id": "fig_134",
+          "figure_number": "134",
+          "caption": "Quẻ Sơn Trạch Tổn",
+          "rel_path": "assets/page_0188_img_01.png"
+        }
+      ]
+    }
+  ]
+}

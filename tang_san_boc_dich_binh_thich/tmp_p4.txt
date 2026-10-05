@@ -1,0 +1,29 @@
+You are branch_driller for chunk 'ch35_0' of 'Tăng San Bốc Dịch Bình Thích'.
+Follow branch_driller_prompt.md strictly.
+
+READ-SCOPE RULE: Read ONLY your assigned section_text_file:
+C:\Users\Admin\.gemini\antigravity\scratch\luc_hao_portfolio_ocr\tang_san_boc_dich_binh_thich\fragments\src\ch35_0.txt
+
+Parameters:
+- section_title: Chương 33: PHI THẦN, PHỤC THẦN
+- start_level: 2
+- max_heading_level: 5
+- output_file: C:\Users\Admin\.gemini\antigravity\scratch\luc_hao_portfolio_ocr\tang_san_boc_dich_binh_thich\fragments/ch35_0_chuong_33_phi_than_phuc_than_branches.md
+- assigned_figures: [{"id": "fig_100", "figure_number": "100", "caption": "Quẻ Thiên Phong Cấu", "rel_path": "assets/page_0116_img_01.png"}, {"id": "fig_101", "figure_number": "101", "caption": "Quẻ Càn Vi Thiên", "rel_path": "assets/page_0116_img_02.png"}, {"id": "fig_102", "figure_number": "102", "caption": "Quẻ Thiên Sơn Độn", "rel_path": "assets/page_0117_img_01.png"}, {"id": "fig_103", "figure_number": "103", "caption": "Quẻ Thiên Trạch Lý biến Hỏa Thiên Đại Hữu", "rel_path": "assets/page_0117_img_02.png"}]
+
+YÊU CẦU CỐT LÕI BẮT BUỘC:
+1. Viết tiêu đề 'Chương 33: PHI THẦN, PHỤC THẦN' ở cấp ##. Các mục con sâu hơn 1 cấp (tối đa cấp 5 #####).
+2. Dưới mỗi heading là các claim bullet (- ...).
+3. BỎ 100% bảng chữ vẽ hào dạng bảng Markdown (| Hào | Thế/Ứng | ...) và KHÔNG dùng tiêu đề con ##### để chèn bảng hào.
+4. BẮT BUỘC PHẢI lấy ảnh từ assets/ chèn trực tiếp vào file dưới claim bullet hỗ trợ bằng cú pháp:
+   - {Anchor claim bullet mô tả luận điểm của hình/quẻ}
+     - **Hình N.** {Tên quẻ hoặc Caption}
+       - <img src="assets/..." alt="Hình N" />
+       - **Hình này chứng minh điều gì**
+         - ...
+       - **Từ đâu mà thấy được**
+         - ...
+   Lưu ý: Figure block (**Hình N.**) tối đa 10 dòng và BẮT BUỘC phải thụt lề dưới 1 anchor claim bullet.
+5. Bảo toàn luồng đối thoại thực tế giữa tác giả và người coi bói, các bước suy luận (Căn cứ - Nhìn vào) và ứng nghiệm thực tế.
+6. Ghi kết quả hoàn chỉnh vào output_file: C:\Users\Admin\.gemini\antigravity\scratch\luc_hao_portfolio_ocr\tang_san_boc_dich_binh_thich\fragments/ch35_0_chuong_33_phi_than_phuc_than_branches.md
+7. Báo cáo hoàn tất bằng send_message về cho orchestrator.

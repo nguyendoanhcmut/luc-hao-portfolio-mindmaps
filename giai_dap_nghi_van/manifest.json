@@ -1,0 +1,67 @@
+{
+  "summary": {
+    "total_books": 1,
+    "total_pages": 46,
+    "total_worker_pairs": 23,
+    "total_chapters": 3,
+    "total_batches": 1,
+    "total_waves": 1,
+    "est_time_sec_min": 12,
+    "est_time_sec_max": 15,
+    "est_time_str": "12-15s (0.2-0.2 min)"
+  },
+  "books": [
+    {
+      "file": "VƯƠNG HỔ ỨNG - GIẢI ĐÁP NGHI VẤN TRONG TĂNG SAN BỐC DỊCH BÌNH THÍCH.pdf",
+      "path": "C:\\Users\\Admin\\Downloads\\drive-download-20260908T061604Z-1-001\\VƯƠNG HỔ ỨNG - GIẢI ĐÁP NGHI VẤN TRONG TĂNG SAN BỐC DỊCH BÌNH THÍCH.pdf",
+      "total_pages": 46,
+      "worker_pairs": 23,
+      "has_native_text": true,
+      "detection_tier": "Tier 3 (Fixed 20-page chunks)",
+      "chapters_count": 3,
+      "batches_count": 1,
+      "total_waves": 1,
+      "est_time_sec_min": 12,
+      "est_time_sec_max": 15,
+      "est_time_str": "12-15s",
+      "chapters": [
+        {
+          "id": 1,
+          "title": "Part 1 (Pages 1-20)",
+          "start_page": 1,
+          "end_page": 20,
+          "pages": 20,
+          "pairs": 10
+        },
+        {
+          "id": 2,
+          "title": "Part 2 (Pages 21-40)",
+          "start_page": 21,
+          "end_page": 40,
+          "pages": 20,
+          "pairs": 10
+        },
+        {
+          "id": 3,
+          "title": "Part 3 (Pages 41-46)",
+          "start_page": 41,
+          "end_page": 46,
+          "pages": 6,
+          "pairs": 3
+        }
+      ],
+      "batches": [
+        {
+          "batch_id": 1,
+          "chapter_ids": [
+            1,
+            2,
+            3
+          ],
+          "total_pairs": 23,
+          "waves": 1
+        }
+      ]
+    }
+  ]
+}

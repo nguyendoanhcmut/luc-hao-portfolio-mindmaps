@@ -1,0 +1,30 @@
+{
+  "chunk_id": "ch22_2",
+  "title": "Lần đầu tiên nghiệm chứng phương pháp phân chia thái cực",
+  "start_heading_level": 3,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch22_2.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch22_2_lan_au_tien_nghiem_chung_phuong_phap_pha_branches.md",
+  "figure_ids": [
+    "fig_118",
+    "fig_119"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_118",
+      "figure_number": "118",
+      "caption": "Quẻ Phong Hỏa Gia Nhân biến Sơn Phong Cổ",
+      "rel_path": "assets/page_0190_img_01.png"
+    },
+    {
+      "id": "fig_119",
+      "figure_number": "119",
+      "caption": "Quẻ Thiên Thủy Tụng biến Thủy Trạch Tiết",
+      "rel_path": "assets/page_0192_img_01.png"
+    }
+  ],
+  "exercises": [],
+  "parent_titles": [
+    "Chương 19: Câu Chuyện Lục Hào Đặc Sắc"
+  ]
+}

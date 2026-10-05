@@ -1,0 +1,2524 @@
+[
+  {
+    "index": 0,
+    "chunk_id": "ch01",
+    "title": "Thông tin xuất bản & Lời cảm ơn",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch01.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch01_thong_tin_xuat_ban_loi_cam_on_branches.md",
+    "figures": [],
+    "parent_titles": []
+  },
+  {
+    "index": 1,
+    "chunk_id": "ch02",
+    "title": "Giới thiệu về Vương Hổ Ứng",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch02.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch02_gioi_thieu_ve_vuong_ho_ung_branches.md",
+    "figures": [],
+    "parent_titles": []
+  },
+  {
+    "index": 2,
+    "chunk_id": "ch03",
+    "title": "Mục lục",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch03.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch03_muc_luc_branches.md",
+    "figures": [],
+    "parent_titles": []
+  },
+  {
+    "index": 3,
+    "chunk_id": "ch04",
+    "title": "Lời Tựa",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch04.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch04_loi_tua_branches.md",
+    "figures": [],
+    "parent_titles": []
+  },
+  {
+    "index": 4,
+    "chunk_id": "ch05",
+    "title": "Phần Mở Đầu",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch05.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch05_phan_mo_au_branches.md",
+    "figures": [],
+    "parent_titles": []
+  },
+  {
+    "index": 5,
+    "chunk_id": "ch06",
+    "title": "Chương 1: Vũ trụ quan của Dịch",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch06.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch06_chuong_1_vu_tru_quan_cua_dich_branches.md",
+    "figures": [
+      {
+        "id": "fig_01",
+        "num": "1",
+        "file": "page_0022_img_01.png",
+        "caption": "Ngũ Hành Sinh Khắc Đồ",
+        "rel_path": "assets/page_0022_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 6,
+    "chunk_id": "ch07",
+    "title": "Chương 2: Can Chi và Dự đoán Lục Hào",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch07.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch07_chuong_2_can_chi_va_du_oan_luc_hao_branches.md",
+    "figures": [],
+    "parent_titles": []
+  },
+  {
+    "index": 7,
+    "chunk_id": "ch08",
+    "title": "Chương 3: Kiến thức căn bản về Bát Quái",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch08.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch08_chuong_3_kien_thuc_can_ban_ve_bat_quai_branches.md",
+    "figures": [],
+    "parent_titles": []
+  },
+  {
+    "index": 8,
+    "chunk_id": "ch09",
+    "title": "Chương 4: Phương pháp lấy và ghi Bát Quái",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch09.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch09_chuong_4_phuong_phap_lay_va_ghi_bat_quai_branches.md",
+    "figures": [],
+    "parent_titles": []
+  },
+  {
+    "index": 9,
+    "chunk_id": "ch10_0",
+    "title": "Chương 5: Phương pháp trang quẻ",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch10_0.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch10_0_chuong_5_phuong_phap_trang_que_branches.md",
+    "figures": [],
+    "parent_titles": []
+  },
+  {
+    "index": 10,
+    "chunk_id": "ch10_1",
+    "title": "I. Phương pháp sắp xếp Can Chi",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch10_1.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch10_1_i_phuong_phap_sap_xep_can_chi_branches.md",
+    "figures": [],
+    "parent_titles": [
+      "Chương 5: Phương pháp trang quẻ"
+    ]
+  },
+  {
+    "index": 11,
+    "chunk_id": "ch10_2",
+    "title": "II. Phương pháp an Thế Ứng",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch10_2.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch10_2_ii_phuong_phap_an_the_ung_branches.md",
+    "figures": [
+      {
+        "id": "fig_02",
+        "num": "2",
+        "file": "page_0032_img_01.png",
+        "caption": "Sơ đồ nạp giáp quẻ Thủy Phong Tỉnh",
+        "rel_path": "assets/page_0032_img_01.png"
+      },
+      {
+        "id": "fig_03",
+        "num": "3",
+        "file": "page_0033_img_01.png",
+        "caption": "Sơ đồ biến hào quẻ Thủy Trạch Tiết tìm Thế và cung",
+        "rel_path": "assets/page_0033_img_01.png"
+      },
+      {
+        "id": "fig_04",
+        "num": "4",
+        "file": "page_0034_img_01.png",
+        "caption": "Sơ đồ biến hào quẻ Sơn Thủy Mông tìm Thế và cung",
+        "rel_path": "assets/page_0034_img_01.png"
+      },
+      {
+        "id": "fig_05",
+        "num": "5",
+        "file": "page_0035_img_01.png",
+        "caption": "Sơ đồ biến hào quẻ Phong Trạch Trung Phu xác định quẻ quy hồn",
+        "rel_path": "assets/page_0035_img_01.png"
+      },
+      {
+        "id": "fig_06",
+        "num": "6",
+        "file": "page_0035_img_02.png",
+        "caption": "Sơ đồ biến hào quẻ Sơn Phong Cổ xác định quẻ quy hồn",
+        "rel_path": "assets/page_0035_img_02.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 5: Phương pháp trang quẻ"
+    ]
+  },
+  {
+    "index": 12,
+    "chunk_id": "ch10_3",
+    "title": "III. An Lục Thân",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch10_3.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch10_3_iii_an_luc_than_branches.md",
+    "figures": [
+      {
+        "id": "fig_07",
+        "num": "7",
+        "file": "page_0037_img_01.png",
+        "caption": "Sơ đồ quẻ Thủy Phong Tỉnh",
+        "rel_path": "assets/page_0037_img_01.png"
+      },
+      {
+        "id": "fig_08",
+        "num": "8",
+        "file": "page_0038_img_01.png",
+        "caption": "Sơ đồ quẻ Thủy Trạch Tiết biến Thủy Địa Tỷ",
+        "rel_path": "assets/page_0038_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 5: Phương pháp trang quẻ"
+    ]
+  },
+  {
+    "index": 13,
+    "chunk_id": "ch10_4",
+    "title": "IV. An Lục Thần",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch10_4.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch10_4_iv_an_luc_than_branches.md",
+    "figures": [],
+    "parent_titles": [
+      "Chương 5: Phương pháp trang quẻ"
+    ]
+  },
+  {
+    "index": 14,
+    "chunk_id": "ch11",
+    "title": "Chương 6: Tác dụng của Lục Thân, Lục Thần, Thế Ứng",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch11.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch11_chuong_6_tac_dung_cua_luc_than_luc_than_branches.md",
+    "figures": [
+      {
+        "id": "fig_09",
+        "num": "9",
+        "file": "page_0042_img_01.png",
+        "caption": "Lục Thân Sinh Khắc Đồ",
+        "rel_path": "assets/page_0042_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 15,
+    "chunk_id": "ch12_0",
+    "title": "Chương 7: Phương pháp chọn Dụng Thần",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch12_0.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch12_0_chuong_7_phuong_phap_chon_dung_than_branches.md",
+    "figures": [
+      {
+        "id": "fig_10",
+        "num": "10",
+        "file": "page_0047_img_01.png",
+        "caption": "Sơ đồ quẻ Địa Thiên Thái biến Lôi Trạch Quy Muội",
+        "rel_path": "assets/page_0047_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 16,
+    "chunk_id": "ch12_1",
+    "title": "I. Dụng Thần Lưỡng Hiện",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch12_1.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch12_1_i_dung_than_luong_hien_branches.md",
+    "figures": [
+      {
+        "id": "fig_11",
+        "num": "11",
+        "file": "page_0048_img_01.png",
+        "caption": "Sơ đồ quẻ Thủy Sơn Kiển biến Sơn Địa Bác",
+        "rel_path": "assets/page_0048_img_01.png"
+      },
+      {
+        "id": "fig_12",
+        "num": "12",
+        "file": "page_0049_img_01.png",
+        "caption": "Quẻ Trạch Thiên Quải biến Thủy Thiên Nhu",
+        "rel_path": "assets/page_0049_img_01.png"
+      },
+      {
+        "id": "fig_13",
+        "num": "13",
+        "file": "page_0050_img_01.png",
+        "caption": "Quẻ Khảm Vi Thủy biến Phong Thủy Hoán",
+        "rel_path": "assets/page_0050_img_01.png"
+      },
+      {
+        "id": "fig_14",
+        "num": "14",
+        "file": "page_0051_img_01.png",
+        "caption": "Sơ đồ quẻ Trạch Địa Tụy",
+        "rel_path": "assets/page_0051_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 7: Phương pháp chọn Dụng Thần"
+    ]
+  },
+  {
+    "index": 17,
+    "chunk_id": "ch12_2",
+    "title": "II. Phi Thần và Phục Thần",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch12_2.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch12_2_ii_phi_than_va_phuc_than_branches.md",
+    "figures": [
+      {
+        "id": "fig_15",
+        "num": "15",
+        "file": "page_0052_img_01.png",
+        "caption": "Sơ đồ quẻ Hỏa Trạch Khuê biến Chấn Vi Lôi",
+        "rel_path": "assets/page_0052_img_01.png"
+      },
+      {
+        "id": "fig_16",
+        "num": "16",
+        "file": "page_0053_img_01.png",
+        "caption": "Quẻ Lôi Địa Dự biến Hỏa Địa Tấn",
+        "rel_path": "assets/page_0053_img_01.png"
+      },
+      {
+        "id": "fig_17",
+        "num": "17",
+        "file": "page_0054_img_01.png",
+        "caption": "Quẻ Thủy Lôi Truân",
+        "rel_path": "assets/page_0054_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 7: Phương pháp chọn Dụng Thần"
+    ]
+  },
+  {
+    "index": 18,
+    "chunk_id": "ch12_3",
+    "title": "III. Tiến Thần và Thoái Thần",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch12_3.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch12_3_iii_tien_than_va_thoai_than_branches.md",
+    "figures": [
+      {
+        "id": "fig_18",
+        "num": "18",
+        "file": "page_0055_img_01.png",
+        "caption": "Sơ đồ quẻ Phong Lôi Ích",
+        "rel_path": "assets/page_0055_img_01.png"
+      },
+      {
+        "id": "fig_19",
+        "num": "19",
+        "file": "page_0057_img_01.png",
+        "caption": "Sơ đồ quẻ Đoài Vi Trạch biến Càn Vi Thiên",
+        "rel_path": "assets/page_0057_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 7: Phương pháp chọn Dụng Thần"
+    ]
+  },
+  {
+    "index": 19,
+    "chunk_id": "ch13",
+    "title": "Chương 8: Nguyên Thần, Kỵ Thần, Cừu Thần",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch13.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch13_chuong_8_nguyen_than_ky_than_cuu_than_branches.md",
+    "figures": [
+      {
+        "id": "fig_20",
+        "num": "20",
+        "file": "page_0060_img_01.png",
+        "caption": "Quẻ Địa Thiên Thái biến Sơn Thiên Đại Súc",
+        "rel_path": "assets/page_0060_img_01.png"
+      },
+      {
+        "id": "fig_21",
+        "num": "21",
+        "file": "page_0061_img_01.png",
+        "caption": "Sơ đồ quẻ Địa Thiên Thái biến Địa Sơn Khiêm",
+        "rel_path": "assets/page_0061_img_01.png"
+      },
+      {
+        "id": "fig_22",
+        "num": "22",
+        "file": "page_0063_img_01.png",
+        "caption": "Quẻ Hỏa Thủy Vị Tế biến Hỏa Thiên Đại Hữu",
+        "rel_path": "assets/page_0063_img_01.png"
+      },
+      {
+        "id": "fig_23",
+        "num": "23",
+        "file": "page_0064_img_01.png",
+        "caption": "Quẻ Phong Hỏa Gia Nhân biến Phong Thiên Tiểu Súc",
+        "rel_path": "assets/page_0064_img_01.png"
+      },
+      {
+        "id": "fig_24",
+        "num": "24",
+        "file": "page_0065_img_01.png",
+        "caption": "Quẻ Phong Thủy Hoán biến Tốn Vi Phong",
+        "rel_path": "assets/page_0065_img_01.png"
+      },
+      {
+        "id": "fig_25",
+        "num": "25",
+        "file": "page_0066_img_01.png",
+        "caption": "Quẻ Sơn Trạch Tổn biến Địa Thủy Sư",
+        "rel_path": "assets/page_0066_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 20,
+    "chunk_id": "ch14_0",
+    "title": "Chương 9: Suy vượng của hào",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch14_0.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch14_0_chuong_9_suy_vuong_cua_hao_branches.md",
+    "figures": [],
+    "parent_titles": []
+  },
+  {
+    "index": 21,
+    "chunk_id": "ch14_1",
+    "title": "I. Nguyệt Kiến",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch14_1.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch14_1_i_nguyet_kien_branches.md",
+    "figures": [],
+    "parent_titles": [
+      "Chương 9: Suy vượng của hào"
+    ]
+  },
+  {
+    "index": 22,
+    "chunk_id": "ch14_2",
+    "title": "II. Nguyệt Phá",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch14_2.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch14_2_ii_nguyet_pha_branches.md",
+    "figures": [
+      {
+        "id": "fig_26",
+        "num": "26",
+        "file": "page_0069_img_01.png",
+        "caption": "Sơ đồ quẻ Trạch Thiên Quải biến Thủy Thiên Nhu",
+        "rel_path": "assets/page_0069_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 9: Suy vượng của hào"
+    ]
+  },
+  {
+    "index": 23,
+    "chunk_id": "ch14_3",
+    "title": "III. Ảnh hưởng của Nhật Thần",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch14_3.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch14_3_iii_anh_huong_cua_nhat_than_branches.md",
+    "figures": [
+      {
+        "id": "fig_27",
+        "num": "27",
+        "file": "page_0070_img_01.png",
+        "caption": "Sơ đồ quẻ Phong Lôi Ích biến Phong Trạch Trung Phu",
+        "rel_path": "assets/page_0070_img_01.png"
+      },
+      {
+        "id": "fig_28",
+        "num": "28",
+        "file": "page_0071_img_01.png",
+        "caption": "Quẻ Thủy Lôi Truân",
+        "rel_path": "assets/page_0071_img_01.png"
+      },
+      {
+        "id": "fig_29",
+        "num": "29",
+        "file": "page_0072_img_01.png",
+        "caption": "Quẻ Cấn Vi Sơn biến Lôi Sơn Tiểu Quá",
+        "rel_path": "assets/page_0072_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 9: Suy vượng của hào"
+    ]
+  },
+  {
+    "index": 24,
+    "chunk_id": "ch14_4",
+    "title": "IV. Không Vong",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch14_4.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch14_4_iv_khong_vong_branches.md",
+    "figures": [
+      {
+        "id": "fig_30",
+        "num": "30",
+        "file": "page_0074_img_01.png",
+        "caption": "Sơ đồ quẻ Trạch Sơn Hàm",
+        "rel_path": "assets/page_0074_img_01.png"
+      },
+      {
+        "id": "fig_31",
+        "num": "31",
+        "file": "page_0075_img_01.png",
+        "caption": "Sơ đồ quẻ Phong Địa Quan",
+        "rel_path": "assets/page_0075_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 9: Suy vượng của hào"
+    ]
+  },
+  {
+    "index": 25,
+    "chunk_id": "ch15",
+    "title": "Chương 10: Mười hai loại trạng thái của Ngũ Hành sinh diệt",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch15.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch15_chuong_10_muoi_hai_loai_trang_thai_cua_n_branches.md",
+    "figures": [
+      {
+        "id": "fig_32",
+        "num": "32",
+        "file": "page_0080_img_01.png",
+        "caption": "Sơ đồ quẻ Sơn Trạch Tổn biến Sơn Hỏa Bí",
+        "rel_path": "assets/page_0080_img_01.png"
+      },
+      {
+        "id": "fig_33",
+        "num": "33",
+        "file": "page_0081_img_01.png",
+        "caption": "Sơ đồ quẻ Địa Lôi Phục biến Khôn Vi Địa",
+        "rel_path": "assets/page_0081_img_01.png"
+      },
+      {
+        "id": "fig_34",
+        "num": "34",
+        "file": "page_0082_img_01.png",
+        "caption": "Sơ đồ quẻ Lôi Thủy Giải biến Trạch Địa Tụy",
+        "rel_path": "assets/page_0082_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 26,
+    "chunk_id": "ch16",
+    "title": "Chương 11: Động tĩnh và sinh khắc của hào",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch16.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch16_chuong_11_ong_tinh_va_sinh_khac_cua_hao_branches.md",
+    "figures": [
+      {
+        "id": "fig_35",
+        "num": "35",
+        "file": "page_0084_img_01.png",
+        "caption": "Quẻ Thủy Phong Tỉnh biến Phong Thiên Tiểu Súc",
+        "rel_path": "assets/page_0084_img_01.png"
+      },
+      {
+        "id": "fig_36",
+        "num": "36",
+        "file": "page_0085_img_01.png",
+        "caption": "Quẻ Lôi Hỏa Phong",
+        "rel_path": "assets/page_0085_img_01.png"
+      },
+      {
+        "id": "fig_37",
+        "num": "37",
+        "file": "page_0086_img_01.png",
+        "caption": "Quẻ Phong Hỏa Gia Nhân biến Sơn Hỏa Bí",
+        "rel_path": "assets/page_0086_img_01.png"
+      },
+      {
+        "id": "fig_38",
+        "num": "38",
+        "file": "page_0087_img_01.png",
+        "caption": "Quẻ Hỏa Thiên Đại Hữu biến Sơn Thiên Đại Súc",
+        "rel_path": "assets/page_0087_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 27,
+    "chunk_id": "ch17",
+    "title": "Chương 12: Tác dụng của Lục Hợp",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch17.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch17_chuong_12_tac_dung_cua_luc_hop_branches.md",
+    "figures": [
+      {
+        "id": "fig_39",
+        "num": "39",
+        "file": "page_0089_img_01.png",
+        "caption": "Sơ đồ quẻ Địa Sơn Khiêm biến Địa Thiên Thái",
+        "rel_path": "assets/page_0089_img_01.png"
+      },
+      {
+        "id": "fig_40",
+        "num": "40",
+        "file": "page_0090_img_01.png",
+        "caption": "Sơ đồ quẻ Sơn Lôi Di biến Khôn Vi Địa",
+        "rel_path": "assets/page_0090_img_01.png"
+      },
+      {
+        "id": "fig_41",
+        "num": "41",
+        "file": "page_0092_img_01.png",
+        "caption": "Sơ đồ quẻ Hỏa Phong Đỉnh biến Địa Thiên Thái",
+        "rel_path": "assets/page_0092_img_01.png"
+      },
+      {
+        "id": "fig_42",
+        "num": "42",
+        "file": "page_0093_img_01.png",
+        "caption": "Sơ đồ quẻ Phong Hỏa Gia Nhân biến Thiên Sơn Độn",
+        "rel_path": "assets/page_0093_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 28,
+    "chunk_id": "ch18",
+    "title": "Chương 13: Tác dụng của Lục Xung",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch18.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch18_chuong_13_tac_dung_cua_luc_xung_branches.md",
+    "figures": [
+      {
+        "id": "fig_43",
+        "num": "43",
+        "file": "page_0096_img_01.png",
+        "caption": "Sơ đồ quẻ Ly Vi Hỏa",
+        "rel_path": "assets/page_0096_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 29,
+    "chunk_id": "ch19",
+    "title": "Chương 14: Cát hung của Tam Hình",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch19.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch19_chuong_14_cat_hung_cua_tam_hinh_branches.md",
+    "figures": [
+      {
+        "id": "fig_44",
+        "num": "44",
+        "file": "page_0099_img_01.png",
+        "caption": "Sơ đồ quẻ Trạch Lôi Tùy biến Thủy Trạch Tiết",
+        "rel_path": "assets/page_0099_img_01.png"
+      },
+      {
+        "id": "fig_45",
+        "num": "45",
+        "file": "page_0100_img_01.png",
+        "caption": "Sơ đồ quẻ Phong Thiên Tiểu Súc biến Thủy Thiên Nhu",
+        "rel_path": "assets/page_0100_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 30,
+    "chunk_id": "ch20",
+    "title": "Chương 15: Phản ngâm và Phục ngâm",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch20.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch20_chuong_15_phan_ngam_va_phuc_ngam_branches.md",
+    "figures": [
+      {
+        "id": "fig_46",
+        "num": "46",
+        "file": "page_0102_img_01.png",
+        "caption": "Quẻ Thiên Phong Cấu biến Thiên Địa Bĩ",
+        "rel_path": "assets/page_0102_img_01.png"
+      },
+      {
+        "id": "fig_47",
+        "num": "47",
+        "file": "page_0103_img_01.png",
+        "caption": "Quẻ Càn Vi Thiên biến Hỏa Lôi Phệ Hạp",
+        "rel_path": "assets/page_0103_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 31,
+    "chunk_id": "ch21",
+    "title": "Chương 16: Quẻ Du Hồn và Quẻ Quy Hồn",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch21.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch21_chuong_16_que_du_hon_va_que_quy_hon_branches.md",
+    "figures": [
+      {
+        "id": "fig_48",
+        "num": "48",
+        "file": "page_0105_img_01.png",
+        "caption": "Sơ đồ quẻ Thủy Thiên Nhu biến Trạch Thiên Quải",
+        "rel_path": "assets/page_0105_img_01.png"
+      },
+      {
+        "id": "fig_49",
+        "num": "49",
+        "file": "page_0106_img_01.png",
+        "caption": "Sơ đồ quẻ Sơn Lôi Di biến Phong Lôi Ích",
+        "rel_path": "assets/page_0106_img_01.png"
+      },
+      {
+        "id": "fig_50",
+        "num": "50",
+        "file": "page_0107_img_01.png",
+        "caption": "Quẻ Hỏa Thiên Đại Hữu biến Sơn Trạch Tổn",
+        "rel_path": "assets/page_0107_img_01.png"
+      },
+      {
+        "id": "fig_51",
+        "num": "51",
+        "file": "page_0108_img_01.png",
+        "caption": "Quẻ Địa Phong Thăng biến Sơn Phong Cổ",
+        "rel_path": "assets/page_0108_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 32,
+    "chunk_id": "ch22",
+    "title": "Chương 17: Vai trò của hào vị",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch22.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch22_chuong_17_vai_tro_cua_hao_vi_branches.md",
+    "figures": [
+      {
+        "id": "fig_52",
+        "num": "52",
+        "file": "page_0111_img_01.png",
+        "caption": "Quẻ Thủy Địa Tỷ",
+        "rel_path": "assets/page_0111_img_01.png"
+      },
+      {
+        "id": "fig_53",
+        "num": "53",
+        "file": "page_0112_img_01.png",
+        "caption": "Quẻ Sơn Trạch Tổn biến Địa Thủy Sư",
+        "rel_path": "assets/page_0112_img_01.png"
+      },
+      {
+        "id": "fig_54",
+        "num": "54",
+        "file": "page_0113_img_01.png",
+        "caption": "Sơ đồ quẻ Trạch Phong Đại Quá biến Lôi Trạch Quy Muội",
+        "rel_path": "assets/page_0113_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 33,
+    "chunk_id": "ch23_0",
+    "title": "Chương 18: Ứng kỳ",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch23_0.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch23_0_chuong_18_ung_ky_branches.md",
+    "figures": [],
+    "parent_titles": []
+  },
+  {
+    "index": 34,
+    "chunk_id": "ch23_1",
+    "title": "Ứng kỳ khi Dụng thần an tĩnh",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch23_1.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch23_1_ung_ky_khi_dung_than_an_tinh_branches.md",
+    "figures": [
+      {
+        "id": "fig_55",
+        "num": "55",
+        "file": "page_0117_img_01.png",
+        "caption": "Quẻ Phong Hỏa Gia Nhân biến Phong Sơn Tiệm",
+        "rel_path": "assets/page_0117_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 18: Ứng kỳ"
+    ]
+  },
+  {
+    "index": 35,
+    "chunk_id": "ch23_2",
+    "title": "Ứng kỳ khi Dụng thần phát động",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch23_2.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch23_2_ung_ky_khi_dung_than_phat_ong_branches.md",
+    "figures": [
+      {
+        "id": "fig_56",
+        "num": "56",
+        "file": "page_0118_img_01.png",
+        "caption": "Quẻ Lôi Sơn Tiểu Quá biến Lôi Địa Dự",
+        "rel_path": "assets/page_0118_img_01.png"
+      },
+      {
+        "id": "fig_57",
+        "num": "57",
+        "file": "page_0119_img_01.png",
+        "caption": "Sơ đồ quẻ Thủy Thiên Nhu biến Địa Lôi Phục",
+        "rel_path": "assets/page_0119_img_01.png"
+      },
+      {
+        "id": "fig_58",
+        "num": "58",
+        "file": "page_0120_img_01.png",
+        "caption": "Sơ đồ quẻ Sơn Trạch Tổn biến Địa Lôi Phục",
+        "rel_path": "assets/page_0120_img_01.png"
+      },
+      {
+        "id": "fig_59",
+        "num": "59",
+        "file": "page_0121_img_01.png",
+        "caption": "Sơ đồ quẻ Khảm Vi Thủy biến Đoài Vi Trạch",
+        "rel_path": "assets/page_0121_img_01.png"
+      },
+      {
+        "id": "fig_60",
+        "num": "60",
+        "file": "page_0122_img_01.png",
+        "caption": "Sơ đồ quẻ Thủy Phong Tỉnh biến Địa Phong Thăng",
+        "rel_path": "assets/page_0122_img_01.png"
+      },
+      {
+        "id": "fig_61",
+        "num": "61",
+        "file": "page_0123_img_01.png",
+        "caption": "Quẻ Thủy Thiên Nhu biến Phong Thiên Tiểu Súc",
+        "rel_path": "assets/page_0123_img_01.png"
+      },
+      {
+        "id": "fig_62",
+        "num": "62",
+        "file": "page_0124_img_01.png",
+        "caption": "Quẻ Thủy Hỏa Ký Tế",
+        "rel_path": "assets/page_0124_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 18: Ứng kỳ"
+    ]
+  },
+  {
+    "index": 36,
+    "chunk_id": "ch23_3",
+    "title": "Ứng kỳ khi Dụng thần nhập Mộ",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch23_3.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch23_3_ung_ky_khi_dung_than_nhap_mo_branches.md",
+    "figures": [
+      {
+        "id": "fig_63",
+        "num": "63",
+        "file": "page_0125_img_01.png",
+        "caption": "Sơ đồ quẻ Địa Thiên Thái biến Lôi Trạch Quy Muội",
+        "rel_path": "assets/page_0125_img_01.png"
+      },
+      {
+        "id": "fig_64",
+        "num": "64",
+        "file": "page_0126_img_01.png",
+        "caption": "Sơ đồ quẻ Thiên Hỏa Đồng Nhân biến Ly Vi Hỏa",
+        "rel_path": "assets/page_0126_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 18: Ứng kỳ"
+    ]
+  },
+  {
+    "index": 37,
+    "chunk_id": "ch23_4",
+    "title": "Ứng kỳ khi Dụng thần gặp hợp",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch23_4.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch23_4_ung_ky_khi_dung_than_gap_hop_branches.md",
+    "figures": [
+      {
+        "id": "fig_65",
+        "num": "65",
+        "file": "page_0127_img_01.png",
+        "caption": "Sơ đồ quẻ Thiên Trạch Lý biến Phong Trạch Trung Phu",
+        "rel_path": "assets/page_0127_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 18: Ứng kỳ"
+    ]
+  },
+  {
+    "index": 38,
+    "chunk_id": "ch23_5",
+    "title": "Ứng kỳ khi Nguyên thần động phùng hợp",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch23_5.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch23_5_ung_ky_khi_nguyen_than_ong_phung_hop_branches.md",
+    "figures": [
+      {
+        "id": "fig_66",
+        "num": "66",
+        "file": "page_0128_img_01.png",
+        "caption": "Sơ đồ quẻ Thiên Trạch Lý biến Phong Trạch Trung Phu",
+        "rel_path": "assets/page_0128_img_01.png"
+      },
+      {
+        "id": "fig_67",
+        "num": "67",
+        "file": "page_0129_img_01.png",
+        "caption": "Sơ đồ quẻ Khảm Vi Thủy biến Phong Thủy Hoán",
+        "rel_path": "assets/page_0129_img_01.png"
+      },
+      {
+        "id": "fig_68",
+        "num": "68",
+        "file": "page_0130_img_01.png",
+        "caption": "Sơ đồ quẻ Trạch Địa Tụy biến Trạch Sơn Hàm",
+        "rel_path": "assets/page_0130_img_01.png"
+      },
+      {
+        "id": "fig_69",
+        "num": "69",
+        "file": "page_0130_img_02.png",
+        "caption": "Sơ đồ quẻ Thiên Lôi Vô Vọng",
+        "rel_path": "assets/page_0130_img_02.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 18: Ứng kỳ"
+    ]
+  },
+  {
+    "index": 39,
+    "chunk_id": "ch23_6",
+    "title": "Ứng kỳ khi hào Không Vong",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch23_6.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch23_6_ung_ky_khi_hao_khong_vong_branches.md",
+    "figures": [
+      {
+        "id": "fig_70",
+        "num": "70",
+        "file": "page_0131_img_01.png",
+        "caption": "Sơ đồ quẻ Lôi Phong Hằng biến Lôi Sơn Tiểu Quá",
+        "rel_path": "assets/page_0131_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 18: Ứng kỳ"
+    ]
+  },
+  {
+    "index": 40,
+    "chunk_id": "ch23_7",
+    "title": "Ứng kỳ khi Dụng thần bị Kỵ thần khắc",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch23_7.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch23_7_ung_ky_khi_dung_than_bi_ky_than_khac_branches.md",
+    "figures": [
+      {
+        "id": "fig_71",
+        "num": "71",
+        "file": "page_0132_img_01.png",
+        "caption": "Sơ đồ quẻ Sơn Hỏa Bí biến Sơn Lôi Di",
+        "rel_path": "assets/page_0132_img_01.png"
+      },
+      {
+        "id": "fig_72",
+        "num": "72",
+        "file": "page_0133_img_01.png",
+        "caption": "Quẻ Địa Trạch Lâm biến Địa Thiên Thái",
+        "rel_path": "assets/page_0133_img_01.png"
+      },
+      {
+        "id": "fig_73",
+        "num": "73",
+        "file": "page_0134_img_01.png",
+        "caption": "Quẻ Thiên Thủy Tụng biến Trạch Thủy Khốn",
+        "rel_path": "assets/page_0134_img_01.png"
+      },
+      {
+        "id": "fig_74",
+        "num": "74",
+        "file": "page_0135_img_01.png",
+        "caption": "Quẻ Càn Vi Thiên biến Trạch Thiên Quải",
+        "rel_path": "assets/page_0135_img_01.png"
+      },
+      {
+        "id": "fig_75",
+        "num": "75",
+        "file": "page_0136_img_01.png",
+        "caption": "Quẻ Hỏa Sơn Lữ biến Cấn Vi Sơn",
+        "rel_path": "assets/page_0136_img_01.png"
+      },
+      {
+        "id": "fig_76",
+        "num": "76",
+        "file": "page_0137_img_01.png",
+        "caption": "Quẻ Phong Hỏa Gia Nhân biến Phong Lôi Ích",
+        "rel_path": "assets/page_0137_img_01.png"
+      },
+      {
+        "id": "fig_77",
+        "num": "77",
+        "file": "page_0137_img_02.png",
+        "caption": "Quẻ Hỏa Thủy Vị Tế biến Thủy Sơn Kiển",
+        "rel_path": "assets/page_0137_img_02.png"
+      },
+      {
+        "id": "fig_78",
+        "num": "78",
+        "file": "page_0138_img_01.png",
+        "caption": "Quẻ Phong Lôi Ích biến Thiên Hỏa Đồng Nhân",
+        "rel_path": "assets/page_0138_img_01.png"
+      },
+      {
+        "id": "fig_79",
+        "num": "79",
+        "file": "page_0139_img_01.png",
+        "caption": "Quẻ Hỏa Thủy Vị Tế biến Hỏa Phong Đỉnh",
+        "rel_path": "assets/page_0139_img_01.png"
+      },
+      {
+        "id": "fig_80",
+        "num": "80",
+        "file": "page_0139_img_02.png",
+        "caption": "Quẻ Phong Lôi Ích biến Phong Hỏa Gia Nhân",
+        "rel_path": "assets/page_0139_img_02.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 18: Ứng kỳ"
+    ]
+  },
+  {
+    "index": 41,
+    "chunk_id": "ch23_8",
+    "title": "Ứng kỳ khi phát động hóa Không, hóa Phá",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch23_8.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch23_8_ung_ky_khi_phat_ong_hoa_khong_hoa_pha_branches.md",
+    "figures": [
+      {
+        "id": "fig_81",
+        "num": "81",
+        "file": "page_0140_img_01.png",
+        "caption": "Quẻ Địa Lôi Phục biến Khôn Vi Địa",
+        "rel_path": "assets/page_0140_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 18: Ứng kỳ"
+    ]
+  },
+  {
+    "index": 42,
+    "chunk_id": "ch24_0",
+    "title": "Chương 19: Dự đoán thời tiết",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch24_0.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch24_0_chuong_19_du_oan_thoi_tiet_branches.md",
+    "figures": [],
+    "parent_titles": []
+  },
+  {
+    "index": 43,
+    "chunk_id": "ch24_1",
+    "title": "Hào Phụ Mẫu",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch24_1.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch24_1_hao_phu_mau_branches.md",
+    "figures": [],
+    "parent_titles": [
+      "Chương 19: Dự đoán thời tiết"
+    ]
+  },
+  {
+    "index": 44,
+    "chunk_id": "ch24_2",
+    "title": "Hào Tử Tôn",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch24_2.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch24_2_hao_tu_ton_branches.md",
+    "figures": [],
+    "parent_titles": [
+      "Chương 19: Dự đoán thời tiết"
+    ]
+  },
+  {
+    "index": 45,
+    "chunk_id": "ch24_3",
+    "title": "Hào Thê Tài",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch24_3.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch24_3_hao_the_tai_branches.md",
+    "figures": [],
+    "parent_titles": [
+      "Chương 19: Dự đoán thời tiết"
+    ]
+  },
+  {
+    "index": 46,
+    "chunk_id": "ch24_4",
+    "title": "Hào Huynh Đệ",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch24_4.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch24_4_hao_huynh_e_branches.md",
+    "figures": [],
+    "parent_titles": [
+      "Chương 19: Dự đoán thời tiết"
+    ]
+  },
+  {
+    "index": 47,
+    "chunk_id": "ch24_5",
+    "title": "Hào Quan Quỷ",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch24_5.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch24_5_hao_quan_quy_branches.md",
+    "figures": [
+      {
+        "id": "fig_82",
+        "num": "82",
+        "file": "page_0145_img_01.png",
+        "caption": "Sơ đồ quẻ Hỏa Sơn Lữ biến Thiên Phong Cấu",
+        "rel_path": "assets/page_0145_img_01.png"
+      },
+      {
+        "id": "fig_83",
+        "num": "83",
+        "file": "page_0146_img_01.png",
+        "caption": "Sơ đồ quẻ Thiên Hỏa Đồng Nhân biến Thiên Lôi Vô Vọng",
+        "rel_path": "assets/page_0146_img_01.png"
+      },
+      {
+        "id": "fig_84",
+        "num": "84",
+        "file": "page_0147_img_01.png",
+        "caption": "Quẻ Lôi Thủy Giải biến Lôi Phong Hằng",
+        "rel_path": "assets/page_0147_img_01.png"
+      },
+      {
+        "id": "fig_85",
+        "num": "85",
+        "file": "page_0148_img_01.png",
+        "caption": "Quẻ Phong Trạch Trung Phu biến Càn Vi Thiên",
+        "rel_path": "assets/page_0148_img_01.png"
+      },
+      {
+        "id": "fig_86",
+        "num": "86",
+        "file": "page_0149_img_01.png",
+        "caption": "Quẻ Khôn Vi Địa biến Thiên Địa Bĩ",
+        "rel_path": "assets/page_0149_img_01.png"
+      },
+      {
+        "id": "fig_87",
+        "num": "87",
+        "file": "page_0150_img_01.png",
+        "caption": "Quẻ Tốn Vi Phong",
+        "rel_path": "assets/page_0150_img_01.png"
+      },
+      {
+        "id": "fig_88",
+        "num": "88",
+        "file": "page_0153_img_01.png",
+        "caption": "Quẻ Thủy Địa Tỷ biến Trạch Địa Tụy",
+        "rel_path": "assets/page_0153_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 19: Dự đoán thời tiết"
+    ]
+  },
+  {
+    "index": 48,
+    "chunk_id": "ch25",
+    "title": "Chương 20: Dự đoán thi đấu",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch25.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch25_chuong_20_du_oan_thi_au_branches.md",
+    "figures": [
+      {
+        "id": "fig_89",
+        "num": "89",
+        "file": "page_0156_img_01.png",
+        "caption": "Sơ đồ quẻ Phong Địa Quan biến Cấn Vi Sơn",
+        "rel_path": "assets/page_0156_img_01.png"
+      },
+      {
+        "id": "fig_90",
+        "num": "90",
+        "file": "page_0157_img_01.png",
+        "caption": "Sơ đồ quẻ Hỏa Địa Tấn",
+        "rel_path": "assets/page_0157_img_01.png"
+      },
+      {
+        "id": "fig_91",
+        "num": "91",
+        "file": "page_0158_img_01.png",
+        "caption": "Sơ đồ quẻ Địa Trạch Lâm biến Lôi Thiên Đại Tráng",
+        "rel_path": "assets/page_0158_img_01.png"
+      },
+      {
+        "id": "fig_92",
+        "num": "92",
+        "file": "page_0158_img_02.png",
+        "caption": "Sơ đồ quẻ Sơn Phong Cổ",
+        "rel_path": "assets/page_0158_img_02.png"
+      },
+      {
+        "id": "fig_93",
+        "num": "93",
+        "file": "page_0159_img_01.png",
+        "caption": "Quẻ Chấn Vi Lôi biến Thủy Lôi Truân",
+        "rel_path": "assets/page_0159_img_01.png"
+      },
+      {
+        "id": "fig_94",
+        "num": "94",
+        "file": "page_0160_img_01.png",
+        "caption": "Quẻ Lôi Thiên Đại Tráng",
+        "rel_path": "assets/page_0160_img_01.png"
+      },
+      {
+        "id": "fig_95",
+        "num": "95",
+        "file": "page_0161_img_01.png",
+        "caption": "Quẻ Địa Sơn Khiêm biến Thủy Lôi Truân",
+        "rel_path": "assets/page_0161_img_01.png"
+      },
+      {
+        "id": "fig_96",
+        "num": "96",
+        "file": "page_0162_img_01.png",
+        "caption": "Quẻ Địa Lôi Phục biến Ly Vi Hỏa",
+        "rel_path": "assets/page_0162_img_01.png"
+      },
+      {
+        "id": "fig_97",
+        "num": "97",
+        "file": "page_0163_img_01.png",
+        "caption": "Sơ đồ quẻ Thủy Lôi Truân biến Thủy Địa Tỷ",
+        "rel_path": "assets/page_0163_img_01.png"
+      },
+      {
+        "id": "fig_98",
+        "num": "98",
+        "file": "page_0164_img_01.png",
+        "caption": "Sơ đồ quẻ Thủy Sơn Kiển",
+        "rel_path": "assets/page_0164_img_01.png"
+      },
+      {
+        "id": "fig_99",
+        "num": "99",
+        "file": "page_0165_img_01.png",
+        "caption": "Sơ đồ quẻ Phong Trạch Trung Phu biến Thủy Trạch Tiết",
+        "rel_path": "assets/page_0165_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 49,
+    "chunk_id": "ch26",
+    "title": "Chương 21: Dự đoán tài vận",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch26.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch26_chuong_21_du_oan_tai_van_branches.md",
+    "figures": [
+      {
+        "id": "fig_100",
+        "num": "100",
+        "file": "page_0168_img_01.png",
+        "caption": "Quẻ Khảm Vi Thủy biến Thủy Sơn Kiển",
+        "rel_path": "assets/page_0168_img_01.png"
+      },
+      {
+        "id": "fig_101",
+        "num": "101",
+        "file": "page_0169_img_01.png",
+        "caption": "Quẻ Lôi Sơn Tiểu Quá biến Trạch Địa Tụy",
+        "rel_path": "assets/page_0169_img_01.png"
+      },
+      {
+        "id": "fig_102",
+        "num": "102",
+        "file": "page_0170_img_01.png",
+        "caption": "Quẻ Sơn Hỏa Bí biến Sơn Lôi Di",
+        "rel_path": "assets/page_0170_img_01.png"
+      },
+      {
+        "id": "fig_103",
+        "num": "103",
+        "file": "page_0171_img_01.png",
+        "caption": "Sơ đồ quẻ Thiên Sơn Độn biến Thủy Thiên Nhu",
+        "rel_path": "assets/page_0171_img_01.png"
+      },
+      {
+        "id": "fig_104",
+        "num": "104",
+        "file": "page_0172_img_01.png",
+        "caption": "Sơ đồ quẻ Trạch Sơn Hàm",
+        "rel_path": "assets/page_0172_img_01.png"
+      },
+      {
+        "id": "fig_105",
+        "num": "105",
+        "file": "page_0173_img_01.png",
+        "caption": "Sơ đồ quẻ Phong Trạch Trung Phu biến Địa Phong Thăng",
+        "rel_path": "assets/page_0173_img_01.png"
+      },
+      {
+        "id": "fig_106",
+        "num": "106",
+        "file": "page_0174_img_01.png",
+        "caption": "Sơ đồ quẻ Khôn Vi Địa biến Phong Địa Quan",
+        "rel_path": "assets/page_0174_img_01.png"
+      },
+      {
+        "id": "fig_107",
+        "num": "107",
+        "file": "page_0175_img_01.png",
+        "caption": "Sơ đồ quẻ Thiên Thủy Tụng biến Địa Thủy Sư",
+        "rel_path": "assets/page_0175_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 50,
+    "chunk_id": "ch27",
+    "title": "Chương 22: Dự đoán buôn bán",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch27.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch27_chuong_22_du_oan_buon_ban_branches.md",
+    "figures": [
+      {
+        "id": "fig_108",
+        "num": "108",
+        "file": "page_0178_img_01.png",
+        "caption": "Sơ đồ quẻ Địa Trạch Lâm",
+        "rel_path": "assets/page_0178_img_01.png"
+      },
+      {
+        "id": "fig_109",
+        "num": "109",
+        "file": "page_0179_img_01.png",
+        "caption": "Quẻ Địa Thủy Sư biến Địa Phong Thăng",
+        "rel_path": "assets/page_0179_img_01.png"
+      },
+      {
+        "id": "fig_110",
+        "num": "110",
+        "file": "page_0179_img_02.png",
+        "caption": "Quẻ Thủy Thiên Nhu",
+        "rel_path": "assets/page_0179_img_02.png"
+      },
+      {
+        "id": "fig_111",
+        "num": "111",
+        "file": "page_0181_img_01.png",
+        "caption": "Quẻ Địa Sơn Khiêm biến Trạch Sơn Hàm",
+        "rel_path": "assets/page_0181_img_01.png"
+      },
+      {
+        "id": "fig_112",
+        "num": "112",
+        "file": "page_0182_img_01.png",
+        "caption": "Quẻ Địa Thủy Sư",
+        "rel_path": "assets/page_0182_img_01.png"
+      },
+      {
+        "id": "fig_113",
+        "num": "113",
+        "file": "page_0183_img_01.png",
+        "caption": "Sơ đồ quẻ Thủy Phong Tỉnh",
+        "rel_path": "assets/page_0183_img_01.png"
+      },
+      {
+        "id": "fig_114",
+        "num": "114",
+        "file": "page_0184_img_01.png",
+        "caption": "Sơ đồ quẻ Trạch Lôi Tùy biến Phong Lôi Ích",
+        "rel_path": "assets/page_0184_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 51,
+    "chunk_id": "ch28_0",
+    "title": "Chương 23: Dự đoán cổ phiếu",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch28_0.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch28_0_chuong_23_du_oan_co_phieu_branches.md",
+    "figures": [],
+    "parent_titles": []
+  },
+  {
+    "index": 52,
+    "chunk_id": "ch28_1",
+    "title": "Dụng thần trong dự đoán cổ phiếu",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch28_1.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch28_1_dung_than_trong_du_oan_co_phieu_branches.md",
+    "figures": [],
+    "parent_titles": [
+      "Chương 23: Dự đoán cổ phiếu"
+    ]
+  },
+  {
+    "index": 53,
+    "chunk_id": "ch28_2",
+    "title": "Trích xuất thông tin cổ phiếu",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch28_2.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch28_2_trich_xuat_thong_tin_co_phieu_branches.md",
+    "figures": [],
+    "parent_titles": [
+      "Chương 23: Dự đoán cổ phiếu"
+    ]
+  },
+  {
+    "index": 54,
+    "chunk_id": "ch28_3",
+    "title": "Dự đoán biến động giá trong một ngày",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch28_3.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch28_3_du_oan_bien_ong_gia_trong_mot_ngay_branches.md",
+    "figures": [
+      {
+        "id": "fig_115",
+        "num": "115",
+        "file": "page_0189_img_01.png",
+        "caption": "Quẻ Địa Lôi Phục biến Phong Địa Quan",
+        "rel_path": "assets/page_0189_img_01.png"
+      },
+      {
+        "id": "fig_116",
+        "num": "116",
+        "file": "page_0190_img_01.png",
+        "caption": "Quẻ Hỏa Trạch Khuê biến Hỏa Thủy Vị Tế",
+        "rel_path": "assets/page_0190_img_01.png"
+      },
+      {
+        "id": "fig_117",
+        "num": "117",
+        "file": "page_0191_img_01.png",
+        "caption": "Sơ đồ quẻ Đoài Vi Trạch biến Địa Trạch Lâm",
+        "rel_path": "assets/page_0191_img_01.png"
+      },
+      {
+        "id": "fig_118",
+        "num": "118",
+        "file": "page_0192_img_01.png",
+        "caption": "Sơ đồ quẻ Phong Thiên Tiểu Súc",
+        "rel_path": "assets/page_0192_img_01.png"
+      },
+      {
+        "id": "fig_119",
+        "num": "119",
+        "file": "page_0193_img_01.png",
+        "caption": "Sơ đồ quẻ Lôi Hỏa Phong biến Lôi Sơn Tiểu Quá",
+        "rel_path": "assets/page_0193_img_01.png"
+      },
+      {
+        "id": "fig_120",
+        "num": "120",
+        "file": "page_0194_img_01.png",
+        "caption": "Sơ đồ quẻ Đoài Vi Trạch biến Càn Vi Thiên",
+        "rel_path": "assets/page_0194_img_01.png"
+      },
+      {
+        "id": "fig_121",
+        "num": "121",
+        "file": "page_0195_img_01.png",
+        "caption": "Sơ đồ quẻ Sơn Thủy Mông",
+        "rel_path": "assets/page_0195_img_01.png"
+      },
+      {
+        "id": "fig_122",
+        "num": "122",
+        "file": "page_0196_img_01.png",
+        "caption": "Sơ đồ quẻ Càn Vi Thiên biến Thiên Phong Cấu",
+        "rel_path": "assets/page_0196_img_01.png"
+      },
+      {
+        "id": "fig_123",
+        "num": "123",
+        "file": "page_0197_img_01.png",
+        "caption": "Sơ đồ quẻ Hỏa Địa Tấn biến Thiên Thủy Tụng",
+        "rel_path": "assets/page_0197_img_01.png"
+      },
+      {
+        "id": "fig_124",
+        "num": "124",
+        "file": "page_0198_img_01.png",
+        "caption": "Sơ đồ quẻ Sơn Thủy Mông biến Chấn Vi Lôi",
+        "rel_path": "assets/page_0198_img_01.png"
+      },
+      {
+        "id": "fig_125",
+        "num": "125",
+        "file": "page_0199_img_01.png",
+        "caption": "Sơ đồ quẻ Trạch Phong Đại Quá biến Trạch Thủy Khốn",
+        "rel_path": "assets/page_0199_img_01.png"
+      },
+      {
+        "id": "fig_126",
+        "num": "126",
+        "file": "page_0200_img_01.png",
+        "caption": "Sơ đồ quẻ Thiên Trạch Lý",
+        "rel_path": "assets/page_0200_img_01.png"
+      },
+      {
+        "id": "fig_127",
+        "num": "127",
+        "file": "page_0201_img_01.png",
+        "caption": "Sơ đồ quẻ Thủy Phong Tỉnh biến Thiên Thủy Tụng",
+        "rel_path": "assets/page_0201_img_01.png"
+      },
+      {
+        "id": "fig_128",
+        "num": "128",
+        "file": "page_0202_img_01.png",
+        "caption": "Sơ đồ quẻ Thủy Trạch Tiết biến Thủy Địa Tỷ",
+        "rel_path": "assets/page_0202_img_01.png"
+      },
+      {
+        "id": "fig_129",
+        "num": "129",
+        "file": "page_0203_img_01.png",
+        "caption": "Quẻ Lôi Thủy Giải biến Lôi Phong Hằng",
+        "rel_path": "assets/page_0203_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 23: Dự đoán cổ phiếu"
+    ]
+  },
+  {
+    "index": 55,
+    "chunk_id": "ch28_4",
+    "title": "Dự đoán biến động giá trong một tuần",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch28_4.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch28_4_du_oan_bien_ong_gia_trong_mot_tuan_branches.md",
+    "figures": [
+      {
+        "id": "fig_130",
+        "num": "130",
+        "file": "page_0204_img_01.png",
+        "caption": "Quẻ Khảm Vi Thủy biến Thủy Địa Tỷ",
+        "rel_path": "assets/page_0204_img_01.png"
+      },
+      {
+        "id": "fig_131",
+        "num": "131",
+        "file": "page_0205_img_01.png",
+        "caption": "Quẻ Phong Lôi Ích biến Thiên Hỏa Đồng Nhân",
+        "rel_path": "assets/page_0205_img_01.png"
+      },
+      {
+        "id": "fig_132",
+        "num": "132",
+        "file": "page_0207_img_01.png",
+        "caption": "Quẻ Hỏa Trạch Khuê biến Lôi Trạch Quy Muội",
+        "rel_path": "assets/page_0207_img_01.png"
+      },
+      {
+        "id": "fig_133",
+        "num": "133",
+        "file": "page_0208_img_01.png",
+        "caption": "Quẻ Càn Vi Thiên biến Thiên Phong Cấu",
+        "rel_path": "assets/page_0208_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 23: Dự đoán cổ phiếu"
+    ]
+  },
+  {
+    "index": 56,
+    "chunk_id": "ch28_5",
+    "title": "Dự đoán thời gian tốt nhất mua vào và bán ra",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch28_5.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch28_5_du_oan_thoi_gian_tot_nhat_mua_vao_va_ban_branches.md",
+    "figures": [
+      {
+        "id": "fig_134",
+        "num": "134",
+        "file": "page_0209_img_01.png",
+        "caption": "Sơ đồ quẻ Trạch Thủy Khốn biến Khảm Vi Thủy",
+        "rel_path": "assets/page_0209_img_01.png"
+      },
+      {
+        "id": "fig_135",
+        "num": "135",
+        "file": "page_0210_img_01.png",
+        "caption": "Sơ đồ quẻ Hỏa Lôi Phệ Hạp biến Di",
+        "rel_path": "assets/page_0210_img_01.png"
+      },
+      {
+        "id": "fig_136",
+        "num": "136",
+        "file": "page_0211_img_01.png",
+        "caption": "Quẻ Trạch Thủy Khốn biến Lôi Thủy Giải",
+        "rel_path": "assets/page_0211_img_01.png"
+      },
+      {
+        "id": "fig_137",
+        "num": "137",
+        "file": "page_0212_img_01.png",
+        "caption": "Quẻ Sơn Thiên Đại Súc biến Càn Vi Thiên",
+        "rel_path": "assets/page_0212_img_01.png"
+      },
+      {
+        "id": "fig_138",
+        "num": "138",
+        "file": "page_0213_img_01.png",
+        "caption": "Quẻ Lôi Trạch Quy Muội biến Đoài Vi Trạch",
+        "rel_path": "assets/page_0213_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 23: Dự đoán cổ phiếu"
+    ]
+  },
+  {
+    "index": 57,
+    "chunk_id": "ch29",
+    "title": "Chương 24: Dự đoán xuất hành",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch29.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch29_chuong_24_du_oan_xuat_hanh_branches.md",
+    "figures": [
+      {
+        "id": "fig_139",
+        "num": "139",
+        "file": "page_0217_img_01.png",
+        "caption": "Sơ đồ quẻ Phong Hỏa Gia Nhân biến Thiên Hỏa Đồng Nhân",
+        "rel_path": "assets/page_0217_img_01.png"
+      },
+      {
+        "id": "fig_140",
+        "num": "140",
+        "file": "page_0218_img_01.png",
+        "caption": "Sơ đồ quẻ Sơn Lôi Di biến Khôn Vi Địa",
+        "rel_path": "assets/page_0218_img_01.png"
+      },
+      {
+        "id": "fig_141",
+        "num": "141",
+        "file": "page_0219_img_01.png",
+        "caption": "Sơ đồ quẻ Trạch Lôi Tùy biến Trạch Thiên Quải",
+        "rel_path": "assets/page_0219_img_01.png"
+      },
+      {
+        "id": "fig_142",
+        "num": "142",
+        "file": "page_0221_img_01.png",
+        "caption": "Sơ đồ quẻ Trạch Địa Tụy",
+        "rel_path": "assets/page_0221_img_01.png"
+      },
+      {
+        "id": "fig_143",
+        "num": "143",
+        "file": "page_0222_img_01.png",
+        "caption": "Sơ đồ quẻ Hỏa Lôi Phệ Hạp biến Hỏa Thủy Vị Tế",
+        "rel_path": "assets/page_0222_img_01.png"
+      },
+      {
+        "id": "fig_144",
+        "num": "144",
+        "file": "page_0223_img_01.png",
+        "caption": "Quẻ Càn Vi Thiên biến Trạch Phong Đại Quá",
+        "rel_path": "assets/page_0223_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 58,
+    "chunk_id": "ch30",
+    "title": "Chương 25: Dự đoán hành nhân",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch30.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch30_chuong_25_du_oan_hanh_nhan_branches.md",
+    "figures": [
+      {
+        "id": "fig_145",
+        "num": "145",
+        "file": "page_0227_img_01.png",
+        "caption": "Sơ đồ quẻ Sơn Hỏa Bí biến Sơn Trạch Tổn",
+        "rel_path": "assets/page_0227_img_01.png"
+      },
+      {
+        "id": "fig_146",
+        "num": "146",
+        "file": "page_0228_img_01.png",
+        "caption": "Sơ đồ quẻ Thiên Phong Cấu",
+        "rel_path": "assets/page_0228_img_01.png"
+      },
+      {
+        "id": "fig_147",
+        "num": "147",
+        "file": "page_0229_img_01.png",
+        "caption": "Quẻ Lôi Trạch Quy Muội biến Hỏa Trạch Khuê",
+        "rel_path": "assets/page_0229_img_01.png"
+      },
+      {
+        "id": "fig_148",
+        "num": "148",
+        "file": "page_0230_img_01.png",
+        "caption": "Quẻ Hỏa Sơn Lữ biến Cấn Vi Sơn",
+        "rel_path": "assets/page_0230_img_01.png"
+      },
+      {
+        "id": "fig_149",
+        "num": "149",
+        "file": "page_0232_img_01.png",
+        "caption": "Quẻ Phong Trạch Trung Phu biến Sơn Hỏa Bí",
+        "rel_path": "assets/page_0232_img_01.png"
+      },
+      {
+        "id": "fig_150",
+        "num": "150",
+        "file": "page_0233_img_01.png",
+        "caption": "Sơ đồ quẻ Thiên Thủy Tụng biến Hỏa Thiên Đại Hữu",
+        "rel_path": "assets/page_0233_img_01.png"
+      },
+      {
+        "id": "fig_151",
+        "num": "151",
+        "file": "page_0234_img_01.png",
+        "caption": "Sơ đồ quẻ Sơn Lôi Di biến Phong Thiên Tiểu Súc",
+        "rel_path": "assets/page_0234_img_01.png"
+      },
+      {
+        "id": "fig_152",
+        "num": "152",
+        "file": "page_0235_img_01.png",
+        "caption": "Quẻ Sơn Hỏa Bí biến Phong Hỏa Gia Nhân",
+        "rel_path": "assets/page_0235_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 59,
+    "chunk_id": "ch31",
+    "title": "Chương 26: Dự đoán vật bị mất",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch31.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch31_chuong_26_du_oan_vat_bi_mat_branches.md",
+    "figures": [
+      {
+        "id": "fig_153",
+        "num": "153",
+        "file": "page_0239_img_01.png",
+        "caption": "Sơ đồ quẻ Lôi Thủy Giải biến Trạch Thủy Khốn",
+        "rel_path": "assets/page_0239_img_01.png"
+      },
+      {
+        "id": "fig_154",
+        "num": "154",
+        "file": "page_0240_img_01.png",
+        "caption": "Sơ đồ quẻ Thiên Sơn Độn biến Lôi Sơn Tiểu Quá",
+        "rel_path": "assets/page_0240_img_01.png"
+      },
+      {
+        "id": "fig_155",
+        "num": "155",
+        "file": "page_0241_img_01.png",
+        "caption": "Sơ đồ quẻ Thiên Sơn Độn",
+        "rel_path": "assets/page_0241_img_01.png"
+      },
+      {
+        "id": "fig_156",
+        "num": "156",
+        "file": "page_0242_img_01.png",
+        "caption": "Sơ đồ quẻ Phong Trạch Trung Phu biến Thiên Trạch Lý",
+        "rel_path": "assets/page_0242_img_01.png"
+      },
+      {
+        "id": "fig_157",
+        "num": "157",
+        "file": "page_0243_img_01.png",
+        "caption": "Quẻ Phong Địa Quan biến Phong Thủy Hoán",
+        "rel_path": "assets/page_0243_img_01.png"
+      },
+      {
+        "id": "fig_158",
+        "num": "158",
+        "file": "page_0244_img_01.png",
+        "caption": "Quẻ Địa Hỏa Minh Di biến Sơn Hỏa Bí",
+        "rel_path": "assets/page_0244_img_01.png"
+      },
+      {
+        "id": "fig_159",
+        "num": "159",
+        "file": "page_0245_img_01.png",
+        "caption": "Quẻ Địa Trạch Lâm biến Lôi Thiên Đại Tráng",
+        "rel_path": "assets/page_0245_img_01.png"
+      },
+      {
+        "id": "fig_160",
+        "num": "160",
+        "file": "page_0246_img_01.png",
+        "caption": "Quẻ Sơn Hỏa Bí biến Lôi Hỏa Phong",
+        "rel_path": "assets/page_0246_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 60,
+    "chunk_id": "ch32",
+    "title": "Chương 27: Dự đoán thi cử",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch32.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch32_chuong_27_du_oan_thi_cu_branches.md",
+    "figures": [
+      {
+        "id": "fig_161",
+        "num": "161",
+        "file": "page_0248_img_01.png",
+        "caption": "Sơ đồ quẻ Sơn Thủy Mông biến Khôn Vi Địa",
+        "rel_path": "assets/page_0248_img_01.png"
+      },
+      {
+        "id": "fig_162",
+        "num": "162",
+        "file": "page_0249_img_01.png",
+        "caption": "Quẻ Thủy Trạch Tiết",
+        "rel_path": "assets/page_0249_img_01.png"
+      },
+      {
+        "id": "fig_163",
+        "num": "163",
+        "file": "page_0250_img_01.png",
+        "caption": "Quẻ Trạch Địa Tụy biến Hỏa Địa Tấn",
+        "rel_path": "assets/page_0250_img_01.png"
+      },
+      {
+        "id": "fig_164",
+        "num": "164",
+        "file": "page_0251_img_01.png",
+        "caption": "Sơ đồ quẻ Chấn Vi Lôi biến Sơn Thủy Mông",
+        "rel_path": "assets/page_0251_img_01.png"
+      },
+      {
+        "id": "fig_165",
+        "num": "165",
+        "file": "page_0251_img_02.png",
+        "caption": "Sơ đồ quẻ Cấn Vi Sơn biến Sơn Địa Bác",
+        "rel_path": "assets/page_0251_img_02.png"
+      },
+      {
+        "id": "fig_166",
+        "num": "166",
+        "file": "page_0252_img_01.png",
+        "caption": "Sơ đồ quẻ Lôi Hỏa Phong biến Hỏa Lôi Phệ Hạp",
+        "rel_path": "assets/page_0252_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 61,
+    "chunk_id": "ch33",
+    "title": "Chương 28: Dự đoán công việc",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch33.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch33_chuong_28_du_oan_cong_viec_branches.md",
+    "figures": [
+      {
+        "id": "fig_167",
+        "num": "167",
+        "file": "page_0257_img_01.png",
+        "caption": "Quẻ Trạch Thủy Khốn biến Phong Thiên Tiểu Súc",
+        "rel_path": "assets/page_0257_img_01.png"
+      },
+      {
+        "id": "fig_168",
+        "num": "168",
+        "file": "page_0258_img_01.png",
+        "caption": "Quẻ Lôi Hỏa Phong biến Trạch Thiên Quải",
+        "rel_path": "assets/page_0258_img_01.png"
+      },
+      {
+        "id": "fig_169",
+        "num": "169",
+        "file": "page_0261_img_01.png",
+        "caption": "Quẻ Trạch Hỏa Cách biến Thiên Hỏa Đồng Nhân",
+        "rel_path": "assets/page_0261_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 62,
+    "chunk_id": "ch34",
+    "title": "Chương 29: Dự đoán hôn nhân",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch34.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch34_chuong_29_du_oan_hon_nhan_branches.md",
+    "figures": [
+      {
+        "id": "fig_170",
+        "num": "170",
+        "file": "page_0264_img_01.png",
+        "caption": "Quẻ Lôi Địa Dự biến Địa Lôi Phục",
+        "rel_path": "assets/page_0264_img_01.png"
+      },
+      {
+        "id": "fig_171",
+        "num": "171",
+        "file": "page_0265_img_01.png",
+        "caption": "Quẻ Đoài Vi Trạch biến Trạch Thiên Quải",
+        "rel_path": "assets/page_0265_img_01.png"
+      },
+      {
+        "id": "fig_172",
+        "num": "172",
+        "file": "page_0266_img_01.png",
+        "caption": "Quẻ Sơn Phong Cổ biến Lôi Trạch Quy Muội",
+        "rel_path": "assets/page_0266_img_01.png"
+      },
+      {
+        "id": "fig_173",
+        "num": "173",
+        "file": "page_0267_img_01.png",
+        "caption": "Quẻ Địa Lôi Phục biến Trạch Lôi Tùy",
+        "rel_path": "assets/page_0267_img_01.png"
+      },
+      {
+        "id": "fig_174",
+        "num": "174",
+        "file": "page_0268_img_01.png",
+        "caption": "Quẻ Thiên Trạch Lý biến Trạch Thủy Khốn",
+        "rel_path": "assets/page_0268_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 63,
+    "chunk_id": "ch35_0",
+    "title": "Chương 30: Dự đoán thai sản",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch35_0.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch35_0_chuong_30_du_oan_thai_san_branches.md",
+    "figures": [],
+    "parent_titles": []
+  },
+  {
+    "index": 64,
+    "chunk_id": "ch35_1",
+    "title": "Cách chọn Dụng thần trong thai sản",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch35_1.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch35_1_cach_chon_dung_than_trong_thai_san_branches.md",
+    "figures": [],
+    "parent_titles": [
+      "Chương 30: Dự đoán thai sản"
+    ]
+  },
+  {
+    "index": 65,
+    "chunk_id": "ch35_2",
+    "title": "Trích xuất thông tin thai sản",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch35_2.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch35_2_trich_xuat_thong_tin_thai_san_branches.md",
+    "figures": [
+      {
+        "id": "fig_175",
+        "num": "175",
+        "file": "page_0271_img_01.png",
+        "caption": "Quẻ Trạch Phong Đại Quá biến Lôi Sơn Tiểu Quá",
+        "rel_path": "assets/page_0271_img_01.png"
+      },
+      {
+        "id": "fig_176",
+        "num": "176",
+        "file": "page_0272_img_01.png",
+        "caption": "Quẻ Thủy Địa Tỷ",
+        "rel_path": "assets/page_0272_img_01.png"
+      },
+      {
+        "id": "fig_177",
+        "num": "177",
+        "file": "page_0273_img_01.png",
+        "caption": "Quẻ Thiên Hỏa Đồng Nhân biến Thủy Phong Tỉnh",
+        "rel_path": "assets/page_0273_img_01.png"
+      },
+      {
+        "id": "fig_178",
+        "num": "178",
+        "file": "page_0274_img_01.png",
+        "caption": "Quẻ Phong Thủy Hoán biến Thiên Lôi Vô Vọng",
+        "rel_path": "assets/page_0274_img_01.png"
+      },
+      {
+        "id": "fig_179",
+        "num": "179",
+        "file": "page_0275_img_01.png",
+        "caption": "Sơ đồ quẻ Hỏa Địa Tấn biến Hỏa Trạch Khuê",
+        "rel_path": "assets/page_0275_img_01.png"
+      },
+      {
+        "id": "fig_180",
+        "num": "180",
+        "file": "page_0276_img_01.png",
+        "caption": "Sơ đồ quẻ Sơn Phong Cổ biến Địa Phong Thăng",
+        "rel_path": "assets/page_0276_img_01.png"
+      },
+      {
+        "id": "fig_181",
+        "num": "181",
+        "file": "page_0277_img_01.png",
+        "caption": "Sơ đồ quẻ Sơn Lôi Di",
+        "rel_path": "assets/page_0277_img_01.png"
+      },
+      {
+        "id": "fig_182",
+        "num": "182",
+        "file": "page_0278_img_01.png",
+        "caption": "Sơ đồ quẻ Địa Lôi Phục biến Địa Sơn Khiêm",
+        "rel_path": "assets/page_0278_img_01.png"
+      },
+      {
+        "id": "fig_183",
+        "num": "183",
+        "file": "page_0279_img_01.png",
+        "caption": "Quẻ Trạch Địa Tụy biến Trạch Sơn Hàm",
+        "rel_path": "assets/page_0279_img_01.png"
+      },
+      {
+        "id": "fig_184",
+        "num": "184",
+        "file": "page_0280_img_01.png",
+        "caption": "Quẻ Khôn Vi Địa biến Địa Lôi Phục",
+        "rel_path": "assets/page_0280_img_01.png"
+      },
+      {
+        "id": "fig_185",
+        "num": "185",
+        "file": "page_0281_img_01.png",
+        "caption": "Quẻ Địa Phong Thăng biến Lôi Thiên Đại Tráng",
+        "rel_path": "assets/page_0281_img_01.png"
+      },
+      {
+        "id": "fig_186",
+        "num": "186",
+        "file": "page_0282_img_01.png",
+        "caption": "Quẻ Sơn Địa Bác biến Trạch Thủy Khốn",
+        "rel_path": "assets/page_0282_img_01.png"
+      },
+      {
+        "id": "fig_187",
+        "num": "187",
+        "file": "page_0283_img_01.png",
+        "caption": "Quẻ Thủy Phong Tỉnh biến Khảm Vi Thủy",
+        "rel_path": "assets/page_0283_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 30: Dự đoán thai sản"
+    ]
+  },
+  {
+    "index": 66,
+    "chunk_id": "ch36_0",
+    "title": "Chương 31: Dự đoán bệnh tật",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch36_0.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch36_0_chuong_31_du_oan_benh_tat_branches.md",
+    "figures": [
+      {
+        "id": "fig_188",
+        "num": "188",
+        "file": "page_0286_img_01.png",
+        "caption": "Quẻ Địa Sơn Khiêm biến Lôi Địa Dự",
+        "rel_path": "assets/page_0286_img_01.png"
+      },
+      {
+        "id": "fig_189",
+        "num": "189",
+        "file": "page_0287_img_01.png",
+        "caption": "Sơ đồ quẻ Thủy Hỏa Ký Tế biến Phong Lôi Ích",
+        "rel_path": "assets/page_0287_img_01.png"
+      },
+      {
+        "id": "fig_190",
+        "num": "190",
+        "file": "page_0289_img_01.png",
+        "caption": "Quẻ Thủy Thiên Nhu biến Địa Lôi Phục",
+        "rel_path": "assets/page_0289_img_01.png"
+      },
+      {
+        "id": "fig_191",
+        "num": "191",
+        "file": "page_0291_img_01.png",
+        "caption": "Sơ đồ quẻ Sơn Thủy Mông biến Khôn Vi Địa",
+        "rel_path": "assets/page_0291_img_01.png"
+      },
+      {
+        "id": "fig_192",
+        "num": "192",
+        "file": "page_0292_img_01.png",
+        "caption": "Sơ đồ quẻ Chấn Vi Lôi biến Lôi Hỏa Phong",
+        "rel_path": "assets/page_0292_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 67,
+    "chunk_id": "ch36_1",
+    "title": "Phán đoán tổng hợp về bệnh tật",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch36_1.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch36_1_phan_oan_tong_hop_ve_benh_tat_branches.md",
+    "figures": [
+      {
+        "id": "fig_193",
+        "num": "193",
+        "file": "page_0295_img_01.png",
+        "caption": "Sơ đồ quẻ Hỏa Phong Đỉnh biến Ly Vi Hỏa",
+        "rel_path": "assets/page_0295_img_01.png"
+      },
+      {
+        "id": "fig_194",
+        "num": "194",
+        "file": "page_0296_img_01.png",
+        "caption": "Sơ đồ quẻ Hỏa Thiên Đại Hữu biến Thiên Lôi Vô Vọng",
+        "rel_path": "assets/page_0296_img_01.png"
+      },
+      {
+        "id": "fig_195",
+        "num": "195",
+        "file": "page_0297_img_01.png",
+        "caption": "Quẻ Thiên Hỏa Đồng Nhân biến Trạch Thủy Khốn",
+        "rel_path": "assets/page_0297_img_01.png"
+      },
+      {
+        "id": "fig_196",
+        "num": "196",
+        "file": "page_0298_img_01.png",
+        "caption": "Quẻ Thiên Lôi Vô Vọng biến Trạch Địa Tụy",
+        "rel_path": "assets/page_0298_img_01.png"
+      },
+      {
+        "id": "fig_197",
+        "num": "197",
+        "file": "page_0299_img_01.png",
+        "caption": "Quẻ Trạch Thiên Quải biến Lôi Thiên Đại Tráng",
+        "rel_path": "assets/page_0299_img_01.png"
+      },
+      {
+        "id": "fig_198",
+        "num": "198",
+        "file": "page_0301_img_01.png",
+        "caption": "Quẻ Trạch Lôi Tùy biến Hỏa Lôi Phệ Hạp",
+        "rel_path": "assets/page_0301_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 31: Dự đoán bệnh tật"
+    ]
+  },
+  {
+    "index": 68,
+    "chunk_id": "ch37_0",
+    "title": "Chương 32: Dự đoán vận khí trọn đời",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch37_0.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch37_0_chuong_32_du_oan_van_khi_tron_oi_branches.md",
+    "figures": [],
+    "parent_titles": []
+  },
+  {
+    "index": 69,
+    "chunk_id": "ch37_1",
+    "title": "Dụng thần trong vận khí trọn đời",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch37_1.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch37_1_dung_than_trong_van_khi_tron_oi_branches.md",
+    "figures": [],
+    "parent_titles": [
+      "Chương 32: Dự đoán vận khí trọn đời"
+    ]
+  },
+  {
+    "index": 70,
+    "chunk_id": "ch37_2",
+    "title": "Trích xuất thông tin về vận khí trọn đời",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch37_2.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch37_2_trich_xuat_thong_tin_ve_van_khi_tron_oi_branches.md",
+    "figures": [
+      {
+        "id": "fig_199",
+        "num": "199",
+        "file": "page_0308_img_01.png",
+        "caption": "Sơ đồ quẻ Thủy Địa Tỷ biến Phong Địa Quan",
+        "rel_path": "assets/page_0308_img_01.png"
+      },
+      {
+        "id": "fig_200",
+        "num": "200",
+        "file": "page_0309_img_01.png",
+        "caption": "Sơ đồ quẻ Sơn Lôi Di",
+        "rel_path": "assets/page_0309_img_01.png"
+      },
+      {
+        "id": "fig_201",
+        "num": "201",
+        "file": "page_0310_img_01.png",
+        "caption": "Sơ đồ quẻ Thủy Trạch Tiết",
+        "rel_path": "assets/page_0310_img_01.png"
+      },
+      {
+        "id": "fig_202",
+        "num": "202",
+        "file": "page_0311_img_01.png",
+        "caption": "Quẻ Sơn Hỏa Bí biến Thiên Thủy Tụng",
+        "rel_path": "assets/page_0311_img_01.png"
+      },
+      {
+        "id": "fig_203",
+        "num": "203",
+        "file": "page_0312_img_01.png",
+        "caption": "Quẻ Thiên Lôi Vô Vọng biến Trạch Lôi Tùy",
+        "rel_path": "assets/page_0312_img_01.png"
+      },
+      {
+        "id": "fig_204",
+        "num": "204",
+        "file": "page_0313_img_01.png",
+        "caption": "Quẻ Địa Trạch Lâm biến Lôi Trạch Quy Muội",
+        "rel_path": "assets/page_0313_img_01.png"
+      },
+      {
+        "id": "fig_205",
+        "num": "205",
+        "file": "page_0315_img_01.png",
+        "caption": "Sơ đồ quẻ Phong Sơn Tiệm biến Tốn Vi Phong",
+        "rel_path": "assets/page_0315_img_01.png"
+      },
+      {
+        "id": "fig_206",
+        "num": "206",
+        "file": "page_0316_img_01.png",
+        "caption": "Sơ đồ quẻ Thủy Thiên Nhu biến Thủy Phong Tỉnh",
+        "rel_path": "assets/page_0316_img_01.png"
+      },
+      {
+        "id": "fig_207",
+        "num": "207",
+        "file": "page_0317_img_01.png",
+        "caption": "Sơ đồ quẻ Trạch Thủy Khốn biến Trạch Phong Đại Quá",
+        "rel_path": "assets/page_0317_img_01.png"
+      },
+      {
+        "id": "fig_208",
+        "num": "208",
+        "file": "page_0319_img_01.png",
+        "caption": "Quẻ Địa Sơn Khiêm biến Trạch Hỏa Cách",
+        "rel_path": "assets/page_0319_img_01.png"
+      },
+      {
+        "id": "fig_209",
+        "num": "209",
+        "file": "page_0321_img_01.png",
+        "caption": "Quẻ Chấn Vi Lôi biến Trạch Địa Tụy",
+        "rel_path": "assets/page_0321_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 32: Dự đoán vận khí trọn đời"
+    ]
+  },
+  {
+    "index": 71,
+    "chunk_id": "ch38",
+    "title": "Chương 33: Dự đoán niên vận",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch38.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch38_chuong_33_du_oan_nien_van_branches.md",
+    "figures": [
+      {
+        "id": "fig_210",
+        "num": "210",
+        "file": "page_0323_img_01.png",
+        "caption": "Quẻ Thủy Lôi Truân biến Lôi Thủy Giải",
+        "rel_path": "assets/page_0323_img_01.png"
+      },
+      {
+        "id": "fig_211",
+        "num": "211",
+        "file": "page_0325_img_01.png",
+        "caption": "Quẻ Trạch Hỏa Cách biến Thiên Phong Cấu",
+        "rel_path": "assets/page_0325_img_01.png"
+      },
+      {
+        "id": "fig_212",
+        "num": "212",
+        "file": "page_0326_img_01.png",
+        "caption": "Quẻ Lôi Thủy Giải biến Thiên Hỏa Đồng Nhân",
+        "rel_path": "assets/page_0326_img_01.png"
+      },
+      {
+        "id": "fig_213",
+        "num": "213",
+        "file": "page_0327_img_01.png",
+        "caption": "Sơ đồ quẻ Thủy Phong Tỉnh biến Phong Thủy Hoán",
+        "rel_path": "assets/page_0327_img_01.png"
+      },
+      {
+        "id": "fig_214",
+        "num": "214",
+        "file": "page_0328_img_01.png",
+        "caption": "Sơ đồ quẻ Sơn Phong Cổ biến Sơn Hỏa Bí",
+        "rel_path": "assets/page_0328_img_01.png"
+      },
+      {
+        "id": "fig_215",
+        "num": "215",
+        "file": "page_0329_img_01.png",
+        "caption": "Sơ đồ quẻ Thiên Trạch Lý biến Đoài Vi Trạch",
+        "rel_path": "assets/page_0329_img_01.png"
+      },
+      {
+        "id": "fig_216",
+        "num": "216",
+        "file": "page_0330_img_01.png",
+        "caption": "Sơ đồ quẻ Địa Thiên Thái biến Thủy Lôi Truân",
+        "rel_path": "assets/page_0330_img_01.png"
+      },
+      {
+        "id": "fig_217",
+        "num": "217",
+        "file": "page_0331_img_01.png",
+        "caption": "Quẻ Trạch Lôi Tùy",
+        "rel_path": "assets/page_0331_img_01.png"
+      },
+      {
+        "id": "fig_218",
+        "num": "218",
+        "file": "page_0332_img_01.png",
+        "caption": "Quẻ Lôi Thủy Giải biến Đoài Vi Trạch",
+        "rel_path": "assets/page_0332_img_01.png"
+      }
+    ],
+    "parent_titles": []
+  },
+  {
+    "index": 72,
+    "chunk_id": "ch39_0",
+    "title": "Chương 34: Dự đoán phong thủy",
+    "start_level": 2,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch39_0.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch39_0_chuong_34_du_oan_phong_thuy_branches.md",
+    "figures": [],
+    "parent_titles": []
+  },
+  {
+    "index": 73,
+    "chunk_id": "ch39_1",
+    "title": "Ảnh hưởng của phong thủy và mục đích dự đoán",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch39_1.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch39_1_anh_huong_cua_phong_thuy_va_muc_ich_du_o_branches.md",
+    "figures": [],
+    "parent_titles": [
+      "Chương 34: Dự đoán phong thủy"
+    ]
+  },
+  {
+    "index": 74,
+    "chunk_id": "ch39_2",
+    "title": "Dụng thần trong dự đoán phong thủy",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch39_2.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch39_2_dung_than_trong_du_oan_phong_thuy_branches.md",
+    "figures": [],
+    "parent_titles": [
+      "Chương 34: Dự đoán phong thủy"
+    ]
+  },
+  {
+    "index": 75,
+    "chunk_id": "ch39_3",
+    "title": "Trích xuất thông tin từ hào vị",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch39_3.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch39_3_trich_xuat_thong_tin_tu_hao_vi_branches.md",
+    "figures": [],
+    "parent_titles": [
+      "Chương 34: Dự đoán phong thủy"
+    ]
+  },
+  {
+    "index": 76,
+    "chunk_id": "ch39_4",
+    "title": "Trích xuất thông tin từ lục thân",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch39_4.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch39_4_trich_xuat_thong_tin_tu_luc_than_branches.md",
+    "figures": [],
+    "parent_titles": [
+      "Chương 34: Dự đoán phong thủy"
+    ]
+  },
+  {
+    "index": 77,
+    "chunk_id": "ch39_5",
+    "title": "Trích xuất thông tin từ lục thần",
+    "start_level": 3,
+    "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments\\src\\ch39_5.txt",
+    "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\te_thuyet_luc_hao_du_trac_hoc\\fragments/ch39_5_trich_xuat_thong_tin_tu_luc_than_branches.md",
+    "figures": [
+      {
+        "id": "fig_219",
+        "num": "219",
+        "file": "page_0339_img_01.png",
+        "caption": "Quẻ Phong Trạch Trung Phu biến Tốn Vi Phong",
+        "rel_path": "assets/page_0339_img_01.png"
+      },
+      {
+        "id": "fig_220",
+        "num": "220",
+        "file": "page_0340_img_01.png",
+        "caption": "Quẻ Cấn Vi Sơn biến Sơn Địa Bác",
+        "rel_path": "assets/page_0340_img_01.png"
+      },
+      {
+        "id": "fig_221",
+        "num": "221",
+        "file": "page_0341_img_01.png",
+        "caption": "Quẻ Địa Lôi Phục biến Lôi Thiên Đại Tráng",
+        "rel_path": "assets/page_0341_img_01.png"
+      },
+      {
+        "id": "fig_222",
+        "num": "222",
+        "file": "page_0342_img_01.png",
+        "caption": "Quẻ Địa Hỏa Minh Di",
+        "rel_path": "assets/page_0342_img_01.png"
+      },
+      {
+        "id": "fig_223",
+        "num": "223",
+        "file": "page_0343_img_01.png",
+        "caption": "Quẻ Thủy Địa Tỷ biến Khôn Vi Địa",
+        "rel_path": "assets/page_0343_img_01.png"
+      },
+      {
+        "id": "fig_224",
+        "num": "224",
+        "file": "page_0344_img_01.png",
+        "caption": "Quẻ Hỏa Thiên Đại Hữu biến Ly Vi Hỏa",
+        "rel_path": "assets/page_0344_img_01.png"
+      },
+      {
+        "id": "fig_225",
+        "num": "225",
+        "file": "page_0345_img_01.png",
+        "caption": "Quẻ Địa Sơn Khiêm biến Phong Hỏa Gia Nhân",
+        "rel_path": "assets/page_0345_img_01.png"
+      },
+      {
+        "id": "fig_226",
+        "num": "226",
+        "file": "page_0346_img_01.png",
+        "caption": "Quẻ Trạch Sơn Hàm biến Thiên Sơn Độn",
+        "rel_path": "assets/page_0346_img_01.png"
+      },
+      {
+        "id": "fig_227",
+        "num": "227",
+        "file": "page_0347_img_01.png",
+        "caption": "Quẻ Phong Trạch Trung Phu biến Thiên Thủy Tụng",
+        "rel_path": "assets/page_0347_img_01.png"
+      },
+      {
+        "id": "fig_228",
+        "num": "228",
+        "file": "page_0348_img_01.png",
+        "caption": "Quẻ Thủy Thiên Nhu",
+        "rel_path": "assets/page_0348_img_01.png"
+      },
+      {
+        "id": "fig_229",
+        "num": "229",
+        "file": "page_0350_img_01.png",
+        "caption": "Sơ đồ quẻ Lôi Địa Dự",
+        "rel_path": "assets/page_0350_img_01.png"
+      },
+      {
+        "id": "fig_230",
+        "num": "230",
+        "file": "page_0351_img_01.png",
+        "caption": "Quẻ Sơn Trạch Tổn biến Lôi Trạch Quy Muội",
+        "rel_path": "assets/page_0351_img_01.png"
+      },
+      {
+        "id": "fig_231",
+        "num": "231",
+        "file": "page_0353_img_01.png",
+        "caption": "Quẻ Lôi Thiên Đại Tráng",
+        "rel_path": "assets/page_0353_img_01.png"
+      }
+    ],
+    "parent_titles": [
+      "Chương 34: Dự đoán phong thủy"
+    ]
+  }
+]

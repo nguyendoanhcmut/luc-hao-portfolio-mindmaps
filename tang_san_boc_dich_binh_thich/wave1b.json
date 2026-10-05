@@ -1,0 +1,242 @@
+[
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0081-P0082",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 81\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0081.png\"\n- page_2_number: 82\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0082.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0081.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0082.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0083-P0084",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 83\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0083.png\"\n- page_2_number: 84\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0084.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0083.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0084.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0085-P0086",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 85\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0085.png\"\n- page_2_number: 86\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0086.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0085.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0086.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0087-P0088",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 87\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0087.png\"\n- page_2_number: 88\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0088.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0087.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0088.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0089-P0090",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 89\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0089.png\"\n- page_2_number: 90\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0090.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0089.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0090.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0091-P0092",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 91\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0091.png\"\n- page_2_number: 92\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0092.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0091.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0092.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0093-P0094",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 93\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0093.png\"\n- page_2_number: 94\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0094.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0093.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0094.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0095-P0096",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 95\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0095.png\"\n- page_2_number: 96\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0096.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0095.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0096.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0097-P0098",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 97\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0097.png\"\n- page_2_number: 98\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0098.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0097.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0098.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0099-P0100",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 99\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0099.png\"\n- page_2_number: 100\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0100.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0099.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0100.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0101-P0102",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 101\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0101.png\"\n- page_2_number: 102\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0102.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0101.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0102.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0103-P0104",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 103\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0103.png\"\n- page_2_number: 104\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0104.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0103.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0104.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0105-P0106",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 105\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0105.png\"\n- page_2_number: 106\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0106.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0105.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0106.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0107-P0108",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 107\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0107.png\"\n- page_2_number: 108\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0108.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0107.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0108.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0109-P0110",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 109\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0109.png\"\n- page_2_number: 110\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0110.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0109.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0110.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0111-P0112",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 111\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0111.png\"\n- page_2_number: 112\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0112.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0111.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0112.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0113-P0114",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 113\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0113.png\"\n- page_2_number: 114\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0114.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0113.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0114.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0115-P0116",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 115\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0115.png\"\n- page_2_number: 116\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0116.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0115.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0116.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0117-P0118",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 117\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0117.png\"\n- page_2_number: 118\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0118.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0117.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0118.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0119-P0120",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 119\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0119.png\"\n- page_2_number: 120\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0120.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0119.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0120.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0121-P0122",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 121\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0121.png\"\n- page_2_number: 122\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0122.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0121.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0122.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0123-P0124",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 123\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0123.png\"\n- page_2_number: 124\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0124.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0123.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0124.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0125-P0126",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 125\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0125.png\"\n- page_2_number: 126\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0126.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0125.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0126.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0127-P0128",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 127\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0127.png\"\n- page_2_number: 128\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0128.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0127.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0128.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0129-P0130",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 129\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0129.png\"\n- page_2_number: 130\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0130.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0129.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0130.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0131-P0132",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 131\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0131.png\"\n- page_2_number: 132\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0132.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0131.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0132.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0133-P0134",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 133\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0133.png\"\n- page_2_number: 134\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0134.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0133.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0134.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0135-P0136",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 135\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0135.png\"\n- page_2_number: 136\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0136.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0135.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0136.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0137-P0138",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 137\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0137.png\"\n- page_2_number: 138\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0138.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0137.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0138.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0139-P0140",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 139\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0139.png\"\n- page_2_number: 140\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0140.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0139.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0140.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0141-P0142",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 141\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0141.png\"\n- page_2_number: 142\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0142.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0141.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0142.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0143-P0144",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 143\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0143.png\"\n- page_2_number: 144\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0144.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0143.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0144.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0145-P0146",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 145\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0145.png\"\n- page_2_number: 146\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0146.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0145.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0146.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0147-P0148",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 147\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0147.png\"\n- page_2_number: 148\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0148.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0147.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0148.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0149-P0150",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 149\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0149.png\"\n- page_2_number: 150\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0150.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0149.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0150.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0151-P0152",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 151\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0151.png\"\n- page_2_number: 152\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0152.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0151.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0152.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0153-P0154",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 153\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0153.png\"\n- page_2_number: 154\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0154.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0153.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0154.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0155-P0156",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 155\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0155.png\"\n- page_2_number: 156\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0156.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0155.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0156.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0157-P0158",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 157\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0157.png\"\n- page_2_number: 158\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0158.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0157.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0158.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "OCR Worker P0159-P0160",
+    "Prompt": "Transcribe the following 2 pages:\n- page_1_number: 159\n- page_1_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0159.png\"\n- page_2_number: 160\n- page_2_image: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/pages/page_0160.png\"\n- output_dir: \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results\"\n\nFollow your operational instructions:\n1. View image 1 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0159.json\".\n2. View image 2 and transcribe verbatim into \"C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/tang_san_boc_dich_binh_thich/page_results/page_0160.json\".\n3. Extract diagram bounding boxes if present.\n4. Send completion message back to the caller agent when done.",
+    "Model": "flash"
+  }
+]

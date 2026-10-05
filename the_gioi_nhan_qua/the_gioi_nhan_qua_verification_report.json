@@ -1,0 +1,85 @@
+{
+  "doc_slug": "the_gioi_nhan_qua",
+  "audit_timestamp": "2026-10-04T07:37:00Z",
+  "status": "PASSED",
+  "completeness_score": 1.0,
+  "gates": {
+    "section_coverage": {
+      "weight": 0.4,
+      "score": 1.0,
+      "weighted_score": 0.4,
+      "total_skeleton_titles": 202,
+      "matched_titles": 202,
+      "unmatched_titles": [],
+      "status": "PASS"
+    },
+    "depth": {
+      "weight": 0.3,
+      "score": 1.0,
+      "weighted_score": 0.3,
+      "heading_distribution": {
+        "1": 1,
+        "2": 18,
+        "3": 209,
+        "4": 373,
+        "5": 47,
+        "6": 0
+      },
+      "bullet_hierarchy": {
+        "0": 1464,
+        "1": 2432,
+        "2": 1384,
+        "3": 582,
+        "4": 187,
+        "5": 1
+      },
+      "total_headings": 648,
+      "total_bullets": 6050,
+      "status": "PASS"
+    },
+    "grounding": {
+      "weight": 0.2,
+      "score": 1.0,
+      "weighted_score": 0.2,
+      "grounded_bullet_count": 4499,
+      "total_bullet_count": 6050,
+      "manifest_figures_count": 175,
+      "matched_figures_count": 175,
+      "figure_coverage_rate": 1.0,
+      "img_tags_count": 175,
+      "figure_proof_blocks": 175,
+      "figure_deduction_blocks": 175,
+      "status": "PASS"
+    },
+    "lexicon": {
+      "weight": 0.1,
+      "score": 1.0,
+      "weighted_score": 0.1,
+      "total_lexicon_terms": 14,
+      "matched_lexicon_terms": 14,
+      "term_occurrences": {
+        "Nhân Quả trong Lục Hào": 1,
+        "Thủ Tượng Nhân Quả": 2,
+        "Đồng Khí Tương Cầu": 4,
+        "Hào Độc Phát": 56,
+        "Thủ Tượng Lục Thân": 2,
+        "Thủ Tượng Ngũ Hành": 5,
+        "Thủ Tượng Lục Thần": 1,
+        "Thủ Tượng Hào Vị": 2,
+        "Hóa Giải Lục Hào": 2,
+        "Vật Chất Âm Tính": 1,
+        "Vương Hổ Ứng": 5,
+        "Trần Phương": 1,
+        "Thế Giới Nhân Quả Trong Dự Đoán Lục Hào": 1,
+        "Lục Hào Cổ Pháp Dự Trắc Học": 1
+      },
+      "status": "PASS"
+    }
+  },
+  "summary": {
+    "total_gates": 4,
+    "passed_gates": 4,
+    "threshold": 0.95,
+    "final_decision": "PASSED"
+  }
+}

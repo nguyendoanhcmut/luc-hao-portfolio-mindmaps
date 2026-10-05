@@ -1,0 +1,242 @@
+[
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0081-P0082",
+    "Prompt": "page_1_number: 81, page_2_number: 82, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 81 and 82 verbatim into page_0081.json and page_0082.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0083-P0084",
+    "Prompt": "page_1_number: 83, page_2_number: 84, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 83 and 84 verbatim into page_0083.json and page_0084.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0085-P0086",
+    "Prompt": "page_1_number: 85, page_2_number: 86, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 85 and 86 verbatim into page_0085.json and page_0086.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0087-P0088",
+    "Prompt": "page_1_number: 87, page_2_number: 88, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 87 and 88 verbatim into page_0087.json and page_0088.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0089-P0090",
+    "Prompt": "page_1_number: 89, page_2_number: 90, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 89 and 90 verbatim into page_0089.json and page_0090.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0091-P0092",
+    "Prompt": "page_1_number: 91, page_2_number: 92, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 91 and 92 verbatim into page_0091.json and page_0092.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0093-P0094",
+    "Prompt": "page_1_number: 93, page_2_number: 94, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 93 and 94 verbatim into page_0093.json and page_0094.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0095-P0096",
+    "Prompt": "page_1_number: 95, page_2_number: 96, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 95 and 96 verbatim into page_0095.json and page_0096.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0097-P0098",
+    "Prompt": "page_1_number: 97, page_2_number: 98, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 97 and 98 verbatim into page_0097.json and page_0098.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0099-P0100",
+    "Prompt": "page_1_number: 99, page_2_number: 100, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 99 and 100 verbatim into page_0099.json and page_0100.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0101-P0102",
+    "Prompt": "page_1_number: 101, page_2_number: 102, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 101 and 102 verbatim into page_0101.json and page_0102.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0103-P0104",
+    "Prompt": "page_1_number: 103, page_2_number: 104, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 103 and 104 verbatim into page_0103.json and page_0104.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0105-P0106",
+    "Prompt": "page_1_number: 105, page_2_number: 106, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 105 and 106 verbatim into page_0105.json and page_0106.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0107-P0108",
+    "Prompt": "page_1_number: 107, page_2_number: 108, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 107 and 108 verbatim into page_0107.json and page_0108.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0109-P0110",
+    "Prompt": "page_1_number: 109, page_2_number: 110, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 109 and 110 verbatim into page_0109.json and page_0110.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0111-P0112",
+    "Prompt": "page_1_number: 111, page_2_number: 112, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 111 and 112 verbatim into page_0111.json and page_0112.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0113-P0114",
+    "Prompt": "page_1_number: 113, page_2_number: 114, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 113 and 114 verbatim into page_0113.json and page_0114.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0115-P0116",
+    "Prompt": "page_1_number: 115, page_2_number: 116, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 115 and 116 verbatim into page_0115.json and page_0116.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0117-P0118",
+    "Prompt": "page_1_number: 117, page_2_number: 118, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 117 and 118 verbatim into page_0117.json and page_0118.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0119-P0120",
+    "Prompt": "page_1_number: 119, page_2_number: 120, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 119 and 120 verbatim into page_0119.json and page_0120.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0121-P0122",
+    "Prompt": "page_1_number: 121, page_2_number: 122, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 121 and 122 verbatim into page_0121.json and page_0122.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0123-P0124",
+    "Prompt": "page_1_number: 123, page_2_number: 124, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 123 and 124 verbatim into page_0123.json and page_0124.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0125-P0126",
+    "Prompt": "page_1_number: 125, page_2_number: 126, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 125 and 126 verbatim into page_0125.json and page_0126.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0127-P0128",
+    "Prompt": "page_1_number: 127, page_2_number: 128, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 127 and 128 verbatim into page_0127.json and page_0128.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0129-P0130",
+    "Prompt": "page_1_number: 129, page_2_number: 130, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 129 and 130 verbatim into page_0129.json and page_0130.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0131-P0132",
+    "Prompt": "page_1_number: 131, page_2_number: 132, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 131 and 132 verbatim into page_0131.json and page_0132.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0133-P0134",
+    "Prompt": "page_1_number: 133, page_2_number: 134, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 133 and 134 verbatim into page_0133.json and page_0134.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0135-P0136",
+    "Prompt": "page_1_number: 135, page_2_number: 136, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 135 and 136 verbatim into page_0135.json and page_0136.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0137-P0138",
+    "Prompt": "page_1_number: 137, page_2_number: 138, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 137 and 138 verbatim into page_0137.json and page_0138.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0139-P0140",
+    "Prompt": "page_1_number: 139, page_2_number: 140, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 139 and 140 verbatim into page_0139.json and page_0140.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0141-P0142",
+    "Prompt": "page_1_number: 141, page_2_number: 142, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 141 and 142 verbatim into page_0141.json and page_0142.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0143-P0144",
+    "Prompt": "page_1_number: 143, page_2_number: 144, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 143 and 144 verbatim into page_0143.json and page_0144.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0145-P0146",
+    "Prompt": "page_1_number: 145, page_2_number: 146, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 145 and 146 verbatim into page_0145.json and page_0146.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0147-P0148",
+    "Prompt": "page_1_number: 147, page_2_number: 148, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 147 and 148 verbatim into page_0147.json and page_0148.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0149-P0150",
+    "Prompt": "page_1_number: 149, page_2_number: 150, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 149 and 150 verbatim into page_0149.json and page_0150.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0151-P0152",
+    "Prompt": "page_1_number: 151, page_2_number: 152, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 151 and 152 verbatim into page_0151.json and page_0152.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0153-P0154",
+    "Prompt": "page_1_number: 153, page_2_number: 154, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 153 and 154 verbatim into page_0153.json and page_0154.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0155-P0156",
+    "Prompt": "page_1_number: 155, page_2_number: 156, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 155 and 156 verbatim into page_0155.json and page_0156.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0157-P0158",
+    "Prompt": "page_1_number: 157, page_2_number: 158, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 157 and 158 verbatim into page_0157.json and page_0158.json.",
+    "Model": "inherit"
+  },
+  {
+    "TypeName": "two_page_worker",
+    "Role": "Worker P0159-P0160",
+    "Prompt": "page_1_number: 159, page_2_number: 160, pages_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/pages, output_dir: C:/Users/Admin/.gemini/antigravity/scratch/luc_hao_portfolio_ocr/luc_hao_nghi_hoac_chi_me/page_results. Transcribe pages 159 and 160 verbatim into page_0159.json and page_0160.json.",
+    "Model": "inherit"
+  }
+]

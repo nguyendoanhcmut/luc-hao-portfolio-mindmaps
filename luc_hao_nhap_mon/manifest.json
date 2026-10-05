@@ -1,0 +1,43 @@
+{
+  "total_pages": 20,
+  "page_offset": 0,
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Chương 1: Vũ trụ quan của Dịch",
+      "start_page": 1,
+      "end_page": 4
+    },
+    {
+      "id": 2,
+      "title": "Chương 2: Can Chi và dự đoán Lục Hào",
+      "start_page": 5,
+      "end_page": 7
+    },
+    {
+      "id": 3,
+      "title": "Chương 3: Kiến thức căn bản về Bát Quái",
+      "start_page": 8,
+      "end_page": 9
+    },
+    {
+      "id": 4,
+      "title": "Chương 4: Phương pháp lấy quẻ",
+      "start_page": 10,
+      "end_page": 11
+    },
+    {
+      "id": 5,
+      "title": "Chương 5: Phương pháp trang quẻ",
+      "start_page": 12,
+      "end_page": 16
+    },
+    {
+      "id": 6,
+      "title": "Chương 6: Tác dụng của Lục Thân, Lục Thần, Thế Ứng",
+      "start_page": 17,
+      "end_page": 20
+    }
+  ],
+  "page_image_dir": "pages/"
+}

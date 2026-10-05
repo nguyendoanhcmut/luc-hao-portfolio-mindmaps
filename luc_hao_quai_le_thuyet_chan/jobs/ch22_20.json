@@ -1,0 +1,30 @@
+{
+  "chunk_id": "ch22_20",
+  "title": "Một cô gái nhờ đoán về xem mặt, đoán ra hôn nhân trước đây",
+  "start_heading_level": 3,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch22_20.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch22_20_mot_co_gai_nho_oan_ve_xem_mat_oan_ra_hon_branches.md",
+  "figure_ids": [
+    "fig_145",
+    "fig_146"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_145",
+      "figure_number": "145",
+      "caption": "Sơ đồ quẻ Sơn Thiên Đại Súc biến Sơn Phong Cổ",
+      "rel_path": "assets/page_0235_img_01.png"
+    },
+    {
+      "id": "fig_146",
+      "figure_number": "146",
+      "caption": "Sơ đồ quẻ Thiên Trạch Lý biến Thiên Thủy Tụng",
+      "rel_path": "assets/page_0236_img_01.png"
+    }
+  ],
+  "exercises": [],
+  "parent_titles": [
+    "Chương 19: Câu Chuyện Lục Hào Đặc Sắc"
+  ]
+}

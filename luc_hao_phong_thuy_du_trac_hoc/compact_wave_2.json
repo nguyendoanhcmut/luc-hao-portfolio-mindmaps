@@ -1,0 +1,182 @@
+[
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_4",
+    "Prompt": "chunk_id: ch06_4\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_4.txt\nsection_title: 4. SÂN\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_4_4_san_branches.md\nassigned_figures: fig_20:assets/page_0079_img_01.png:Quẻ Trạch Thiên Quải biến Trạch Hỏa Cách\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_5",
+    "Prompt": "chunk_id: ch06_5\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_5.txt\nsection_title: 5. PHÒNG BẾP\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_5_5_phong_bep_branches.md\nassigned_figures: fig_21:assets/page_0081_img_01.png:Sơ đồ quẻ Đoài Vi Trạch biến Phong Lôi Ích\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_6",
+    "Prompt": "chunk_id: ch06_6\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_6.txt\nsection_title: 6. PHÒNG NGỦ\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_6_6_phong_ngu_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_7",
+    "Prompt": "chunk_id: ch06_7\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_7.txt\nsection_title: 7. BÀN THỜ\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_7_7_ban_tho_branches.md\nassigned_figures: fig_22:assets/page_0083_img_01.png:Sơ đồ quẻ Hỏa Trạch Khuê biến Hỏa Lôi Phệ Hạp\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_8",
+    "Prompt": "chunk_id: ch06_8\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_8.txt\nsection_title: 8. CỬA\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_8_8_cua_branches.md\nassigned_figures: fig_23:assets/page_0085_img_01.png:Quẻ Thiên Hỏa Đồng Nhân biến Trạch Hỏa Cách\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_9",
+    "Prompt": "chunk_id: ch06_9\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_9.txt\nsection_title: 9. TƯỜNG\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_9_9_tuong_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_10",
+    "Prompt": "chunk_id: ch06_10\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_10.txt\nsection_title: 10. MÁI NHÀ\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_10_10_mai_nha_branches.md\nassigned_figures: fig_24:assets/page_0087_img_01.png:Sơ đồ quẻ Thủy Sơn Kiển biến Phong Sơn Tiệm\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_11",
+    "Prompt": "chunk_id: ch06_11\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_11.txt\nsection_title: 11. GIƯỜNG\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_11_11_giuong_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_12",
+    "Prompt": "chunk_id: ch06_12\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_12.txt\nsection_title: 12. NHÀ VỆ SINH\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_12_12_nha_ve_sinh_branches.md\nassigned_figures: fig_25:assets/page_0090_img_01.png:Sơ đồ quẻ Thủy Sơn Kiển biến Khôn Vi Địa; fig_26:assets/page_0091_img_01.png:Quẻ Hỏa Thiên Đại Hữu biến Hỏa Trạch Khuê\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_1",
+    "Prompt": "chunk_id: ch06_13_1\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_1.txt\nsection_title: Ví dụ 1: Ngày Canh Thìn tháng Canh Ngọ năm Giáp Thân, một người dự đoán phong thủy nhà ...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_1_vi_du_1_ngay_canh_thin_thang_canh_ngo_na_branches.md\nassigned_figures: fig_27:assets/page_0092_img_01.png:Quẻ Hỏa Trạch Khuê biến Hỏa Lôi Phệ Hạp\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_2",
+    "Prompt": "chunk_id: ch06_13_2\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_2.txt\nsection_title: Ví dụ 2: Ngày Quý Mùi tháng Ngọ, nữ đoán phong thủy nhà cửa, được Lôi Phong Hằng biến L...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_2_vi_du_2_ngay_quy_mui_thang_ngo_nu_oan_ph_branches.md\nassigned_figures: fig_28:assets/page_0093_img_01.png:Quẻ Lôi Phong Hằng biến Lôi Sơn Tiểu Quá\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_3",
+    "Prompt": "chunk_id: ch06_13_3\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_3.txt\nsection_title: Ví dụ 3: Ngày Mậu Tý tháng Nhâm Dần năm Đinh Hợi, nam đoán phong thủy của căn nhà mới, ...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_3_vi_du_3_ngay_mau_ty_thang_nham_dan_nam_i_branches.md\nassigned_figures: fig_29:assets/page_0095_img_01.png:Quẻ Thủy Phong Tỉnh biến Trạch Phong Đại Quá\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_4",
+    "Prompt": "chunk_id: ch06_13_4\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_4.txt\nsection_title: Ví dụ 4: Ngày Quý Sửu tháng Mão, nữ đoán phong thủy nhà, được Hỏa Phong Đỉnh biến Lôi T...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_4_vi_du_4_ngay_quy_suu_thang_mao_nu_oan_ph_branches.md\nassigned_figures: fig_30:assets/page_0097_img_01.png:Sơ đồ quẻ Hỏa Phong Đỉnh biến Lôi Thủy Giải\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_5",
+    "Prompt": "chunk_id: ch06_13_5\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_5.txt\nsection_title: Ví dụ 5: Ngày Kỷ Hợi tháng Quý Mão năm Đinh Hợi, nam đoán phong thủy chỗ ở, được Sơn Đị...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_5_vi_du_5_ngay_ky_hoi_thang_quy_mao_nam_in_branches.md\nassigned_figures: fig_31:assets/page_0098_img_01.png:Sơ đồ quẻ Sơn Địa Bác\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_6",
+    "Prompt": "chunk_id: ch06_13_6\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_6.txt\nsection_title: Ví dụ 6: Ngày Ất Mùi tháng Quý Hợi năm Quý Mùi, nam đoán phong thủy nhà cửa, được Thủy ...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_6_vi_du_6_ngay_at_mui_thang_quy_hoi_nam_qu_branches.md\nassigned_figures: fig_32:assets/page_0099_img_01.png:Quẻ Thủy Thiên Nhu biến Thủy Sơn Kiển\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_7",
+    "Prompt": "chunk_id: ch06_13_7\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_7.txt\nsection_title: Ví dụ 7: Ngày Quý Tị tháng Hợi, nam đoán phong thủy phòng ở, được Hỏa Thiên Đại Hữu biế...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_7_vi_du_7_ngay_quy_ti_thang_hoi_nam_oan_ph_branches.md\nassigned_figures: fig_33:assets/page_0100_img_01.png:Quẻ Hỏa Thiên Đại Hữu biến Thiên Lôi Vô Vọng\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_8",
+    "Prompt": "chunk_id: ch06_13_8\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_8.txt\nsection_title: Ví dụ 8: Ngày Giáp Dần tháng Quý Hợi năm Quý Mùi, nữ đoán phong thủy nhà cửa, được Phon...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_8_vi_du_8_ngay_giap_dan_thang_quy_hoi_nam_branches.md\nassigned_figures: fig_34:assets/page_0101_img_01.png:Quẻ Phong Sơn Tiệm biến Tốn Vi Phong\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_9",
+    "Prompt": "chunk_id: ch06_13_9\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_9.txt\nsection_title: Ví dụ 9: Ngày Canh Thân tháng Giáp Tý năm Quý Mùi, nữ đoán phong thủy nhà cửa, được Pho...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_9_vi_du_9_ngay_canh_than_thang_giap_ty_nam_branches.md\nassigned_figures: fig_35:assets/page_0103_img_01.png:Sơ đồ quẻ Phong Thủy Hoán biến Thiên Trạch Lý; fig_36:assets/page_0105_img_01.png:Sơ đồ quẻ Phong Thủy Hoán biến Thiên Thủy Tụng\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_10",
+    "Prompt": "chunk_id: ch06_13_10\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_10.txt\nsection_title: Ví dụ 11: Ngày Tân Hợi tháng Tân Dậu năm Quý Mùi, một học viên hỏi phong thủy của nhà c...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_10_vi_du_11_ngay_tan_hoi_thang_tan_dau_nam_branches.md\nassigned_figures: fig_37:assets/page_0108_img_01.png:Sơ đồ quẻ Phong Hỏa Gia Nhân\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_11",
+    "Prompt": "chunk_id: ch06_13_11\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_11.txt\nsection_title: Ví dụ 12: Ngày Tân Hợi tháng Tân Dậu năm Quý Mùi, một học viên đoán phong thủy nhà anh ...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_11_vi_du_12_ngay_tan_hoi_thang_tan_dau_nam_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_12",
+    "Prompt": "chunk_id: ch06_13_12\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_12.txt\nsection_title: Ví dụ 13: Ngày Kỷ Mão tháng Quý Hợi năm Quý Mùi, nam đoán phong thủy của căn phòng được...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_12_vi_du_13_ngay_ky_mao_thang_quy_hoi_nam_q_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_13",
+    "Prompt": "chunk_id: ch06_13_13\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_13.txt\nsection_title: Ví dụ 14: Ngày Ất Hợi tháng Kỷ Dậu năm Đinh Sửu, nam đoán phong thủy nhà cửa, được Địa ...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_13_vi_du_14_ngay_at_hoi_thang_ky_dau_nam_in_branches.md\nassigned_figures: fig_38:assets/page_0111_img_01.png:Sơ đồ quẻ Địa Hỏa Minh Di\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_14",
+    "Prompt": "chunk_id: ch06_13_14\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_14.txt\nsection_title: Ví dụ 15: Ngày Nhâm Thân tháng Mậu Dần năm Ất Dậu, nam đoán bệnh con gái, được Hỏa Thủy...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_14_vi_du_15_ngay_nham_than_thang_mau_dan_na_branches.md\nassigned_figures: fig_39:assets/page_0112_img_01.png:Sơ đồ quẻ Hỏa Thủy Vị Tế biến Hỏa Trạch Khuê\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_15",
+    "Prompt": "chunk_id: ch06_13_15\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_15.txt\nsection_title: Ví dụ 16: Ngày Tân Hợi tháng Mão, nữ đoán phong thủy nhà cửa, được Sơn Trạch Tổn biến S...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_15_vi_du_16_ngay_tan_hoi_thang_mao_nu_oan_p_branches.md\nassigned_figures: fig_40:assets/page_0113_img_01.png:Sơ đồ quẻ Sơn Trạch Tổn biến Sơn Địa Bác\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_16",
+    "Prompt": "chunk_id: ch06_13_16\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_16.txt\nsection_title: Ví dụ 17: Ngày Nhâm Thìn tháng Ất Hợi năm Giáp Thân, nữ đoán phong thủy nhà trọ, được T...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_16_vi_du_17_ngay_nham_thin_thang_at_hoi_nam_branches.md\nassigned_figures: fig_41:assets/page_0114_img_01.png:Sơ đồ quẻ Trạch Địa Tụy biến Trạch Lôi Tùy\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_17",
+    "Prompt": "chunk_id: ch06_13_17\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_17.txt\nsection_title: Ví dụ 18: Ngày Nhâm Thân tháng Ất Mão năm Mậu Tý, nữ đoán con trai thi đại học ra sao? ...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_17_vi_du_18_ngay_nham_than_thang_at_mao_nam_branches.md\nassigned_figures: fig_42:assets/page_0115_img_01.png:Sơ đồ quẻ Hỏa Lôi Phệ Hạp biến Lôi Trạch Quy Muội\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_18",
+    "Prompt": "chunk_id: ch06_13_18\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_18.txt\nsection_title: Ví dụ 19: Ngày Đinh Hợi tháng Kỷ Dậu năm Nhâm Ngọ, nam đoán tài vận, được Sơn Địa Bác b...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_18_vi_du_19_ngay_inh_hoi_thang_ky_dau_nam_n_branches.md\nassigned_figures: fig_43:assets/page_0116_img_01.png:Sơ đồ quẻ Sơn Địa Bác biến Địa Thủy Sư\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_19",
+    "Prompt": "chunk_id: ch06_13_19\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_19.txt\nsection_title: Ví dụ 20: Ngày Quý Dậu tháng Ất Mão năm Mậu Tý, nam đoán hôn nhân, được Thủy Địa Tỷ biế...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_19_vi_du_20_ngay_quy_dau_thang_at_mao_nam_m_branches.md\nassigned_figures: fig_44:assets/page_0117_img_01.png:Sơ đồ quẻ Thủy Địa Tỷ biến Khôn Vi Địa\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_20",
+    "Prompt": "chunk_id: ch06_13_20\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_20.txt\nsection_title: Ví dụ 21: Ngày Bính Tuất tháng Bính Thìn năm Mậu Tý, nam đoán phong thủy nhà cửa, được ...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_20_vi_du_21_ngay_binh_tuat_thang_binh_thin_branches.md\nassigned_figures: fig_45:assets/page_0119_img_01.png:Sơ đồ quẻ Thiên Lôi Vô Vọng biến Thiên Hỏa Đồng Nhân\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_13_21",
+    "Prompt": "chunk_id: ch06_13_21\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_13_21.txt\nsection_title: Ví dụ 22: Ngày Canh Tý tháng Bính Thìn năm Mậu Tý, nữ đoán phong thủy nhà cửa, được Pho...\nstart_level: 4\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_13_21_vi_du_22_ngay_canh_ty_thang_binh_thin_na_branches.md\nassigned_figures: fig_46:assets/page_0120_img_01.png:Sơ đồ quẻ Phong Trạch Trung Phu biến Thủy Trạch Tiết; fig_47:assets/page_0121_img_01.png:Sơ đồ quẻ Thủy Thiên Nhu biến Địa Thiên Thái; fig_48:assets/page_0122_img_01.png:Sơ đồ quẻ Phong Thiên Tiểu Súc biến Thiên Lôi Vô Vọng\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  }
+]

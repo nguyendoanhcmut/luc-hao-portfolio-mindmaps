@@ -1,0 +1,149 @@
+{
+  "doc_slug": "luc_hao_kinh_te_du_trac_hoc",
+  "doc_title": "Lục Hào Kinh Tế Dự Trắc Học",
+  "audit_timestamp": "2026-10-04T12:35:26.331354+00:00",
+  "completeness_score": 1.0,
+  "pass": true,
+  "status": "PASSED",
+  "gate_scores": {
+    "section_coverage": {
+      "score": 1.0,
+      "observed": 59,
+      "expected": 59,
+      "missing": []
+    },
+    "depth": {
+      "score": 1.0,
+      "compliant": 489,
+      "total": 489,
+      "shallow": []
+    },
+    "grounding": {
+      "score": 1.0,
+      "grounded": 10064,
+      "total": 11119,
+      "vague": [],
+      "misplaced_figures": []
+    },
+    "lexicon": {
+      "score": 1.0,
+      "resolved": 17,
+      "declared": 17,
+      "unresolved": []
+    }
+  },
+  "gates": {
+    "section_coverage": {
+      "weight": 0.4,
+      "score": 1.0,
+      "weighted_score": 0.4,
+      "total_skeleton_titles": 59,
+      "matched_titles": 59,
+      "unmatched_titles": [],
+      "status": "PASS"
+    },
+    "depth": {
+      "weight": 0.3,
+      "score": 1.0,
+      "weighted_score": 0.3,
+      "heading_distribution": {
+        "H1": 1,
+        "H2": 12,
+        "H3": 72,
+        "H4": 374,
+        "H5": 112,
+        "H6": 0
+      },
+      "bullet_hierarchy": {
+        "depth_0": 2003,
+        "depth_1": 4295,
+        "depth_2": 4713,
+        "depth_3": 104,
+        "depth_4": 4
+      },
+      "total_headings": 571,
+      "total_bullets": 11119,
+      "total_leaf_sections": 489,
+      "shallow_leaf_sections": 0,
+      "invalid_heading_transitions": 0,
+      "status": "PASS"
+    },
+    "grounding": {
+      "weight": 0.2,
+      "score": 1.0,
+      "weighted_score": 0.2,
+      "manifest_figures_count": 344,
+      "matched_figures_count": 344,
+      "embedded_figures_branches": 344,
+      "figure_coverage_rate": 1.0,
+      "missing_figures_on_disk": 0,
+      "proof_blocks_count": 344,
+      "deduction_blocks_count": 334,
+      "rules_grounded_count": 38,
+      "rules_total_count": 38,
+      "grounded_bullets_count": 10064,
+      "total_bullets_count": 11119,
+      "grounding_bullet_ratio": 0.9051,
+      "status": "PASS"
+    },
+    "lexicon": {
+      "weight": 0.1,
+      "score": 1.0,
+      "weighted_score": 0.1,
+      "key_terms_count": 13,
+      "resolved_terms_count": 13,
+      "key_entities_count": 4,
+      "resolved_entities_count": 4,
+      "total_lexicon_declared": 17,
+      "total_lexicon_resolved": 17,
+      "term_occurrences": {
+        "Thê Tài": 2703,
+        "Tử Tôn": 755,
+        "Huynh Đệ": 843,
+        "Phụ Mẫu": 1073,
+        "Quan Quỷ": 615,
+        "Hào Thế": 748,
+        "Hào Ứng": 581,
+        "Độc Phát": 338,
+        "Tiến Thần - Thoái Thần": 71,
+        "Nguyệt Phá - Không Vong": 328,
+        "Lục Hợp - Lục Xung": 131,
+        "Phản Ngâm - Phục Ngâm": 52,
+        "Du Hồn - Quy Hồn": 39,
+        "Vương Hổ Ứng": 18,
+        "Lưu Thiết Khanh": 1,
+        "Trần Phương": 4,
+        "Vũ Phác": 3
+      },
+      "unresolved": [],
+      "status": "PASS"
+    }
+  },
+  "audit_metadata": {
+    "doc_slug": "luc_hao_kinh_te_du_trac_hoc",
+    "doc_title": "Lục Hào Kinh Tế Dự Trắc Học",
+    "total_headings": 571,
+    "total_lines": 13411,
+    "total_bullets": 11119,
+    "figures_audit": {
+      "total_figures_manifest": 344,
+      "embedded_figures": 344,
+      "proof_blocks": 344,
+      "deduction_blocks": 334,
+      "missing_figures": []
+    },
+    "lexicon_audit": {
+      "key_terms_count": 13,
+      "key_entities_count": 4,
+      "resolved_terms_count": 13,
+      "resolved_entities_count": 4
+    }
+  },
+  "summary": {
+    "total_gates": 4,
+    "passed_gates": 4,
+    "threshold": 0.95,
+    "final_decision": "PASSED"
+  },
+  "remediation_directives": []
+}

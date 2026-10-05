@@ -1,0 +1,240 @@
+{
+  "worker_id": "worker_03",
+  "total_chunks": 17,
+  "chunks": [
+    {
+      "chunk_id": "ch09_0",
+      "title": "Chương 8: THỦ TƯỢNG LỤC THÂN PHÁN ĐOÁN NHÂN QUẢ",
+      "start_heading_level": 2,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch09_0.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch09_0_chuong_8_thu_tuong_luc_than_phan_oan_nha_branches.md",
+      "figures": []
+    },
+    {
+      "chunk_id": "ch09_1",
+      "title": "Lưới sắt bao quanh",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch09_1.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch09_1_luoi_sat_bao_quanh_branches.md",
+      "figures": []
+    },
+    {
+      "chunk_id": "ch09_2",
+      "title": "Hồn của hài nhi đang bị đè ở dưới",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch09_2.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch09_2_hon_cua_hai_nhi_ang_bi_e_o_duoi_branches.md",
+      "figures": [
+        {
+          "id": "fig_24",
+          "figure_number": "24",
+          "caption": "Sơ đồ quẻ Thiên Địa Bĩ biến Thiên Lôi Vô Vọng",
+          "rel_path": "assets/page_0056_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch09_3",
+      "title": "Anh có nhà chưa xây xong",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch09_3.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch09_3_anh_co_nha_chua_xay_xong_branches.md",
+      "figures": [
+        {
+          "id": "fig_25",
+          "figure_number": "25",
+          "caption": "Sơ đồ quẻ Sơn Lôi Di biến Phong Lôi Ích",
+          "rel_path": "assets/page_0057_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch09_4",
+      "title": "Nền nhà bếp đã động ống dẫn",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch09_4.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch09_4_nen_nha_bep_a_ong_ong_dan_branches.md",
+      "figures": [
+        {
+          "id": "fig_26",
+          "figure_number": "26",
+          "caption": "Sơ đồ quẻ Thiên Địa Bĩ biến Phong Lôi Ích",
+          "rel_path": "assets/page_0058_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch09_5",
+      "title": "Tượng Phật trong nhà đã ảnh hưởng đến thân thể",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch09_5.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch09_5_tuong_phat_trong_nha_a_anh_huong_en_than_branches.md",
+      "figures": [
+        {
+          "id": "fig_27",
+          "figure_number": "27",
+          "caption": "Quẻ Sơn Thủy Mông biến Địa Hỏa Minh Di",
+          "rel_path": "assets/page_0059_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch09_6",
+      "title": "Do đào giếng gây ra",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch09_6.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch09_6_do_ao_gieng_gay_ra_branches.md",
+      "figures": [
+        {
+          "id": "fig_28",
+          "figure_number": "28",
+          "caption": "Sơ đồ quẻ Địa Thủy Sư biến Khôn Vi Địa",
+          "rel_path": "assets/page_0062_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch09_7",
+      "title": "Nhà anh đã phá đại môn và xây lại",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch09_7.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch09_7_nha_anh_a_pha_ai_mon_va_xay_lai_branches.md",
+      "figures": [
+        {
+          "id": "fig_29",
+          "figure_number": "29",
+          "caption": "Quẻ Thủy Hỏa Ký Tế biến Địa Sơn Khiêm",
+          "rel_path": "assets/page_0063_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch09_8",
+      "title": "Trên đường ống có lỗ",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch09_8.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch09_8_tren_uong_ong_co_lo_branches.md",
+      "figures": [
+        {
+          "id": "fig_30",
+          "figure_number": "30",
+          "caption": "Quẻ Thủy Phong Tỉnh biến Trạch Phong Đại Quá",
+          "rel_path": "assets/page_0064_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch09_9",
+      "title": "Gần đây đã động tượng Phật",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch09_9.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch09_9_gan_ay_a_ong_tuong_phat_branches.md",
+      "figures": [
+        {
+          "id": "fig_31",
+          "figure_number": "31",
+          "caption": "Sơ đồ quẻ Phong Trạch Trung Phu biến Thủy Hỏa Ký Tế",
+          "rel_path": "assets/page_0065_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch09_10",
+      "title": "Cúng Phật đã cúng sai",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch09_10.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch09_10_cung_phat_a_cung_sai_branches.md",
+      "figures": [
+        {
+          "id": "fig_32",
+          "figure_number": "32",
+          "caption": "Quẻ Thủy Hỏa Ký Tế biến Địa Hỏa Minh Di",
+          "rel_path": "assets/page_0066_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch09_11",
+      "title": "Nhà có năm pho tượng Phật",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch09_11.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch09_11_nha_co_nam_pho_tuong_phat_branches.md",
+      "figures": [
+        {
+          "id": "fig_33",
+          "figure_number": "33",
+          "caption": "Quẻ Lôi Sơn Tiểu Quá biến Ly Vi Hỏa",
+          "rel_path": "assets/page_0067_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch09_12",
+      "title": "Chuyển nhà đã ảnh hưởng đến tài vận",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch09_12.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch09_12_chuyen_nha_a_anh_huong_en_tai_van_branches.md",
+      "figures": [
+        {
+          "id": "fig_34",
+          "figure_number": "34",
+          "caption": "Quẻ Trạch Sơn Hàm biến Trạch Địa Tụy",
+          "rel_path": "assets/page_0070_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch09_13",
+      "title": "Anh đã tham dự lễ tang của bằng hữu",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch09_13.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch09_13_anh_a_tham_du_le_tang_cua_bang_huu_branches.md",
+      "figures": [
+        {
+          "id": "fig_35",
+          "figure_number": "35",
+          "caption": "Sơ đồ quẻ Thủy Trạch Tiết biến Phong Trạch Trung Phu",
+          "rel_path": "assets/page_0071_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch09_14",
+      "title": "Sắc dục quá độ gây nên bệnh",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch09_14.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch09_14_sac_duc_qua_o_gay_nen_benh_branches.md",
+      "figures": [
+        {
+          "id": "fig_36",
+          "figure_number": "36",
+          "caption": "Sơ đồ quẻ Hỏa Thiên Đại Hữu biến Bát Thuần Cấn",
+          "rel_path": "assets/page_0074_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch09_15",
+      "title": "Rỉ nước bất lợi cho công nhân",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch09_15.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch09_15_ri_nuoc_bat_loi_cho_cong_nhan_branches.md",
+      "figures": []
+    },
+    {
+      "chunk_id": "ch09_16",
+      "title": "Sức mạnh của diều chim ưng",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch09_16.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch09_16_suc_manh_cua_dieu_chim_ung_branches.md",
+      "figures": [
+        {
+          "id": "fig_37",
+          "figure_number": "37",
+          "caption": "Sơ đồ quẻ Cấn Vi Sơn biến Hỏa Địa Tấn",
+          "rel_path": "assets/page_0077_img_01.png"
+        }
+      ]
+    }
+  ]
+}

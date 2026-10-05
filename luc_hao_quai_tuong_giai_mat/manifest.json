@@ -1,0 +1,146 @@
+{
+  "summary": {
+    "total_books": 1,
+    "total_pages": 194,
+    "total_worker_pairs": 97,
+    "total_chapters": 11,
+    "total_batches": 2,
+    "total_waves": 2,
+    "est_time_sec_min": 24,
+    "est_time_sec_max": 30,
+    "est_time_str": "24-30s (0.4-0.5 min)"
+  },
+  "books": [
+    {
+      "file": "VƯƠNG HỔ ỨNG - LỤC HÀO QUÁI TƯỢNG GIẢI MẬT.pdf",
+      "path": "C:\\Users\\Admin\\Downloads\\drive-download-20260908T061604Z-1-001\\VƯƠNG HỔ ỨNG - LỤC HÀO QUÁI TƯỢNG GIẢI MẬT.pdf",
+      "total_pages": 194,
+      "worker_pairs": 97,
+      "has_native_text": false,
+      "detection_tier": "Tier 1 (TOC Bookmarks)",
+      "chapters_count": 11,
+      "batches_count": 2,
+      "total_waves": 2,
+      "est_time_sec_min": 24,
+      "est_time_sec_max": 30,
+      "est_time_str": "24-30s",
+      "chapters": [
+        {
+          "title": "BÌA",
+          "start_page": 1,
+          "end_page": 4,
+          "id": 1,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "MỤC LỤC",
+          "start_page": 5,
+          "end_page": 6,
+          "id": 2,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "LỜI NÓI ĐẦU",
+          "start_page": 7,
+          "end_page": 8,
+          "id": 3,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 1. GIẢI THÍCH VÀ ỨNG DỤNG TƯỢNG 8 QUẺ CUNG CÀN",
+          "start_page": 9,
+          "end_page": 34,
+          "id": 4,
+          "pages": 26,
+          "pairs": 13
+        },
+        {
+          "title": "CHƯƠNG 2. GIẢI THÍCH VÀ ỨNG DỤNG TƯỢNG 8 QUẺ CUNG ĐOÀI",
+          "start_page": 35,
+          "end_page": 60,
+          "id": 5,
+          "pages": 26,
+          "pairs": 13
+        },
+        {
+          "title": "CHƯƠNG 3. GIẢI THÍCH VÀ ỨNG DỤNG TƯỢNG 8 QUẺ CUNG LY",
+          "start_page": 61,
+          "end_page": 82,
+          "id": 6,
+          "pages": 22,
+          "pairs": 11
+        },
+        {
+          "title": "CHƯƠNG 4. GIẢI THÍCH VÀ ỨNG DỤNG TƯỢNG 8 QUẺ CUNG CHẤN",
+          "start_page": 83,
+          "end_page": 104,
+          "id": 7,
+          "pages": 22,
+          "pairs": 11
+        },
+        {
+          "title": "CHƯƠNG 5. GIẢI THÍCH VÀ ỨNG DỤNG TƯỢNG 8 QUẺ CUNG TỐN",
+          "start_page": 105,
+          "end_page": 124,
+          "id": 8,
+          "pages": 20,
+          "pairs": 10
+        },
+        {
+          "title": "CHƯƠNG 6. GIẢI THÍCH VÀ ỨNG DỤNG TƯỢNG 8 QUẺ CUNG KHẢM",
+          "start_page": 125,
+          "end_page": 146,
+          "id": 9,
+          "pages": 22,
+          "pairs": 11
+        },
+        {
+          "title": "CHƯƠNG 7. GIẢI THÍCH VÀ ỨNG DỤNG TƯỢNG 8 QUẺ CUNG CẤN",
+          "start_page": 147,
+          "end_page": 176,
+          "id": 10,
+          "pages": 30,
+          "pairs": 15
+        },
+        {
+          "title": "CHƯƠNG 8. GIẢI THÍCH VÀ ỨNG DỤNG TƯỢNG 8 QUẺ CUNG KHÔN",
+          "start_page": 177,
+          "end_page": 194,
+          "id": 11,
+          "pages": 18,
+          "pairs": 9
+        }
+      ],
+      "batches": [
+        {
+          "batch_id": 1,
+          "chapter_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "total_pairs": 73,
+          "waves": 1
+        },
+        {
+          "batch_id": 2,
+          "chapter_ids": [
+            10,
+            11
+          ],
+          "total_pairs": 24,
+          "waves": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "summary": {
+    "total_books": 1,
+    "total_pages": 25,
+    "total_worker_pairs": 13,
+    "total_chapters": 3,
+    "total_batches": 1,
+    "total_waves": 1,
+    "est_time_sec_min": 12,
+    "est_time_sec_max": 15,
+    "est_time_str": "12-15s (0.2-0.2 min)"
+  },
+  "books": [
+    {
+      "file": "VƯƠNG HỔ ỨNG - KHÔNG VONG, NGUYỆT PHÁ, 12 CUNG TRƯỜNG SINH BÍ LUẬN.pdf",
+      "path": "C:\\Users\\Admin\\Downloads\\drive-download-20260908T061604Z-1-001\\VƯƠNG HỔ ỨNG - KHÔNG VONG, NGUYỆT PHÁ, 12 CUNG TRƯỜNG SINH BÍ LUẬN.pdf",
+      "total_pages": 25,
+      "worker_pairs": 13,
+      "has_native_text": true,
+      "detection_tier": "Tier 1 (TOC Bookmarks)",
+      "chapters_count": 3,
+      "batches_count": 1,
+      "total_waves": 1,
+      "est_time_sec_min": 12,
+      "est_time_sec_max": 15,
+      "est_time_str": "12-15s",
+      "chapters": [
+        {
+          "title": "1. VẬN DỤNG KHÔNG VONG MỘT CÁCH LINH HOẠT",
+          "start_page": 1,
+          "end_page": 7,
+          "id": 1,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "2. NGUYỆT PHÁ BIỆN NGHĨA",
+          "start_page": 8,
+          "end_page": 10,
+          "id": 2,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "3. BÍ LUẬN 12 CUNG TRƯỜNG SINH",
+          "start_page": 11,
+          "end_page": 25,
+          "id": 3,
+          "pages": 15,
+          "pairs": 8
+        }
+      ],
+      "batches": [
+        {
+          "batch_id": 1,
+          "chapter_ids": [
+            1,
+            2,
+            3
+          ],
+          "total_pairs": 14,
+          "waves": 1
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "1. VẬN DỤNG KHÔNG VONG MỘT CÁCH LINH HOẠT",
+      "start_page": 1,
+      "end_page": 7,
+      "id": 1,
+      "pages": 7,
+      "pairs": 4
+    },
+    {
+      "title": "2. NGUYỆT PHÁ BIỆN NGHĨA",
+      "start_page": 8,
+      "end_page": 10,
+      "id": 2,
+      "pages": 3,
+      "pairs": 2
+    },
+    {
+      "title": "3. BÍ LUẬN 12 CUNG TRƯỜNG SINH",
+      "start_page": 11,
+      "end_page": 25,
+      "id": 3,
+      "pages": 15,
+      "pairs": 8
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "chunk_id": "ch06",
+  "title": "Chương 3: Thoái Thần Biện Nghĩa",
+  "start_heading_level": 2,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch06.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch06_chuong_3_thoai_than_bien_nghia_branches.md",
+  "figure_ids": [
+    "fig_10",
+    "fig_11",
+    "fig_12",
+    "fig_13",
+    "fig_14",
+    "fig_15"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_10",
+      "figure_number": "10",
+      "caption": "Sơ đồ quẻ Thiên Địa Bĩ biến Trạch Địa Tụy",
+      "rel_path": "assets/page_0033_img_01.png"
+    },
+    {
+      "id": "fig_11",
+      "figure_number": "11",
+      "caption": "Sơ đồ quẻ Trạch Thiên Quải biến Lôi Thiên Đại Tráng",
+      "rel_path": "assets/page_0034_img_01.png"
+    },
+    {
+      "id": "fig_12",
+      "figure_number": "12",
+      "caption": "Sơ đồ quẻ Sơn Trạch Tổn biến Sơn Lôi Di",
+      "rel_path": "assets/page_0035_img_01.png"
+    },
+    {
+      "id": "fig_13",
+      "figure_number": "13",
+      "caption": "Sơ đồ quẻ Trạch Thiên Quải biến Lôi Địa Dự",
+      "rel_path": "assets/page_0037_img_01.png"
+    },
+    {
+      "id": "fig_14",
+      "figure_number": "14",
+      "caption": "Quẻ Trạch Phong Đại Quá biến Lôi Phong Hằng",
+      "rel_path": "assets/page_0039_img_01.png"
+    },
+    {
+      "id": "fig_15",
+      "figure_number": "15",
+      "caption": "Quẻ Thiên Hỏa Đồng Nhân biến Trạch Hỏa Cách",
+      "rel_path": "assets/page_0040_img_01.png"
+    }
+  ],
+  "exercises": [
+    {
+      "line": 466,
+      "exercise_id": "vd_010",
+      "title": "Ví dụ 1: Ngày Ất Mão tháng Bính Dần năm Kỷ Mão, nam xem làm vận chuyển than đá có phát tài không? Tự gieo được quẻ Thiên",
+      "start_page": 33,
+      "end_page": 33
+    },
+    {
+      "line": 487,
+      "exercise_id": "vd_011",
+      "title": "Ví dụ 2: Ngày Giáp Tý tháng Đinh Mão năm Kỷ Mão, nam đoán bệnh, gieo được Trạch Thiên Quải biến Lôi Thiên Đại Tráng.",
+      "start_page": 34,
+      "end_page": 34
+    },
+    {
+      "line": 512,
+      "exercise_id": "vd_012",
+      "title": "Ví dụ 3: Ngày Ất Tị tháng Quý Tị năm Bính Tý, cô Cảnh (sinh năm Bính Ngọ) đoán về tình cảm với một người đàn ông, tự gie",
+      "start_page": 35,
+      "end_page": 35
+    },
+    {
+      "line": 539,
+      "exercise_id": "vd_013",
+      "title": "Ví dụ 4: Ngày Bính Tý tháng Giáp Ngọ năm Bính Tý, cô Kubo người Nhật Bản (sinh năm Mậu Thân) đoán hôn nhân, được Trạch T",
+      "start_page": 37,
+      "end_page": 37
+    },
+    {
+      "line": 566,
+      "exercise_id": "vd_014",
+      "title": "Ví dụ 5: Ngày Bính Dần tháng Kỷ Hợi năm Bính Tý, nữ đoán bệnh, được Trạch Phong Đại Quá biến Lôi Phong Hằng.",
+      "start_page": 39,
+      "end_page": 39
+    },
+    {
+      "line": 593,
+      "exercise_id": "vd_015",
+      "title": "Ví dụ 6: Ngày Quý Mùi tháng Đinh Dậu năm Tân Tị, nam đoán về bệnh của cha, được Thiên Hỏa Đồng Nhân biến Trạch Hỏa Cách.",
+      "start_page": 40,
+      "end_page": 40
+    }
+  ],
+  "parent_titles": []
+}

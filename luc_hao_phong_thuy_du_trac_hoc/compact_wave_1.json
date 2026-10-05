@@ -1,0 +1,182 @@
+[
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch03",
+    "Prompt": "chunk_id: ch03\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch03.txt\nsection_title: CHƯƠNG 1: Ý NGHĨA CỦA LỤC HÀO DỰ ĐOÁN PHONG THỦY\nstart_level: 2\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch03_chuong_1_y_nghia_cua_luc_hao_du_oan_phon_branches.md\nassigned_figures: fig_04:assets/page_0013_img_01.png:Sơ đồ quẻ Chấn Vi Lôi biến Lôi Phong Hằng; fig_05:assets/page_0014_img_01.png:Sơ đồ quẻ Cấn Vi Sơn biến Hỏa Phong Đỉnh\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch04_1",
+    "Prompt": "chunk_id: ch04_1\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch04_1.txt\nsection_title: 1. DỤNG THẦN TRONG DỰ ĐOÁN PHONG THỦY\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch04_1_1_dung_than_trong_du_oan_phong_thuy_branches.md\nassigned_figures: fig_06:assets/page_0016_img_01.png:Sơ đồ quẻ Thủy Lôi Truân biến Khôn Vi Địa\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch04_2",
+    "Prompt": "chunk_id: ch04_2\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch04_2.txt\nsection_title: 2. CÁCH DÙNG HÀO VỊ TRONG DỰ ĐOÁN PHONG THỦY\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch04_2_2_cach_dung_hao_vi_trong_du_oan_phong_th_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch04_3",
+    "Prompt": "chunk_id: ch04_3\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch04_3.txt\nsection_title: 3. Ý NGHĨA CỦA LỤC THÂN TRONG DỰ ĐOÁN PHONG THỦY\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch04_3_3_y_nghia_cua_luc_than_trong_du_oan_phon_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch04_4",
+    "Prompt": "chunk_id: ch04_4\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch04_4.txt\nsection_title: 4. THỦ TƯỢNG LỤC THẦN TRONG DỰ ĐOÁN PHONG THỦY\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch04_4_4_thu_tuong_luc_than_trong_du_oan_phong_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch04_5",
+    "Prompt": "chunk_id: ch04_5\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch04_5.txt\nsection_title: 5. THỦ TƯỢNG BÁT QUÁI TRONG DỰ ĐOÁN PHONG THỦY\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch04_5_5_thu_tuong_bat_quai_trong_du_oan_phong_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch04_6",
+    "Prompt": "chunk_id: ch04_6\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch04_6.txt\nsection_title: 6. THỦ TƯỢNG NGŨ HÀNH TRONG DỰ ĐOÁN PHONG THỦY\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch04_6_6_thu_tuong_ngu_hanh_trong_du_oan_phong_branches.md\nassigned_figures: fig_07:assets/page_0036_img_01.png:Sơ đồ quẻ Trạch Lôi Tùy; fig_08:assets/page_0038_img_01.png:Sơ đồ quẻ Phong Thủy Hoán\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch04_7",
+    "Prompt": "chunk_id: ch04_7\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch04_7.txt\nsection_title: 7. LỤC THÂN HỖ HÓA TRONG DỰ ĐOÁN PHONG THỦY\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch04_7_7_luc_than_ho_hoa_trong_du_oan_phong_thu_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch04_8",
+    "Prompt": "chunk_id: ch04_8\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch04_8.txt\nsection_title: 8. Ý NGHĨA CỦA DỤNG THẦN LƯỠNG HIỆN\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch04_8_8_y_nghia_cua_dung_than_luong_hien_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch04_9",
+    "Prompt": "chunk_id: ch04_9\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch04_9.txt\nsection_title: 9. Ý NGHĨA CỦA DỤNG THẦN PHỤC TÀNG\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch04_9_9_y_nghia_cua_dung_than_phuc_tang_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch04_10",
+    "Prompt": "chunk_id: ch04_10\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch04_10.txt\nsection_title: 10. Ý NGHĨA CỦA TIẾN THẦN VÀ THOÁI THẦN\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch04_10_10_y_nghia_cua_tien_than_va_thoai_than_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch04_11",
+    "Prompt": "chunk_id: ch04_11\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch04_11.txt\nsection_title: 11. Ý NGHĨA CỦA NGUYỆT PHÁ\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch04_11_11_y_nghia_cua_nguyet_pha_branches.md\nassigned_figures: fig_09:assets/page_0045_img_01.png:Quẻ Hỏa Thiên Đại Hữu biến Thiên Lôi Vô Vọng\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch04_12",
+    "Prompt": "chunk_id: ch04_12\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch04_12.txt\nsection_title: 12. Ý NGHĨA CỦA KHÔNG VONG\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch04_12_12_y_nghia_cua_khong_vong_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch04_13",
+    "Prompt": "chunk_id: ch04_13\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch04_13.txt\nsection_title: 13. Ý NGHĨA CỦA LỤC XUNG VÀ LỤC HỢP\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch04_13_13_y_nghia_cua_luc_xung_va_luc_hop_branches.md\nassigned_figures: fig_10:assets/page_0048_img_01.png:Quẻ Trạch Phong Đại Quá; fig_11:assets/page_0049_img_01.png:Quẻ Càn Vi Thiên biến Trạch Hỏa Cách\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch04_14",
+    "Prompt": "chunk_id: ch04_14\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch04_14.txt\nsection_title: 14. Ý NGHĨA CỦA PHẢN NGÂM VÀ PHỤC NGÂM\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch04_14_14_y_nghia_cua_phan_ngam_va_phuc_ngam_branches.md\nassigned_figures: fig_12:assets/page_0051_img_01.png:Quẻ Phong Thiên Tiểu Súc biến Địa Trạch Lâm\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch04_15",
+    "Prompt": "chunk_id: ch04_15\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch04_15.txt\nsection_title: 15. Ý NGHĨA CỦA DU HỒN VÀ QUY HỒN\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch04_15_15_y_nghia_cua_du_hon_va_quy_hon_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch04_16",
+    "Prompt": "chunk_id: ch04_16\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch04_16.txt\nsection_title: 16. ỨNG DỤNG CỦA 12 TRẠNG THÁI NGŨ HÀNH SINH DIỆT TRONG DỰ ĐOÁN PHONG THỦY\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch04_16_16_ung_dung_cua_12_trang_thai_ngu_hanh_s_branches.md\nassigned_figures: fig_13:assets/page_0053_img_01.png:Sơ đồ quẻ Phong Trạch Trung Phu biến Sơn Trạch Tổn; fig_14:assets/page_0055_img_01.png:Sơ đồ quẻ Thiên Trạch Lý biến Phong Trạch Trung Phu\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch05_0",
+    "Prompt": "chunk_id: ch05_0\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch05_0.txt\nsection_title: CHƯƠNG 3: PHÁN ĐOÁN CHI TIẾT TRONG DỰ ĐOÁN PHONG THỦY\nstart_level: 2\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch05_0_chuong_3_phan_oan_chi_tiet_trong_du_oan_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch05_1",
+    "Prompt": "chunk_id: ch05_1\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch05_1.txt\nsection_title: 1. PHƯƠNG PHÁP PHÁN ĐOÁN ĐƯỜNG ĐI\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch05_1_1_phuong_phap_phan_oan_uong_i_branches.md\nassigned_figures: fig_15:assets/page_0059_img_01.png:Quẻ Phong Hỏa Gia Nhân biến Sơn Hỏa Bí\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch05_2",
+    "Prompt": "chunk_id: ch05_2\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch05_2.txt\nsection_title: 2. PHƯƠNG PHÁP PHÁN ĐOÁN CẦU\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch05_2_2_phuong_phap_phan_oan_cau_branches.md\nassigned_figures: fig_16:assets/page_0061_img_01.png:Sơ đồ quẻ Địa Thủy Sư biến Địa Sơn Khiêm\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch05_3",
+    "Prompt": "chunk_id: ch05_3\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch05_3.txt\nsection_title: 3. PHƯƠNG PHÁP PHÁN ĐOÁN SÔNG NGÒI\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch05_3_3_phuong_phap_phan_oan_song_ngoi_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch05_4",
+    "Prompt": "chunk_id: ch05_4\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch05_4.txt\nsection_title: 4. PHƯƠNG PHÁP PHÁN ĐOÁN VẬT KIẾN TRÚC\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch05_4_4_phuong_phap_phan_oan_vat_kien_truc_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch05_5",
+    "Prompt": "chunk_id: ch05_5\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch05_5.txt\nsection_title: 5. PHƯƠNG PHÁP PHÁN ĐOÁN NÚI\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch05_5_5_phuong_phap_phan_oan_nui_branches.md\nassigned_figures: fig_17:assets/page_0064_img_01.png:Quẻ Địa Trạch Lâm biến Thiên Trạch Lý\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch05_6",
+    "Prompt": "chunk_id: ch05_6\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch05_6.txt\nsection_title: 6. PHƯƠNG PHÁP PHÁN ĐOÁN HOA CỎ CÂY CỐI\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch05_6_6_phuong_phap_phan_oan_hoa_co_cay_coi_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch05_7",
+    "Prompt": "chunk_id: ch05_7\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch05_7.txt\nsection_title: 7. PHƯƠNG PHÁP PHÁN ĐOÁN ĐÁ\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch05_7_7_phuong_phap_phan_oan_a_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch05_8",
+    "Prompt": "chunk_id: ch05_8\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch05_8.txt\nsection_title: 8. TỔNG LUẬN PHONG THỦY\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch05_8_8_tong_luan_phong_thuy_branches.md\nassigned_figures: fig_18:assets/page_0069_img_01.png:Sơ đồ quẻ Thiên Trạch Lý biến Thiên Thủy Tụng\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_0",
+    "Prompt": "chunk_id: ch06_0\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_0.txt\nsection_title: CHƯƠNG 4: DỰ ĐOÁN PHONG THỦY NƠI Ở\nstart_level: 2\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_0_chuong_4_du_oan_phong_thuy_noi_o_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_1",
+    "Prompt": "chunk_id: ch06_1\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_1.txt\nsection_title: 1. NỀN NHÀ\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_1_1_nen_nha_branches.md\nassigned_figures: fig_19:assets/page_0075_img_01.png:Quẻ Thủy Hỏa Ký Tế biến Thủy Sơn Kiển\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_2",
+    "Prompt": "chunk_id: ch06_2\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_2.txt\nsection_title: 2. GIẾNG NƯỚC\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_2_2_gieng_nuoc_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "branch_driller",
+    "Role": "Driller ch06_3",
+    "Prompt": "chunk_id: ch06_3\nsection_text_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments\\src\\ch06_3.txt\nsection_title: 3. HÀNG XÓM\nstart_level: 3\noutput_file: C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_phong_thuy_du_trac_hoc\\fragments/ch06_3_3_hang_xom_branches.md\nassigned_figures: None\nTransform section_text_file into Markdown fragment at output_file following your system instructions. Then send message: Driller done.",
+    "Model": "flash"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "chunk_id": "ch22_24",
+  "title": "Niên vận của người đàn ông phong lưu",
+  "start_heading_level": 3,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch22_24.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch22_24_nien_van_cua_nguoi_an_ong_phong_luu_branches.md",
+  "figure_ids": [
+    "fig_152",
+    "fig_153",
+    "fig_154",
+    "fig_155"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_152",
+      "figure_number": "152",
+      "caption": "Sơ đồ quẻ Thiên Trạch Lý biến Phong Lôi Ích",
+      "rel_path": "assets/page_0244_img_01.png"
+    },
+    {
+      "id": "fig_153",
+      "figure_number": "153",
+      "caption": "Quẻ Phong Hỏa Gia Nhân biến Thủy Thiên Nhu",
+      "rel_path": "assets/page_0245_img_01.png"
+    },
+    {
+      "id": "fig_154",
+      "figure_number": "154",
+      "caption": "Quẻ Sơn Lôi Di biến Địa Lôi Phục",
+      "rel_path": "assets/page_0246_img_01.png"
+    },
+    {
+      "id": "fig_155",
+      "figure_number": "155",
+      "caption": "Quẻ Tụng",
+      "rel_path": "assets/page_0247_img_01.png"
+    }
+  ],
+  "exercises": [],
+  "parent_titles": [
+    "Chương 19: Câu Chuyện Lục Hào Đặc Sắc"
+  ]
+}

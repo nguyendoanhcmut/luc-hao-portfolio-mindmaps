@@ -1,0 +1,44 @@
+{
+  "chunk_id": "ch22_26",
+  "title": "Dự đoán vận khí bản thân, đoán ra hôn nhân của đồng nghiệp",
+  "start_heading_level": 3,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch22_26.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch22_26_du_oan_van_khi_ban_than_oan_ra_hon_nhan_branches.md",
+  "figure_ids": [
+    "fig_157",
+    "fig_158",
+    "fig_159",
+    "fig_160"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_157",
+      "figure_number": "157",
+      "caption": "Sơ đồ quẻ Lôi Thiên Đại Tráng biến Sơn Thiên Đại Súc",
+      "rel_path": "assets/page_0252_img_01.png"
+    },
+    {
+      "id": "fig_158",
+      "figure_number": "158",
+      "caption": "Quẻ Thiên Sơn Độn biến Trạch Phong Đại Quá",
+      "rel_path": "assets/page_0253_img_01.png"
+    },
+    {
+      "id": "fig_159",
+      "figure_number": "159",
+      "caption": "Quẻ Lôi Thiên Đại Tráng biến Thiên Sơn Độn",
+      "rel_path": "assets/page_0253_img_02.png"
+    },
+    {
+      "id": "fig_160",
+      "figure_number": "160",
+      "caption": "Quẻ Phong Trạch Trung Phu biến Thiên Lôi Vô Vọng",
+      "rel_path": "assets/page_0254_img_01.png"
+    }
+  ],
+  "exercises": [],
+  "parent_titles": [
+    "Chương 19: Câu Chuyện Lục Hào Đặc Sắc"
+  ]
+}

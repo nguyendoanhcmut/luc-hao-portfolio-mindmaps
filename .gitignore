@@ -1,0 +1,36 @@
+# Raw OCR raster scan pages (>10GB)
+**/pages/
+**/page_results/
+pages/
+page_results/
+
+# Intermediate OCR text fragments
+**/fragments/
+fragments/
+
+# Python cache & virtualenvs
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Temporary batch payloads and intermediate worker logs
+**/driller_*.json
+**/batch_*.json
+**/drillers_payload.json
+**/candidates.json
+**/skeleton.json
+**/*_scout_manifest.json
+**/driller_subagents_spec.json
+*.log
+*.bak
+*.test.md
+test_recompile.html
+
+# IDE and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

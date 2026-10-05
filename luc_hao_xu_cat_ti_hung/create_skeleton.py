@@ -1,0 +1,93 @@
+import json
+
+skeleton = {
+  "doc_slug": "luc_hao_xu_cat_ti_hung",
+  "doc_title": "Lục Hào Xu Cát Tị Hung Bí Truyền",
+  "doc_type": "book",
+  "domain": "luc_hao",
+  "max_heading_level": 5,
+  "sections": [
+    { "line": 80, "level": 2, "title": "Lời Tựa" },
+    { "line": 102, "level": 2, "title": "Chương 1: Mục Đích Của Dự Đoán Lục Hào" },
+    { "line": 172, "level": 2, "title": "Chương 2: Thập Nhị Địa Chi Tiết Lộ Thiên Cơ" },
+    { "line": 182, "level": 3, "title": "Loài Cá Con Giáp Kỳ Lạ" },
+    { "line": 192, "level": 3, "title": "Hiện Tượng Sinh Khắc Giữa 12 Loài Vật" },
+    { "line": 196, "level": 3, "title": "Ý Nghĩa Tương Ứng Của 12 Địa Chi Trong Hóa Giải" },
+    { "line": 410, "level": 2, "title": "Chương 3: Ý Nghĩa Ẩn Tàng Trong Bát Quái" },
+    { "line": 414, "level": 3, "title": "Ý Nghĩa Ẩn Tàng Trong Quẻ Càn" },
+    { "line": 434, "level": 3, "title": "Ý Nghĩa Ẩn Tàng Trong Quẻ Khôn" },
+    { "line": 454, "level": 3, "title": "Ý Nghĩa Ẩn Tàng Trong Quẻ Chấn" },
+    { "line": 474, "level": 3, "title": "Ý Nghĩa Ẩn Tàng Trong Quẻ Tốn" },
+    { "line": 494, "level": 3, "title": "Ý Nghĩa Ẩn Tàng Trong Quẻ Khảm" },
+    { "line": 514, "level": 3, "title": "Ý Nghĩa Ẩn Tàng Trong Quẻ Ly" },
+    { "line": 534, "level": 3, "title": "Ý Nghĩa Ẩn Tàng Trong Quẻ Cấn" },
+    { "line": 554, "level": 3, "title": "Ý Nghĩa Ẩn Tàng Trong Quẻ Đoài" },
+    { "line": 745, "level": 2, "title": "Chương 4: Nạp Âm Của Can Chi Và Phạm Vi Sử Dụng" },
+    { "line": 961, "level": 2, "title": "Chương 5: Trích Xuất Thông Tin Ngũ Hành" },
+    { "line": 1146, "level": 2, "title": "Chương 6: Hình Thức Tồn Tại Của Ngũ Hành Theo Phương Vị" },
+    { "line": 1358, "level": 2, "title": "Chương 7: Hình Thức Tồn Tại Của Ngũ Hành Theo Thời Gian" },
+    { "line": 1601, "level": 2, "title": "Chương 8: Hình Thức Tồn Tại Của Ngũ Hành Theo Màu Sắc" },
+    { "line": 1745, "level": 2, "title": "Chương 9: Hình Thức Tồn Tại Của Ngũ Hành Theo Con Số" },
+    { "line": 2025, "level": 2, "title": "Chương 10: Hình Thức Tồn Tại Của Ngũ Hành Theo Âm Thanh" },
+    { "line": 2174, "level": 2, "title": "Chương 11: Trong Chữ Viết Và Hoa Văn Cũng Tàng Trữ Ngũ Hành" },
+    { "line": 2392, "level": 2, "title": "Chương 12: Khi Chế Tác Vật Hóa Giải Cần Phải Chú Ý Vấn Đề Gì?" },
+    { "line": 2416, "level": 3, "title": "Thời Gian Để Chế Tác Vật Hóa Giải" },
+    { "line": 2420, "level": 3, "title": "Công Cụ Để Chế Tác Vật Hóa Giải" },
+    { "line": 2424, "level": 3, "title": "Ý Thức Khi Chế Tác Vật Hóa Giải" },
+    { "line": 2428, "level": 3, "title": "Phương Pháp Xử Lý Vật Hóa Giải Sau Khi Kết Thúc" },
+    { "line": 2436, "level": 2, "title": "Chương 13: Các Loại Hóa Giải" },
+    { "line": 2440, "level": 3, "title": "Chỉnh Sửa Phong Thủy" },
+    { "line": 2586, "level": 3, "title": "Hóa Giải Tên Người, Tên Đất" },
+    { "line": 2650, "level": 3, "title": "Hóa Giải Bằng Màu Sắc" },
+    { "line": 2681, "level": 3, "title": "Hóa Giải Bằng Phương Vị" },
+    { "line": 2710, "level": 3, "title": "Hóa Giải Bằng Thời Gian" },
+    { "line": 2774, "level": 3, "title": "Hóa Giải Bằng Tu Luyện" },
+    { "line": 2832, "level": 3, "title": "Hóa Giải Bằng Mượn Vận" },
+    { "line": 2886, "level": 3, "title": "Hóa Giải Bằng Ngoại Ứng" },
+    { "line": 3054, "level": 3, "title": "Hóa Giải Bằng Thế Thân" },
+    { "line": 3112, "level": 3, "title": "Hóa Giải Bằng Gương Thái Cực Bát Quái" },
+    { "line": 3212, "level": 3, "title": "Hóa Giải Bằng Bùa Hộ Mệnh" },
+    { "line": 3328, "level": 3, "title": "Hóa Giải Bằng Chú Thuật" },
+    { "line": 3334, "level": 3, "title": "Hóa Giải Bằng Trang Phục" },
+    { "line": 3386, "level": 3, "title": "Hóa Giải Bằng Giường Ngủ" },
+    { "line": 3457, "level": 3, "title": "Hóa Giải Bằng Thay Đổi Ý Đồ" },
+    { "line": 3628, "level": 2, "title": "Chương 14: Phương Pháp Chọn Ngày Tốt Bằng Lục Hào" }
+  ],
+  "figure_ids": { "fig_01": 80 },
+  "drop_figures": [],
+  "exercises": [],
+  "rule_index": [
+    { "title": "Quy tắc 12 Địa Chi trong hóa giải", "page": 9 },
+    { "title": "Quy tắc Bát Quái ẩn tàng", "page": 21 },
+    { "title": "Quy tắc Nạp Âm Can Chi", "page": 32 },
+    { "title": "Quy tắc trích xuất thông tin Ngũ Hành", "page": 40 },
+    { "title": "Phương vị Ngũ Hành", "page": 47 },
+    { "title": "Thời gian Ngũ Hành", "page": 56 },
+    { "title": "Màu sắc Ngũ Hành", "page": 67 },
+    { "title": "Con số Ngũ Hành", "page": 73 },
+    { "title": "Âm thanh Ngũ Hành", "page": 86 },
+    { "title": "Chữ viết hoa văn Ngũ Hành", "page": 92 },
+    { "title": "Quy tắc chế tác vật hóa giải", "page": 100 },
+    { "title": "Các loại phương pháp hóa giải", "page": 103 },
+    { "title": "Phương pháp chọn ngày tốt", "page": 147 }
+  ],
+  "global_lexicon": {
+    "core_thesis": "Dự đoán Lục Hào kết hợp trích xuất đa chiều thông tin Ngũ Hành (thời gian, không gian phương vị, màu sắc, con số, âm thanh, chữ viết, vật phẩm) để thực hiện xu cát tị hung và hóa giải vận mệnh một cách khoa học, chính xác và hiệu quả.",
+    "key_terms": [
+      { "term": "Dụng thần", "definition": "Hào đại diện cho đối tượng hoặc mục tiêu cần dự đoán trong quẻ Lục Hào." },
+      { "term": "Nguyên thần", "definition": "Hào sinh trợ cho Dụng thần." },
+      { "term": "Kỵ thần", "definition": "Hào khắc hại Dụng thần." },
+      { "term": "Cừu thần", "definition": "Hào sinh cho Kỵ thần và khắc Nguyên thần." },
+      { "term": "Thế Hào", "definition": "Hào đại diện cho bản thân người gieo quẻ hoặc chủ thể sự việc." },
+      { "term": "Ứng Hào", "definition": "Hào đại diện cho đối phương, người khác hoặc sự vật tương tác." },
+      { "term": "Tuần Không (Không Vong)", "definition": "Chi vắng mặt trong tuần giáp, biểu thị trạng thái hư vô hoặc chờ xuất không." },
+      { "term": "Nguyệt Phá", "definition": "Chi bị Nguyệt kiến xung phá, suy nhược tổn thương." }
+    ],
+    "key_entities": ["Vương Hổ Ứng"]
+  },
+  "global_context_pack": "Tác phẩm 'Lục Hào Xu Cát Tị Hung Bí Truyền' của tác giả Vương Hổ Ứng (Wang Huing) là cẩm nang kinh điển về dự đoán học và thuật hóa giải tai ách, tật bệnh, phong thủy, sự nghiệp dựa trên lý luận Dịch học và Lục Hào kinh điển kết hợp tư duy đa chiều Ngũ Hành lập thể. Hệ thống hóa giải dựa trên việc trích xuất triệt để các trường năng lượng ngũ hành từ Bát quái, 12 Địa chi, Can chi nạp âm, phương vị, thời gian, màu sắc, con số, âm thanh, văn tự hoa văn, vật phẩm thế thân, bùa hộ mệnh, gương Thái Cực Bát Quái và điều chỉnh ý đồ tâm thức. Toàn bộ các quái lệ thực tế giữ nguyên luồng đối thoại, bước suy luận logic giữa hình quẻ và thực tiễn, phân tích hào vị, lục thần, lục thân, biến quẻ và kết quả ứng nghiệm chính xác."
+}
+
+with open("skeleton.json", "w", encoding="utf-8") as f:
+    json.dump(skeleton, f, indent=2, ensure_ascii=False)
+print("Saved skeleton.json")

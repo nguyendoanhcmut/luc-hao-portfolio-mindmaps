@@ -1,0 +1,362 @@
+{
+  "doc_slug": "luc_hao_nhap_mon",
+  "doc_title": "Lục Hào Nhập Môn",
+  "doc_type": "book",
+  "domain": "luc_hao",
+  "max_heading_level": 5,
+  "sections": [
+    {
+      "line": 0,
+      "level": 2,
+      "title": "Chương 1: Vũ trụ quan của Dịch"
+    },
+    {
+      "line": 7,
+      "level": 3,
+      "title": "I. HỌC THUYẾT ÂM DƯƠNG"
+    },
+    {
+      "line": 11,
+      "level": 3,
+      "title": "II. HỌC THUYẾT NGŨ HÀNH"
+    },
+    {
+      "line": 36,
+      "level": 2,
+      "title": "Chương 2: Can Chi và dự đoán Lục Hào"
+    },
+    {
+      "line": 40,
+      "level": 3,
+      "title": "I. THẬP THIÊN CAN"
+    },
+    {
+      "line": 44,
+      "level": 4,
+      "title": "1. Âm dương của thập thiên can"
+    },
+    {
+      "line": 48,
+      "level": 4,
+      "title": "2. Ngũ hành của thập thiên can"
+    },
+    {
+      "line": 52,
+      "level": 4,
+      "title": "3. Thập thiên can và phương vị"
+    },
+    {
+      "line": 56,
+      "level": 3,
+      "title": "II. THẬP NHỊ ĐỊA CHI"
+    },
+    {
+      "line": 60,
+      "level": 4,
+      "title": "1. Âm dương của thập nhị địa chi"
+    },
+    {
+      "line": 64,
+      "level": 4,
+      "title": "2. Ngũ hành của thập nhị địa chi"
+    },
+    {
+      "line": 68,
+      "level": 4,
+      "title": "3. Thập nhị địa chi và phương vị"
+    },
+    {
+      "line": 72,
+      "level": 4,
+      "title": "4. Thập nhị địa chi và bốn mùa"
+    },
+    {
+      "line": 76,
+      "level": 4,
+      "title": "5. Thập nhị địa chi và tháng"
+    },
+    {
+      "line": 80,
+      "level": 4,
+      "title": "6. Thập nhị địa chi và mười hai canh giờ"
+    },
+    {
+      "line": 84,
+      "level": 4,
+      "title": "7. Lục hợp của thập nhị địa chi"
+    },
+    {
+      "line": 88,
+      "level": 4,
+      "title": "8. Lục xung của thập nhị địa chi"
+    },
+    {
+      "line": 92,
+      "level": 4,
+      "title": "9. Thập nhị địa chi và quan hệ đối ứng với động vật"
+    },
+    {
+      "line": 96,
+      "level": 4,
+      "title": "10. Tam hợp của địa chi"
+    },
+    {
+      "line": 100,
+      "level": 4,
+      "title": "11. Tam hình của địa chi"
+    },
+    {
+      "line": 108,
+      "level": 2,
+      "title": "Chương 3: Kiến thức căn bản về Bát Quái"
+    },
+    {
+      "line": 110,
+      "level": 3,
+      "title": "I. Ý NGHĨA CƠ BẢN CỦA BÁT QUÁI"
+    },
+    {
+      "line": 122,
+      "level": 4,
+      "title": "1. Quan hệ đối ứng giữa bát quái và nhân sự"
+    },
+    {
+      "line": 126,
+      "level": 4,
+      "title": "2. Quan hệ đối ứng giữa bát quái và cơ thể"
+    },
+    {
+      "line": 130,
+      "level": 4,
+      "title": "3. Quan hệ đối ứng giữa bát quái và nội tạng"
+    },
+    {
+      "line": 134,
+      "level": 4,
+      "title": "4. Quan hệ đối ứng giữa bát quái và phương vị"
+    },
+    {
+      "line": 140,
+      "level": 4,
+      "title": "5. Thuộc tính ngũ hành của bát quái"
+    },
+    {
+      "line": 144,
+      "level": 3,
+      "title": "II. PHÂN CUNG BÁT QUÁI"
+    },
+    {
+      "line": 168,
+      "level": 2,
+      "title": "Chương 4: Phương pháp lấy quẻ"
+    },
+    {
+      "line": 191,
+      "level": 2,
+      "title": "Chương 5: Phương pháp trang quẻ"
+    },
+    {
+      "line": 195,
+      "level": 3,
+      "title": "I. PHƯƠNG PHÁP SẮP XẾP CAN CHI"
+    },
+    {
+      "line": 199,
+      "level": 4,
+      "title": "Nạp giáp ca"
+    },
+    {
+      "line": 212,
+      "level": 3,
+      "title": "II. PHƯƠNG PHÁP AN THẾ ỨNG"
+    },
+    {
+      "line": 216,
+      "level": 4,
+      "title": "Hào biến pháp an Thế Ứng tầm cung quyết"
+    },
+    {
+      "line": 244,
+      "level": 3,
+      "title": "III. AN LỤC THÂN"
+    },
+    {
+      "line": 266,
+      "level": 3,
+      "title": "IV. AN LỤC THẦN"
+    },
+    {
+      "line": 285,
+      "level": 2,
+      "title": "Chương 6: Tác dụng của Lục Thân, Lục Thần, Thế Ứng"
+    },
+    {
+      "line": 287,
+      "level": 3,
+      "title": "I. Ý NGHĨA CỦA LỤC THÂN"
+    },
+    {
+      "line": 295,
+      "level": 4,
+      "title": "1. Ý nghĩa của Phụ Mẫu"
+    },
+    {
+      "line": 299,
+      "level": 4,
+      "title": "2. Ý nghĩa của Quan Quỷ"
+    },
+    {
+      "line": 303,
+      "level": 4,
+      "title": "3. Ý nghĩa của Huynh Đệ"
+    },
+    {
+      "line": 307,
+      "level": 4,
+      "title": "4. Ý nghĩa của Thê Tài"
+    },
+    {
+      "line": 311,
+      "level": 4,
+      "title": "5. Ý nghĩa của Tử Tôn"
+    },
+    {
+      "line": 315,
+      "level": 3,
+      "title": "II. QUAN HỆ SINH KHẮC CỦA LỤC THÂN"
+    },
+    {
+      "line": 319,
+      "level": 4,
+      "title": "1. Tương sinh của lục thân"
+    },
+    {
+      "line": 323,
+      "level": 4,
+      "title": "2. Tương khắc của lục thân"
+    },
+    {
+      "line": 327,
+      "level": 3,
+      "title": "III. Ý NGHĨA CỦA LỤC THẦN"
+    },
+    {
+      "line": 333,
+      "level": 4,
+      "title": "1. Ý nghĩa của Thanh Long"
+    },
+    {
+      "line": 337,
+      "level": 4,
+      "title": "2. Ý nghĩa của Chu Tước"
+    },
+    {
+      "line": 341,
+      "level": 4,
+      "title": "3. Ý nghĩa của Câu Trần"
+    },
+    {
+      "line": 345,
+      "level": 4,
+      "title": "4. Ý nghĩa của Đằng Xà"
+    },
+    {
+      "line": 349,
+      "level": 4,
+      "title": "5. Ý nghĩa của Bạch Hổ"
+    },
+    {
+      "line": 353,
+      "level": 4,
+      "title": "6. Ý nghĩa của Huyền Vũ"
+    },
+    {
+      "line": 357,
+      "level": 3,
+      "title": "IV. VAI TRÒ CỦA THẾ ỨNG"
+    },
+    {
+      "line": 365,
+      "level": 4,
+      "title": "1. Tử Tôn trì Thế"
+    },
+    {
+      "line": 369,
+      "level": 4,
+      "title": "2. Huynh Đệ trì Thế"
+    },
+    {
+      "line": 373,
+      "level": 4,
+      "title": "3. Phụ Mẫu trì Thế"
+    },
+    {
+      "line": 377,
+      "level": 4,
+      "title": "4. Thê Tài trì Thế"
+    },
+    {
+      "line": 381,
+      "level": 4,
+      "title": "5. Quan Quỷ trì Thế"
+    }
+  ],
+  "figure_ids": {
+    "fig_01": 21,
+    "fig_02": 210,
+    "fig_03": 256,
+    "fig_04": 262
+  },
+  "drop_figures": [],
+  "exercises": [
+    {
+      "line": 208,
+      "exercise_id": "ex_01",
+      "title": "Ví dụ nạp giáp quẻ Thủy Phong Tỉnh",
+      "start_page": 12,
+      "end_page": 12
+    },
+    {
+      "line": 228,
+      "exercise_id": "ex_02",
+      "title": "Ví dụ an Thế Ứng quẻ Thủy Trạch Tiết",
+      "start_page": 13,
+      "end_page": 13
+    },
+    {
+      "line": 234,
+      "exercise_id": "ex_03",
+      "title": "Ví dụ an Thế Ứng quẻ Phong Trạch Trung Phu",
+      "start_page": 13,
+      "end_page": 14
+    },
+    {
+      "line": 238,
+      "exercise_id": "ex_04",
+      "title": "Ví dụ an Thế Ứng quẻ Sơn Phong Cổ",
+      "start_page": 14,
+      "end_page": 14
+    },
+    {
+      "line": 254,
+      "exercise_id": "ex_05",
+      "title": "Ví dụ phối lục thân quẻ Thủy Phong Tỉnh",
+      "start_page": 15,
+      "end_page": 15
+    },
+    {
+      "line": 260,
+      "exercise_id": "ex_06",
+      "title": "Ví dụ phối lục thân quẻ Thủy Trạch Tiết biến Thủy Địa Tỷ",
+      "start_page": 15,
+      "end_page": 16
+    }
+  ],
+  "rule_index": [],
+  "global_lexicon": {
+    "core_thesis": "Tài liệu hướng dẫn căn bản về Lục Hào.",
+    "key_terms": [],
+    "key_entities": []
+  },
+  "global_context_pack": "Tài liệu Lục Hào Nhập Môn."
+}

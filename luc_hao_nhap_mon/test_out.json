@@ -1,0 +1,848 @@
+{
+  "doc_slug": "luc_hao_nhap_mon",
+  "doc_title": "Lục Hào Nhập Môn",
+  "doc_type": "book",
+  "domain": "luc_hao",
+  "max_heading_level": 5,
+  "total_pages": 1,
+  "master_skeleton": [
+    {
+      "level": 2,
+      "title": "Chương 1: Vũ trụ quan của Dịch",
+      "start_page": 1,
+      "end_page": 1,
+      "word_count": 1374,
+      "figure_ids": [],
+      "exercises": [],
+      "children": [
+        {
+          "level": 3,
+          "title": "I. HỌC THUYẾT ÂM DƯƠNG",
+          "start_page": 1,
+          "end_page": 1,
+          "word_count": 600,
+          "figure_ids": [],
+          "exercises": [],
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "II. HỌC THUYẾT NGŨ HÀNH",
+          "start_page": 1,
+          "end_page": 1,
+          "word_count": 751,
+          "figure_ids": [
+            "fig_01"
+          ],
+          "exercises": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "Chương 2: Can Chi và dự đoán Lục Hào",
+      "start_page": 1,
+      "end_page": 1,
+      "word_count": 1033,
+      "figure_ids": [],
+      "exercises": [],
+      "children": [
+        {
+          "level": 3,
+          "title": "I. THẬP THIÊN CAN",
+          "start_page": 1,
+          "end_page": 1,
+          "word_count": 207,
+          "figure_ids": [],
+          "exercises": [],
+          "children": [
+            {
+              "level": 4,
+              "title": "1. Âm dương của thập thiên can",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 45,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "2. Ngũ hành của thập thiên can",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 28,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "3. Thập thiên can và phương vị",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 86,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "title": "II. THẬP NHỊ ĐỊA CHI",
+          "start_page": 1,
+          "end_page": 1,
+          "word_count": 649,
+          "figure_ids": [],
+          "exercises": [],
+          "children": [
+            {
+              "level": 4,
+              "title": "1. Âm dương của thập nhị địa chi",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 27,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "2. Ngũ hành của thập nhị địa chi",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 78,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "3. Thập nhị địa chi và phương vị",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 44,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "4. Thập nhị địa chi và bốn mùa",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 33,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "5. Thập nhị địa chi và tháng",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 63,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "6. Thập nhị địa chi và mười hai canh giờ",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 95,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "7. Lục hợp của thập nhị địa chi",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 56,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "8. Lục xung của thập nhị địa chi",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 56,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "9. Thập nhị địa chi và quan hệ đối ứng với động vật",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 38,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "10. Tam hợp của địa chi",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 31,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "11. Tam hình của địa chi",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 68,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "Chương 3: Kiến thức căn bản về Bát Quái",
+      "start_page": 1,
+      "end_page": 1,
+      "word_count": 1124,
+      "figure_ids": [],
+      "exercises": [],
+      "children": [
+        {
+          "level": 3,
+          "title": "I. Ý NGHĨA CƠ BẢN CỦA BÁT QUÁI",
+          "start_page": 1,
+          "end_page": 1,
+          "word_count": 612,
+          "figure_ids": [],
+          "exercises": [],
+          "children": [
+            {
+              "level": 4,
+              "title": "1. Quan hệ đối ứng giữa bát quái và nhân sự",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 42,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "2. Quan hệ đối ứng giữa bát quái và cơ thể",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 36,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "3. Quan hệ đối ứng giữa bát quái và nội tạng",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 53,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "4. Quan hệ đối ứng giữa bát quái và phương vị",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 92,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "5. Thuộc tính ngũ hành của bát quái",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 27,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "title": "II. PHÂN CUNG BÁT QUÁI",
+          "start_page": 1,
+          "end_page": 1,
+          "word_count": 502,
+          "figure_ids": [],
+          "exercises": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "Chương 4: Phương pháp lấy quẻ",
+      "start_page": 1,
+      "end_page": 1,
+      "word_count": 913,
+      "figure_ids": [],
+      "exercises": [],
+      "children": []
+    },
+    {
+      "level": 2,
+      "title": "Chương 5: Phương pháp trang quẻ",
+      "start_page": 1,
+      "end_page": 1,
+      "word_count": 2845,
+      "figure_ids": [],
+      "exercises": [],
+      "children": [
+        {
+          "level": 3,
+          "title": "I. PHƯƠNG PHÁP SẮP XẾP CAN CHI",
+          "start_page": 1,
+          "end_page": 1,
+          "word_count": 315,
+          "figure_ids": [],
+          "exercises": [],
+          "children": [
+            {
+              "level": 4,
+              "title": "Nạp giáp ca",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 247,
+              "figure_ids": [
+                "fig_02"
+              ],
+              "exercises": [
+                {
+                  "line": 208,
+                  "exercise_id": "ex_01",
+                  "title": "Ví dụ nạp giáp quẻ Thủy Phong Tỉnh",
+                  "start_page": 12,
+                  "end_page": 12,
+                  "page_images": [
+                    "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\pages\\page_0012.png"
+                  ]
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "title": "II. PHƯƠNG PHÁP AN THẾ ỨNG",
+          "start_page": 1,
+          "end_page": 1,
+          "word_count": 1171,
+          "figure_ids": [],
+          "exercises": [],
+          "children": [
+            {
+              "level": 4,
+              "title": "Hào biến pháp an Thế Ứng tầm cung quyết",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 984,
+              "figure_ids": [],
+              "exercises": [
+                {
+                  "line": 228,
+                  "exercise_id": "ex_02",
+                  "title": "Ví dụ an Thế Ứng quẻ Thủy Trạch Tiết",
+                  "start_page": 13,
+                  "end_page": 13,
+                  "page_images": [
+                    "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\pages\\page_0013.png"
+                  ]
+                },
+                {
+                  "line": 234,
+                  "exercise_id": "ex_03",
+                  "title": "Ví dụ an Thế Ứng quẻ Phong Trạch Trung Phu",
+                  "start_page": 13,
+                  "end_page": 14,
+                  "page_images": [
+                    "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\pages\\page_0013.png",
+                    "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\pages\\page_0014.png"
+                  ]
+                },
+                {
+                  "line": 238,
+                  "exercise_id": "ex_04",
+                  "title": "Ví dụ an Thế Ứng quẻ Sơn Phong Cổ",
+                  "start_page": 14,
+                  "end_page": 14,
+                  "page_images": [
+                    "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\pages\\page_0014.png"
+                  ]
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "title": "III. AN LỤC THÂN",
+          "start_page": 1,
+          "end_page": 1,
+          "word_count": 720,
+          "figure_ids": [
+            "fig_03",
+            "fig_04"
+          ],
+          "exercises": [
+            {
+              "line": 254,
+              "exercise_id": "ex_05",
+              "title": "Ví dụ phối lục thân quẻ Thủy Phong Tỉnh",
+              "start_page": 15,
+              "end_page": 15,
+              "page_images": [
+                "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\pages\\page_0015.png"
+              ]
+            },
+            {
+              "line": 260,
+              "exercise_id": "ex_06",
+              "title": "Ví dụ phối lục thân quẻ Thủy Trạch Tiết biến Thủy Địa Tỷ",
+              "start_page": 15,
+              "end_page": 16,
+              "page_images": [
+                "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\pages\\page_0015.png",
+                "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\pages\\page_0016.png"
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "IV. AN LỤC THẦN",
+          "start_page": 1,
+          "end_page": 1,
+          "word_count": 453,
+          "figure_ids": [],
+          "exercises": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "Chương 6: Tác dụng của Lục Thân, Lục Thần, Thế Ứng",
+      "start_page": 1,
+      "end_page": 1,
+      "word_count": 1973,
+      "figure_ids": [],
+      "exercises": [],
+      "children": [
+        {
+          "level": 3,
+          "title": "I. Ý NGHĨA CỦA LỤC THÂN",
+          "start_page": 1,
+          "end_page": 1,
+          "word_count": 652,
+          "figure_ids": [],
+          "exercises": [],
+          "children": [
+            {
+              "level": 4,
+              "title": "1. Ý nghĩa của Phụ Mẫu",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 131,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "2. Ý nghĩa của Quan Quỷ",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 78,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "3. Ý nghĩa của Huynh Đệ",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 64,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "4. Ý nghĩa của Thê Tài",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 114,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "5. Ý nghĩa của Tử Tôn",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 115,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "title": "II. QUAN HỆ SINH KHẮC CỦA LỤC THÂN",
+          "start_page": 1,
+          "end_page": 1,
+          "word_count": 103,
+          "figure_ids": [],
+          "exercises": [],
+          "children": [
+            {
+              "level": 4,
+              "title": "1. Tương sinh của lục thân",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 32,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "2. Tương khắc của lục thân",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 32,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "title": "III. Ý NGHĨA CỦA LỤC THẦN",
+          "start_page": 1,
+          "end_page": 1,
+          "word_count": 617,
+          "figure_ids": [],
+          "exercises": [],
+          "children": [
+            {
+              "level": 4,
+              "title": "1. Ý nghĩa của Thanh Long",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 78,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "2. Ý nghĩa của Chu Tước",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 98,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "3. Ý nghĩa của Câu Trần",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 81,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "4. Ý nghĩa của Đằng Xà",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 86,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "5. Ý nghĩa của Bạch Hổ",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 80,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "6. Ý nghĩa của Huyền Vũ",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 77,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "title": "IV. VAI TRÒ CỦA THẾ ỨNG",
+          "start_page": 1,
+          "end_page": 1,
+          "word_count": 589,
+          "figure_ids": [],
+          "exercises": [],
+          "children": [
+            {
+              "level": 4,
+              "title": "1. Tử Tôn trì Thế",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 67,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "2. Huynh Đệ trì Thế",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 59,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "3. Phụ Mẫu trì Thế",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 58,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "4. Thê Tài trì Thế",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 62,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            },
+            {
+              "level": 4,
+              "title": "5. Quan Quỷ trì Thế",
+              "start_page": 1,
+              "end_page": 1,
+              "word_count": 146,
+              "figure_ids": [],
+              "exercises": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rule_index": [],
+  "global_lexicon": {
+    "core_thesis": "Tài liệu hướng dẫn căn bản về Lục Hào.",
+    "key_terms": [],
+    "key_entities": []
+  },
+  "routing_table": [
+    {
+      "chunk_id": "ch01",
+      "title": "Chương 1: Vũ trụ quan của Dịch",
+      "parent_titles": [],
+      "start_heading_level": 2,
+      "start_page": 1,
+      "end_page": 1,
+      "start_marker": "# Chương 1: Vũ trụ quan của Dịch",
+      "drill_threshold_words": 1500,
+      "figure_ids": [
+        "fig_01"
+      ],
+      "exercises": [],
+      "fragment_file": "fragments/ch01_chuong_1_vu_tru_quan_cua_dich_branches.md",
+      "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\test_frags\\ch01.txt"
+    },
+    {
+      "chunk_id": "ch02",
+      "title": "Chương 2: Can Chi và dự đoán Lục Hào",
+      "parent_titles": [],
+      "start_heading_level": 2,
+      "start_page": 1,
+      "end_page": 1,
+      "start_marker": "# Chương 2: Can Chi và dự đoán Lục Hào",
+      "drill_threshold_words": 1500,
+      "figure_ids": [],
+      "exercises": [],
+      "fragment_file": "fragments/ch02_chuong_2_can_chi_va_du_oan_luc_hao_branches.md",
+      "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\test_frags\\ch02.txt"
+    },
+    {
+      "chunk_id": "ch03",
+      "title": "Chương 3: Kiến thức căn bản về Bát Quái",
+      "parent_titles": [],
+      "start_heading_level": 2,
+      "start_page": 1,
+      "end_page": 1,
+      "start_marker": "# Chương 3: Kiến thức căn bản về Bát Quái",
+      "drill_threshold_words": 1500,
+      "figure_ids": [],
+      "exercises": [],
+      "fragment_file": "fragments/ch03_chuong_3_kien_thuc_can_ban_ve_bat_quai_branches.md",
+      "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\test_frags\\ch03.txt"
+    },
+    {
+      "chunk_id": "ch04",
+      "title": "Chương 4: Phương pháp lấy quẻ",
+      "parent_titles": [],
+      "start_heading_level": 2,
+      "start_page": 1,
+      "end_page": 1,
+      "start_marker": "# Chương 4: Phương pháp lấy quẻ",
+      "drill_threshold_words": 1500,
+      "figure_ids": [],
+      "exercises": [],
+      "fragment_file": "fragments/ch04_chuong_4_phuong_phap_lay_que_branches.md",
+      "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\test_frags\\ch04.txt"
+    },
+    {
+      "chunk_id": "ch05",
+      "title": "Chương 5: Phương pháp trang quẻ",
+      "parent_titles": [],
+      "start_heading_level": 2,
+      "start_page": 1,
+      "end_page": 1,
+      "start_marker": "# Chương 5: Phương pháp trang quẻ",
+      "drill_threshold_words": 1500,
+      "figure_ids": [
+        "fig_02",
+        "fig_03",
+        "fig_04"
+      ],
+      "exercises": [
+        {
+          "line": 208,
+          "exercise_id": "ex_01",
+          "title": "Ví dụ nạp giáp quẻ Thủy Phong Tỉnh",
+          "start_page": 12,
+          "end_page": 12,
+          "page_images": [
+            "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\pages\\page_0012.png"
+          ]
+        },
+        {
+          "line": 228,
+          "exercise_id": "ex_02",
+          "title": "Ví dụ an Thế Ứng quẻ Thủy Trạch Tiết",
+          "start_page": 13,
+          "end_page": 13,
+          "page_images": [
+            "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\pages\\page_0013.png"
+          ]
+        },
+        {
+          "line": 234,
+          "exercise_id": "ex_03",
+          "title": "Ví dụ an Thế Ứng quẻ Phong Trạch Trung Phu",
+          "start_page": 13,
+          "end_page": 14,
+          "page_images": [
+            "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\pages\\page_0013.png",
+            "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\pages\\page_0014.png"
+          ]
+        },
+        {
+          "line": 238,
+          "exercise_id": "ex_04",
+          "title": "Ví dụ an Thế Ứng quẻ Sơn Phong Cổ",
+          "start_page": 14,
+          "end_page": 14,
+          "page_images": [
+            "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\pages\\page_0014.png"
+          ]
+        },
+        {
+          "line": 254,
+          "exercise_id": "ex_05",
+          "title": "Ví dụ phối lục thân quẻ Thủy Phong Tỉnh",
+          "start_page": 15,
+          "end_page": 15,
+          "page_images": [
+            "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\pages\\page_0015.png"
+          ]
+        },
+        {
+          "line": 260,
+          "exercise_id": "ex_06",
+          "title": "Ví dụ phối lục thân quẻ Thủy Trạch Tiết biến Thủy Địa Tỷ",
+          "start_page": 15,
+          "end_page": 16,
+          "page_images": [
+            "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\pages\\page_0015.png",
+            "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\pages\\page_0016.png"
+          ]
+        }
+      ],
+      "fragment_file": "fragments/ch05_chuong_5_phuong_phap_trang_que_branches.md",
+      "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\test_frags\\ch05.txt"
+    },
+    {
+      "chunk_id": "ch06",
+      "title": "Chương 6: Tác dụng của Lục Thân, Lục Thần, Thế Ứng",
+      "parent_titles": [],
+      "start_heading_level": 2,
+      "start_page": 1,
+      "end_page": 1,
+      "start_marker": "# Chương 6: Tác dụng của Lục Thân, Lục Thần, Thế Ứng",
+      "drill_threshold_words": 1500,
+      "figure_ids": [],
+      "exercises": [],
+      "fragment_file": "fragments/ch06_chuong_6_tac_dung_cua_luc_than_luc_than_branches.md",
+      "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_nhap_mon\\test_frags\\ch06.txt"
+    }
+  ],
+  "global_context_pack": "Tài liệu Lục Hào Nhập Môn."
+}

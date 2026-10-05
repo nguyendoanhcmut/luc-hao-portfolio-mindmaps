@@ -1,0 +1,155 @@
+{
+  "chunk_id": "ch07",
+  "title": "Chương 4: Hoạt Dụng Không Vong",
+  "start_heading_level": 2,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch07.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch07_chuong_4_hoat_dung_khong_vong_branches.md",
+  "figure_ids": [
+    "fig_16",
+    "fig_17",
+    "fig_18",
+    "fig_19",
+    "fig_20",
+    "fig_21",
+    "fig_22",
+    "fig_23",
+    "fig_24",
+    "fig_25"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_16",
+      "figure_number": "16",
+      "caption": "Quẻ Thủy Phong Tỉnh biến Tốn Vi Phong",
+      "rel_path": "assets/page_0042_img_01.png"
+    },
+    {
+      "id": "fig_17",
+      "figure_number": "17",
+      "caption": "Sơ đồ quẻ Sơn Thủy Mông biến Thiên Phong Cấu",
+      "rel_path": "assets/page_0043_img_01.png"
+    },
+    {
+      "id": "fig_18",
+      "figure_number": "18",
+      "caption": "Sơ đồ quẻ Thiên Phong Cấu",
+      "rel_path": "assets/page_0044_img_01.png"
+    },
+    {
+      "id": "fig_19",
+      "figure_number": "19",
+      "caption": "Sơ đồ quẻ Lôi Phong Hằng biến Lôi Thiên Đại Tráng",
+      "rel_path": "assets/page_0045_img_01.png"
+    },
+    {
+      "id": "fig_20",
+      "figure_number": "20",
+      "caption": "Sơ đồ quẻ Lôi Hỏa Phong",
+      "rel_path": "assets/page_0046_img_01.png"
+    },
+    {
+      "id": "fig_21",
+      "figure_number": "21",
+      "caption": "Sơ đồ quẻ Ly Vi Hỏa",
+      "rel_path": "assets/page_0047_img_01.png"
+    },
+    {
+      "id": "fig_22",
+      "figure_number": "22",
+      "caption": "Sơ đồ quẻ Trạch Địa Tụy",
+      "rel_path": "assets/page_0049_img_01.png"
+    },
+    {
+      "id": "fig_23",
+      "figure_number": "23",
+      "caption": "Sơ đồ quẻ Phong Thủy Hoán biến Thiên Thủy Tụng",
+      "rel_path": "assets/page_0050_img_01.png"
+    },
+    {
+      "id": "fig_24",
+      "figure_number": "24",
+      "caption": "Sơ đồ quẻ Lôi Trạch Quy Muội biến Địa Trạch Lâm",
+      "rel_path": "assets/page_0051_img_01.png"
+    },
+    {
+      "id": "fig_25",
+      "figure_number": "25",
+      "caption": "Sơ đồ quẻ Trạch Địa Tụy biến Hỏa Địa Tấn",
+      "rel_path": "assets/page_0052_img_01.png"
+    }
+  ],
+  "exercises": [
+    {
+      "line": 622,
+      "exercise_id": "vd_016",
+      "title": "Ví dụ 1: Ngày Canh Ngọ tháng Tân Hợi năm Đinh Sửu, đoán kết quả thi công chức, được Thủy Phong Tỉnh biến Tốn Vi Phong.",
+      "start_page": 42,
+      "end_page": 42
+    },
+    {
+      "line": 645,
+      "exercise_id": "vd_017",
+      "title": "Ví dụ 2: Ngày Bính Ngọ tháng Quý Tị năm Bính Tý, nam 20 tuổi đoán hôn nhân, được Sơn Thủy Mông biến Thiên Phong Cấu.",
+      "start_page": 43,
+      "end_page": 43
+    },
+    {
+      "line": 668,
+      "exercise_id": "vd_018",
+      "title": "Ví dụ 3: Ngày Mậu Ngọ tháng Quý Tị năm Bính Tý, nam đoán về việc kinh doanh sắt thép, được Thiên Phong Cấu.",
+      "start_page": 44,
+      "end_page": 44
+    },
+    {
+      "line": 691,
+      "exercise_id": "vd_019",
+      "title": "Ví dụ 4: Ngày Mậu Dần tháng Nhâm Ngọ năm Ất Hợi, đoán thời tiết hôm đó, được Lôi Phong Hằng biến Lôi Thiên Đại Tráng.",
+      "start_page": 45,
+      "end_page": 45
+    },
+    {
+      "line": 714,
+      "exercise_id": "vd_020",
+      "title": "Ví dụ 5: Ngày Đinh Sửu tháng Kỷ Mùi năm Mậu Dần, nữ đoán kiện tụng, được Lôi Hỏa Phong.",
+      "start_page": 46,
+      "end_page": 46
+    },
+    {
+      "line": 737,
+      "exercise_id": "vd_021",
+      "title": "Ví dụ 6: Ngày Kỷ Hợi tháng Tý, một nữ giảng viên đại học đoán bệnh, được Ly Vi Hỏa.",
+      "start_page": 47,
+      "end_page": 47
+    },
+    {
+      "line": 772,
+      "exercise_id": "vd_022",
+      "title": "Ví dụ 7: Ngày Quý Mão tháng Mậu Thân năm Đinh Sửu, nam đoán hôn nhân, được quẻ Trạch Địa Tụy.",
+      "start_page": 49,
+      "end_page": 49
+    },
+    {
+      "line": 795,
+      "exercise_id": "vd_023",
+      "title": "Ví dụ 8: Ngày Ất Mùi tháng Giáp Thân năm Đinh Sửu, có một người nam vì đơn vị bắt thăm phân phòng, đoán xem mình có thể ",
+      "start_page": 50,
+      "end_page": 50
+    },
+    {
+      "line": 816,
+      "exercise_id": "vd_024",
+      "title": "Ví dụ 9: Ngày Giáp Thìn tháng Bính Ngọ năm Đinh Sửu, nam đoán cãi lộn với vợ kế...",
+      "start_page": 51,
+      "end_page": 51
+    },
+    {
+      "line": 845,
+      "exercise_id": "vd_025",
+      "title": "Ví dụ 10: Ngày Kỷ Hợi tháng Bính Ngọ năm Đinh Sửu, một người phụ nữ đoán con tra...",
+      "start_page": 52,
+      "end_page": 52
+    }
+  ],
+  "parent_titles": []
+}

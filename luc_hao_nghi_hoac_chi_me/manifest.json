@@ -1,0 +1,128 @@
+{
+  "summary": {
+    "total_books": 1,
+    "total_pages": 216,
+    "total_worker_pairs": 108,
+    "total_chapters": 9,
+    "total_batches": 2,
+    "total_waves": 2,
+    "est_time_sec_min": 24,
+    "est_time_sec_max": 30,
+    "est_time_str": "24-30s (0.4-0.5 min)"
+  },
+  "books": [
+    {
+      "file": "VƯƠNG HỔ ỨNG - LỤC HÀO NGHI HOẶC CHỈ MÊ.pdf",
+      "path": "C:\\Users\\Admin\\Downloads\\drive-download-20260908T061604Z-1-001\\VƯƠNG HỔ ỨNG - LỤC HÀO NGHI HOẶC CHỈ MÊ.pdf",
+      "total_pages": 216,
+      "worker_pairs": 108,
+      "has_native_text": false,
+      "detection_tier": "Tier 1 (TOC Bookmarks)",
+      "chapters_count": 9,
+      "batches_count": 2,
+      "total_waves": 2,
+      "est_time_sec_min": 24,
+      "est_time_sec_max": 30,
+      "est_time_str": "24-30s",
+      "chapters": [
+        {
+          "title": "BÌA",
+          "start_page": 1,
+          "end_page": 4,
+          "id": 1,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "MỤC LỤC",
+          "start_page": 5,
+          "end_page": 8,
+          "id": 2,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "LỜI NÓI ĐẦU",
+          "start_page": 9,
+          "end_page": 9,
+          "id": 3,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 1. NHỮNG THẮC MẮC LIÊN QUAN ĐẾN GIEO QUẺ",
+          "start_page": 10,
+          "end_page": 56,
+          "id": 4,
+          "pages": 47,
+          "pairs": 24
+        },
+        {
+          "title": "CHƯƠNG 2. NHỮNG THẮC MẮC VỀ LỤC HÀO CƠ SỞ",
+          "start_page": 57,
+          "end_page": 77,
+          "id": 5,
+          "pages": 21,
+          "pairs": 11
+        },
+        {
+          "title": "CHƯƠNG 3. NHỮNG THẮC MẮC LIÊN QUAN ĐẾN HÀO ĐỘNG",
+          "start_page": 78,
+          "end_page": 100,
+          "id": 6,
+          "pages": 23,
+          "pairs": 12
+        },
+        {
+          "title": "CHƯƠNG 4. NHỮNG THẮC MẮC LIÊN QUAN ĐẾN NĂM THÁNG NGÀY GIỜ",
+          "start_page": 101,
+          "end_page": 127,
+          "id": 7,
+          "pages": 27,
+          "pairs": 14
+        },
+        {
+          "title": "CHƯƠNG 5. NHỮNG THẮC MẮC LIÊN QUAN ĐẾN CHỌN DỤNG THẦN",
+          "start_page": 128,
+          "end_page": 172,
+          "id": 8,
+          "pages": 45,
+          "pairs": 23
+        },
+        {
+          "title": "CHƯƠNG 6. NHỮNG THẮC MẮC VỀ CÁC HIỆN TƯỢNG ĐẶC THÙ TRONG LỤC HÀO",
+          "start_page": 173,
+          "end_page": 216,
+          "id": 9,
+          "pages": 44,
+          "pairs": 22
+        }
+      ],
+      "batches": [
+        {
+          "batch_id": 1,
+          "chapter_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "total_pairs": 66,
+          "waves": 1
+        },
+        {
+          "batch_id": 2,
+          "chapter_ids": [
+            8,
+            9
+          ],
+          "total_pairs": 45,
+          "waves": 1
+        }
+      ]
+    }
+  ]
+}

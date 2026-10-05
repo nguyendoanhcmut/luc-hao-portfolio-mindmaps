@@ -1,0 +1,171 @@
+{
+  "worker_id": "worker_07",
+  "total_chunks": 11,
+  "chunks": [
+    {
+      "chunk_id": "ch14_1",
+      "title": "Con gái huyết niệu do nguyên nhân gì?",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch14_1.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch14_1_con_gai_huyet_nieu_do_nguyen_nhan_gi_branches.md",
+      "figures": [
+        {
+          "id": "fig_79",
+          "figure_number": "79",
+          "caption": "Quẻ Đoài Vi Trạch biến Trạch Thủy Khốn",
+          "rel_path": "assets/page_0128_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch14_2",
+      "title": "Nguyên nhân của đau đầu",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch14_2.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch14_2_nguyen_nhan_cua_au_au_branches.md",
+      "figures": [
+        {
+          "id": "fig_80",
+          "figure_number": "80",
+          "caption": "Quẻ Địa Lôi Phục biến Khôn Vi Địa",
+          "rel_path": "assets/page_0129_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch14_3",
+      "title": "Lao phổi dẫn đến di tinh",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch14_3.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch14_3_lao_phoi_dan_en_di_tinh_branches.md",
+      "figures": [
+        {
+          "id": "fig_81",
+          "figure_number": "81",
+          "caption": "Sơ đồ quẻ Trạch Phong Đại Quá biến Lôi Phong Hằng",
+          "rel_path": "assets/page_0130_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch14_4",
+      "title": "Tại sao hài tử không nghe lời?",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch14_4.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch14_4_tai_sao_hai_tu_khong_nghe_loi_branches.md",
+      "figures": [
+        {
+          "id": "fig_82",
+          "figure_number": "82",
+          "caption": "Sơ đồ quẻ Hỏa Phong Đỉnh biến Hỏa Sơn Lữ",
+          "rel_path": "assets/page_0131_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch14_5",
+      "title": "Nguyên nhân ở xương cổ",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch14_5.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch14_5_nguyen_nhan_o_xuong_co_branches.md",
+      "figures": [
+        {
+          "id": "fig_83",
+          "figure_number": "83",
+          "caption": "Quẻ Sơn Thủy Mông biến Phong Thủy Hoán",
+          "rel_path": "assets/page_0132_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch14_6",
+      "title": "Hóa ra là thất thoát đản bạch",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch14_6.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch14_6_hoa_ra_la_that_thoat_an_bach_branches.md",
+      "figures": [
+        {
+          "id": "fig_84",
+          "figure_number": "84",
+          "caption": "Quẻ Hỏa Sơn Lữ biến Sơn Hỏa Bí",
+          "rel_path": "assets/page_0133_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch14_7",
+      "title": "Do thủ dâm gây ra",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch14_7.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch14_7_do_thu_dam_gay_ra_branches.md",
+      "figures": [
+        {
+          "id": "fig_85",
+          "figure_number": "85",
+          "caption": "Quẻ Sơn Lôi Di biến Sơn Thủy Mông",
+          "rel_path": "assets/page_0134_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch14_8",
+      "title": "Do u xơ tử cung gây ra",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch14_8.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch14_8_do_u_xo_tu_cung_gay_ra_branches.md",
+      "figures": [
+        {
+          "id": "fig_86",
+          "figure_number": "86",
+          "caption": "Quẻ Thủy Hỏa Ký Tế biến Địa Hỏa Minh Di",
+          "rel_path": "assets/page_0135_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch14_9",
+      "title": "Bất dựng bất dục",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch14_9.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch14_9_bat_dung_bat_duc_branches.md",
+      "figures": [
+        {
+          "id": "fig_87",
+          "figure_number": "87",
+          "caption": "Sơ đồ quẻ Thủy Thiên Nhu",
+          "rel_path": "assets/page_0136_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch14_10",
+      "title": "Tại sao tôi già đi quá nhanh?",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch14_10.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch14_10_tai_sao_toi_gia_i_qua_nhanh_branches.md",
+      "figures": [
+        {
+          "id": "fig_88",
+          "figure_number": "88",
+          "caption": "Quẻ Phong Lôi Ích biến Hỏa Trạch Khuê",
+          "rel_path": "assets/page_0137_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch14_11",
+      "title": "Tại sao tôi hay bực mình?",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch14_11.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch14_11_tai_sao_toi_hay_buc_minh_branches.md",
+      "figures": [
+        {
+          "id": "fig_89",
+          "figure_number": "89",
+          "caption": "Sơ đồ quẻ Địa Thủy Sư",
+          "rel_path": "assets/page_0138_img_01.png"
+        }
+      ]
+    }
+  ]
+}

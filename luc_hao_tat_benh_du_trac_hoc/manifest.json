@@ -1,0 +1,209 @@
+{
+  "summary": {
+    "total_books": 1,
+    "total_pages": 251,
+    "total_worker_pairs": 126,
+    "total_chapters": 18,
+    "total_batches": 2,
+    "total_waves": 2,
+    "est_time_sec_min": 24,
+    "est_time_sec_max": 30,
+    "est_time_str": "24-30s (0.4-0.5 min)"
+  },
+  "books": [
+    {
+      "file": "VƯƠNG HỔ ỨNG - LỤC HÀO TẬT BỆNH DỰ TRẮC HỌC.pdf",
+      "path": "C:\\Users\\Admin\\Downloads\\drive-download-20260908T061604Z-1-001\\VƯƠNG HỔ ỨNG - LỤC HÀO TẬT BỆNH DỰ TRẮC HỌC.pdf",
+      "total_pages": 251,
+      "worker_pairs": 126,
+      "has_native_text": true,
+      "detection_tier": "Tier 2 (Text Heading Scan)",
+      "chapters_count": 18,
+      "batches_count": 2,
+      "total_waves": 2,
+      "est_time_sec_min": 24,
+      "est_time_sec_max": 30,
+      "est_time_str": "24-30s",
+      "chapters": [
+        {
+          "title": "CHƯƠNG 1: Ý NGHĨA CỦA LỤC HÀO ĐOÁN BỆNH",
+          "start_page": 1,
+          "end_page": 10,
+          "id": 1,
+          "pages": 10,
+          "pairs": 5
+        },
+        {
+          "title": "CHƯƠNG 2: QUY LUẬT CỦA LỤC HÀO ĐOÁN BỆNH",
+          "start_page": 11,
+          "end_page": 25,
+          "id": 2,
+          "pages": 15,
+          "pairs": 8
+        },
+        {
+          "title": "CHƯƠNG 3: QUAN HỆ ĐỐI ỨNG GIỮA BÁT QUÁI",
+          "start_page": 26,
+          "end_page": 29,
+          "id": 3,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 4: QUAN HỆ ĐỐI ỨNG GIỮA NGŨ HÀNH",
+          "start_page": 30,
+          "end_page": 33,
+          "id": 4,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 5: QUAN HỆ GIỮA LỤC THÂN VÀ BỆNH TẬT",
+          "start_page": 34,
+          "end_page": 45,
+          "id": 5,
+          "pages": 12,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 6: HÀO VỊ VÀ BỆNH TẬT",
+          "start_page": 46,
+          "end_page": 49,
+          "id": 6,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 7: THỦ TƯỢNG LỤC THẦN ĐOÁN BỆNH",
+          "start_page": 50,
+          "end_page": 53,
+          "id": 7,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 8: THỦ TƯỢNG ĐỊA CHI ĐOÁN BỆNH",
+          "start_page": 54,
+          "end_page": 57,
+          "id": 8,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 9: KIẾN THỨC CĂN BẢN ỨNG DỤNG",
+          "start_page": 58,
+          "end_page": 84,
+          "id": 9,
+          "pages": 27,
+          "pairs": 14
+        },
+        {
+          "title": "CHƯƠNG 10: ỨNG DỤNG CỦA 12 TRẠNG THÁI NGŨ HÀNH",
+          "start_page": 85,
+          "end_page": 89,
+          "id": 10,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 11: CÁCH ĐOÁN NGUYÊN NHÂN PHÁT BỆNH",
+          "start_page": 90,
+          "end_page": 101,
+          "id": 11,
+          "pages": 12,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 12: ỨNG KỲ VÀ DỰ ĐOÁN BỆNH TẬT",
+          "start_page": 102,
+          "end_page": 107,
+          "id": 12,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 13: KHÁM BỆNH",
+          "start_page": 108,
+          "end_page": 114,
+          "id": 13,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 14: ỨNG DỤNG CỦA LỤC HÀO",
+          "start_page": 115,
+          "end_page": 125,
+          "id": 14,
+          "pages": 11,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 15: PHÂN LOẠI DỰ ĐOÁN BỆNH TẬT",
+          "start_page": 126,
+          "end_page": 237,
+          "id": 15,
+          "pages": 112,
+          "pairs": 56
+        },
+        {
+          "title": "bài giảng, thế là tôi bảo cô ấy gieo quẻ, được Phong Thiên Tiểu Súc biến Phong Lôi",
+          "start_page": 238,
+          "end_page": 241,
+          "id": 16,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 16: ĐOÁN BỆNH ỨNG DỤNG",
+          "start_page": 242,
+          "end_page": 246,
+          "id": 17,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 17: DỰ ĐOÁN BỆNH TẬT CHO ĐỘNG VẬT",
+          "start_page": 247,
+          "end_page": 251,
+          "id": 18,
+          "pages": 5,
+          "pairs": 3
+        }
+      ],
+      "batches": [
+        {
+          "batch_id": 1,
+          "chapter_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "total_pairs": 65,
+          "waves": 1
+        },
+        {
+          "batch_id": 2,
+          "chapter_ids": [
+            15,
+            16,
+            17,
+            18
+          ],
+          "total_pairs": 64,
+          "waves": 1
+        }
+      ]
+    }
+  ]
+}

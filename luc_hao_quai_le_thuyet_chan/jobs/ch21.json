@@ -1,0 +1,57 @@
+{
+  "chunk_id": "ch21",
+  "title": "Chương 18: Luận Phương Cục Trong Lục Hào",
+  "start_heading_level": 2,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch21.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch21_chuong_18_luan_phuong_cuc_trong_luc_hao_branches.md",
+  "figure_ids": [
+    "fig_114",
+    "fig_115",
+    "fig_116"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_114",
+      "figure_number": "114",
+      "caption": "Quẻ Thủy Phong Tỉnh",
+      "rel_path": "assets/page_0182_img_01.png"
+    },
+    {
+      "id": "fig_115",
+      "figure_number": "115",
+      "caption": "Sơ đồ quẻ Sơn Phong Cổ biến Sơn Thủy Mông",
+      "rel_path": "assets/page_0183_img_01.png"
+    },
+    {
+      "id": "fig_116",
+      "figure_number": "116",
+      "caption": "Sơ đồ quẻ Hoán",
+      "rel_path": "assets/page_0185_img_01.png"
+    }
+  ],
+  "exercises": [
+    {
+      "line": 3220,
+      "exercise_id": "vd_114",
+      "title": "Ví dụ 1: Ngày Tân Sửu tháng Mậu Thìn năm Kỷ Mão, nữ gọi điện thoại đến xin dự đoán về việc mở cửa hàng ăn uống. Tôi gieo",
+      "start_page": 182,
+      "end_page": 182
+    },
+    {
+      "line": 3241,
+      "exercise_id": "vd_115",
+      "title": "Ví dụ 2: Ngày Nhâm Thìn tháng Canh Thân Năm Mậu Dần, nữ đoán hôn nhân, được Sơn Phong Cổ biến Sơn Thủy Mông. (nữ sinh nă",
+      "start_page": 183,
+      "end_page": 183
+    },
+    {
+      "line": 3264,
+      "exercise_id": "vd_116",
+      "title": "Ví dụ 3: Ngày Ất Mùi tháng Quý Mùi năm Canh Thìn, nữ ở Ngũ Đài Sơn đoán xem khi nào căn nhà của mẹ mới có thể xây xong. ",
+      "start_page": 185,
+      "end_page": 185
+    }
+  ],
+  "parent_titles": []
+}

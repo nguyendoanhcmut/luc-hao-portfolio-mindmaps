@@ -1,0 +1,194 @@
+{
+  "worker_id": "worker_04",
+  "total_chunks": 13,
+  "chunks": [
+    {
+      "chunk_id": "ch10_0",
+      "title": "Chương 9: THỦ TƯỢNG NGŨ HÀNH PHÁN ĐOÁN NHÂN QUẢ",
+      "start_heading_level": 2,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch10_0.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch10_0_chuong_9_thu_tuong_ngu_hanh_phan_oan_nha_branches.md",
+      "figures": []
+    },
+    {
+      "chunk_id": "ch10_1",
+      "title": "Anh đã sờ vào hòn đá trên hồ nước ở mộ địa",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch10_1.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch10_1_anh_a_so_vao_hon_a_tren_ho_nuoc_o_mo_ia_branches.md",
+      "figures": [
+        {
+          "id": "fig_38",
+          "figure_number": "38",
+          "caption": "Quẻ Hỏa Thiên Đại Hữu biến Sơn Thiên Đại Súc",
+          "rel_path": "assets/page_0080_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch10_2",
+      "title": "Động bể cá dẫn đến mẫn ngứa",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch10_2.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch10_2_ong_be_ca_dan_en_man_ngua_branches.md",
+      "figures": [
+        {
+          "id": "fig_39",
+          "figure_number": "39",
+          "caption": "Quẻ Sơn Thiên Đại Súc biến Tốn Vi Phong",
+          "rel_path": "assets/page_0081_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch10_3",
+      "title": "Do đã động cống thoát nước gây ra",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch10_3.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch10_3_do_a_ong_cong_thoat_nuoc_gay_ra_branches.md",
+      "figures": [
+        {
+          "id": "fig_40",
+          "figure_number": "40",
+          "caption": "Sơ đồ quẻ Lục Hào: Thủy Lôi Truân biến Khôn Vi Địa",
+          "rel_path": "assets/page_0082_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch10_4",
+      "title": "Vận khí không thuận do nguyên nhân gì?",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch10_4.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch10_4_van_khi_khong_thuan_do_nguyen_nhan_gi_branches.md",
+      "figures": [
+        {
+          "id": "fig_41",
+          "figure_number": "41",
+          "caption": "Sơ đồ quẻ Lục Hào: Phong Lôi Ích biến Phong Trạch Trung Phu",
+          "rel_path": "assets/page_0083_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch10_5",
+      "title": "Cống thoát nước đã bị lấp",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch10_5.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch10_5_cong_thoat_nuoc_a_bi_lap_branches.md",
+      "figures": [
+        {
+          "id": "fig_42",
+          "figure_number": "42",
+          "caption": "Sơ đồ quẻ Địa Lôi Phục biến Sơn Địa Bác",
+          "rel_path": "assets/page_0084_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch10_6",
+      "title": "Đã động giường, hoặc bàn gây nên",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch10_6.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch10_6_a_ong_giuong_hoac_ban_gay_nen_branches.md",
+      "figures": [
+        {
+          "id": "fig_43",
+          "figure_number": "43",
+          "caption": "Sơ đồ quẻ Tốn Vi Phong biến Phong Trạch Trung Phu",
+          "rel_path": "assets/page_0085_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch10_7",
+      "title": "Bị bệnh liên quan đến phong thủy",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch10_7.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch10_7_bi_benh_lien_quan_en_phong_thuy_branches.md",
+      "figures": [
+        {
+          "id": "fig_44",
+          "figure_number": "44",
+          "caption": "Sơ đồ quẻ Địa Lôi Phục biến Địa Hỏa Minh Di",
+          "rel_path": "assets/page_0086_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch10_8",
+      "title": "Vấn đề do dời bếp gây ra",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch10_8.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch10_8_van_e_do_doi_bep_gay_ra_branches.md",
+      "figures": [
+        {
+          "id": "fig_45",
+          "figure_number": "45",
+          "caption": "Sơ đồ quẻ Lôi Thủy Giải biến Sơn Trạch Tổn",
+          "rel_path": "assets/page_0087_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch10_9",
+      "title": "Bà nội bị bệnh do nguyên nhân gì?",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch10_9.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch10_9_ba_noi_bi_benh_do_nguyen_nhan_gi_branches.md",
+      "figures": [
+        {
+          "id": "fig_46",
+          "figure_number": "46",
+          "caption": "Quẻ Lôi Địa Dự biến Chấn Vi Lôi",
+          "rel_path": "assets/page_0088_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch10_10",
+      "title": "Tại sao hài tử khóc ầm ĩ?",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch10_10.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch10_10_tai_sao_hai_tu_khoc_am_i_branches.md",
+      "figures": [
+        {
+          "id": "fig_47",
+          "figure_number": "47",
+          "caption": "Quẻ Trạch Phong Đại Quá biến Trạch Thủy Khốn",
+          "rel_path": "assets/page_0089_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch10_11",
+      "title": "Giỏ treo của hàng xóm ảnh hưởng đến mình",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch10_11.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch10_11_gio_treo_cua_hang_xom_anh_huong_en_minh_branches.md",
+      "figures": [
+        {
+          "id": "fig_48",
+          "figure_number": "48",
+          "caption": "Sơ đồ quẻ Phong Địa Quan biến Phong Sơn Tiệm",
+          "rel_path": "assets/page_0090_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch10_12",
+      "title": "Hai hòn đá gây ra họa",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch10_12.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch10_12_hai_hon_a_gay_ra_hoa_branches.md",
+      "figures": [
+        {
+          "id": "fig_49",
+          "figure_number": "49",
+          "caption": "Sơ đồ quẻ Sơn Thiên Đại Súc biến Sơn Hỏa Bí",
+          "rel_path": "assets/page_0091_img_01.png"
+        }
+      ]
+    }
+  ]
+}

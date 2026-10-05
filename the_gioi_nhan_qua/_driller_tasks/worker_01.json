@@ -1,0 +1,90 @@
+{
+  "worker_id": "worker_01",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "ch01",
+      "title": "Lời Tựa",
+      "start_heading_level": 2,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch01.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch01_loi_tua_branches.md",
+      "figures": []
+    },
+    {
+      "chunk_id": "ch02_0",
+      "title": "Chương 1: NHÂN QUẢ QUAN TRONG DỰ ĐOÁN LỤC HÀO",
+      "start_heading_level": 2,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch02_0.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch02_0_chuong_1_nhan_qua_quan_trong_du_oan_luc_branches.md",
+      "figures": []
+    },
+    {
+      "chunk_id": "ch02_1",
+      "title": "Khi cá trong bể nhảy ra thì chị có thai",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch02_1.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch02_1_khi_ca_trong_be_nhay_ra_thi_chi_co_thai_branches.md",
+      "figures": []
+    },
+    {
+      "chunk_id": "ch02_2",
+      "title": "Không ngờ thiên tai đã ảnh hưởng đến việc kinh doanh",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch02_2.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch02_2_khong_ngo_thien_tai_a_anh_huong_en_viec_branches.md",
+      "figures": [
+        {
+          "id": "fig_03",
+          "figure_number": "3",
+          "caption": "Sơ đồ quẻ Trạch Thiên Quải biến Địa Thiên Thái",
+          "rel_path": "assets/page_0016_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch02_3",
+      "title": "Không ngờ thiên tai đã cứu việc kinh doanh",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch02_3.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch02_3_khong_ngo_thien_tai_a_cuu_viec_kinh_doan_branches.md",
+      "figures": [
+        {
+          "id": "fig_04",
+          "figure_number": "4",
+          "caption": "Sơ đồ quẻ Lục Hào ngày Mậu Tý tháng Sửu",
+          "rel_path": "assets/page_0017_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch02_4",
+      "title": "Mơ thấy vợ và con trai ở kiếp trước, cát hung ra sao",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch02_4.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch02_4_mo_thay_vo_va_con_trai_o_kiep_truoc_cat_branches.md",
+      "figures": [
+        {
+          "id": "fig_05",
+          "figure_number": "5",
+          "caption": "Sơ đồ quẻ Thủy Sơn Kiển biến Phong Địa Quan",
+          "rel_path": "assets/page_0018_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch02_5",
+      "title": "Vấn đề xảy ra tại ký túc xá",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch02_5.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch02_5_van_e_xay_ra_tai_ky_tuc_xa_branches.md",
+      "figures": [
+        {
+          "id": "fig_06",
+          "figure_number": "6",
+          "caption": "Quẻ Trạch Thủy Khốn biến Lôi Thủy Giải",
+          "rel_path": "assets/page_0019_img_01.png"
+        }
+      ]
+    }
+  ]
+}

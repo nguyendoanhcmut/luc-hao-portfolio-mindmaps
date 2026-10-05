@@ -1,0 +1,441 @@
+{
+  "summary": {
+    "total_books": 1,
+    "total_pages": 353,
+    "total_worker_pairs": 177,
+    "total_chapters": 43,
+    "total_batches": 3,
+    "total_waves": 3,
+    "est_time_sec_min": 36,
+    "est_time_sec_max": 45,
+    "est_time_str": "36-45s (0.6-0.8 min)"
+  },
+  "books": [
+    {
+      "file": "VƯƠNG HỔ ỨNG - LỤC HẢO BẢO ĐIỂN.pdf",
+      "path": "C:\\Users\\Admin\\Downloads\\drive-download-20260908T061604Z-1-001\\VƯƠNG HỔ ỨNG - LỤC HẢO BẢO ĐIỂN.pdf",
+      "total_pages": 353,
+      "worker_pairs": 177,
+      "has_native_text": false,
+      "detection_tier": "Tier 1 (TOC Bookmarks)",
+      "chapters_count": 43,
+      "batches_count": 3,
+      "total_waves": 3,
+      "est_time_sec_min": 36,
+      "est_time_sec_max": 45,
+      "est_time_str": "36-45s",
+      "chapters": [
+        {
+          "title": "BÌA",
+          "start_page": 1,
+          "end_page": 1,
+          "id": 1,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "MỤC LỤC",
+          "start_page": 2,
+          "end_page": 4,
+          "id": 2,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "TỰ",
+          "start_page": 5,
+          "end_page": 5,
+          "id": 3,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "LỜI DỊCH GIẢ",
+          "start_page": 6,
+          "end_page": 6,
+          "id": 4,
+          "pages": 1,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 1. DỰ ĐOÁN LỤC HÀO TRONG CUỘC SỐNG",
+          "start_page": 7,
+          "end_page": 9,
+          "id": 5,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 2. LỊCH SỬ DỰ ĐOÁN LỤC HÀO VÀ QUÁ TRÌNH BIẾN ĐỔI",
+          "start_page": 10,
+          "end_page": 11,
+          "id": 6,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 3. VŨ TRỤ QUAN CỦA DỊCH",
+          "start_page": 12,
+          "end_page": 15,
+          "id": 7,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 4. CAN CHI TRONG LỤC HÀO",
+          "start_page": 16,
+          "end_page": 18,
+          "id": 8,
+          "pages": 3,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 5. BÁT QUÁI",
+          "start_page": 19,
+          "end_page": 22,
+          "id": 9,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 6. THỦ PHÁP VÀ PHƯƠNG PHÁP GHI BÁT QUÁI",
+          "start_page": 23,
+          "end_page": 24,
+          "id": 10,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 7. PHƯƠNG PHÁP LẬP QUẺ",
+          "start_page": 25,
+          "end_page": 38,
+          "id": 11,
+          "pages": 14,
+          "pairs": 7
+        },
+        {
+          "title": "CHƯƠNG 8. LỤC THÂN, LỤC THẦN, THẾ ỨNG",
+          "start_page": 39,
+          "end_page": 43,
+          "id": 12,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 9. PHƯƠNG PHÁP LẤY DỤNG THẦN",
+          "start_page": 44,
+          "end_page": 54,
+          "id": 13,
+          "pages": 11,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 10. NGUYÊN THẦN, KỊ THẦN, CỪU THẦN",
+          "start_page": 55,
+          "end_page": 61,
+          "id": 14,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 11. SUY VƯỢNG CỦA HÀO",
+          "start_page": 62,
+          "end_page": 71,
+          "id": 15,
+          "pages": 10,
+          "pairs": 5
+        },
+        {
+          "title": "CHƯƠNG 12. 12 TRẠNG THÁI SINH DIỆT CỦA NGŨ HÀNH",
+          "start_page": 72,
+          "end_page": 77,
+          "id": 16,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 13. SINH KHẮC CỦA HÀO ĐỘNG TĨNH",
+          "start_page": 78,
+          "end_page": 82,
+          "id": 17,
+          "pages": 5,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 14. LỤC HỢP",
+          "start_page": 83,
+          "end_page": 88,
+          "id": 18,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 15. LỤC XUNG",
+          "start_page": 89,
+          "end_page": 90,
+          "id": 19,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 16. TAM HÌNH",
+          "start_page": 91,
+          "end_page": 92,
+          "id": 20,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 17. PHẢN NGÂM, PHỤC NGÂM",
+          "start_page": 93,
+          "end_page": 94,
+          "id": 21,
+          "pages": 2,
+          "pairs": 1
+        },
+        {
+          "title": "CHƯƠNG 18. DU HỒN, QUY HỒN",
+          "start_page": 95,
+          "end_page": 98,
+          "id": 22,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 19. HÀO VỊ",
+          "start_page": 99,
+          "end_page": 104,
+          "id": 23,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 20. ỨNG KỲ",
+          "start_page": 105,
+          "end_page": 125,
+          "id": 24,
+          "pages": 21,
+          "pairs": 11
+        },
+        {
+          "title": "CHƯƠNG 21. DỰ ĐOÁN THỜI TIẾT",
+          "start_page": 126,
+          "end_page": 135,
+          "id": 25,
+          "pages": 10,
+          "pairs": 5
+        },
+        {
+          "title": "CHƯƠNG 22. DỰ ĐOÁN TRANH TÀI",
+          "start_page": 136,
+          "end_page": 145,
+          "id": 26,
+          "pages": 10,
+          "pairs": 5
+        },
+        {
+          "title": "CHƯƠNG 23. DỰ ĐOÁN TÀI VẬN",
+          "start_page": 146,
+          "end_page": 154,
+          "id": 27,
+          "pages": 9,
+          "pairs": 5
+        },
+        {
+          "title": "CHƯƠNG 24. DỰ ĐOÁN MUA BÁN",
+          "start_page": 155,
+          "end_page": 163,
+          "id": 28,
+          "pages": 9,
+          "pairs": 5
+        },
+        {
+          "title": "CHƯƠNG 25. DỰ ĐOÁN XUẤT HÀNH",
+          "start_page": 164,
+          "end_page": 171,
+          "id": 29,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 26. DỰ ĐOÁN NGƯỜI ĐI ĐƯỜNG",
+          "start_page": 172,
+          "end_page": 182,
+          "id": 30,
+          "pages": 11,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 27. DỰ ĐOÁN MẤT ĐỒ",
+          "start_page": 183,
+          "end_page": 191,
+          "id": 31,
+          "pages": 9,
+          "pairs": 5
+        },
+        {
+          "title": "CHƯƠNG 28. DỰ ĐOÁN THI CỬ",
+          "start_page": 192,
+          "end_page": 199,
+          "id": 32,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 29. DỰ ĐOÁN CÔNG VIỆC",
+          "start_page": 200,
+          "end_page": 205,
+          "id": 33,
+          "pages": 6,
+          "pairs": 3
+        },
+        {
+          "title": "CHƯƠNG 30. DỰ ĐOÁN HÔN NHÂN",
+          "start_page": 206,
+          "end_page": 212,
+          "id": 34,
+          "pages": 7,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 31. DỰ ĐOÁN BỆNH TẬT",
+          "start_page": 213,
+          "end_page": 221,
+          "id": 35,
+          "pages": 9,
+          "pairs": 5
+        },
+        {
+          "title": "PHỤ LỤC 1. VƯƠNG HỔ ỨNG LÃO SƯ TÙY BÚT",
+          "start_page": 222,
+          "end_page": 288,
+          "id": 36,
+          "pages": 67,
+          "pairs": 34
+        },
+        {
+          "title": "PHỤ LỤC 2. HỎI ĐÁP VƯƠNG HỔ ỨNG CÁC NGHI VẤN VỀ DỤNG THẦN",
+          "start_page": 289,
+          "end_page": 303,
+          "id": 37,
+          "pages": 15,
+          "pairs": 8
+        },
+        {
+          "title": "CHƯƠNG 32. KIỆN CÁO TỐ TỤNG",
+          "start_page": 304,
+          "end_page": 314,
+          "id": 38,
+          "pages": 11,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 33. DỰ ĐOÁN NGƯỜI ĐI ĐƯỜNG, ĐỘNG VẬT LẠC ĐƯỜNG",
+          "start_page": 315,
+          "end_page": 322,
+          "id": 39,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 34. DỰ ĐOÁN NIÊN VẬN",
+          "start_page": 323,
+          "end_page": 330,
+          "id": 40,
+          "pages": 8,
+          "pairs": 4
+        },
+        {
+          "title": "CHƯƠNG 35. XUẤT NGOẠI VISA",
+          "start_page": 331,
+          "end_page": 334,
+          "id": 41,
+          "pages": 4,
+          "pairs": 2
+        },
+        {
+          "title": "CHƯƠNG 36. LỤC HÀO TÙY Ý",
+          "start_page": 335,
+          "end_page": 346,
+          "id": 42,
+          "pages": 12,
+          "pairs": 6
+        },
+        {
+          "title": "CHƯƠNG 37. LỤC HÀO DỰ ĐOÁN TÙY BIẾN",
+          "start_page": 347,
+          "end_page": 353,
+          "id": 43,
+          "pages": 7,
+          "pairs": 4
+        }
+      ],
+      "batches": [
+        {
+          "batch_id": 1,
+          "chapter_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "total_pairs": 78,
+          "waves": 1
+        },
+        {
+          "batch_id": 2,
+          "chapter_ids": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "total_pairs": 75,
+          "waves": 1
+        },
+        {
+          "batch_id": 3,
+          "chapter_ids": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+          ],
+          "total_pairs": 34,
+          "waves": 1
+        }
+      ]
+    }
+  ]
+}

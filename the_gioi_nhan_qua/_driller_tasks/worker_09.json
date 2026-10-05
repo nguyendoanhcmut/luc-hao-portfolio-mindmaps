@@ -1,0 +1,231 @@
+{
+  "worker_id": "worker_09",
+  "total_chunks": 15,
+  "chunks": [
+    {
+      "chunk_id": "ch15_16",
+      "title": "Rỉ nước thủy thì rỉ tài",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_16.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_16_ri_nuoc_thuy_thi_ri_tai_branches.md",
+      "figures": [
+        {
+          "id": "fig_105",
+          "figure_number": "105",
+          "caption": "Sơ đồ quẻ Sơn Phong Cổ biến Tốn Vi Phong",
+          "rel_path": "assets/page_0157_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_17",
+      "title": "Vợ chồng là oan gia",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_17.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_17_vo_chong_la_oan_gia_branches.md",
+      "figures": [
+        {
+          "id": "fig_106",
+          "figure_number": "106",
+          "caption": "Sơ đồ quẻ Thủy Địa Tỷ biến Trạch Địa Tụy",
+          "rel_path": "assets/page_0158_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_18",
+      "title": "Phong thủy có ảnh hưởng đến tài vận không?",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_18.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_18_phong_thuy_co_anh_huong_en_tai_van_khong_branches.md",
+      "figures": [
+        {
+          "id": "fig_107",
+          "figure_number": "107",
+          "caption": "Sơ đồ quẻ Khôn Vi Địa biến Thủy Lôi Truân",
+          "rel_path": "assets/page_0159_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_19",
+      "title": "Vấn đề từ rỉ nước",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_19.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_19_van_e_tu_ri_nuoc_branches.md",
+      "figures": [
+        {
+          "id": "fig_108",
+          "figure_number": "108",
+          "caption": "Quẻ Thủy Trạch Tiết",
+          "rel_path": "assets/page_0160_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_20",
+      "title": "Nguyên nhân phát bệnh đến từ phong thủy",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_20.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_20_nguyen_nhan_phat_benh_en_tu_phong_thuy_branches.md",
+      "figures": [
+        {
+          "id": "fig_109",
+          "figure_number": "109",
+          "caption": "Quẻ Lôi Phong Hằng biến Lôi Sơn Tiểu Quá",
+          "rel_path": "assets/page_0161_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_21",
+      "title": "Anh ta có họa lao ngục",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_21.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_21_anh_ta_co_hoa_lao_nguc_branches.md",
+      "figures": [
+        {
+          "id": "fig_110",
+          "figure_number": "110",
+          "caption": "Quẻ Cấn Vi Sơn biến Sơn Phong Cổ",
+          "rel_path": "assets/page_0162_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_22",
+      "title": "Tây Bắc có thủy không tốt",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_22.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_22_tay_bac_co_thuy_khong_tot_branches.md",
+      "figures": [
+        {
+          "id": "fig_111",
+          "figure_number": "111",
+          "caption": "Quẻ Thủy Lôi Truân biến Địa Lôi Phục",
+          "rel_path": "assets/page_0163_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_23",
+      "title": "Phong thủy ảnh hưởng đến thân thể",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_23.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_23_phong_thuy_anh_huong_en_than_the_branches.md",
+      "figures": [
+        {
+          "id": "fig_112",
+          "figure_number": "112",
+          "caption": "Quẻ Lôi Phong Hằng biến Địa Sơn Khiêm",
+          "rel_path": "assets/page_0164_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_24",
+      "title": "Tu tạo ảnh hưởng đến con trai",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_24.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_24_tu_tao_anh_huong_en_con_trai_branches.md",
+      "figures": [
+        {
+          "id": "fig_113",
+          "figure_number": "113",
+          "caption": "Quẻ Địa Thiên Thái biến Địa Hỏa Minh Di",
+          "rel_path": "assets/page_0165_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_25",
+      "title": "Tại sao hài tử phát triển không tốt?",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_25.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_25_tai_sao_hai_tu_phat_trien_khong_tot_branches.md",
+      "figures": [
+        {
+          "id": "fig_114",
+          "figure_number": "114",
+          "caption": "Quẻ Địa Sơn Khiêm biến Địa Phong Thăng",
+          "rel_path": "assets/page_0166_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_26",
+      "title": "Nguyên nhân của ác mộng",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_26.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_26_nguyen_nhan_cua_ac_mong_branches.md",
+      "figures": [
+        {
+          "id": "fig_115",
+          "figure_number": "115",
+          "caption": "Quẻ Hỏa Thiên Đại Hữu biến Càn Vi Thiên",
+          "rel_path": "assets/page_0167_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_27",
+      "title": "Cửa hàng phía Tây đã ảnh hưởng đến anh",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_27.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_27_cua_hang_phia_tay_a_anh_huong_en_anh_branches.md",
+      "figures": [
+        {
+          "id": "fig_116",
+          "figure_number": "116",
+          "caption": "Quẻ Thiên Hỏa Đồng Nhân biến Trạch Lôi Tùy",
+          "rel_path": "assets/page_0168_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_28",
+      "title": "Bị cha mẹ vợ làm khó dễ",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_28.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_28_bi_cha_me_vo_lam_kho_de_branches.md",
+      "figures": [
+        {
+          "id": "fig_117",
+          "figure_number": "117",
+          "caption": "Quẻ Trạch Thiên Quải biến Địa Thiên Thái",
+          "rel_path": "assets/page_0169_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_29",
+      "title": "Đã bị người liên lụy",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_29.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_29_a_bi_nguoi_lien_luy_branches.md",
+      "figures": [
+        {
+          "id": "fig_118",
+          "figure_number": "118",
+          "caption": "Quẻ Lôi Sơn Tiểu Quá biến Lôi Hỏa Phong",
+          "rel_path": "assets/page_0170_img_01.png"
+        }
+      ]
+    },
+    {
+      "chunk_id": "ch15_30",
+      "title": "Kết hợp Phong Thủy Bát Trạch với quẻ",
+      "start_heading_level": 3,
+      "src_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\src\\ch15_30.txt",
+      "out_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\the_gioi_nhan_qua\\fragments\\ch15_30_ket_hop_phong_thuy_bat_trach_voi_que_branches.md",
+      "figures": [
+        {
+          "id": "fig_119",
+          "figure_number": "119",
+          "caption": "Quẻ Đoài Vi Trạch biến Trạch Lôi Tùy",
+          "rel_path": "assets/page_0172_img_01.png"
+        }
+      ]
+    }
+  ]
+}

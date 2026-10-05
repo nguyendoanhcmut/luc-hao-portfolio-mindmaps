@@ -1,0 +1,37 @@
+{
+  "chunk_id": "ch22_3",
+  "title": "Vốn muốn tiến cử cao nhân, phán đoán tài tình khuất phục đối phương",
+  "start_heading_level": 3,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch22_3.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch22_3_von_muon_tien_cu_cao_nhan_phan_oan_tai_t_branches.md",
+  "figure_ids": [
+    "fig_120",
+    "fig_121",
+    "fig_122"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_120",
+      "figure_number": "120",
+      "caption": "Quẻ Hỏa Phong Đỉnh biến Sơn Hỏa Bí",
+      "rel_path": "assets/page_0193_img_01.png"
+    },
+    {
+      "id": "fig_121",
+      "figure_number": "121",
+      "caption": "Quẻ Thủy Phong Tỉnh biến Địa Phong Thăng",
+      "rel_path": "assets/page_0194_img_01.png"
+    },
+    {
+      "id": "fig_122",
+      "figure_number": "122",
+      "caption": "Sơ đồ quẻ Phong Địa Quan",
+      "rel_path": "assets/page_0195_img_01.png"
+    }
+  ],
+  "exercises": [],
+  "parent_titles": [
+    "Chương 19: Câu Chuyện Lục Hào Đặc Sắc"
+  ]
+}

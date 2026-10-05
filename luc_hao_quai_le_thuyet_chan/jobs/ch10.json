@@ -1,0 +1,85 @@
+{
+  "chunk_id": "ch10",
+  "title": "Chương 7: Bán Hợp Biện Nghĩa",
+  "start_heading_level": 2,
+  "max_heading_level": 5,
+  "section_text_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments\\src\\ch10.txt",
+  "output_file": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\luc_hao_portfolio_ocr\\luc_hao_quai_le_thuyet_chan\\fragments/ch10_chuong_7_ban_hop_bien_nghia_branches.md",
+  "figure_ids": [
+    "fig_40",
+    "fig_41",
+    "fig_42",
+    "fig_43",
+    "fig_44"
+  ],
+  "assigned_figures": [
+    {
+      "id": "fig_40",
+      "figure_number": "40",
+      "caption": "Sơ đồ quẻ Lôi Phong Hằng biến Chấn Vi Lôi",
+      "rel_path": "assets/page_0076_img_01.png"
+    },
+    {
+      "id": "fig_41",
+      "figure_number": "41",
+      "caption": "Quẻ Địa Thiên Thái biến Địa Trạch Lâm",
+      "rel_path": "assets/page_0077_img_01.png"
+    },
+    {
+      "id": "fig_42",
+      "figure_number": "42",
+      "caption": "Sơ đồ quẻ Địa Thiên Thái biến Địa Thủy Sư",
+      "rel_path": "assets/page_0079_img_01.png"
+    },
+    {
+      "id": "fig_43",
+      "figure_number": "43",
+      "caption": "Sơ đồ quẻ Thiên Sơn Độn biến Thiên Phong Cấu",
+      "rel_path": "assets/page_0080_img_01.png"
+    },
+    {
+      "id": "fig_44",
+      "figure_number": "44",
+      "caption": "Quẻ Sơn Địa Bác biến Phong Địa Quan",
+      "rel_path": "assets/page_0081_img_01.png"
+    }
+  ],
+  "exercises": [
+    {
+      "line": 1285,
+      "exercise_id": "vd_040",
+      "title": "Ví dụ 1: Ngày Nhâm Dần tháng Giáp Thìn năm Đinh Sửu, do công ty du lịch thiếu nhân viên, họ nhờ tôi dẫn nhóm du khách ng",
+      "start_page": 76,
+      "end_page": 76
+    },
+    {
+      "line": 1308,
+      "exercise_id": "vd_041",
+      "title": "Ví dụ 2: Ngày Đinh Mão tháng Ất Tị năm Đinh Sửu, một nữ sĩ đoán tài vận, được quẻ Địa Thiên Thái biến Địa Trạch Lâm.",
+      "start_page": 77,
+      "end_page": 77
+    },
+    {
+      "line": 1329,
+      "exercise_id": "vd_042",
+      "title": "Ví dụ 3: Ngày Mậu Tý tháng Giáp Tý năm Mậu Dần, nam đoán tài vận năm Kỷ Mão, đư...",
+      "start_page": 79,
+      "end_page": 79
+    },
+    {
+      "line": 1350,
+      "exercise_id": "vd_043",
+      "title": "Ví dụ 4: Ngày Giáp Thân tháng Bính Ngọ năm Đinh Sửu, một người đàn ông có vợ ma...",
+      "start_page": 80,
+      "end_page": 80
+    },
+    {
+      "line": 1371,
+      "exercise_id": "vd_044",
+      "title": "Ví dụ 5: Ngày Đinh Tị tháng Nhâm Thân năm Kỷ Mão, một người đàn ông có cháu trai xảy ra chuyện, đoán cát hung, được Sơn ",
+      "start_page": 81,
+      "end_page": 81
+    }
+  ],
+  "parent_titles": []
+}
