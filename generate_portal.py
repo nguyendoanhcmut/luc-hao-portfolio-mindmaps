@@ -10,7 +10,7 @@ Zero external CDN dependencies. Zero emojis. Pure inline SVGs.
 import os
 import json
 
-base_dir = r"C:\Users\Admin\.gemini\antigravity\scratch\luc_hao_portfolio_ocr"
+base_dir = os.path.dirname(os.path.abspath(__file__))
 
 BOOK_META = {
     'giai_dap_nghi_van': {
@@ -192,6 +192,86 @@ BOOK_META = {
         'desc': 'Tập hợp các trường hợp chiêm đoán thực tế phản ánh mối liên hệ giữa hành vi con người và kết quả nhận lại.',
         'pages': 252,
         'year': '2018'
+    },
+    'co_the_chan_thuyen_vol01': {
+        'title': 'Cổ Thệ Chân Thuyên – Tập 1: Thông Luận Thiên',
+        'subtitle': '24 chương căn bản dịch lý và lý thuyết Cổ Thệ',
+        'author': 'Chu Thần Bân',
+        'category': 'Cổ Điển Toàn Thư',
+        'category_id': 'classic',
+        'desc': 'Các nguyên lý cốt lõi về Dụng thần, Nguyên thần, Kỵ thần, Nhật Nguyệt kiến, Tuần không và Nguyệt phá.',
+        'pages': 450,
+        'year': '2018'
+    },
+    'co_the_chan_thuyen_vol02': {
+        'title': 'Cổ Thệ Chân Thuyên – Tập 2: Dịch Luận Thiên',
+        'subtitle': '8 chương chuyên sâu luận đoán quẻ',
+        'author': 'Chu Thần Bân',
+        'category': 'Cổ Điển Toàn Thư',
+        'category_id': 'classic',
+        'desc': 'Phương pháp định vị quẻ sự việc, quẻ tâm thái, hào Thế Ứng và phân tích tầng thứ tác động.',
+        'pages': 380,
+        'year': '2018'
+    },
+    'co_the_chan_thuyen_vol03': {
+        'title': 'Cổ Thệ Chân Thuyên – Tập 3: Biến Hóa Thiên',
+        'subtitle': '10 chương cơ chế biến dịch Lục hào',
+        'author': 'Chu Thần Bân',
+        'category': 'Cổ Điển Toàn Thư',
+        'category_id': 'classic',
+        'desc': 'Phân tích Hào động, Biến hào, Tiến thần, Thoái thần, Phản ngâm, Phục ngâm và Tam hợp cục.',
+        'pages': 360,
+        'year': '2018'
+    },
+    'co_the_chan_thuyen_vol04': {
+        'title': 'Cổ Thệ Chân Thuyên – Tập 4: Ứng Kỳ Thiên',
+        'subtitle': '8 chương bí pháp định thời gian ứng nghiệm',
+        'author': 'Chu Thần Bân',
+        'category': 'Cổ Điển Toàn Thư',
+        'category_id': 'classic',
+        'desc': 'Các quy tắc định tính và định lượng thời điểm sự việc ứng nghiệm trong thực tế chiêm đoán.',
+        'pages': 320,
+        'year': '2018'
+    },
+    'co_the_chan_thuyen_vol05': {
+        'title': 'Cổ Thệ Chân Thuyên – Tập 5: Thần Quyết Thiên',
+        'subtitle': '18 chương thần sát và pháp quyết tinh hoa',
+        'author': 'Chu Thần Bân',
+        'category': 'Cổ Điển Toàn Thư',
+        'category_id': 'classic',
+        'desc': 'Tổng hợp các quyết pháp nâng cao, thần sát chiêm nghiệm và tâm pháp giải đoán độc môn của Chu Thần Bân.',
+        'pages': 520,
+        'year': '2018'
+    },
+    'co_the_chan_thuyen_vol06': {
+        'title': 'Cổ Thệ Chân Thuyên – Tập 6: Thực Chiến Biên 1',
+        'subtitle': '55 ca thực chiến kinh điển đầu tiên (Thực chiến 1 - 55)',
+        'author': 'Chu Thần Bân',
+        'category': 'Cổ Điển Toàn Thư',
+        'category_id': 'classic',
+        'desc': '55 ca thực chiến có đầy đủ ảnh crop bảng quẻ, luận giải Dụng thần, tầng thứ động biến và phản hồi thực tế.',
+        'pages': 490,
+        'year': '2018'
+    },
+    'co_the_chan_thuyen_vol07': {
+        'title': 'Cổ Thệ Chân Thuyên – Tập 7: Thực Chiến Biên 2',
+        'subtitle': '73 ca thực chiến chuyên sâu (Thực chiến 56 - 128)',
+        'author': 'Chu Thần Bân',
+        'category': 'Cổ Điển Toàn Thư',
+        'category_id': 'classic',
+        'desc': '73 ca thực chiến y tế, hôn nhân, thăng tiến và kiện tụng kèm 100% ảnh crop quẻ và tâm pháp thực tiễn.',
+        'pages': 540,
+        'year': '2018'
+    },
+    'co_the_chan_thuyen_vol08': {
+        'title': 'Cổ Thệ Chân Thuyên – Tập 8: Thực Chiến Biên 3',
+        'subtitle': '67 ca thực chiến cao cấp (Thực chiến 129 - 196)',
+        'author': 'Chu Thần Bân',
+        'category': 'Cổ Điển Toàn Thư',
+        'category_id': 'classic',
+        'desc': '67 ca thực chiến tài chính, cổ phiếu và giải quyết vấn đề nan giải (trừ ca 173 khuyết số nguyên tác).',
+        'pages': 510,
+        'year': '2018'
     }
 }
 
@@ -229,7 +309,7 @@ for slug in sorted(BOOK_META.keys()):
         "nodes": node_cnt,
         "html_url": f"{slug}/{slug}_branches.html",
         "md_url": f"{slug}/{slug}_branches.md",
-        "full_url": f"{slug}/{slug}_full.md"
+        "full_url": f"{slug}/{slug}_full.md" if os.path.exists(os.path.join(book_dir, f"{slug}_full.md")) else f"{slug}/{slug}_branches.md"
     })
 
 # Compute category counts
@@ -266,8 +346,8 @@ html_template = f"""<!DOCTYPE html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ĐẠI TOÀN THƯ LỤC HÀO &bull; DÃ HẠC &amp; VƯƠNG HỔ ỨNG</title>
-  <meta name="description" content="Thư viện 18 cuốn sách Lục Hào của Dã Hạc và Vương Hổ Ứng dạng sơ đồ cây. Tra cứu nhanh 3.619 hình vẽ quẻ, 4.461 trang bản in và 104.141 nút sơ đồ.">
+  <title>ĐẠI TOÀN THƯ LỤC HÀO &bull; DÃ HẠC &bull; VƯƠNG HỔ ỨNG &bull; CHU THẦN BÂN</title>
+  <meta name="description" content="Thư viện {len(books_list)} cuốn sách Lục Hào của Dã Hạc, Vương Hổ Ứng và Chu Thần Bân dạng sơ đồ cây. Tra cứu nhanh {total_figures:,} hình vẽ quẻ, {total_pages:,} trang bản in và {total_nodes:,} nút sơ đồ.">
   <style>
     /* Reset and Base Styles */
     *, *::before, *::after {{
@@ -1248,8 +1328,8 @@ html_template = f"""<!DOCTYPE html>
           </svg>
         </div>
         <div class="brand-titles">
-          <h1>ĐẠI TOÀN THƯ LỤC HÀO &bull; DÃ HẠC &amp; VƯƠNG HỔ ỨNG</h1>
-          <p>Thư viện 18 cuốn sách Lục Hào của Dã Hạc và Vương Hổ Ứng dạng sơ đồ cây</p>
+          <h1>ĐẠI TOÀN THƯ LỤC HÀO &bull; DÃ HẠC &bull; VƯƠNG HỔ ỨNG &bull; CHU THẦN BÂN</h1>
+          <p>Thư viện {len(books_list)} cuốn sách Lục Hào của Dã Hạc, Vương Hổ Ứng và Chu Thần Bân dạng sơ đồ cây</p>
         </div>
       </div>
 
@@ -1270,11 +1350,11 @@ html_template = f"""<!DOCTYPE html>
         <div class="hero-text">
           <div class="seal-pill">
             <span class="pulse-seal-dot"></span>
-            <span>Đối chiếu trực tiếp 4.461 trang bản in gốc &bull; 3.619 hình vẽ quẻ</span>
+            <span>Đối chiếu trực tiếp {total_pages:,} trang bản in gốc &bull; {total_figures:,} hình vẽ quẻ</span>
           </div>
-          <h2>Tra Cứu 18 Cuốn Sách Lục Hào <span class="accent">Của Dã Hạc Và Vương Hổ Ứng</span></h2>
+          <h2>Tra Cứu {len(books_list)} Cuốn Sách Lục Hào <span class="accent">Dã Hạc, Vương Hổ Ứng &amp; Chu Thần Bân</span></h2>
           <p class="lead">
-            Bộ tư liệu gồm 18 cuốn sách Lục Hào đã được quét, hiệu đính và chuyển thành sơ đồ cây Markmap. Bạn có thể tra cứu nhanh từng quẻ, xem hình minh họa gốc và đọc lại nguyên văn bản in.
+            Bộ tư liệu gồm {len(books_list)} cuốn sách Lục Hào đã được quét, hiệu đính và chuyển thành sơ đồ cây Markmap. Bạn có thể tra cứu nhanh từng quẻ, xem hình minh họa gốc và đọc lại nguyên văn bản in.
           </p>
         </div>
 
@@ -1388,7 +1468,7 @@ html_template = f"""<!DOCTYPE html>
     <!-- Footer -->
     <footer class="site-footer">
       <div>
-        Thư viện tra cứu Lục Hào &bull; Biên soạn từ tư liệu của Dã Hạc và Vương Hổ Ứng
+        Thư viện tra cứu Lục Hào &bull; Biên soạn từ tư liệu của Dã Hạc, Vương Hổ Ứng và Chu Thần Bân
       </div>
       <div>
         Tra cứu nhanh dạng sơ đồ cây kết hợp bản in gốc
